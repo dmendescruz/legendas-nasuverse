@@ -1,15 +1,21 @@
-# Acervo de Localização do Nasuverse em Português Brasileiro
-### Edição de Alta Fidelidade para *The Garden of Sinners* e *Fate/stay night [Unlimited Blade Works]*
+# Legendas do Nasuverse em Português Brasileiro (PT-BR)
+### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners* e *Fate/stay night [Unlimited Blade Works]*
+
+> **Este repositório reúne arquivos de legendas em português brasileiro (.ass estilizado e .srt limpo) prontos para download e uso em reprodutores de vídeo (VLC, MPV) e servidores de mídia (Jellyfin, Plex, Emby).**  
+> Todas as faixas foram sincronizadas e revisadas com base nos lançamentos definitivos em Blu-ray (BD-Rip), cobrindo episódios estendidos e cenas adicionais ausentes das transmissões de TV.
 
 ---
 
-## Sobre o Projeto
+## O que é este repositório?
 
-As obras de Kinoko Nasu e da Type-Moon são conhecidas pela prosa introspectiva, pelo debate filosófico sobre a condição humana e por um sistema de magia rigorosamente estruturado. Quando o estúdio ufotable adaptou *The Garden of Sinners* (*Kara no Kyoukai*) para o cinema e *Fate/stay night [Unlimited Blade Works]* para a televisão, a proposta visual exigiu um cuidado correspondente na forma como os textos, pensamentos e termos conceituais são apresentados em tela.
+Este repositório disponibiliza e organiza **arquivos de legendas em português do Brasil** para obras selecionadas do Nasuverse (Type-Moon / estúdio ufotable).
 
-Este projeto nasceu da vontade de oferecer uma experiência de leitura completa, consistente e respeitosa em português brasileiro, alinhada às edições masterizadas em Blu-ray e à terminologia estabelecida pelas *visual novels* originais. 
+As obras de Kinoko Nasu combinam diálogos introspectivos, dilemas conceituais e um sistema rigoroso de regras mágicas. Com o lançamento das versões definitivas em Blu-ray, diversos filmes de *The Garden of Sinners* (*Kara no Kyoukai*) e episódios de *Fate/stay night [Unlimited Blade Works]* ganharam minutos adicionais de diálogos, mudanças de montagem e ritmo estendido.
 
-Com a transição dos formatos de transmissão televisiva para os lançamentos definitivos em mídia física, muitos episódios e filmes receberam minutos adicionais de diálogos, mudanças de ritmo e montagens estendidas. Este acervo reúne e consolida essas obras com tradução integral de todas as cenas, sincronia precisa com os áudios japoneses e tratamento visual dedicado para cada fala e placa em tela.
+O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses problemas práticos:
+* **Sincronia precisa:** Feita diretamente sobre as trilhas de áudio dos Blu-rays japoneses, incluindo todas as cenas estendidas.
+* **Fidelidade terminológica:** Respeito aos termos canônicos consagrados pela Type-Moon e pelas *visual novels*.
+* **Padrão duplo de formato:** Arquivos `.ass` com tipografia estilizada para reprodutores compatíveis e `.srt` universal para reprodução direta (*direct play*) em Smart TVs.
 
 ---
 
@@ -94,10 +100,17 @@ Diferente das transmissões de TV, as versões em Blu-ray contêm montagens este
 
 ---
 
-## Como Utilizar
+## Como Baixar e Utilizar
 
-### Estrutura de Nomes para Servidores de Mídia
-Para que reprodutores como Jellyfin, Plex, Emby ou Kodi identifiquem automaticamente as faixas com o idioma e a prioridade corretos, mantenha o arquivo de legenda no mesmo diretório do vídeo, compartilhando o mesmo nome base:
+### 1. Como Baixar
+* **Repositório Completo:** Clique no botão verde `< > Code` no topo da página e selecione **Download ZIP**, ou clone o repositório via terminal:
+  ```bash
+  git clone https://github.com/dmendescruz/legendas-nasuverse.git
+  ```
+* **Episódio ou Filme Específico:** Navegue pelas pastas `the-garden-of-sinners/` ou `fate-stay-night-unlimited-blade-works/`, clique no arquivo desejado (`.ass` ou `.srt`) e use o botão **Download raw file**.
+
+### 2. Estrutura de Pastas e Nomes (Jellyfin, Plex, Emby)
+Para que servidores e reprodutores identifiquem automaticamente as legendas com idioma e prioridade corretos, coloque o arquivo de legenda no mesmo diretório do arquivo de vídeo, mantendo exatamente o mesmo nome base:
 
 ```text
 📁 Series/Fate+Stay Night - Unlimited Blade Works (2014)/
