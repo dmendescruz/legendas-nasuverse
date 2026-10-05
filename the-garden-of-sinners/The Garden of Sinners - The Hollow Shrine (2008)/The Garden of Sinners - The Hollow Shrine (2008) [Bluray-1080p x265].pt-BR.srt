@@ -1,0 +1,1292 @@
+1
+00:00:49,860 --> 00:00:50,620
+Estou abrindo agora!
+
+2
+00:01:00,980 --> 00:01:01,710
+Qual é o quadro da paciente?
+
+3
+00:01:01,710 --> 00:01:03,840
+Nível de consciência 3 na escala JCS.
+
+4
+00:01:03,840 --> 00:01:06,110
+Pressão arterial em 60, confirmada por palpação.
+
+5
+00:01:01,710 --> 00:01:06,110
+Nota: JCS é a Escala de Coma do Japão.
+
+6
+00:01:06,110 --> 00:01:08,870
+Preparem uma linha de transfusão e o monitor de ECG.
+
+7
+00:01:08,870 --> 00:01:09,370
+Vou realizar a massagem cardíaca externa.
+
+8
+00:01:09,370 --> 00:01:12,130
+Entendido.
+
+9
+00:01:12,130 --> 00:01:15,540
+Vitamina C intravenosa e dexametasona preparados.
+
+10
+00:01:20,990 --> 00:01:22,690
+Ventilação artificial em andamento.
+
+11
+00:01:26,030 --> 00:01:27,240
+Linha de transfusão estabelecida.
+
+12
+00:01:27,240 --> 00:01:28,270
+Certo, vou iniciar o procedimento.
+
+13
+00:01:28,270 --> 00:01:30,860
+Mais sucção!
+
+14
+00:01:30,860 --> 00:01:32,000
+Sim, doutor.
+
+15
+00:01:32,000 --> 00:01:32,660
+A pressão arterial continua caindo!
+
+16
+00:01:35,030 --> 00:01:37,810
+Sem pulso carotídeo palpável!
+
+17
+00:01:37,810 --> 00:01:40,460
+Fibrilação ventricular confirmada no monitor!
+
+18
+00:01:41,410 --> 00:01:42,850
+Carreguem o desfibrilador em 200 joules!
+
+19
+00:01:42,850 --> 00:01:44,310
+Afastem-se todos!
+
+20
+00:01:44,310 --> 00:01:44,540
+Disparar!
+
+21
+00:01:44,540 --> 00:01:46,160
+Carreguem em 300 joules!
+
+22
+00:01:46,160 --> 00:01:46,630
+Afastem-se!
+
+23
+00:01:46,630 --> 00:01:47,590
+Disparar!
+
+24
+00:01:47,590 --> 00:01:49,070
+O ritmo cardíaco voltou...
+
+25
+00:04:03,090 --> 00:04:07,100
+Ela está viva.
+
+26
+00:04:15,360 --> 00:04:18,360
+Mas o coma é profundo.
+
+27
+00:05:14,440 --> 00:05:16,800
+É um milagre ela ter sobrevivido a um choque desses.
+
+28
+00:05:16,800 --> 00:05:19,300
+A colisão contra aquele caminhão deveria ter sido fatal.
+
+29
+00:05:33,890 --> 00:05:36,370
+A partir de agora, é uma questão de tempo...
+
+30
+00:05:36,370 --> 00:05:39,080
+Não sabemos se ela algum dia voltará a acordar.
+
+31
+00:05:40,280 --> 00:05:42,010
+Dois anos...
+
+32
+00:05:42,010 --> 00:05:43,600
+Já faz dois anos completos.
+
+33
+00:05:43,600 --> 00:05:46,390
+Ela continua dormindo serenamente.
+
+34
+00:05:47,850 --> 00:05:48,910
+Flores frescas toda semana...
+
+35
+00:05:49,540 --> 00:05:52,310
+Aquele rapaz de óculos é incrivelmente dedicado.
+
+36
+00:05:52,310 --> 00:05:54,730
+Ele nunca falha um único sábado.
+
+37
+00:05:54,730 --> 00:05:57,990
+Será que ele é o namorado dela?
+
+38
+00:05:57,990 --> 00:06:02,930
+Ou talvez um amigo de infância?
+
+39
+00:06:02,930 --> 00:06:04,400
+Seja o que for, a lealdade dele é comovente.
+
+40
+00:06:04,400 --> 00:06:09,680
+Se eu estivesse em coma, gostaria de ter alguém assim ao meu lado.
+
+41
+00:06:11,360 --> 00:06:13,940
+Deixo isso para a sua imaginação.
+
+42
+00:07:43,360 --> 00:07:45,320
+Escuridão...
+
+43
+00:08:23,540 --> 00:08:24,620
+Ai, meu Deus!
+
+44
+00:08:25,810 --> 00:08:30,560
+Doutor, venha cá! Venha depressa! A Ryougi-san... Ela...
+
+45
+00:08:32,910 --> 00:08:35,590
+Ryougi-san, como você se sente?
+
+46
+00:08:36,220 --> 00:08:38,920
+Está sentindo dor em algum lugar?
+
+47
+00:08:39,310 --> 00:08:41,810
+Consegue me ouvir?
+
+48
+00:08:41,810 --> 00:08:46,950
+Aperte a minha mão se estiver me ouvindo.
+
+49
+00:08:46,950 --> 00:08:49,120
+Os reflexos pupilares estão normais.
+
+50
+00:08:51,370 --> 00:08:54,930
+Mas ela não esboça nenhuma reação verbal.
+
+51
+00:08:54,930 --> 00:08:57,590
+Por enquanto, entraremos em contato com a sua família.
+
+52
+00:09:18,100 --> 00:09:19,560
+Senhorita Ryougi, a senhorita esteve dormindo por dois anos inteiros.
+
+53
+00:09:22,530 --> 00:09:25,500
+É natural que o seu corpo esteja enfraquecido e sem forças.
+
+54
+00:09:27,420 --> 00:09:32,170
+Não tente se forçar.
+
+55
+00:09:32,170 --> 00:09:36,180
+O que foi isso?!
+
+56
+00:09:48,390 --> 00:09:50,280
+Ela arrancou os tubos!
+
+57
+00:09:50,970 --> 00:09:54,280
+Segurem ela! Segurem os braços dela!
+
+58
+00:09:54,280 --> 00:09:58,290
+Ela está tentando machucar os próprios olhos!
+
+59
+00:09:58,290 --> 00:10:02,540
+Sedativo, rápido!
+
+60
+00:10:02,540 --> 00:10:06,550
+Calma, Ryougi-san! Por favor, acalme-se!
+
+61
+00:10:07,120 --> 00:10:09,180
+Linhas...
+
+62
+00:10:09,180 --> 00:10:11,210
+Tudo está cheio de linhas...
+
+63
+00:10:11,210 --> 00:10:13,880
+A morte... está em todo lugar...
+
+64
+00:10:13,880 --> 00:10:18,310
+Tirem isso de mim...
+
+65
+00:10:18,760 --> 00:10:22,810
+Tirem isso dos meus olhos!
+
+66
+00:10:22,810 --> 00:10:25,040
+Ela teve um surto psicótico agudo ao acordar.
+
+67
+00:10:25,040 --> 00:10:29,070
+Tivemos que aplicar ataduras sobre os olhos dela para evitar que se automutilasse.
+
+68
+00:10:40,720 --> 00:10:43,370
+Ela se recusa terminantemente a falar ou a comer.
+
+69
+00:10:43,370 --> 00:10:46,420
+Os exames neurológicos não revelam danos nas áreas da fala,
+
+70
+00:10:54,270 --> 00:10:57,300
+mas ela simplesmente se fechou em um silêncio absoluto.
+
+71
+00:11:00,210 --> 00:11:05,550
+Entendo. Uma afasia de ordem psicológica, talvez?
+
+72
+00:11:07,470 --> 00:11:12,390
+Acredito que sim. Por isso solicitamos os seus serviços de fonoaudiologia e aconselhamento.
+
+73
+00:11:12,390 --> 00:11:14,730
+Pode deixar comigo.
+
+74
+00:11:14,730 --> 00:11:18,330
+Tenho bastante experiência com casos... peculiares.
+
+75
+00:11:20,540 --> 00:11:24,810
+Com licença.
+
+76
+00:11:26,830 --> 00:11:30,810
+Então você é a famosa Ryougi Shiki.
+
+77
+00:11:30,810 --> 00:11:32,140
+Muito prazer. Meu nome é Touko Aozaki.
+
+78
+00:11:34,320 --> 00:11:36,340
+Fui contratada formalmente como sua terapeuta da fala.
+
+79
+00:11:36,840 --> 00:11:39,510
+Embora eu prefira pensar em mim mesma como uma ouvinte curiosa.
+
+80
+00:11:39,510 --> 00:11:43,530
+Não precisa me olhar desse jeito tão desconfiado.
+
+81
+00:11:44,100 --> 00:11:46,800
+Mas a culpa também é sua, sabia?
+
+82
+00:11:46,800 --> 00:11:48,860
+Afinal de contas, você sofreu um choque cerebral violentíssimo naquele acidente.
+
+83
+00:11:49,490 --> 00:11:52,860
+As pessoas naturalmente acharão que você perdeu a fala se ficar sem dizer uma palavra por tanto tempo.
+
+84
+00:11:53,340 --> 00:11:55,910
+E só para você saber exatamente por que estou aqui...
+
+85
+00:11:55,910 --> 00:11:58,560
+Bem, vai ser uma longa história se eu começar desde o princípio...
+
+86
+00:12:01,190 --> 00:12:04,970
+Ufa, essa passou perto. Quase perdi o emprego um minuto depois de começar.
+
+87
+00:12:06,450 --> 00:12:07,860
+Você tem um visitante assíduo, sabia?
+
+88
+00:12:07,860 --> 00:12:09,110
+Aquele garoto de óculos.
+
+89
+00:12:09,110 --> 00:12:10,960
+Ele vem aqui todos os finais de semana sem exceção trazer flores novas.
+
+90
+00:12:12,240 --> 00:12:14,970
+Parece que vocês se conhecem desde o colégio.
+
+91
+00:12:16,070 --> 00:12:17,970
+Ele é um rapaz muito gentil... quase ingênuo de tão transparente.
+
+92
+00:12:19,060 --> 00:12:24,360
+Mikiya Kokutou.
+
+93
+00:12:24,360 --> 00:12:27,480
+Você se lembra dele, não se lembra?
+
+94
+00:12:27,480 --> 00:12:28,980
+Ele quase chorou de alívio quando soube que você finalmente havia acordado.
+
+95
+00:12:30,050 --> 00:12:36,200
+Mas os médicos o proibiram de visitá-la por enquanto, devido ao seu estado instável.
+
+96
+00:12:38,440 --> 00:12:42,450
+Ele ficou desolado, mas concordou em esperar pacientemente.
+
+97
+00:12:42,450 --> 00:12:44,460
+Você tem sorte de ter alguém assim.
+
+98
+00:13:07,660 --> 00:13:09,560
+Na verdade, sorte até demais.
+
+99
+00:13:10,560 --> 00:13:12,750
+Ei, você não vai dizer nada mesmo?
+
+100
+00:13:12,750 --> 00:13:14,820
+Não vai nem me mandar calar a boca?
+
+101
+00:13:16,370 --> 00:13:18,150
+Brrr, que frio que está aqui dentro.
+
+102
+00:13:18,980 --> 00:13:20,070
+O verão finalmente chegou, mas este quarto parece um necrotério.
+
+103
+00:13:23,870 --> 00:13:25,700
+Essa sensação não vem do ambiente físico, vem de você.
+
+104
+00:13:42,240 --> 00:13:47,470
+Você está emitindo um ar gélido de morte por todos os poros.
+
+105
+00:13:56,630 --> 00:14:00,240
+O que foi que você viu quando abriu os olhos pela primeira vez?
+
+106
+00:14:04,430 --> 00:14:06,330
+Por que tentou cegar a si mesma com tanta fúria?
+
+107
+00:14:07,480 --> 00:14:08,830
+Você não precisa ter medo de falar comigo.
+
+108
+00:14:11,300 --> 00:14:12,270
+Ao contrário desses médicos, eu sei exatamente o que você é.
+
+109
+00:15:09,180 --> 00:15:10,430
+E sei o que está acontecendo por trás dessas ataduras.
+
+110
+00:16:09,130 --> 00:16:11,700
+Você não é cega.
+
+111
+00:16:12,990 --> 00:16:15,330
+Você está enxergando longe demais.
+
+112
+00:16:16,160 --> 00:16:19,460
+Está enxergando coisas que os olhos humanos jamais foram feitos para contemplar.
+
+113
+00:16:25,130 --> 00:16:28,360
+Não é verdade?
+
+114
+00:16:28,360 --> 00:16:29,550
+Quem é você...?
+
+115
+00:16:36,340 --> 00:16:40,890
+Ora, finalmente resolveu falar.
+
+116
+00:16:41,670 --> 00:16:46,150
+Sua voz é mais suave do que eu imaginava.
+
+117
+00:16:47,870 --> 00:16:49,660
+Eu já disse: sou Touko Aozaki.
+
+118
+00:16:50,400 --> 00:16:55,640
+Uma maga... ou, no papel oficial deste hospital, uma terapeuta de linguagem.
+
+119
+00:16:55,640 --> 00:16:57,680
+O que você quer de mim?
+
+120
+00:16:57,680 --> 00:17:00,760
+Nada em especial. Apenas curiosidade científica e uma pitada de simpatia.
+
+121
+00:17:01,450 --> 00:17:04,130
+Eu não preciso da sua simpatia.
+
+122
+00:17:05,270 --> 00:17:10,160
+Vá embora.
+
+123
+00:17:10,160 --> 00:17:14,290
+Não posso fazer isso. Sou paga por hora, sabia?
+
+124
+00:17:14,290 --> 00:17:17,430
+E a sua família é bastante generosa quando o assunto é o seu bem-estar.
+
+125
+00:17:18,070 --> 00:17:21,440
+Embora eu ache que o dinheiro deles seja um tanto amaldiçoado.
+
+126
+00:17:23,640 --> 00:17:26,400
+O clã Ryougi...
+
+127
+00:17:26,400 --> 00:17:29,120
+Uma linhagem arcaica de exterminadores de demônios.
+
+128
+00:17:29,120 --> 00:17:32,200
+Eles criam recipientes humanos capazes de abrigar duas almas distintas.
+
+129
+00:17:32,760 --> 00:17:37,880
+Uma personalidade para o yin, e outra para o yang.
+
+130
+00:17:39,020 --> 00:17:43,500
+Mas você perdeu a outra metade, não perdeu?
+
+131
+00:17:50,780 --> 00:17:54,930
+O outro Shiki...
+
+132
+00:17:57,600 --> 00:18:03,640
+O SHIKI masculino não está mais com você.
+
+133
+00:18:04,970 --> 00:18:10,450
+Ele morreu naquele acidente de dois anos atrás.
+
+134
+00:18:10,450 --> 00:18:13,400
+Cale-se...
+
+135
+00:18:20,230 --> 00:18:23,360
+Ele morreu para salvar você.
+
+136
+00:18:24,470 --> 00:18:29,170
+E agora restou apenas você... sozinha dentro desta casca.
+
+137
+00:18:29,860 --> 00:18:32,180
+Ele se foi...
+
+138
+00:18:32,950 --> 00:18:38,180
+O SHIKI se foi para sempre...
+
+139
+00:18:39,660 --> 00:18:41,310
+E deixou um imenso buraco negro no meu peito.
+
+140
+00:18:42,480 --> 00:18:46,310
+Eu não sei quem eu sou.
+
+141
+00:18:47,590 --> 00:18:49,050
+Ela tem que construir um novo eu para si mesma,
+
+142
+00:18:49,050 --> 00:18:53,070
+não usando as suas memórias passadas, mas acumulando experiências no presente.
+
+143
+00:18:53,070 --> 00:18:58,080
+Esta é a construção de um santuário... uma tarefa na qual ninguém mais pode ajudá-la.
+
+144
+00:18:58,770 --> 00:19:04,330
+Em outras palavras: significa apenas que você deve interagir com ela da mesma forma que fazia até agora.
+
+145
+00:19:06,470 --> 00:19:13,800
+Sim, agora que ele se perdeu, você não poderá recuperar as memórias que perdeu com ele.
+
+146
+00:19:14,670 --> 00:19:19,920
+A verdade sobre o quanto Ryougi Shiki estava relacionada aos assassinatos de dois anos atrás
+
+147
+00:19:19,920 --> 00:19:23,590
+morreu junto com o SHIKI.
+
+148
+00:19:25,690 --> 00:19:29,840
+Ninguém jamais saberá.
+
+149
+00:19:29,840 --> 00:19:30,860
+Nem mesmo você.
+
+150
+00:19:30,860 --> 00:19:37,090
+Por que ele se foi?
+
+151
+00:19:37,090 --> 00:19:40,870
+Por que ele escolheu desaparecer por vontade própria?
+
+152
+00:19:41,660 --> 00:19:45,070
+Porque ele te amava, Shiki.
+
+153
+00:19:45,070 --> 00:19:47,670
+Ele era a metade impulsiva e destrutiva.
+
+154
+00:19:47,670 --> 00:19:51,530
+Se continuasse vivo, ele inevitavelmente te arrastaria para a autodestruição.
+
+155
+00:19:53,650 --> 00:19:56,790
+Ele preferiu morrer para que você pudesse viver.
+
+156
+00:19:57,620 --> 00:19:59,640
+Mas agora a sua mente é como um santuário vazio.
+
+157
+00:20:00,300 --> 00:20:03,390
+Um templo deserto e sem divindade dentro.
+
+158
+00:20:03,390 --> 00:20:07,620
+E você sabe o que acontece com templos abandonados?
+
+159
+00:20:07,620 --> 00:20:08,900
+Eles atraem espíritos errantes.
+
+160
+00:20:08,900 --> 00:20:12,610
+Criaturas impuras que buscam desesperadamente um abrigo para habitar.
+
+161
+00:20:14,220 --> 00:20:16,270
+Você sente a presença deles à noite, não sente?
+
+162
+00:20:19,840 --> 00:20:22,030
+Eles sussurram ao pé da sua cama.
+
+163
+00:20:26,740 --> 00:20:32,450
+Eles querem devorar o que restou de você.
+
+164
+00:21:39,330 --> 00:21:43,700
+E essas linhas...
+
+165
+00:21:43,700 --> 00:21:47,650
+Essas linhas pretas que você vê por toda parte.
+
+166
+00:21:47,650 --> 00:21:49,540
+Tire as ataduras.
+
+167
+00:21:51,610 --> 00:21:57,090
+Não! Não vou tirar!
+
+168
+00:21:53,470 --> 00:21:54,740
+Se eu olhar... eu vou enlouquecer!
+
+169
+00:21:57,630 --> 00:21:58,720
+Tudo tem rachaduras! As paredes, os móveis, as pessoas!
+
+170
+00:21:59,770 --> 00:22:00,530
+Basta um leve toque para que tudo se desfaça em pedaços!
+
+171
+00:22:04,970 --> 00:22:06,430
+Isso não é loucura, Shiki.
+
+172
+00:22:07,720 --> 00:22:12,170
+Isso é a morte.
+
+173
+00:22:22,280 --> 00:22:26,060
+Você esteve conectada à Raiz da Existência durante os dois anos em que esteve em coma.
+
+174
+00:22:26,910 --> 00:22:27,670
+A sua consciência tocou a fonte primordial de todas as coisas.
+
+175
+00:22:28,110 --> 00:22:30,750
+E quando você voltou para este lado, os seus olhos permaneceram sintonizados com o fim.
+
+176
+00:22:34,820 --> 00:22:36,350
+Você agora enxerga a fragilidade intrínseca da matéria.
+
+177
+00:22:42,810 --> 00:22:48,780
+Os Olhos Místicos de Percepção da Morte.
+
+178
+00:22:48,780 --> 00:22:54,320
+Uma capacidade lendária que muitos magos passariam milênios tentando obter.
+
+179
+00:22:56,170 --> 00:22:58,140
+E você a recebeu de presente.
+
+180
+00:23:00,700 --> 00:23:02,520
+Eu não quero isso!
+
+181
+00:23:02,520 --> 00:23:03,400
+Eu só quero que tudo isso pare!
+
+182
+00:23:03,810 --> 00:23:05,210
+Arrancar os próprios olhos não vai adiantar nada.
+
+183
+00:23:06,920 --> 00:23:10,470
+Mesmo se você ficar cega, a sua mente continuará enxergando as linhas.
+
+184
+00:23:12,850 --> 00:23:15,590
+O circuito já foi gravado no seu cérebro.
+
+185
+00:23:15,590 --> 00:23:21,930
+A única saída é aprender a controlar essa visão.
+
+186
+00:23:23,410 --> 00:23:28,540
+E aceitar a sua própria natureza.
+
+187
+00:23:29,180 --> 00:23:34,190
+Eu não sou uma assassina...
+
+188
+00:23:34,190 --> 00:23:37,270
+Não tente bancar a inocente.
+
+189
+00:23:37,270 --> 00:23:40,150
+Você nasceu com essa aptidão.
+
+190
+00:23:42,180 --> 00:23:45,990
+E agora terá que utilizá-la se quiser continuar viva.
+
+191
+00:23:53,600 --> 00:23:57,130
+Eles estão vindo.
+
+192
+00:23:57,840 --> 00:24:00,630
+Quem?!
+
+193
+00:24:01,240 --> 00:24:05,950
+Os mortos deste hospital.
+
+194
+00:24:07,890 --> 00:24:11,390
+As almas penadas que vagam pelos corredores escuros.
+
+195
+00:24:13,010 --> 00:24:14,890
+Eles perceberam que o seu santuário está desprotegido.
+
+196
+00:24:15,430 --> 00:24:20,320
+Esta noite, eles virão reivindicar o seu corpo.
+
+197
+00:24:20,320 --> 00:24:23,900
+E você terá que fazer uma escolha.
+
+198
+00:24:24,490 --> 00:24:26,240
+Morrer como uma carcaça roubada por espectros,
+
+199
+00:24:26,700 --> 00:24:31,370
+ou abrir os olhos e cortar a morte deles fora.
+
+200
+00:24:31,800 --> 00:24:36,120
+A decisão é sua.
+
+201
+00:24:36,640 --> 00:24:41,750
+Você está apenas andando na corda bamba do limite, incapaz de escolher entre a vida ou a morte.
+
+202
+00:24:42,810 --> 00:24:45,260
+É natural que a sua mente tenha se tornado um santuário desolado.
+
+203
+00:24:46,370 --> 00:24:48,220
+Como você pode falar com tanta arrogância, agindo como se soubesse de tudo?!
+
+204
+00:24:52,740 --> 00:24:57,140
+Viu alguma coisa? Você está cheia de brechas; por isso se perturba com um contato tão breve.
+
+205
+00:24:58,000 --> 00:25:03,970
+Do ponto de vista dos espíritos errantes deste hospital, o seu corpo é um receptáculo de primeira classe.
+
+206
+00:25:03,970 --> 00:25:07,650
+A menos que abra os seus olhos, você será possuída por eles e morrerá.
+
+207
+00:25:08,270 --> 00:25:09,730
+Eu deixei uma faca sobre a mesinha de cabeceira.
+
+208
+00:25:10,570 --> 00:25:14,470
+Use-a se quiser sobreviver.
+
+209
+00:25:16,250 --> 00:25:17,410
+Touko!
+
+210
+00:25:19,750 --> 00:25:22,820
+Boa sorte, Shiki.
+
+211
+00:25:22,820 --> 00:25:24,500
+Espero que amanhã você ainda seja você mesma.
+
+212
+00:25:28,420 --> 00:25:33,930
+Ela foi embora...
+
+213
+00:25:46,180 --> 00:25:50,560
+Que mulher mais insuportável.
+
+214
+00:26:11,880 --> 00:26:14,760
+A faca...
+
+215
+00:26:36,290 --> 00:26:39,840
+Uma adaga afiada.
+
+216
+00:26:39,840 --> 00:26:43,120
+O que foi isso?!
+
+217
+00:26:43,120 --> 00:26:46,620
+A luz... a luz do quarto apagou!
+
+218
+00:26:47,900 --> 00:26:52,000
+A maçaneta da porta...
+
+219
+00:26:53,480 --> 00:26:59,300
+Tem alguém girando a maçaneta do lado de fora...
+
+220
+00:28:02,060 --> 00:28:07,090
+O ar ficou denso demais.
+
+221
+00:28:13,010 --> 00:28:14,220
+Um cheiro insuportável de terra úmida e podridão...
+
+222
+00:28:15,560 --> 00:28:20,180
+Eles entraram...
+
+223
+00:28:20,180 --> 00:28:24,180
+Cadáveres... espectros ambulantes...
+
+224
+00:28:24,180 --> 00:28:27,730
+Dê para nós...
+
+225
+00:28:29,770 --> 00:28:34,740
+Dê o seu corpo para nós...
+
+226
+00:28:59,090 --> 00:29:00,230
+Tão jovem... tão viva...
+
+227
+00:29:28,430 --> 00:29:31,770
+Nós sentimos tanto frio...
+
+228
+00:29:31,770 --> 00:29:34,130
+Deixe-nos entrar no seu santuário...
+
+229
+00:29:35,210 --> 00:29:36,800
+Não se aproximem!
+
+230
+00:29:37,310 --> 00:29:40,780
+Fiquem longe de mim!
+
+231
+00:29:40,780 --> 00:29:43,220
+As mãos deles... são como garras congeladas!
+
+232
+00:29:50,150 --> 00:29:53,270
+Estão me sufocando...
+
+233
+00:29:53,780 --> 00:29:55,550
+Eu não consigo respirar...
+
+234
+00:29:55,550 --> 00:29:57,780
+Eu vou morrer...?
+
+235
+00:29:58,690 --> 00:29:59,610
+É assim que tudo termina?
+
+236
+00:30:01,780 --> 00:30:04,160
+Sendo devorada por lixo deste tipo?!
+
+237
+00:30:14,680 --> 00:30:18,170
+Não...
+
+238
+00:30:22,930 --> 00:30:25,000
+Eu me recuso!
+
+239
+00:30:25,000 --> 00:30:26,930
+O SHIKI morreu para que eu vivesse!
+
+240
+00:30:27,900 --> 00:30:30,960
+Eu não vou deixar a morte dele ser em vão!
+
+241
+00:30:30,960 --> 00:30:32,940
+As ataduras...
+
+242
+00:30:33,520 --> 00:30:37,820
+Eu vou arrancar estas ataduras!
+
+243
+00:30:37,820 --> 00:30:43,660
+Olhos Místicos de Percepção da Morte...
+
+244
+00:30:43,660 --> 00:30:46,990
+Se vocês estão aí... me mostrem o fim dessas coisas!
+
+245
+00:30:47,800 --> 00:30:52,660
+Eu vejo...
+
+246
+00:30:52,660 --> 00:30:53,830
+Eu vejo com clareza absoluta!
+
+247
+00:30:54,530 --> 00:30:59,040
+As linhas pretas... as linhas de corte fatal que entrelaçam esses monstros!
+
+248
+00:30:59,040 --> 00:30:59,710
+Mesmo que sejam espíritos... se eles têm existência, eles podem morrer!
+
+249
+00:31:08,760 --> 00:31:11,770
+E se podem morrer, eu posso matá-los!
+
+250
+00:31:52,050 --> 00:31:52,890
+Desapareçam do meu quarto!!
+
+251
+00:32:02,580 --> 00:32:03,830
+Está no meu caminho...
+
+252
+00:32:22,010 --> 00:32:24,510
+Um corte...
+
+253
+00:32:25,510 --> 00:32:28,090
+Apenas um traço ao longo da linha... e a forma espiritual se desintegra!
+
+254
+00:33:01,420 --> 00:33:04,100
+Não há sangue, não há resistência.
+
+255
+00:33:19,300 --> 00:33:21,440
+A própria existência deles é simplesmente cancelada.
+
+256
+00:33:22,490 --> 00:33:24,690
+Que poder avassalador...
+
+257
+00:33:25,660 --> 00:33:29,200
+É assustador... e ao mesmo tempo tão natural.
+
+258
+00:34:03,810 --> 00:34:05,500
+Como se eu tivesse nascido para empunhar esta lâmina.
+
+259
+00:34:11,380 --> 00:34:17,700
+Muito bem.
+
+260
+00:34:18,230 --> 00:34:21,030
+Parece que você fez a sua escolha.
+
+261
+00:34:21,620 --> 00:34:24,710
+Eu vou te ensinar a dominar a Percepção da Morte.
+
+262
+00:34:25,250 --> 00:34:28,620
+E em troca, você vai me ajudar no meu ramo de trabalho.
+
+263
+00:34:28,620 --> 00:34:30,470
+Por acaso acabei de perder o meu antigo ajudante,
+
+264
+00:34:31,290 --> 00:34:33,990
+então preciso de alguém para agir em campo no meu lugar.
+
+265
+00:34:34,700 --> 00:34:37,220
+Ora. O seu trabalho envolve matar pessoas?
+
+266
+00:34:38,480 --> 00:34:40,060
+Sim, claro.
+
+267
+00:34:40,630 --> 00:34:43,290
+Contanto que você não se importe de caçar aberrações e anomalias.
+
+268
+00:34:44,170 --> 00:34:47,940
+Eles não são humanos de qualquer forma.
+
+269
+00:34:58,670 --> 00:35:00,480
+Por mim, tanto faz.
+
+270
+00:35:00,480 --> 00:35:02,220
+Desde que eu não tenha que ficar presa nesta cama patética.
+
+271
+00:35:02,920 --> 00:35:05,280
+Excelente resposta.
+
+272
+00:35:09,020 --> 00:35:14,660
+Amanhã trarei roupas adequadas para você.
+
+273
+00:35:19,050 --> 00:35:20,860
+E também um par de óculos especiais para quando você quiser descansar a visão.
+
+274
+00:35:20,860 --> 00:35:24,590
+Óculos?
+
+275
+00:35:28,380 --> 00:35:31,540
+Sim. Eles bloqueiam a percepção das linhas da morte para que você possa olhar para as pessoas sem vê-las desmoronando.
+
+276
+00:35:31,540 --> 00:35:34,450
+Pense nisso como um presente de boas-vindas à agência Garan no Dou.
+
+277
+00:35:35,180 --> 00:35:37,720
+"Garan no Dou"...
+
+278
+00:35:37,720 --> 00:35:41,560
+O Santuário Vazio.
+
+279
+00:35:42,590 --> 00:35:45,180
+Um nome muito apropriado para nós duas.
+
+280
+00:35:46,160 --> 00:35:50,710
+Agora descanse.
+
+281
+00:35:58,090 --> 00:36:04,510
+A sua nova vida começa a partir de hoje.
+
+282
+00:36:09,560 --> 00:36:10,980
+A minha nova vida...
+
+283
+00:36:21,960 --> 00:36:23,750
+Sem o SHIKI...
+
+284
+00:36:26,310 --> 00:36:28,680
+Mas com o Kokutou ainda me esperando lá fora.
+
+285
+00:36:29,750 --> 00:36:38,760
+Acho que vou tentar seguir em frente.
+
+286
+00:36:43,610 --> 00:36:45,470
+Pelo menos mais um pouco.
+
+287
+00:36:47,950 --> 00:36:50,270
+Enquanto isso, em outra ala do hospital...
+
+288
+00:36:47,950 --> 00:36:50,270
+Uma jovem repousa imóvel sob os lençóis brancos.
+
+289
+00:36:54,740 --> 00:36:56,540
+Seus olhos contemplam o céu cinzento pela janela.
+
+290
+00:36:59,500 --> 00:37:01,780
+Incapaz de mover os membros, condenada a definhar lentamente.
+
+291
+00:37:07,830 --> 00:37:10,790
+Kirie Fujijo.
+
+292
+00:42:28,120 --> 00:42:30,880
+A sombra de um homem alto em sobretudo escuro se aproxima do leito.
+
+293
+00:42:32,300 --> 00:42:36,370
+Quem está aí...?
+
+294
+00:42:37,230 --> 00:42:40,870
+Você deseja a liberdade, não deseja?
+
+295
+00:42:43,910 --> 00:42:49,090
+Quem é você?
+
+296
+00:42:52,200 --> 00:42:55,010
+Alguém que pode conceder a você um corpo que flutua acima do mundo.
+
+297
+00:42:58,620 --> 00:43:00,100
+Um corpo que não conhece a dor da paralisia.
+
+298
+00:43:00,730 --> 00:43:03,280
+Flutuar...?
+
+299
+00:43:03,280 --> 00:43:05,960
+Sim. Desprender-se da carne e contemplar a cidade de cima.
+
+300
+00:43:14,380 --> 00:43:16,930
+Observar tudo a partir de uma vista panorâmica.
+
+301
+00:43:18,310 --> 00:43:20,660
+Você quer que eu a cure?
+
+302
+00:43:22,900 --> 00:43:27,880
+Concordo. Devo curar a anomalia do seu corpo.
+
+303
+00:43:34,170 --> 00:43:36,930
+O que exatamente você é?
+
+304
+00:43:42,000 --> 00:43:44,940
+Quem é você?
+
+305
+00:43:48,390 --> 00:43:50,160
+Um Mago.
+
+306
+00:43:50,990 --> 00:43:53,320
+Souren Araya.
+
+307
+00:44:05,670 --> 00:44:09,100
+Eu simplesmente não posso tolerar a sua existência.
+
+308
+00:44:11,480 --> 00:44:14,660
+Eu matei alguém!
+
+309
+00:44:14,660 --> 00:44:16,290
+Você matou os seus próprios pais?!
+
+310
+00:44:17,050 --> 00:44:20,100
+Kokutou, você sabe alguma coisa sobre o Condomínio Ogawa em Kayamihama?
+
+311
+00:44:20,100 --> 00:44:26,200
+O Condomínio Ogawa é composto por dois edifícios semicirculares de 10 andares construídos um de frente para o outro.
+
+312
+00:44:26,200 --> 00:44:27,400
+Isso com certeza não é nada comum.
+
+313
+00:44:28,640 --> 00:44:32,140
+Você vai visitar a sua família que supostamente está morta?
+
+314
+00:44:32,140 --> 00:44:36,110
+Mas eu os matei! São os que estão vivos que estão errados!
+
+315
+00:44:36,780 --> 00:44:38,570
+Por que você não vai lá conferir?
+
+316
+00:44:38,570 --> 00:44:40,890
+Encara aquela escuridão profunda.
+
+317
+00:44:40,890 --> 00:44:44,310
+E lembre-se do seu próprio nome.
+
+318
+00:44:44,310 --> 00:44:45,590
+O que você fez com a Shiki?!
+
+319
+00:44:45,590 --> 00:44:47,420
+O Absoluto...
+
+320
+00:44:47,420 --> 00:44:51,750
+Materializar um Absoluto para capturar o Absoluto...
+
+321
+00:44:49,960 --> 00:44:52,420
+O Absoluto... Um Absoluto capaz de capturar o Absoluto...
+
+322
+00:44:53,260 --> 00:44:56,260
+Aozaki!
+
+323
+00:45:06,850 --> 00:45:10,310
+Se ao menos aquela espiral fosse um paradoxo...
+

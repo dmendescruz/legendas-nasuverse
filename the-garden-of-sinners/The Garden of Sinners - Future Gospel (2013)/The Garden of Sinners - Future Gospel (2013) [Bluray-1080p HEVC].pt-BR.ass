@@ -1,0 +1,1192 @@
+[Script Info]
+; Script gerado para Jellyfin / Media Server
+; The Garden of Sinners: Future Gospel (2013) [Kara no Kyoukai: Mirai Fukuin]
+Title: The Garden of Sinners: Future Gospel
+Original Script: Kinoko Nasu / ufotable
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Georgia,69,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4.5,0,2,150,150,45,1
+Style: Default-Italics,Georgia,69,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,1,0,0,100,100,0,0,1,4.5,0,2,150,150,45,1
+Style: Sign-Top,Georgia,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,150,150,50,1
+Style: Sign-Title,Georgia,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5.0,0,8,150,150,60,1
+Style: ED-PTBR,Georgia,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,1,0,0,100,100,0,0,1,4.5,0,2,120,120,45,1
+Style: ED-Romaji,Georgia,54,&H00E6E6E6,&H00FFFFFF,&H00000000,&H96000000,0,1,0,0,100,100,0,0,1,3.5,0,8,120,120,40,1
+Style: ED-Kanji,Georgia,52,&H00CCCCCC,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.5,0,8,120,120,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.08,0:00:27.22,Default-Italics,,0,0,0,,Houve um tempo em que testemunhei dois mundos.
+Dialogue: 0,0:00:27.22,0:00:29.64,Default-Italics,,0,0,0,,Pelo meu olho esquerdo, eu via o presente.
+Dialogue: 0,0:00:30.59,0:00:33.50,Default-Italics,,0,0,0,,Pelo meu olho direito, eu via o desfecho.
+Dialogue: 0,0:00:33.93,0:00:37.95,Default-Italics,,0,0,0,,Ao buscar o futuro que eu desejava,
+Dialogue: 0,0:00:37.95,0:00:40.56,Default-Italics,,0,0,0,,perdi de vista toda a esperança.
+Dialogue: 0,0:00:41.20,0:00:45.76,Default-Italics,,0,0,0,,Pois o futuro que eu via era imutável, gravado em pedra.
+Dialogue: 0,0:00:45.76,0:00:51.58,Default-Italics,,0,0,0,,Aparentava forjar meu próprio futuro,\Nmas, na verdade, era apenas escravo dele—
+Dialogue: 0,0:00:49.94,0:00:57.49,Default,,0,0,0,,Para:
+Dialogue: 0,0:00:49.94,0:00:57.49,Default,,0,0,0,,Shiki Ryougi
+Dialogue: 0,0:00:51.58,0:00:54.88,Default-Italics,,0,0,0,,uma imitação descartada de um deus vulgar.
+Dialogue: 0,0:00:56.83,0:01:00.18,Default-Italics,,0,0,0,,Se tudo não passasse de um delírio meu,
+Dialogue: 0,0:01:00.18,0:01:04.74,Default-Italics,,0,0,0,,talvez eu pudesse ter me tornado uma pessoa melhor.
+Dialogue: 0,0:01:28.59,0:01:29.96,Default,,0,0,0,,Ei.
+Dialogue: 0,0:01:29.96,0:01:32.63,Default,,0,0,0,,Peguei você, homem-bomba.
+Dialogue: 0,0:02:28.75,0:02:31.56,Default-Italics,,0,0,0,,Minha visão do futuro é absoluta.
+Dialogue: 0,0:02:31.56,0:02:34.20,Default-Italics,,0,0,0,,O que eu vejo é inalterável, não importa o que aconteça.
+Dialogue: 0,0:02:33.75,0:02:42.51,Default,,0,0,0,,Chamada em andamento
+Dialogue: 0,0:02:33.75,0:02:45.80,Default,,0,0,0,,Opções
+Dialogue: 0,0:02:33.75,0:02:45.80,Default,,0,0,0,,Voltar
+Dialogue: 0,0:02:34.20,0:02:36.23,Default-Italics,,0,0,0,,É assim que o mundo funciona.
+Dialogue: 0,0:02:36.23,0:02:41.62,Default-Italics,,0,0,0,,Ninguém, absolutamente ninguém, consegue escapar da caixa.
+Dialogue: 2,0:02:50.06,0:02:55.81,Sign-Top,,0,0,0,,FILME
+Dialogue: 2,0:02:50.06,0:02:55.81,Sign-Top,,0,0,0,,Evangelho do Futuro
+Dialogue: 2,0:02:57.31,0:03:02.32,Sign-Top,,0,0,0,,Obra Original
+Dialogue: 2,0:02:57.31,0:03:02.32,Sign-Top,,0,0,0,,Kinoko Nasu
+Dialogue: 2,0:02:59.82,0:03:03.32,Sign-Top,,0,0,0,,Rascunho do Manuscrito da Comiket de Verão
+Dialogue: 2,0:02:59.82,0:03:03.32,Sign-Top,,0,0,0,,Decidir ainda esta semana
+Dialogue: 2,0:03:03.32,0:03:06.70,Sign-Top,,0,0,0,,Agosto
+Dialogue: 2,0:03:03.65,0:03:08.66,Sign-Top,,0,0,0,,Design Original de Personagens
+Dialogue: 2,0:03:03.65,0:03:08.66,Sign-Top,,0,0,0,,Takashi Takeuchi
+Dialogue: 2,0:03:09.49,0:03:14.50,Sign-Top,,0,0,0,,Design de Personagens / Diretor de Animação
+Dialogue: 2,0:03:09.49,0:03:14.50,Sign-Top,,0,0,0,,Tomonori Sudou
+Dialogue: 2,0:03:09.49,0:03:14.50,Sign-Top,,0,0,0,,Shinya Kikuchi
+Dialogue: 0,0:03:09.99,0:03:13.60,Default,,0,0,0,,Seo Shizune-san, da turma 1-A.
+Dialogue: 2,0:03:14.22,0:03:17.41,Sign-Top,,0,0,0,,Há uma ligação do seu pai na recepção.
+Dialogue: 2,0:03:17.41,0:03:20.04,Sign-Top,,0,0,0,,Por favor, dirija-se à secretaria no primeiro andar.
+Dialogue: 0,0:03:23.59,0:03:28.09,Default,,0,0,0,,Roteiro
+Dialogue: 0,0:03:23.59,0:03:28.09,Default,,0,0,0,,Produção de Roteiro
+Dialogue: 0,0:03:23.59,0:03:28.09,Default,,0,0,0,,Akira Hiyama
+Dialogue: 0,0:03:30.26,0:03:34.77,Default,,0,0,0,,Direção de Arte
+Dialogue: 0,0:03:30.26,0:03:34.77,Default,,0,0,0,,Nobutaka Ike
+Dialogue: 0,0:03:30.26,0:03:34.77,Default,,0,0,0,,Kouji Etou
+Dialogue: 0,0:03:30.26,0:03:34.77,Default,,0,0,0,,Kazuo Ebisawa
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Design de Cores
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Emi Chiba
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Direção de Fotografia
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Yuuichi Terao
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Direção 3D
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Koujirou Shishido
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Edição
+Dialogue: 0,0:03:39.11,0:03:43.61,Default,,0,0,0,,Manabu Kamino
+Dialogue: 0,0:03:43.61,0:03:46.61,Default,,0,0,0,,Academia Feminina Reien — Diretoria: M. Riesbyfe
+Dialogue: 0,0:03:43.61,0:03:46.61,Default,,0,0,0,,Academia Feminina Reien — Avisos para o Recesso de Verão:
+Dialogue: 0,0:03:43.61,0:03:46.61,Default,,0,0,0,,Alunas residentes que desejarem sair do campus devem preencher o formulário na secretaria.
+Dialogue: 0,0:03:43.61,0:03:46.61,Default,,0,0,0,,Ausências prolongadas exigem autorização expressa por escrito dos responsáveis legais.
+Dialogue: 0,0:03:43.61,0:03:46.61,Default,,0,0,0,,Lembrem-se de que continuam sendo alunas da Academia Reien mesmo fora dos muros. Mantenham o decoro.
+Dialogue: 0,0:03:46.95,0:03:50.95,Default,,0,0,0,,Música
+Dialogue: 0,0:03:46.95,0:03:50.95,Default,,0,0,0,,Yuki Kajiura
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Direção de Som
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Yoshikazu Iwanami
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Produção de Som
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Ryousuke Naya
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Seleção de Elenco
+Dialogue: 0,0:03:52.29,0:03:56.29,Default,,0,0,0,,Chou Matsuoka
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Produção
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Atsuhiro Iwakami
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Katsushi Oota
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Takuya Matsushita
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Tomotaka Takeuchi
+Dialogue: 0,0:03:57.00,0:04:01.50,Default,,0,0,0,,Hikaru Kondou
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Produtor de Linha
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Ryuu Suzuki
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Gerência de Sistemas
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Kenichirou Kasahara
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Chefe de Produção
+Dialogue: 0,0:04:03.09,0:04:07.09,Default,,0,0,0,,Akira Kondou
+Dialogue: 0,0:04:08.22,0:04:12.31,Default,,0,0,0,,Hikaru Kondou
+Dialogue: 0,0:04:08.22,0:04:12.31,Default,,0,0,0,,Produtor de Animação
+Dialogue: 0,0:04:13.85,0:04:17.85,Default,,0,0,0,,Produção de Animação
+Dialogue: 0,0:04:19.35,0:04:24.36,Default,,0,0,0,,Tomonori Sudou
+Dialogue: 0,0:04:19.35,0:04:24.36,Default,,0,0,0,,Direção Geral
+Dialogue: 0,0:04:29.12,0:04:33.20,Default,,0,0,0,,Droga... Meia hora inteira até o próximo ônibus.
+Dialogue: 0,0:04:42.88,0:04:46.34,Default,,0,0,0,,Ora! Encontrei um gatinho estirado.
+Dialogue: 0,0:04:46.34,0:04:50.23,Default,,0,0,0,,Pensando bem, acho que você tá mais para um cachorro do que um gato, né, Seo?
+Dialogue: 0,0:04:50.23,0:04:52.34,Default,,0,0,0,,Foi mal, foi mal!
+Dialogue: 0,0:04:54.44,0:04:56.10,Default,,0,0,0,,E aí? O que tá fazendo jogada aqui?
+Dialogue: 0,0:04:56.87,0:04:58.72,Default,,0,0,0,,Não estou dormindo.
+Dialogue: 0,0:04:58.72,0:05:02.90,Default,,0,0,0,,Tenho que voltar para casa, ordens expressas do meu digníssimo pai.
+Dialogue: 0,0:05:02.90,0:05:04.02,Default,,0,0,0,,Sério mesmo?
+Dialogue: 0,0:05:04.98,0:05:07.51,Default,,0,0,0,,Você não vai para casa, Naomi-chan?
+Dialogue: 0,0:05:07.51,0:05:09.20,Default,,0,0,0,,Os seus pais moram em Hong Kong, certo?
+Dialogue: 0,0:05:10.60,0:05:13.92,Default,,0,0,0,,Não consegui autorização para sair.
+Dialogue: 0,0:05:15.10,0:05:18.78,Default,,0,0,0,,Caí na classificação geral da escola\Npor causa de uma novata abusada,
+Dialogue: 0,0:05:18.78,0:05:22.12,Default,,0,0,0,,então vou ter que passar o recesso enfiada nos livros.
+Dialogue: 0,0:05:22.12,0:05:25.39,Default,,0,0,0,,Você fala daquela garota que ficou entre as melhores nos exames nacionais?
+Dialogue: 0,0:05:26.67,0:05:29.30,Default,,0,0,0,,Por que ela veio parar logo na nossa escola, afinal?
+Dialogue: 0,0:05:29.85,0:05:30.80,Default,,0,0,0,,Não faço a menor ideia.
+Dialogue: 0,0:05:30.80,0:05:33.77,Default,,0,0,0,,Mas dizem que ela bateu o pé para vir para cá.
+Dialogue: 0,0:05:33.77,0:05:37.98,Default,,0,0,0,,Mas esquece isso. Seo, você vai embora vestida assim?
+Dialogue: 0,0:05:37.98,0:05:39.64,Default,,0,0,0,,Nem vai tirar esse uniforme?
+Dialogue: 0,0:05:44.57,0:05:46.40,Default,,0,0,0,,Eu não tenho outras roupas.
+Dialogue: 0,0:05:47.92,0:05:50.15,Default,,0,0,0,,Meu pai nunca me enviou nenhuma.
+Dialogue: 0,0:05:52.22,0:05:54.75,Default,,0,0,0,,Sua boba, por que não falou antes?!
+Dialogue: 0,0:05:55.53,0:05:56.28,Default,,0,0,0,,Vem!
+Dialogue: 0,0:05:56.28,0:05:57.99,Default,,0,0,0,,Vou te emprestar algo para vestir.
+Dialogue: 0,0:06:06.24,0:06:07.31,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:06:09.11,0:06:11.34,Default,,0,0,0,,Ah, não é nada.
+Dialogue: 0,0:06:11.75,0:06:13.63,Default,,0,0,0,,Certo, vamos lá!
+Dialogue: 0,0:06:13.63,0:06:14.68,Default,,0,0,0,,Anda, levanta daí!
+Dialogue: 0,0:06:14.68,0:06:16.36,Default,,0,0,0,,T-Tá bom.
+Dialogue: 0,0:06:20.63,0:06:24.55,Default,,0,0,0,,3 de agosto, 9h30 da manhã.
+Dialogue: 0,0:06:24.55,0:06:28.75,Default,,0,0,0,,A essa altura, meu futuro havia se desenrolado\Nexatamente como eu tinha previsto três dias atrás.
+Dialogue: 0,0:06:28.75,0:06:31.36,Default,,0,0,0,,Nada mais é novidade para mim.
+Dialogue: 0,0:06:52.09,0:06:55.84,Default,,0,0,0,,Lista de coisas
+Dialogue: 0,0:06:52.09,0:06:55.84,Default,,0,0,0,,para comprar
+Dialogue: 0,0:06:52.09,0:06:55.84,Default,,0,0,0,,Valeu!
+Dialogue: 0,0:06:52.09,0:06:55.84,Default,,0,0,0,,Novo CD do Suicide Garden
+Dialogue: 0,0:07:09.38,0:07:12.03,Default,,0,0,0,,Existem duas de mim neste mundo.
+Dialogue: 0,0:07:12.03,0:07:14.40,Default,,0,0,0,,Uma no presente e outra no futuro.
+Dialogue: 0,0:07:15.10,0:07:18.66,Default,,0,0,0,,Dois pontos de vista distintos para contemplar o mesmo tema: o mundo.
+Dialogue: 0,0:07:19.37,0:07:22.37,Default,,0,0,0,,Manual da Estudante
+Dialogue: 0,0:07:19.49,0:07:22.37,Default,,0,0,0,,Academia Feminina Reien
+Dialogue: 0,0:07:19.76,0:07:21.69,Default,,0,0,0,,Por saber de antemão como as coisas vão acabar,
+Dialogue: 0,0:07:21.69,0:07:23.55,Default,,0,0,0,,eu me sinto como uma deusa irresponsável.
+Dialogue: 0,0:07:24.94,0:07:27.37,Default,,0,0,0,,Incapaz de mudar o futuro,
+Dialogue: 0,0:07:27.37,0:07:28.91,Default,,0,0,0,,só me resta esperar que os acontecimentos se desenrolem.
+Dialogue: 0,0:07:31.45,0:07:35.52,Default,,0,0,0,,Não tenho nada de especial a dizer\Nou a esperar do futuro.
+Dialogue: 0,0:07:38.11,0:07:40.24,Default,,0,0,0,,Eu apenas deslizo por uma rotina monótona.
+Dialogue: 0,0:07:40.24,0:07:41.93,Default,,0,0,0,,Espero um futuro previsível.
+Dialogue: 0,0:07:42.80,0:07:44.64,Default,,0,0,0,,Levo uma vida sem graça.
+Dialogue: 0,0:07:48.04,0:07:53.81,Default,,0,0,0,,Mas tenho certeza de que a coisa mais sem graça de todas sou eu mesma.
+Dialogue: 0,0:07:57.91,0:08:00.41,Default,,0,0,0,,Estação Mifune
+Dialogue: 0,0:08:36.82,0:08:40.07,Default,,0,0,0,,Estação Mifune
+Dialogue: 0,0:08:36.82,0:08:40.07,Default,,0,0,0,,Expresso Centro de Kanto
+Dialogue: 0,0:09:47.58,0:09:49.18,Default,,0,0,0,,C-Com licença!
+Dialogue: 0,0:09:52.60,0:09:54.79,Default,,0,0,0,,Com licença! Espere, por favor!
+Dialogue: 0,0:09:57.52,0:10:01.45,Default,,0,0,0,,Você, com essa cara de golpista!
+Dialogue: 0,0:10:01.45,0:10:02.53,Default,,0,0,0,,É com você!
+Dialogue: 0,0:10:04.91,0:10:06.57,Default,,0,0,0,,O que disse?
+Dialogue: 0,0:10:07.59,0:10:10.45,Default,,0,0,0,,Tá falando comigo, garota?
+Dialogue: 0,0:10:12.98,0:10:14.64,Default,,0,0,0,,É... que...
+Dialogue: 0,0:10:14.64,0:10:17.45,Default,,0,0,0,,Se você estiver com essa bolsa...
+Dialogue: 0,0:10:17.45,0:10:20.46,Default,,0,0,0,,Moço, você vai se machucar! Num acidente...
+Dialogue: 0,0:10:21.32,0:10:25.90,Default,,0,0,0,,No mínimo, vai ser atropelado por um caminhão\Ne vai virar carne moída...
+Dialogue: 0,0:10:30.51,0:10:31.89,Default,,0,0,0,,Ei, o que é isso?!
+Dialogue: 0,0:10:31.89,0:10:32.96,Default,,0,0,0,,Me solta!
+Dialogue: 0,0:10:32.96,0:10:34.14,Default,,0,0,0,,Larga, droga!
+Dialogue: 0,0:10:34.45,0:10:37.07,Default,,0,0,0,,Você não pode...
+Dialogue: 0,0:10:37.77,0:10:38.90,Default,,0,0,0,,seguir por aí!
+Dialogue: 0,0:10:41.15,0:10:42.50,Default,,0,0,0,,Peço perdão por interromper.
+Dialogue: 0,0:10:43.32,0:10:45.66,Default,,0,0,0,,Aconteceu alguma coisa?
+Dialogue: 0,0:10:45.66,0:10:49.66,Default,,0,0,0,,O quê, você conhece essa pirralha?
+Dialogue: 0,0:10:51.13,0:10:52.43,Default,,0,0,0,,Desculpe.
+Dialogue: 0,0:10:52.43,0:10:54.62,Default,,0,0,0,,Sou apenas um estranho curioso.
+Dialogue: 0,0:11:00.09,0:11:03.07,Default,,0,0,0,,Eu estava andando na minha, sem fazer mal a ninguém,
+Dialogue: 0,0:11:03.07,0:11:05.69,Default,,0,0,0,,quando essa garota do nada veio arranjar briga comigo!
+Dialogue: 0,0:11:05.69,0:11:07.33,Default,,0,0,0,,O quê?
+Dialogue: 0,0:11:07.33,0:11:09.97,Default,,0,0,0,,É verdade isso?
+Dialogue: 0,0:11:15.60,0:11:18.32,Default,,0,0,0,,Já acabamos aqui, né? Estou caindo fora.
+Dialogue: 0,0:11:19.77,0:11:22.21,Default,,0,0,0,,Cuida dessa louca aí.
+Dialogue: 0,0:11:23.74,0:11:25.11,Default,,0,0,0,,Você está bem?
+Dialogue: 0,0:11:25.65,0:11:28.92,Default,,0,0,0,,M-Muito obrigada!
+Dialogue: 0,0:11:28.92,0:11:32.33,Default,,0,0,0,,Mas eu preciso mesmo alcançar aquele homem!
+Dialogue: 0,0:11:32.33,0:11:34.69,Default,,0,0,0,,E-Espere um pouco!
+Dialogue: 0,0:11:34.69,0:11:36.83,Default,,0,0,0,,Posso te fazer só mais uma pergunta?
+Dialogue: 0,0:11:36.83,0:11:41.04,Default,,0,0,0,,Por que você achou que ele corria perigo?
+Dialogue: 0,0:11:44.09,0:11:46.41,Default,,0,0,0,,Bem, é que...
+Dialogue: 0,0:11:46.41,0:11:48.34,Default,,0,0,0,,Eu só sei.
+Dialogue: 0,0:11:48.34,0:11:51.30,Default,,0,0,0,,Meus palpites nunca erram.
+Dialogue: 0,0:11:52.03,0:11:53.59,Default,,0,0,0,,Ora, isso é surpreendente.
+Dialogue: 0,0:11:53.59,0:11:56.18,Default,,0,0,0,,Você achou que ele seria atropelado por um caminhão só por causa de um palpite?
+Dialogue: 0,0:11:58.76,0:12:01.74,Default,,0,0,0,,Mas certamente é algo que queremos evitar.
+Dialogue: 0,0:12:04.97,0:12:07.36,Default,,0,0,0,,Eu vou lá falar com ele.
+Dialogue: 0,0:12:07.36,0:12:09.94,Default,,0,0,0,,Espere aqui, por favor.
+Dialogue: 0,0:12:15.20,0:12:17.46,Default,,0,0,0,,Se tudo der certo, eu volto para te avisar!
+Dialogue: 0,0:12:26.01,0:12:29.35,Default,,0,0,0,,Calma, vamos pensar com clareza.
+Dialogue: 0,0:12:29.35,0:12:32.51,Default,,0,0,0,,Eu não sonhei com isso, sonhei?
+Dialogue: 0,0:12:32.51,0:12:34.61,Default,,0,0,0,,Pareceu tão surreal, mas foi real.
+Dialogue: 0,0:12:34.61,0:12:37.72,Default,,0,0,0,,E quando ele disse que resolveria, senti um alívio enorme.
+Dialogue: 0,0:12:37.72,0:12:41.35,Default,,0,0,0,,Mas se eu ficar aqui esperando, vou perder o trem expresso.
+Dialogue: 0,0:12:42.83,0:12:44.35,Default,,0,0,0,,Acho que...
+Dialogue: 0,0:12:44.35,0:12:46.13,Default,,0,0,0,,isso já não importa mais.
+Dialogue: 0,0:12:50.78,0:13:01.21,Default,,0,0,0,,Protegendo seus sonhos.
+Dialogue: 0,0:12:59.86,0:13:01.21,Default,,0,0,0,,Ei, que barulho foi esse?
+Dialogue: 0,0:13:01.21,0:13:02.20,Default,,0,0,0,,Uma explosão?
+Dialogue: 0,0:13:02.20,0:13:03.13,Default,,0,0,0,,O quê?!
+Dialogue: 0,0:13:03.13,0:13:04.25,Default,,0,0,0,,Foi ali na frente!
+Dialogue: 0,0:13:14.00,0:13:16.96,Default,,0,0,0,,E se ele tiver sido pego naquilo?!
+Dialogue: 0,0:13:16.96,0:13:17.92,Default,,0,0,0,,Mas isso...
+Dialogue: 0,0:13:18.60,0:13:21.96,Default,,0,0,0,,Não foi isso o que eu tinha previsto...
+Dialogue: 0,0:13:40.47,0:13:41.96,Default,,0,0,0,,Você está bem?
+Dialogue: 0,0:13:41.96,0:13:43.15,Default,,0,0,0,,Obrigado por ter me esperado.
+Dialogue: 0,0:13:46.53,0:13:48.67,Default,,0,0,0,,Você estava coberta de razão!
+Dialogue: 0,0:13:48.67,0:13:51.30,Default,,0,0,0,,Nossa, foi por muito pouco.
+Dialogue: 0,0:13:51.30,0:13:54.43,Default,,0,0,0,,Ele só acabou levando um tombo de raspão.
+Dialogue: 0,0:13:55.22,0:13:56.62,Default,,0,0,0,,Hã?
+Dialogue: 0,0:13:56.62,0:13:58.43,Default,,0,0,0,,Você conseguiu salvá-lo?
+Dialogue: 0,0:13:58.43,0:14:01.26,Default,,0,0,0,,Sim, por muita sorte.
+Dialogue: 0,0:14:01.26,0:14:05.54,Default,,0,0,0,,Ele provavelmente deve estar te agradecendo agora mesmo pelo que você fez.
+Dialogue: 0,0:14:12.07,0:14:12.70,Default,,0,0,0,,Hã?
+Dialogue: 0,0:14:12.70,0:14:14.95,Default,,0,0,0,,O-O quê?
+Dialogue: 0,0:14:18.96,0:14:21.29,Default,,0,0,0,,Acho que é compreensível ficar assim depois de tudo isso.
+Dialogue: 0,0:14:22.46,0:14:24.71,Default,,0,0,0,,Vejamos...
+Dialogue: 0,0:14:27.59,0:14:31.09,Default,,0,0,0,,Gostaria de tomar um ar\Ncomigo naquele café logo ali?
+Dialogue: 0,0:14:32.01,0:14:33.68,Default,,0,0,0,,Você deve estar exausta.
+Dialogue: 0,0:14:39.04,0:14:41.00,Default,,0,0,0,,S-Sim!
+Dialogue: 0,0:14:41.00,0:14:42.66,Default,,0,0,0,,Muito obrigada.
+Dialogue: 0,0:14:42.66,0:14:48.36,Default,,0,0,0,,Sabe, ainda tenho mais de uma hora até o próximo trem.
+Dialogue: 0,0:14:49.33,0:14:53.53,Default,,0,0,0,,Então, como recompensa pela sua boa ação, o café é por minha conta.
+Dialogue: 0,0:14:54.92,0:14:55.96,Default,,0,0,0,,Ah.
+Dialogue: 0,0:14:55.96,0:14:58.46,Default,,0,0,0,,Você nem sabe o meu nome, né?
+Dialogue: 0,0:14:59.39,0:15:01.58,Default,,0,0,0,,Sou Kokutou Mikiya.
+Dialogue: 0,0:15:01.93,0:15:03.58,Default,,0,0,0,,Muito prazer!
+Dialogue: 0,0:15:06.48,0:15:08.27,Default,,0,0,0,,E-Eu sou Seo Shizune!
+Dialogue: 0,0:15:12.00,0:15:16.33,Default,,0,0,0,,Foi assim que tudo começou, e praticamente como tudo terminou.
+Dialogue: 0,0:15:16.33,0:15:22.01,Default,,0,0,0,,Foi assim que o destino nos uniu, eu, Seo Shizune, e Kokutou Mikiya-san.
+Dialogue: 0,0:15:23.90,0:15:24.97,Default,,0,0,0,,Tum-tum.
+Dialogue: 0,0:15:27.52,0:15:33.53,Default,,0,0,0,,1998
+Dialogue: 0,0:15:27.52,0:15:33.53,Default,,0,0,0,,Agosto\NJulho
+Dialogue: 0,0:15:27.52,0:15:33.53,Default,,0,0,0,,3\N2\N1\N30\N29\N28\N27
+Dialogue: 0,0:15:27.52,0:15:33.53,Default,,0,0,0,,3\N2\N1\N30\N29
+Dialogue: 0,0:15:27.52,0:15:33.53,Default,,0,0,0,,º,\Nº,\Nº,\Nº,
+Dialogue: 0,0:16:08.90,0:16:11.82,Default,,0,0,0,,O futuro não me causava nem esperança nem desprezo.
+Dialogue: 0,0:16:12.66,0:16:17.92,Default,,0,0,0,,Eu, Kuramitsu Meruka,\Npossuía o dom da premonição.
+Dialogue: 0,0:16:21.95,0:16:25.50,Default,,0,0,0,,Com meu olho direito, eu via o desfecho que desejava.
+Dialogue: 0,0:16:26.48,0:16:28.00,Default,,0,0,0,,E com meu olho esquerdo,
+Dialogue: 0,0:16:28.00,0:16:33.06,Default,,0,0,0,,eu via exatamente os passos para torná-lo realidade.
+Dialogue: 0,0:16:52.27,0:16:53.44,Default,,0,0,0,,Saiam rápido daqui!
+Dialogue: 0,0:16:53.44,0:16:56.23,Default,,0,0,0,,O futuro não é uma fantasia.
+Dialogue: 0,0:16:56.23,0:16:59.03,Default,,0,0,0,,Ele é construído, peça por peça, de forma metódica.
+Dialogue: 0,0:16:59.85,0:17:02.61,Default,,0,0,0,,Eu não apenas "via" o futuro.
+Dialogue: 0,0:17:02.61,0:17:07.00,Default,,0,0,0,,Eu conhecia os desfechos inevitáveis\Nde tudo que aconteceria dali a cinco ou dez minutos.
+Dialogue: 0,0:17:07.00,0:17:09.29,Default,,0,0,0,,Eu vivia sem nenhuma expectativa para o futuro.
+Dialogue: 0,0:17:09.29,0:17:12.60,Default,,0,0,0,,Nada jamais aconteceu na minha vida\Nsem que eu já tivesse previsto antes.
+Dialogue: 0,0:17:13.45,0:17:16.77,Default,,0,0,0,,Nada nunca me pegou de surpresa.
+Dialogue: 0,0:17:29.67,0:17:32.15,Default,,0,0,0,,O homem-bomba de aluguel.
+Dialogue: 0,0:17:32.15,0:17:34.47,Default,,0,0,0,,Era assim que eu ganhava a vida.
+Dialogue: 0,0:17:36.26,0:17:40.40,Default,,0,0,0,,Minhas bombas eram apenas ferramentas para manipular a multidão.
+Dialogue: 0,0:17:41.22,0:17:48.60,Default,,0,0,0,,Em essência, detonar explosivos era o meio mais eficiente\Nde extrair o máximo do meu poder de clarividência.
+Dialogue: 0,0:17:51.42,0:17:55.92,Default,,0,0,0,,31 de julho
+Dialogue: 0,0:18:08.90,0:18:11.23,Default,,0,0,0,,Com licença, Aozaki-sama.
+Dialogue: 0,0:18:11.70,0:18:14.97,Default,,0,0,0,,Muito obrigado pelo excelente design do projeto.
+Dialogue: 0,0:18:14.97,0:18:16.23,Default,,0,0,0,,O prazer foi meu.
+Dialogue: 0,0:18:20.06,0:18:22.07,Default,,0,0,0,,Vou buscar algo para bebermos.
+Dialogue: 0,0:18:33.95,0:18:35.21,Default,,0,0,0,,Desculpe!
+Dialogue: 0,0:18:35.21,0:18:37.85,Default,,0,0,0,,Não achei nada que tivesse certeza de que você gostaria, Shiki...
+Dialogue: 0,0:18:38.53,0:18:39.42,Default,,0,0,0,,Hã?
+Dialogue: 0,0:18:51.06,0:18:53.69,Default,,0,0,0,,Ei. É perigoso por aí.
+Dialogue: 0,0:19:04.74,0:19:05.72,Default,,0,0,0,,Ah, é você!
+Dialogue: 0,0:19:45.69,0:19:47.82,Default,,0,0,0,,Ei. É perigoso por aí.
+Dialogue: 0,0:19:49.60,0:19:54.12,Default,,0,0,0,,Aquela mulher já sabia que algo\Nia acontecer no hotel?
+Dialogue: 0,0:19:55.10,0:19:56.34,Default,,0,0,0,,Será que deixei passar algum detalhe?
+Dialogue: 0,0:19:57.31,0:19:59.13,Default,,0,0,0,,Provavelmente sim.
+Dialogue: 0,0:19:59.86,0:20:03.13,Default,,0,0,0,,Mas eu não posso deixar pontas soltas.
+Dialogue: 0,0:20:03.62,0:20:06.88,Default,,0,0,0,,É possível que ela consiga me identificar.
+Dialogue: 0,0:20:07.53,0:20:11.39,Default,,0,0,0,,O meu futuro...
+Dialogue: 0,0:20:12.52,0:20:14.11,Default,,0,0,0,,não precisa da presença dela.
+Dialogue: 0,0:20:16.27,0:20:20.65,Default,,0,0,0,,2 de agosto
+Dialogue: 0,0:20:21.73,0:20:23.90,Default,,0,0,0,,O homem-bomba está atrás de você?
+Dialogue: 0,0:20:24.92,0:20:29.24,Default,,0,0,0,,Está mais para ele ter cismado comigo, na verdade.
+Dialogue: 0,0:20:30.32,0:20:34.58,Default,,0,0,0,,Acho que é o mesmo cara que explodiu aquele hotel.
+Dialogue: 0,0:20:34.58,0:20:40.01,Default,,0,0,0,,Parece que você tem um talento nato para atrair os homens mais bizarros.
+Dialogue: 0,0:20:40.01,0:20:41.98,Default,,0,0,0,,Isso não é motivo de piada.
+Dialogue: 0,0:20:41.98,0:20:43.22,Default,,0,0,0,,Olhe só isso aqui.
+Dialogue: 0,0:20:44.43,0:20:47.88,Default,,0,0,0,,Deixaram na minha correspondência. Pelo visto, ele vai entrar em contato.
+Dialogue: 0,0:20:48.51,0:20:54.02,Default,,0,0,0,,Opções
+Dialogue: 0,0:20:48.51,0:20:54.02,Default,,0,0,0,,Voltar
+Dialogue: 0,0:20:49.08,0:20:51.44,Default,,0,0,0,,Primeiro foi uma granada de atordoamento numa obra.
+Dialogue: 0,0:20:51.44,0:20:54.01,Default,,0,0,0,,Depois, um tipo de mina terrestre num beco.
+Dialogue: 0,0:20:54.48,0:20:57.89,Default,,0,0,0,,Agora, uma bomba-relógio num prédio abandonado.
+Dialogue: 0,0:20:57.89,0:21:01.15,Default,,0,0,0,,Sem testemunhas, sem vítimas.
+Dialogue: 0,0:21:01.15,0:21:03.22,Default,,0,0,0,,Nem mesmo você.
+Dialogue: 0,0:21:05.14,0:21:07.92,Default,,0,0,0,,E você continua sã e salva, mesmo depois de tudo isso.
+Dialogue: 0,0:21:07.92,0:21:10.99,Default,,0,0,0,,Não tem a menor chance de ele engolir essa derrota.
+Dialogue: 0,0:21:10.99,0:21:13.86,Default,,0,0,0,,E então, ele ligou?
+Dialogue: 0,0:21:14.70,0:21:16.10,Default,,0,0,0,,Nenhuma vez.
+Dialogue: 0,0:21:17.07,0:21:20.50,Default,,0,0,0,,Mas o que mais me intriga, Touko,\Né que tem algo muito esquisito nele.
+Dialogue: 0,0:21:21.92,0:21:24.22,Default,,0,0,0,,Esquisito? O que exatamente?
+Dialogue: 0,0:21:27.03,0:21:28.99,Default,,0,0,0,,Ele enxerga longe demais no futuro.
+Dialogue: 0,0:21:28.99,0:21:32.51,Default,,0,0,0,,Naquela última vez, eu só entrei naquele prédio\Npor mero capricho de momento.
+Dialogue: 0,0:21:41.29,0:21:44.44,Default,,0,0,0,,No centro da sala, havia um despertador.
+Dialogue: 0,0:21:45.47,0:21:48.44,Default,,0,0,0,,E no instante exato em que o ponteiro dos segundos marcou meia-noite...
+Dialogue: 0,0:21:54.93,0:21:55.75,Default,,0,0,0,,Bum.
+Dialogue: 0,0:22:00.10,0:22:03.12,Default,,0,0,0,,Chefe, trouxe os seus cigarros.
+Dialogue: 0,0:22:07.46,0:22:10.99,Default,,0,0,0,,Eu também andei ouvindo falar desse homem-bomba.
+Dialogue: 0,0:22:10.99,0:22:15.69,Default,,0,0,0,,Ele pode ser alguém com o dom da clarividência.
+Dialogue: 0,0:22:18.31,0:22:23.52,Default,,0,0,0,,3 de agosto
+Dialogue: 0,0:22:35.98,0:22:38.49,Default,,0,0,0,,Se importa de sentarmos perto da janela, Shizune-chan?
+Dialogue: 0,0:22:38.49,0:22:39.37,Default,,0,0,0,,Shi—
+Dialogue: 0,0:22:40.90,0:22:42.01,Default,,0,0,0,,Sem problema.
+Dialogue: 0,0:22:42.01,0:22:43.33,Default,,0,0,0,,Ótimo.
+Dialogue: 0,0:22:53.16,0:22:54.85,Default,,0,0,0,,Aqui, o cardápio.
+Dialogue: 0,0:22:54.85,0:22:55.59,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:22:56.07,0:22:58.14,Default,,0,0,0,,O prato especial de hoje é...
+Dialogue: 0,0:22:58.14,0:23:01.02,Default,,0,0,0,,Ué? O mesmo de ontem, pelo jeito.
+Dialogue: 0,0:23:01.47,0:23:02.61,Default,,0,0,0,,Que pena.
+Dialogue: 0,0:23:02.61,0:23:06.60,Default,,0,0,0,,Eu teria te recomendado a torta de mirtilo de olhos fechados.
+Dialogue: 0,0:23:08.92,0:23:10.56,Default,,0,0,0,,Sejam bem-vindos.
+Dialogue: 0,0:23:10.56,0:23:12.75,Default,,0,0,0,,Olá, pode me trazer uma xícara de café?
+Dialogue: 0,0:23:13.98,0:23:15.38,Default,,0,0,0,,Eu...
+Dialogue: 0,0:23:15.38,0:23:17.55,Default,,0,0,0,,Vou querer um achocolatado gelado, por favor.
+Dialogue: 0,0:23:17.55,0:23:19.28,Default,,0,0,0,,É para já.
+Dialogue: 0,0:23:27.11,0:23:29.22,Default,,0,0,0,,Posso te perguntar uma coisa sobre mais cedo?
+Dialogue: 0,0:23:29.22,0:23:33.17,Default,,0,0,0,,Kokutou-san, por que você acreditou em mim com tanta facilidade?
+Dialogue: 0,0:23:33.59,0:23:36.76,Default,,0,0,0,,Não tenho muita certeza de como te responder.
+Dialogue: 0,0:23:38.46,0:23:41.72,Default,,0,0,0,,É que você parecia falar muito sério, Shizune-chan.
+Dialogue: 0,0:23:41.72,0:23:43.14,Default,,0,0,0,,Acho que isso não soa muito convincente, né?
+Dialogue: 0,0:23:45.63,0:23:49.02,Default,,0,0,0,,Foi porque ficou com pena de mim?
+Dialogue: 0,0:23:55.62,0:24:02.64,Default,,0,0,0,,A única certeza que eu tinha naquele momento\Nera de que você não tinha motivo algum para mentir, Shizune-chan.
+Dialogue: 0,0:24:03.56,0:24:07.29,Default,,0,0,0,,Não havia nada a ganhar enganando aquele homem.
+Dialogue: 0,0:24:07.99,0:24:10.78,Default,,0,0,0,,Você acreditou em mim só porque eu não estava mentindo?
+Dialogue: 0,0:24:11.55,0:24:16.17,Default,,0,0,0,,Apesar de que "meus palpites nunca erram"\Nera claramente uma mentirinha.
+Dialogue: 0,0:24:16.82,0:24:21.63,Default,,0,0,0,,Pode até ser, mas você estava falando com toda a sinceridade do mundo, não estava?
+Dialogue: 0,0:24:21.63,0:24:25.18,Default,,0,0,0,,Para mim, isso já foi o suficiente para acreditar\Nna intenção por trás do seu aviso.
+Dialogue: 0,0:24:27.06,0:24:28.91,Default,,0,0,0,,Aqui estão os pedidos.
+Dialogue: 0,0:24:41.79,0:24:43.87,Default,,0,0,0,,Sabe, na verdade...
+Dialogue: 0,0:24:48.15,0:24:52.34,Default,,0,0,0,,Eu consigo ver o futuro.
+Dialogue: 0,0:24:53.88,0:24:57.01,Default,,0,0,0,,2 de agosto
+Dialogue: 0,0:24:57.44,0:25:04.14,Default,,0,0,0,,Ao longo dos anos, houve várias explosões\Nmuito parecidas com aquela do hotel.
+Dialogue: 0,0:25:04.72,0:25:07.63,Default,,0,0,0,,O autor sempre deixava uma\Ndeclaração por escrito no local do crime.
+Dialogue: 0,0:25:08.62,0:25:10.94,Default,,0,0,0,,Desde o horário exato da explosão\Naté a magnitude do estrago,
+Dialogue: 0,0:25:10.94,0:25:14.17,Default,,0,0,0,,o número de feridos até os\Ndetalhes específicos dos ferimentos,
+Dialogue: 0,0:25:14.17,0:25:16.73,Default,,0,0,0,,estava tudo lá, nos mínimos detalhes.
+Dialogue: 0,0:25:17.17,0:25:19.98,Default,,0,0,0,,O texto também era bem sucinto.
+Dialogue: 0,0:25:19.98,0:25:21.95,Default,,0,0,0,,Pareciam quase relatórios técnicos.
+Dialogue: 0,0:25:23.37,0:25:26.83,Default,,0,0,0,,Então, basicamente, ele encara isso como um trabalho comum.
+Dialogue: 0,0:25:28.01,0:25:35.34,Default,,0,0,0,,O problema é que esse homem-bomba conhecido por não deixar pontas soltas está atrás de você agora, Shiki.
+Dialogue: 0,0:25:35.84,0:25:36.84,Default,,0,0,0,,Hã?
+Dialogue: 0,0:25:41.19,0:25:44.35,Default,,0,0,0,,Shiki, onde você estava naquela noite?
+Dialogue: 0,0:25:44.35,0:25:45.97,Default,,0,0,0,,Em lugar nenhum.
+Dialogue: 0,0:25:45.97,0:25:48.77,Default,,0,0,0,,Cancei de ficar olhando para as pessoas, então saí para caminhar.
+Dialogue: 0,0:25:50.00,0:25:55.11,Default,,0,0,0,,Mas o que importa: essas tais declarações são mesmo fruto de prever o futuro?
+Dialogue: 0,0:25:58.14,0:26:04.54,Default,,0,0,0,,Ele envia esses bilhetes para a polícia,\Nexplode os alvos e sai totalmente impune.
+Dialogue: 0,0:26:04.54,0:26:07.83,Default,,0,0,0,,Seria preciso um milagre para explicar isso de outra forma.
+Dialogue: 0,0:26:10.11,0:26:12.33,Default,,0,0,0,,O poder da premonição.
+Dialogue: 0,0:26:13.24,0:26:18.70,Default,,0,0,0,,Apenas alguém capaz de visualizar o futuro com exatidão,\Num portador de clarividência, conseguiria tal proeza.
+Dialogue: 0,0:26:20.91,0:26:22.02,Default,,0,0,0,,Kokutou.
+Dialogue: 0,0:26:22.02,0:26:24.29,Default,,0,0,0,,Você já ouviu falar da "Mãe de Mifune"?
+Dialogue: 0,0:26:24.29,0:26:28.56,Default,,0,0,0,,Ah, acho que me lembro desse nome.
+Dialogue: 0,0:26:29.01,0:26:32.36,Default,,0,0,0,,Ela era o que chamam de vidente de rua, não é?
+Dialogue: 0,0:26:32.36,0:26:35.72,Default,,0,0,0,,Ficou bastante famosa entre as garotas por um tempo.
+Dialogue: 0,0:26:36.65,0:26:44.04,Default,,0,0,0,,A Mãe de Mifune não lia o futuro propriamente dito,\Nela ajudava as pessoas a evitar tragédias com maestria.
+Dialogue: 0,0:26:44.04,0:26:44.90,Default,,0,0,0,,Sim.
+Dialogue: 0,0:26:44.90,0:26:49.56,Default,,0,0,0,,Ela dizia, por exemplo: "Dali a dois dias,\Nvocê e seu namorado terão uma crise séria."
+Dialogue: 0,0:26:49.56,0:26:54.40,Default,,0,0,0,,"Se não quiser que terminem,\Nviajem juntos por três dias."
+Dialogue: 0,0:26:54.40,0:26:57.42,Default,,0,0,0,,Eram conselhos bem diretos e pontuais assim.
+Dialogue: 0,0:26:59.11,0:27:05.61,Default,,0,0,0,,E todos aqueles que desdenhavam de suas palavras\Nacabavam invariavelmente caindo em desgraça.
+Dialogue: 0,0:27:05.61,0:27:07.00,Default,,0,0,0,,Exato.
+Dialogue: 0,0:27:07.00,0:27:09.15,Default,,0,0,0,,Mas o que tem ela?
+Dialogue: 0,0:27:10.23,0:27:13.89,Default,,0,0,0,,É altamente provável que ela possuísse\Nalgo semelhante à visão do futuro.
+Dialogue: 0,0:27:13.89,0:27:15.60,Default,,0,0,0,,Kokutou, fique aqui.
+Dialogue: 0,0:27:15.60,0:27:18.30,Default,,0,0,0,,Shiki, você vai atrás dessa pessoa.
+Dialogue: 0,0:27:19.14,0:27:21.78,Default,,0,0,0,,Você saberá avaliar as intenções dela se\Nconversarem cara a cara, não sabe?
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Relatório de Detonação
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Horário da explosão
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,31 de julho de 1998, 20h10min00s.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Local da explosão
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Grande Hotel Mifune, 12º andar.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Explosivo utilizado
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Fixados nas paredes; tipo temporizador regressivo; bombas incendiárias a combustível, 20 unidades.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Instaladas em 20 pontos nos pilares do 12º andar.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Bombas posicionadas em pilares dois andares acima da festa de inauguração.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Detonadas simultaneamente 40 minutos após o início do evento.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Sprinklers ativados nos andares 10, 11 e 12.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Convidados da festa evacuados em segurança.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Bombeiros e polícia chegam ao local.
+Dialogue: 0,0:27:21.78,0:27:27.78,Default,,0,0,0,,Data: 31 de julho de 1998, 20h30min00s.
+Dialogue: 0,0:27:22.74,0:27:26.63,Default,,0,0,0,,Ela pode muito bem ser o nosso homem-bomba.
+Dialogue: 0,0:27:28.28,0:27:33.33,Default,,0,0,0,,3 de agosto
+Dialogue: 0,0:28:15.03,0:28:16.42,Default,,0,0,0,,Gostaria de ver o seu futuro?
+Dialogue: 0,0:28:17.78,0:28:21.14,Default,,0,0,0,,Você é aquela que chamam de Mãe de Mifune?
+Dialogue: 0,0:28:21.14,0:28:25.38,Default,,0,0,0,,Nossa, esse nome me traz tantas lembranças.
+Dialogue: 0,0:28:25.38,0:28:27.63,Default,,0,0,0,,Faz anos que ninguém me chama assim.
+Dialogue: 0,0:28:27.63,0:28:31.89,Default,,0,0,0,,E agora te chamam de "homem-bomba"?
+Dialogue: 0,0:28:32.88,0:28:35.00,Default,,0,0,0,,Não me insulte.
+Dialogue: 0,0:28:36.00,0:28:40.14,Default,,0,0,0,,Eu apenas leio sortes no amor e o futuro das pessoas.
+Dialogue: 0,0:28:40.14,0:28:43.32,Default,,0,0,0,,Aquele tipo de coisa que os jovens adoram ouvir.
+Dialogue: 0,0:28:43.82,0:28:48.40,Default,,0,0,0,,Não tenho nada a dizer para uma assassina como você!
+Dialogue: 0,0:28:49.44,0:28:50.32,Default,,0,0,0,,Ora...
+Dialogue: 0,0:28:51.14,0:28:52.95,Default,,0,0,0,,Como você adivinhou?
+Dialogue: 0,0:28:53.39,0:28:57.84,Default,,0,0,0,,Você praticamente exala isso pelos poros.
+Dialogue: 0,0:28:57.84,0:29:00.96,Default,,0,0,0,,No entanto, parece que você não consegue alcançar...
+Dialogue: 0,0:29:01.81,0:29:04.55,Default,,0,0,0,,aquilo que mais almeja em seu íntimo.
+Dialogue: 0,0:29:18.63,0:29:20.56,Default,,0,0,0,,Visão do futuro...
+Dialogue: 0,0:29:20.56,0:29:23.71,Default,,0,0,0,,É-É um assunto meio estranho para puxar conversa, né?
+Dialogue: 0,0:29:23.71,0:29:26.54,Default,,0,0,0,,Na verdade, a estranha da história sou eu, não é?
+Dialogue: 0,0:29:28.08,0:29:31.11,Default,,0,0,0,,O que você quer dizer exatamente quando\Ndiz que consegue ver o futuro?
+Dialogue: 0,0:29:31.11,0:29:33.61,Default,,0,0,0,,Você realmente enxerga uma cena concreta na sua mente?
+Dialogue: 0,0:29:33.61,0:29:39.72,Default,,0,0,0,,S-Sim, mas parece mais uma vertigem repentina do que uma pintura nítida.
+Dialogue: 0,0:29:39.72,0:29:41.29,Default,,0,0,0,,E quando isso começou?
+Dialogue: 0,0:29:43.43,0:29:48.46,Default,,0,0,0,,Eu me dei conta de que via o futuro\Nquando estava no ensino fundamental.
+Dialogue: 0,0:29:49.78,0:29:54.62,Default,,0,0,0,,Quando eu era criança, não tinha noção do que eram aquelas visões.
+Dialogue: 0,0:29:54.62,0:29:57.90,Default,,0,0,0,,Acho que as imagens não eram tão claras quanto são hoje em dia.
+Dialogue: 0,0:30:00.71,0:30:01.78,Default,,0,0,0,,Isso é um alívio.
+Dialogue: 0,0:30:01.78,0:30:03.23,Default,,0,0,0,,Hã?
+Dialogue: 0,0:30:03.82,0:30:06.15,Default,,0,0,0,,Menos mal.
+Dialogue: 0,0:30:06.15,0:30:08.31,Default,,0,0,0,,Bem, talvez não seja a melhor forma de me expressar.
+Dialogue: 0,0:30:08.31,0:30:11.91,Default,,0,0,0,,Mas para uma criança, lidar com um peso desses deve ser perturbador.
+Dialogue: 0,0:30:11.91,0:30:16.91,Default,,0,0,0,,Só posso tentar imaginar, mas você deve ter passado por poucas e boas.
+Dialogue: 0,0:30:17.46,0:30:19.80,Default,,0,0,0,,Você é bem forte e resiliente, não é, Shizune-chan?
+Dialogue: 0,0:30:21.43,0:30:23.03,Default,,0,0,0,,Ai, não...
+Dialogue: 0,0:30:23.03,0:30:24.58,Default,,0,0,0,,Agora deu vontade de chorar.
+Dialogue: 0,0:30:36.33,0:30:40.18,Default,,0,0,0,,Eu não sentia essa dor desde aquele inverno, dois anos atrás.
+Dialogue: 0,0:30:41.40,0:30:47.45,Default,,0,0,0,,Quando cheguei em casa, vi o corpinho\Nsem vida do Chris, o meu cãozinho Shiba Inu.
+Dialogue: 0,0:31:04.16,0:31:06.42,Default,,0,0,0,,Tomada pela tristeza ao prever a morte dele,
+Dialogue: 0,0:31:06.42,0:31:09.21,Default,,0,0,0,,e ao mesmo tempo comovida por vê-lo ali me esperando,
+Dialogue: 0,0:31:09.21,0:31:11.32,Default,,0,0,0,,eu chorei a noite inteira.
+Dialogue: 0,0:31:41.64,0:31:48.16,Default,,0,0,0,,Na manhã seguinte, não o encontrei na casinha dele, mas debaixo da varanda, já sem vida.
+Dialogue: 0,0:31:48.16,0:31:49.61,Default,,0,0,0,,E então chorei tudo de novo.
+Dialogue: 0,0:31:54.96,0:32:00.41,Default,,0,0,0,,Eu sou obrigada a suportar o dobro da tristeza\Nque uma pessoa normal teria que carregar.
+Dialogue: 0,0:32:01.31,0:32:07.02,Default,,0,0,0,,E esse homem percebeu tudo isso\Nsem que eu precisasse dizer uma única palavra.
+Dialogue: 0,0:32:13.56,0:32:15.10,Default,,0,0,0,,E-Ei!
+Dialogue: 0,0:32:15.10,0:32:16.45,Default,,0,0,0,,Sim?
+Dialogue: 0,0:32:16.45,0:32:19.25,Default,,0,0,0,,P-Por favor, não me entenda mal...
+Dialogue: 0,0:32:19.25,0:32:23.04,Default,,0,0,0,,Mas, bem, será que eu poderia...
+Dialogue: 0,0:32:23.04,0:32:26.29,Default,,0,0,0,,Poderia te chamar de Mikiya-san a partir de agora?
+Dialogue: 0,0:32:28.25,0:32:31.17,Default,,0,0,0,,Claro, como for mais natural e confortável para você, Shizune-chan.
+Dialogue: 0,0:32:36.60,0:32:39.09,Default,,0,0,0,,Oba!
+Dialogue: 0,0:32:50.77,0:32:52.08,Default,,0,0,0,,Tanto faz.
+Dialogue: 0,0:32:52.08,0:32:55.56,Default,,0,0,0,,Não faço ideia se você tem mesmo esse dom ou não,
+Dialogue: 0,0:32:55.56,0:32:59.70,Default,,0,0,0,,mas agora começo a entender como pensam\Nas pessoas que conseguem prever o futuro.
+Dialogue: 0,0:32:59.70,0:33:03.60,Default,,0,0,0,,E o que exatamente você pensa que sabe sobre mim?
+Dialogue: 0,0:33:03.60,0:33:05.83,Default,,0,0,0,,Se está procurando encrenca, é só vir.
+Dialogue: 0,0:33:05.83,0:33:11.83,Default,,0,0,0,,Que tal se eu começasse te revelando algumas\Nverdades amargas sobre essa sua paixão não correspondida?
+Dialogue: 0,0:33:12.67,0:33:15.84,Default,,0,0,0,,Aquele garoto que você ama com cada fibra da sua alma?
+Dialogue: 0,0:33:21.24,0:33:24.83,Default,,0,0,0,,Ora, você até que é surpreendentemente gentil.
+Dialogue: 0,0:33:24.83,0:33:29.81,Default,,0,0,0,,Eu posso ler a sua sorte mesmo assim,\Nse você quiser, sem segundas intenções desta vez.
+Dialogue: 0,0:33:29.81,0:33:32.48,Default,,0,0,0,,Dispenso. Deixo passar.
+Dialogue: 0,0:33:32.48,0:33:33.89,Default,,0,0,0,,Até outra hora, então.
+Dialogue: 0,0:33:33.89,0:33:36.47,Default,,0,0,0,,Estas ruas são perigosas à noite.
+Dialogue: 0,0:33:36.47,0:33:38.78,Default,,0,0,0,,Não é lugar seguro para idosos perambularem.
+Dialogue: 0,0:33:38.78,0:33:43.09,Default,,0,0,0,,Puxa, que nobreza da sua parte me avisar.
+Dialogue: 0,0:33:43.09,0:33:46.53,Default,,0,0,0,,Nós já nos conhecemos antes?
+Dialogue: 0,0:33:46.53,0:33:47.46,Default,,0,0,0,,Nunca.
+Dialogue: 0,0:33:47.46,0:33:49.68,Default,,0,0,0,,E se estiver tentando dar em cima de mim, é bom desistir.
+Dialogue: 0,0:33:50.96,0:33:53.13,Default,,0,0,0,,Entendi. Uma lástima.
+Dialogue: 0,0:33:54.39,0:33:56.46,Default,,0,0,0,,Mas lembre-se: pontes trazem mau agouro.
+Dialogue: 0,0:33:56.46,0:33:57.92,Default,,0,0,0,,Tenha muito cuidado.
+Dialogue: 0,0:33:58.84,0:34:04.81,Default,,0,0,0,,Não que isso fosse sequer capaz\Nde chegar perto de matar alguém como você.
+Dialogue: 0,0:34:09.85,0:34:12.74,Default,,0,0,0,,Então, sobre essa clarividência.
+Dialogue: 0,0:34:12.74,0:34:15.18,Default,,0,0,0,,Até que distância no futuro você consegue enxergar?
+Dialogue: 0,0:34:15.18,0:34:16.33,Default,,0,0,0,,A-Ah, sim!
+Dialogue: 0,0:34:16.33,0:34:20.81,Default,,0,0,0,,Bem, eu consigo ver cenas de aproximadamente\Ntrês dias à frente no tempo.
+Dialogue: 0,0:34:20.81,0:34:24.42,Default,,0,0,0,,Mas às vezes essas visões simplesmente\Ninundam a minha mente do nada,
+Dialogue: 0,0:34:24.42,0:34:28.63,Default,,0,0,0,,e aí são acontecimentos de cerca\Nde um mês ou até mesmo um ano adiante.
+Dialogue: 0,0:34:28.63,0:34:31.63,Default,,0,0,0,,Entendo. Então existem níveis diferentes na sua percepção.
+Dialogue: 0,0:34:32.45,0:34:34.83,Default,,0,0,0,,Não tem nada de positivo em conseguir ver o futuro?
+Dialogue: 0,0:34:35.99,0:34:38.92,Default,,0,0,0,,Eu não diria isso.
+Dialogue: 0,0:34:39.70,0:34:43.66,Default,,0,0,0,,Mas eu conseguia saber com antecedência\Nquais questões cairiam nas minhas provas,
+Dialogue: 0,0:34:43.66,0:34:46.52,Default,,0,0,0,,então sempre tirava as notas mais altas do ano letivo até pouco tempo atrás.
+Dialogue: 0,0:34:47.66,0:34:50.18,Default,,0,0,0,,E olha que eu nem sou tão inteligente assim.
+Dialogue: 0,0:34:50.18,0:34:51.54,Default,,0,0,0,,Bizarro, né?
+Dialogue: 0,0:34:52.75,0:34:57.57,Default,,0,0,0,,Se me permite a pergunta: você tem medo de\Nenxergar o futuro, Shizune-chan?
+Dialogue: 0,0:34:58.46,0:34:59.90,Default,,0,0,0,,Eu não sei ao certo.
+Dialogue: 0,0:34:59.90,0:35:06.54,Default,,0,0,0,,Mas eu morro de medo de testemunhar\Num futuro que já esteja gravado em pedra.
+Dialogue: 0,0:35:06.54,0:35:11.85,Default,,0,0,0,,Mas você nunca viu algo assim\Nacontecer com alguém próximo a você, viu?
+Dialogue: 0,0:35:13.57,0:35:14.91,Default,,0,0,0,,Não.
+Dialogue: 0,0:35:14.91,0:35:15.71,Default,,0,0,0,,Mas...
+Dialogue: 0,0:35:16.83,0:35:20.71,Default,,0,0,0,,Incidentes como o de hoje me apavoram.
+Dialogue: 0,0:35:21.81,0:35:25.70,Default,,0,0,0,,Acho que mais do que medo, isso é simplesmente...
+Dialogue: 0,0:35:25.70,0:35:28.28,Default,,0,0,0,,Simplesmente o quê?
+Dialogue: 0,0:35:28.28,0:35:31.55,Default,,0,0,0,,Ah, vamos deixar essa parte para o final.
+Dialogue: 0,0:35:31.55,0:35:34.73,Default,,0,0,0,,Vamos continuar conversando sobre essa sua habilidade de clarividência.
+Dialogue: 0,0:35:36.12,0:35:39.48,Default,,0,0,0,,Shizune-chan, você nunca tinha visto aquele homem antes na vida, certo?
+Dialogue: 0,0:35:39.48,0:35:40.51,Default,,0,0,0,,Sim, nunca.
+Dialogue: 0,0:35:40.51,0:35:42.93,Default,,0,0,0,,E esta é a sua primeira vez na cidade?
+Dialogue: 0,0:35:44.31,0:35:47.95,Default,,0,0,0,,Não, eu já vim a Mifune várias vezes.
+Dialogue: 0,0:35:47.95,0:35:50.34,Default,,0,0,0,,Você veio de trem?
+Dialogue: 0,0:35:50.34,0:35:53.59,Default,,0,0,0,,Não, peguei o ônibus lá em Chounodai.
+Dialogue: 0,0:35:53.59,0:35:58.16,Default,,0,0,0,,Cheguei aqui por volta das 11 horas,\Ne foi mais ou menos nessa hora que a visão começou.
+Dialogue: 0,0:35:59.70,0:36:03.88,Default,,0,0,0,,O ônibus de Chounodai significa que\Nvocê veio na mesma direção que eu.
+Dialogue: 0,0:36:04.77,0:36:07.38,Default,,0,0,0,,Como você cruzou com aquele homem?
+Dialogue: 0,0:36:07.81,0:36:11.37,Default,,0,0,0,,Eu só falei com ele pela primeira vez depois de ter aquela visão do acidente.
+Dialogue: 0,0:36:11.37,0:36:13.13,Default,,0,0,0,,Antes disso...
+Dialogue: 0,0:36:13.13,0:36:15.31,Default,,0,0,0,,Que estranho, quando foi?
+Dialogue: 0,0:36:16.49,0:36:20.27,Default,,0,0,0,,A visão veio logo no instante em que\Nvocê desceu no ponto de ônibus, não foi?
+Dialogue: 0,0:36:20.27,0:36:25.44,Default,,0,0,0,,Aquele homem não poderia estar no\Nmesmo ônibus e ter descido antes de você?
+Dialogue: 0,0:36:26.43,0:36:27.11,Default,,0,0,0,,Ah!
+Dialogue: 0,0:36:27.11,0:36:29.62,Default,,0,0,0,,É mesmo, agora eu me lembrei!
+Dialogue: 0,0:36:29.62,0:36:31.50,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:36:31.50,0:36:35.97,Default,,0,0,0,,Para usar as palavras da Touko-san,\Nisso parece se encaixar perfeitamente na teoria.
+Dialogue: 0,0:36:35.97,0:36:37.02,Default,,0,0,0,,Hã?
+Dialogue: 0,0:36:39.29,0:36:41.17,Default,,0,0,0,,Garan no Dou / Santuário Vazio
+Dialogue: 0,0:36:39.29,0:36:41.17,Default,,0,0,0,,Equipe
+Dialogue: 0,0:36:39.29,0:36:41.17,Default,,0,0,0,,Mikiya Kokutou
+Dialogue: 0,0:36:49.79,0:36:53.17,Default,,0,0,0,,Certo, agora a minha última pergunta.
+Dialogue: 0,0:36:53.17,0:36:56.60,Default,,0,0,0,,Shizune-chan, você tem medo de ver o futuro?
+Dialogue: 0,0:36:57.56,0:36:58.52,Default,,0,0,0,,Ou...
+Dialogue: 0,0:36:59.22,0:37:02.54,Default,,0,0,0,,Tem medo do fato de que\No futuro seja imutável e definitivo?
+Dialogue: 0,0:37:09.51,0:37:14.41,Default,,0,0,0,,Ambos me assustam, mas se tivesse que escolher, seria a segunda opção.
+Dialogue: 0,0:37:15.87,0:37:18.29,Default,,0,0,0,,Então é um grande alívio.
+Dialogue: 0,0:37:19.05,0:37:26.71,Default,,0,0,0,,Como alguém mais velho, posso te garantir que suas preocupações são infundadas, Shizune-chan.
+Dialogue: 0,0:37:26.71,0:37:29.08,Default,,0,0,0,,Na verdade, você deveria observar quantos futuros puder.
+Dialogue: 0,0:37:29.08,0:37:32.33,Default,,0,0,0,,O quê?! D-De jeito nenhum!
+Dialogue: 0,0:37:32.33,0:37:34.93,Default,,0,0,0,,Mikiya-san, você sequer estava prestando atenção no que eu falei?
+Dialogue: 0,0:37:36.81,0:37:37.94,Default,,0,0,0,,Claro que estava.
+Dialogue: 0,0:37:37.94,0:37:42.02,Default,,0,0,0,,E pelo que você me contou,\No seu dom não tem absolutamente nada de prejudicial.
+Dialogue: 0,0:37:42.02,0:37:42.69,Default,,0,0,0,,Hã?
+Dialogue: 0,0:37:43.54,0:37:46.88,Default,,0,0,0,,Existem dois tipos fundamentais de visão do futuro.
+Dialogue: 0,0:37:46.88,0:37:49.55,Default,,0,0,0,,Esta é a teoria de uma pessoa conhecida, mas...
+Dialogue: 0,0:37:52.82,0:37:56.08,Default,,0,0,0,,Chefe, o dom da premonição realmente existe?
+Dialogue: 0,0:37:56.08,0:37:57.24,Default,,0,0,0,,Existe, sim.
+Dialogue: 0,0:37:57.24,0:38:00.05,Default,,0,0,0,,Mas é basicamente apenas uma extensão do poder de enxergar.
+Dialogue: 0,0:38:00.05,0:38:03.15,Default,,0,0,0,,Os dois tipos de clarividência\Nsão a Previsão e a Determinação.
+Dialogue: 0,0:38:06.72,0:38:09.35,Default,,0,0,0,,No entanto, a clarividência é, em última análise, um processo preditivo.
+Dialogue: 0,0:38:09.35,0:38:12.41,Default,,0,0,0,,Tome como exemplo uma Vítima A,\Nque está destinada a ser assassinada,
+Dialogue: 0,0:38:12.41,0:38:15.70,Default,,0,0,0,,e um Homicida B, que vai matar a Vítima A.
+Dialogue: 0,0:38:15.70,0:38:20.27,Default,,0,0,0,,Alguém com clarividência consegue antever como tudo vai terminar\Nsimplesmente ao colocar os olhos nessas duas pessoas.
+Dialogue: 0,0:38:20.27,0:38:24.17,Default,,0,0,0,,Sem precisar conhecer seus rostos, seus nomes ou as motivações do crime.
+Dialogue: 0,0:38:26.27,0:38:27.28,Default,,0,0,0,,Mas que palhaçada é essa?
+Dialogue: 0,0:38:27.28,0:38:31.84,Default,,0,0,0,,Se a pessoa sabe o desfecho mas ignora os motivos, isso não é ver o futuro.
+Dialogue: 0,0:38:31.84,0:38:33.70,Default,,0,0,0,,É só um palpite de sorte.
+Dialogue: 0,0:38:34.08,0:38:37.75,Default,,0,0,0,,Não confunda isso com o seu sexto sentido, Shiki.
+Dialogue: 0,0:38:37.75,0:38:38.95,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:38:38.95,0:38:43.04,Default,,0,0,0,,Se eu tivesse que explicar de forma simplificada: são pessoas que não esquecem.
+Dialogue: 0,0:38:49.48,0:38:54.01,Default,,0,0,0,,Cada dado visual que captam\Né registrado pelo cérebro e jamais descartado.
+Dialogue: 0,0:38:54.45,0:38:58.03,Default,,0,0,0,,Essas informações são então combinadas de forma orgânica,
+Dialogue: 0,0:38:58.03,0:39:02.48,Default,,0,0,0,,e a pessoa enxerga como imagens mentais os resultados\Nderivados desse arranjo inconsciente.
+Dialogue: 0,0:39:02.48,0:39:06.36,Default,,0,0,0,,A Previsão nada mais é do que\Num processamento avançado de informações.
+Dialogue: 0,0:39:06.36,0:39:10.15,Default,,0,0,0,,Eles não contemplam um futuro abstrato adiante,
+Dialogue: 0,0:39:10.15,0:39:14.26,Default,,0,0,0,,mas sim os desdobramentos lógicos que se materializam em realidade.
+Dialogue: 0,0:39:16.05,0:39:18.63,Default,,0,0,0,,Mas ela não era assim.
+Dialogue: 0,0:39:18.63,0:39:20.99,Default,,0,0,0,,Ela não estava analisando nada visualmente.
+Dialogue: 0,0:39:20.99,0:39:22.51,Default,,0,0,0,,Hã?
+Dialogue: 0,0:39:22.51,0:39:27.01,Default,,0,0,0,,Enxergar o futuro sem nenhuma premissa\Ninicial de dados não pode ser chamado de Previsão.
+Dialogue: 0,0:39:27.01,0:39:30.31,Default,,0,0,0,,Isso não é um privilégio humano, é extrapolar os limites permitidos.
+Dialogue: 0,0:39:32.90,0:39:36.88,Default,,0,0,0,,De qualquer forma, existem dois tipos de clarividência, certo?
+Dialogue: 0,0:39:36.88,0:39:41.01,Default,,0,0,0,,Touko, qual é a diferença entre Previsão e Determinação?
+Dialogue: 0,0:39:43.23,0:39:44.70,Default,,0,0,0,,Bem, vejamos.
+Dialogue: 0,0:39:44.70,0:39:47.85,Default,,0,0,0,,O tipo determinativo seria muito mais prático e útil no dia a dia.
+Dialogue: 0,0:39:47.85,0:39:50.59,Default,,0,0,0,,E também muito mais perigoso nas mãos de um criminoso.
+Dialogue: 0,0:39:50.59,0:39:54.80,Default,,0,0,0,,Por outro lado, o tipo mais puramente humano é a Previsão.
+Dialogue: 0,0:39:54.80,0:39:57.56,Default,,0,0,0,,E o tipo que mais combinaria com você, Ryougi Shiki, seria...
+Dialogue: 0,0:40:01.85,0:40:04.57,Default,,0,0,0,,Mas não vale a pena ficar divagando sobre suposições.
+Dialogue: 0,0:40:04.57,0:40:06.86,Default,,0,0,0,,Já chega de falar de clarividência por hoje.
+Dialogue: 0,0:40:06.86,0:40:12.13,Default,,0,0,0,,Chefe, se alguém por acaso cruzasse com um clarividente, o que deveria fazer?
+Dialogue: 0,0:40:13.94,0:40:17.97,Default,,0,0,0,,Se for do tipo preditivo, deixá-lo seguir o próprio rumo já seria o bastante, não?
+Dialogue: 0,0:40:18.67,0:40:21.35,Default,,0,0,0,,Com uma boa orientação de alguém de fora,
+Dialogue: 0,0:40:21.75,0:40:24.99,Default,,0,0,0,,essas pessoas conseguem se integrar perfeitamente à sociedade.
+Dialogue: 0,0:40:26.76,0:40:29.27,Default,,0,0,0,,Afinal, não importa o futuro que se enxergue...
+Dialogue: 0,0:40:30.41,0:40:33.97,Default,,0,0,0,,apenas você tem o poder de escolher o seu presente.
+Dialogue: 0,0:40:38.74,0:40:40.18,Default,,0,0,0,,Aqui está o seu pedido.
+Dialogue: 0,0:40:41.26,0:40:44.12,Default,,0,0,0,,Em outras palavras, a Determinação constrói um futuro rígido,
+Dialogue: 0,0:40:44.12,0:40:46.48,Default,,0,0,0,,ao passo que a Previsão o deduz a partir de tudo ao seu redor.
+Dialogue: 0,0:40:47.21,0:40:51.80,Default,,0,0,0,,E você, Shizune-chan, pertence claramente a este segundo grupo.
+Dialogue: 0,0:40:51.80,0:40:54.21,Default,,0,0,0,,Portanto, você não precisa se atormentar com isso.
+Dialogue: 0,0:40:58.06,0:40:59.34,Default,,0,0,0,,Outra delícia de prato!
+Dialogue: 0,0:41:00.18,0:41:03.02,Default,,0,0,0,,Você está me dizendo que eu só tenho uma memória excelente?
+Dialogue: 0,0:41:03.02,0:41:04.87,Default,,0,0,0,,Para mim, não parece nada disso.
+Dialogue: 0,0:41:04.87,0:41:07.72,Default,,0,0,0,,Se você tivesse plena consciência do processo,\Né aí que estaria o perigo real.
+Dialogue: 0,0:41:09.60,0:41:14.55,Default,,0,0,0,,Tenho certeza de que essa sua percepção futura funciona à parte...
+Dialogue: 0,0:41:16.68,0:41:20.43,Default,,0,0,0,,para não interferir com a sua sanidade no dia a dia.
+Dialogue: 0,0:41:26.12,0:41:27.75,Default,,0,0,0,,Por favor, garçom!
+Dialogue: 0,0:41:27.75,0:41:31.53,Default,,0,0,0,,Poderia me trazer a torta mista de laranja e sementes de girassol?
+Dialogue: 0,0:41:33.07,0:41:38.09,Default,,0,0,0,,Mas, no fim das contas, tenho apenas uma coisa para te dizer.
+Dialogue: 0,0:41:38.85,0:41:40.95,Default,,0,0,0,,O-O que seria?
+Dialogue: 0,0:41:42.70,0:41:46.79,Default,,0,0,0,,Shizune-chan, você não é tão especial assim.
+Dialogue: 0,0:41:46.79,0:41:51.14,Default,,0,0,0,,A capacidade de antever o futuro não é algo para você se martirizar.
+Dialogue: 0,0:41:52.28,0:41:56.31,Default,,0,0,0,,Mikiya-san, você só fala isso porque não consegue enxergar o futuro.
+Dialogue: 0,0:41:56.31,0:41:59.45,Default,,0,0,0,,Você jamais poderia entender como é...
+Dialogue: 0,0:42:02.67,0:42:04.28,Default,,0,0,0,,Aqui está o seu pedido.
+Dialogue: 0,0:42:10.96,0:42:14.58,Default,,0,0,0,,Para ser sincero, eu também consigo ver um pouquinho do futuro.
+Dialogue: 0,0:42:14.58,0:42:15.21,Default,,0,0,0,,Hã?
+Dialogue: 0,0:42:15.21,0:42:19.18,Default,,0,0,0,,A Shizune-chan vai...
+Dialogue: 0,0:42:15.21,0:42:19.18,Default,,0,0,0,,pedir a torta de laranja.
+Dialogue: 0,0:42:16.22,0:42:18.23,Default,,0,0,0,,Viu só? Legal, não é?
+Dialogue: 0,0:42:19.17,0:42:21.18,Default,,0,0,0,,Garan no Dou
+Dialogue: 0,0:42:21.45,0:42:23.49,Default,,0,0,0,,Talvez...
+Dialogue: 0,0:42:23.49,0:42:25.41,Default,,0,0,0,,Mas não caçoe de mim!
+Dialogue: 0,0:42:25.41,0:42:27.90,Default,,0,0,0,,Você só chutou de brincadeira.
+Dialogue: 0,0:42:27.90,0:42:31.47,Default,,0,0,0,,Qualquer um consegue deduzir o que vai acontecer se parar para pensar!
+Dialogue: 0,0:42:31.47,0:42:36.64,Default,,0,0,0,,O que eu estou falando é de um futuro imutável, que se realiza de fato...
+Dialogue: 0,0:42:36.64,0:42:39.56,Default,,0,0,0,,Quer dizer um futuro gravado em pedra, não é?
+Dialogue: 0,0:42:39.56,0:42:41.86,Default,,0,0,0,,Mas não foi isso o que aconteceu com aquele homem mais cedo.
+Dialogue: 0,0:42:45.42,0:42:46.87,Default,,0,0,0,,Ah, é verdade.
+Dialogue: 0,0:42:46.87,0:42:49.16,Default,,0,0,0,,Você o salvou.
+Dialogue: 0,0:42:49.16,0:42:51.71,Default,,0,0,0,,Você conseguiu salvá-lo, Shizune-chan.
+Dialogue: 0,0:42:51.71,0:42:55.04,Default,,0,0,0,,A minha dedução não chega aos pés da sua,
+Dialogue: 0,0:42:55.04,0:42:57.42,Default,,0,0,0,,mas em essência as duas são a mesmíssima coisa.
+Dialogue: 0,0:42:58.14,0:43:01.93,Default,,0,0,0,,Você está aceitando o futuro como uma consequência natural das coisas.
+Dialogue: 0,0:43:01.93,0:43:05.13,Default,,0,0,0,,Lembra-se do que você mesma me disse, Shizune-chan?
+Dialogue: 0,0:43:05.13,0:43:08.98,Default,,0,0,0,,"Não quero que o futuro seja gravado em pedra."
+Dialogue: 0,0:43:10.46,0:43:14.49,Default,,0,0,0,,Você teme a certeza absoluta porque tem esperança no amanhã.
+Dialogue: 0,0:43:14.49,0:43:18.83,Default,,0,0,0,,Se o futuro pode ser alterado através da sua ação,
+Dialogue: 0,0:43:20.45,0:43:24.47,Default,,0,0,0,,então o que você possui não é uma maldição, mas uma dádiva que pode proteger vidas.
+Dialogue: 0,0:43:25.46,0:43:26.70,Default,,0,0,0,,Será...
+Dialogue: 0,0:43:27.32,0:43:28.23,Default,,0,0,0,,será que é isso mesmo?
+Dialogue: 0,0:43:28.23,0:43:32.42,Default,,0,0,0,,Sim. Tenho absoluta certeza.
+Dialogue: 0,0:43:32.42,0:43:35.85,Default,,0,0,0,,Contanto que você continue escolhendo agir no seu presente,
+Dialogue: 0,0:43:41.76,0:43:45.79,Default,,0,0,0,,o futuro jamais será uma prisão inevitável.
+Dialogue: 0,0:43:45.79,0:43:49.48,Default,,0,0,0,,Mas não sei quanto a saber de antemão as questões das provas.
+Dialogue: 0,0:43:50.46,0:43:54.06,Default,,0,0,0,,Aí já é colar na cara dura, não acha?
+Dialogue: 0,0:43:54.06,0:43:57.47,Default,,0,0,0,,E-Ei! Isso não foi de propósito!
+Dialogue: 0,0:43:57.47,0:44:01.95,Default,,0,0,0,,As respostas simplesmente vinham na minha mente!
+Dialogue: 0,0:44:01.95,0:44:03.67,Default,,0,0,0,,Hahaha, estou brincando com você.
+Dialogue: 0,0:44:06.40,0:44:07.85,Default,,0,0,0,,Você me pegou nessa.
+Dialogue: 0,0:44:07.85,0:44:11.74,Default,,0,0,0,,Tome, pegue o meu cartão.
+Dialogue: 0,0:44:13.09,0:44:17.92,Default,,0,0,0,,Se um dia você se sentir perdida de novo com as suas visões,
+Dialogue: 0,0:44:17.92,0:44:19.01,Default,,0,0,0,,pode me ligar ou aparecer por lá quando quiser.
+Dialogue: 0,0:44:19.01,0:44:22.45,Default,,0,0,0,,Nossa, que cartão de visitas estiloso.
+Dialogue: 0,0:44:22.45,0:44:25.05,Default,,0,0,0,,Bem, acho que todos os cartões de design tentam ser.
+Dialogue: 0,0:44:34.39,0:44:53.04,Default,,0,0,0,,Kokutou Mikiya.
+Dialogue: 0,0:44:34.39,0:44:53.04,Default,,0,0,0,,Garan no Dou...
+Dialogue: 0,0:44:34.39,0:44:53.04,Default,,0,0,0,,É uma agência que faz projetos variados.
+Dialogue: 0,0:44:35.08,0:44:40.53,Default,,0,0,0,,A dona de lá é meio excêntrica, mas é uma ótima conselheira.
+Dialogue: 0,0:44:40.53,0:44:46.58,Default,,0,0,0,,Se eu tiver tempo para ficar me lamentando, devo usar esse esforço para viver melhor.
+Dialogue: 0,0:44:47.49,0:44:52.17,Default,,0,0,0,,Não era isso que você queria me dizer?
+Dialogue: 0,0:44:53.16,0:44:57.42,Default,,0,0,0,,Exatamente isso.
+Dialogue: 0,0:44:53.16,0:44:57.42,Default,,0,0,0,,Você é mesmo uma garota muito esperta, Shizune-chan.
+Dialogue: 0,0:44:54.19,0:44:57.16,Default,,0,0,0,,Puxa...
+Dialogue: 0,0:44:57.98,0:44:59.53,Default,,0,0,0,,Você me pegou de jeito.
+Dialogue: 0,0:44:59.53,0:45:03.46,Default,,0,0,0,,Muito obrigada, Mikiya-san.
+Dialogue: 0,0:45:03.95,0:45:08.19,Default,,0,0,0,,Por nada. Agora coma a sua torta antes que esfrie.
+Dialogue: 0,0:45:09.72,0:45:15.74,Default,,0,0,0,,Sim!
+Dialogue: 0,0:45:18.06,0:45:25.07,Default,,0,0,0,,Trimmm... Trimmm...
+Dialogue: 0,0:45:29.16,0:45:30.48,Default,,0,0,0,,Alô.
+Dialogue: 0,0:45:30.48,0:45:33.74,Default,,0,0,0,,Boa noite, Ryougi Shiki.
+Dialogue: 0,0:45:34.23,0:45:35.83,Default,,0,0,0,,É você, homem-bomba?
+Dialogue: 0,0:45:35.83,0:45:38.90,Default,,0,0,0,,Não me chame por esse apelido vulgar.
+Dialogue: 0,0:45:38.90,0:45:40.24,Default,,0,0,0,,Eu sou um artesão do destino.
+Dialogue: 0,0:45:40.24,0:45:43.27,Default,,0,0,0,,Tudo o que eu faço é armar explosivos milimetricamente calculados.
+Dialogue: 0,0:45:43.27,0:45:46.76,Default,,0,0,0,,E por que diabos você cismou comigo?
+Dialogue: 0,0:45:47.44,0:45:50.44,Default,,0,0,0,,Você viu o meu rosto naquele hotel.
+Dialogue: 0,0:45:50.44,0:45:51.48,Default,,0,0,0,,E mais do que isso: você é uma anomalia que não deveria existir no meu futuro.
+Dialogue: 0,0:45:51.48,0:45:52.76,Default,,0,0,0,,Uma anomalia?
+Dialogue: 0,0:45:53.41,0:45:56.01,Default,,0,0,0,,Eu venho tentando te matar há dias, sabia?
+Dialogue: 0,0:45:56.01,0:46:00.12,Default,,0,0,0,,Aquele canteiro de obras, o beco, o prédio abandonado...
+Dialogue: 0,0:46:00.12,0:46:02.33,Default,,0,0,0,,Tudo foi meticulosamente planejado.
+Dialogue: 0,0:46:02.33,0:46:04.77,Default,,0,0,0,,E mesmo assim, você sobreviveu a todas as armadilhas sem um único arranhão.
+Dialogue: 0,0:46:05.68,0:46:10.38,Default,,0,0,0,,Isso contraria a lógica da minha previsão.
+Dialogue: 0,0:46:10.38,0:46:12.19,Default,,0,0,0,,Ora, veja só como você é confiante.
+Dialogue: 0,0:46:12.19,0:46:15.78,Default,,0,0,0,,Achou mesmo que bombinhas daquelas seriam suficientes para me matar?
+Dialogue: 0,0:46:17.05,0:46:18.25,Default,,0,0,0,,Você não passa de um covarde que se esconde atrás de detonadores.
+Dialogue: 0,0:46:18.25,0:46:19.87,Default,,0,0,0,,Diga logo onde você está.
+Dialogue: 0,0:46:19.87,0:46:22.79,Default,,0,0,0,,Vou aí pessoalmente acabar com essa palhaçada.
+Dialogue: 0,0:46:23.75,0:46:25.62,Default,,0,0,0,,Ainda estou bem viva aqui, caso não tenha notado.
+Dialogue: 0,0:46:26.59,0:46:29.18,Default,,0,0,0,,Eu sei.
+Dialogue: 0,0:46:29.18,0:46:33.21,Default,,0,0,0,,Estou vendo você perfeitamente.
+Dialogue: 0,0:46:33.21,0:46:37.60,Default,,0,0,0,,O estacionamento subterrâneo do centro comercial de Mifune.
+Dialogue: 0,0:46:38.07,0:46:43.22,Default,,0,0,0,,Venha até o terceiro subsolo.
+Dialogue: 0,0:46:43.22,0:46:44.27,Default,,0,0,0,,Se não vier, detonarei os explosivos no saguão principal.
+Dialogue: 0,0:46:44.27,0:46:46.48,Default,,0,0,0,,Haverá centenas de vítimas inocentes.
+Dialogue: 0,0:46:46.48,0:46:50.36,Default,,0,0,0,,Você não faria isso.
+Dialogue: 0,0:46:52.22,0:46:55.12,Default,,0,0,0,,Você só mata quando calcula que sairá impune.
+Dialogue: 0,0:46:55.12,0:46:56.70,Default,,0,0,0,,Quem sabe?
+Dialogue: 0,0:46:57.68,0:47:02.80,Default,,0,0,0,,Quando o futuro se torna incerto, medidas extremas tornam-se necessárias.
+Dialogue: 0,0:47:02.80,0:47:05.35,Default,,0,0,0,,Estou te esperando, Shiki.
+Dialogue: 0,0:47:06.39,0:47:08.94,Default,,0,0,0,,Vamos ver se a sua lâmina consegue cortar o inevitável.
+Dialogue: 0,0:47:08.94,0:47:11.29,Default,,0,0,0,,Tu-tu-tu...
+Dialogue: 0,0:47:11.29,0:47:15.14,Default,,0,0,0,,Que sujeito irritante.
+Dialogue: 0,0:47:16.50,0:47:18.36,Default,,0,0,0,,Eu não tinha o que se poderia chamar de vontade própria há quase seis anos.
+Dialogue: 0,0:47:18.36,0:47:20.85,Default,,0,0,0,,Apenas cumpria os desfechos que meu olho direito me impunha.
+Dialogue: 0,0:47:22.22,0:47:23.87,Default,,0,0,0,,Mas aquela mulher de quimono...
+Dialogue: 0,0:47:23.87,0:47:26.52,Default,,0,0,0,,Ela é uma fenda na tapeçaria do tempo.
+Dialogue: 0,0:47:26.52,0:47:28.91,Default,,0,0,0,,Ela precisa ser eliminada.
+Dialogue: 0,0:47:28.91,0:47:31.22,Default,,0,0,0,,Você mente muito mal.
+Dialogue: 0,0:47:31.22,0:47:34.11,Default,,0,0,0,,Seu coração está disparado através do fone.
+Dialogue: 0,0:47:34.74,0:47:37.53,Default,,0,0,0,,Você está com medo de mim, homem-bomba.
+Dialogue: 0,0:47:40.12,0:47:43.87,Default,,0,0,0,,Com medo? Eu?
+Dialogue: 0,0:47:43.87,0:47:46.02,Default,,0,0,0,,Se você é o espectador que contempla a cena, então você teria que ser a própria câmera.
+Dialogue: 0,0:48:09.86,0:48:12.69,Default,,0,0,0,,Chamada em andamento
+Dialogue: 0,0:48:09.86,0:48:12.69,Default,,0,0,0,,Opções
+Dialogue: 0,0:48:09.86,0:48:12.69,Default,,0,0,0,,Voltar
+Dialogue: 0,0:48:21.25,0:48:23.29,Default,,0,0,0,,E agora eu te encontrei.
+Dialogue: 0,0:48:38.72,0:48:39.68,Default,,0,0,0,,Ela está vindo!
+Dialogue: 0,0:48:39.68,0:48:42.23,Default,,0,0,0,,Sobreviver à explosão da ponte era a peça final!
+Dialogue: 0,0:48:42.23,0:48:44.47,Default,,0,0,0,,Finalmente!
+Dialogue: 0,0:48:49.45,0:48:53.15,Default,,0,0,0,,Daqui a quinze minutos, naquele edifício-garagem.
+Dialogue: 0,0:49:02.49,0:49:03.96,Default,,0,0,0,,É onde...
+Dialogue: 0,0:49:47.38,0:49:48.77,Default,,0,0,0,,Ei.
+Dialogue: 0,0:49:48.77,0:49:51.50,Default,,0,0,0,,Peguei você agora, homem-bomba.
+Dialogue: 0,0:51:02.73,0:51:03.53,Default,,0,0,0,,Não pode ser!
+Dialogue: 0,0:51:04.63,0:51:06.44,Default,,0,0,0,,Não...
+Dialogue: 0,0:51:06.44,0:51:08.37,Default,,0,0,0,,Consegue me ouvir, homem-bomba?
+Dialogue: 0,0:51:10.02,0:51:14.02,Default,,0,0,0,,Se ele não enxerga nada, então você não precisa desse olho.
+Dialogue: 0,0:51:16.63,0:51:21.38,Default,,0,0,0,,Se fosse simples previsão, você talvez tivesse conseguido me matar.
+Dialogue: 0,0:51:21.38,0:51:23.72,Default,,0,0,0,,Mas isso mal precisa ser dito.
+Dialogue: 0,0:51:23.72,0:51:27.22,Default,,0,0,0,,Você enxerga demais.
+Dialogue: 0,0:51:30.08,0:51:31.24,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:51:31.99,0:51:33.73,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:51:34.21,0:51:38.23,Default,,0,0,0,,Por que o futuro mudou?
+Dialogue: 0,0:51:39.75,0:51:41.33,Default,,0,0,0,,Não mudou.
+Dialogue: 0,0:51:42.35,0:51:44.99,Default,,0,0,0,,O "futuro" nunca existiu em primeiro lugar.
+Dialogue: 0,0:51:45.75,0:51:48.16,Default,,0,0,0,,Não se pode interferir naquilo que não existe.
+Dialogue: 0,0:51:50.26,0:51:55.33,Default,,0,0,0,,Previsão é enxergar a probabilidade de um futuro se concretizar.
+Dialogue: 0,0:51:56.35,0:52:04.17,Default,,0,0,0,,Por outro lado, determinação é purgar todas as probabilidades e impor o futuro que você enxerga.
+Dialogue: 0,0:52:04.76,0:52:08.18,Default,,0,0,0,,É uma faculdade singular que ultrapassa de longe a mera previsão.
+Dialogue: 0,0:52:08.73,0:52:09.80,Default,,0,0,0,,Entretanto...
+Dialogue: 0,0:52:10.84,0:52:14.10,Default,,0,0,0,,O futuro é invencível precisamente porque não possui forma.
+Dialogue: 0,0:52:14.10,0:52:19.56,Default,,0,0,0,,Mas se você lhe dá uma forma, é natural que ela possa ser destruída.
+Dialogue: 0,0:52:20.66,0:52:25.11,Default,,0,0,0,,E o seu futuro era ainda mais nítido do que as ranhuras de um parafuso.
+Dialogue: 0,0:52:26.08,0:52:31.95,Default,,0,0,0,,No instante em que você deu forma ao desfecho disto, seu futuro estagnou.
+Dialogue: 0,0:52:35.20,0:52:37.54,Default,,0,0,0,,Adeus, homem-bomba.
+Dialogue: 0,0:52:40.57,0:52:43.00,Default,,0,0,0,,Qual é a daquele sujeito?
+Dialogue: 0,0:53:01.25,0:53:02.31,Default,,0,0,0,,Vamos, venha logo!
+Dialogue: 0,0:53:02.31,0:53:03.19,Default,,0,0,0,,C-Certo!
+Dialogue: 2,0:53:12.83,0:53:17.83,Sign-Top,,0,0,0,,31 de agosto
+Dialogue: 0,0:53:18.97,0:53:20.85,Default,,0,0,0,,Bem-vinda de volta!
+Dialogue: 0,0:53:20.85,0:53:22.71,Default,,0,0,0,,Aconteceu algo de interessante?
+Dialogue: 0,0:53:23.98,0:53:26.29,Default,,0,0,0,,Obrigada, Naomi-chan.
+Dialogue: 0,0:53:26.29,0:53:27.88,Default,,0,0,0,,Soube que era eu?
+Dialogue: 0,0:53:27.88,0:53:29.11,Default,,0,0,0,,Claro.
+Dialogue: 0,0:53:29.78,0:53:31.16,Default,,0,0,0,,E então? Desembucha.
+Dialogue: 0,0:53:32.65,0:53:37.52,Default,,0,0,0,,Nada de extraordinário, mas experimentei algo inédito.
+Dialogue: 0,0:53:38.45,0:53:43.65,Default,,0,0,0,,Eu amei e perdi pela primeiríssima vez.
+Dialogue: 0,0:53:45.07,0:53:47.64,Default,,0,0,0,,Peraí, o quê? Amou e perdeu?
+Dialogue: 0,0:53:47.64,0:53:53.04,Default,,0,0,0,,Sabe, antes de vir para cá, tive um encontro inesperado.
+Dialogue: 0,0:53:53.04,0:53:55.90,Default,,0,0,0,,Ah, comprei o que você me pediu.
+Dialogue: 0,0:53:55.90,0:53:57.29,Default,,0,0,0,,Quer que eu vá buscar?
+Dialogue: 0,0:53:58.42,0:54:02.68,Default,,0,0,0,,Desculpe, acabei arranjando em outro lugar.
+Dialogue: 0,0:54:02.68,0:54:03.88,Default,,0,0,0,,Mas e essa sua desilusão amorosa?!
+Dialogue: 0,0:54:04.30,0:54:06.55,Default,,0,0,0,,Vamos falar sobre isso, Seo!
+Dialogue: 0,0:54:43.22,0:54:45.59,Default,,0,0,0,,Acabei te prendendo por bastante tempo.
+Dialogue: 0,0:54:45.59,0:54:47.25,Default,,0,0,0,,Devemos ir.
+Dialogue: 0,0:54:47.25,0:54:50.87,Default,,0,0,0,,M-Muito obrigada.
+Dialogue: 0,0:54:53.89,0:54:57.49,Default,,0,0,0,,Er... você disse que ver o futuro não era nada tão especial.
+Dialogue: 0,0:54:57.49,0:55:00.73,Default,,0,0,0,,Que conhecia alguém assim.
+Dialogue: 0,0:55:02.40,0:55:05.96,Default,,0,0,0,,Estava falando da sua namorada, Kokutou-san?
+Dialogue: 0,0:55:05.96,0:55:07.40,Default,,0,0,0,,O quê?
+Dialogue: 0,0:55:07.40,0:55:10.66,Default,,0,0,0,,Bem, er... não tenho muita certeza.
+Dialogue: 0,0:55:14.78,0:55:16.06,Default,,0,0,0,,Essa foi de surpresa.
+Dialogue: 0,0:55:16.06,0:55:18.66,Default,,0,0,0,,Você teve uma visão?
+Dialogue: 0,0:55:23.72,0:55:26.21,Default,,0,0,0,,Por favor, não fique chateado quando eu disser isto...
+Dialogue: 0,0:55:27.90,0:55:32.04,Default,,0,0,0,,Er... se você continuar se encontrando com essa mulher,
+Dialogue: 0,0:55:32.04,0:55:35.58,Default,,0,0,0,,Mikiya-san, você vai morrer.
+Dialogue: 0,0:55:37.12,0:55:38.51,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:55:38.51,0:55:41.18,Default,,0,0,0,,Obrigado pelo aviso, Shizune-chan.
+Dialogue: 0,0:55:42.44,0:55:46.03,Default,,0,0,0,,Não vou pedir detalhes, porém.
+Dialogue: 0,0:55:46.03,0:55:51.28,Default,,0,0,0,,Parece assustador, mas se eu souber o que vai acontecer, posso hesitar em fazer algo importante quando a hora chegar.
+Dialogue: 0,0:55:55.96,0:56:02.00,Default-Italics,,0,0,0,,Ele disse ter mais medo de fugir do que de encarar seu destino.
+Dialogue: 0,0:56:03.39,0:56:07.96,Default-Italics,,0,0,0,,Sua bravura me fez respeitá-lo e admirá-lo de coração.
+Dialogue: 0,0:56:08.87,0:56:11.27,Default-Italics,,0,0,0,,Convivi com ele por apenas uma hora,
+Dialogue: 0,0:56:11.27,0:56:16.18,Default-Italics,,0,0,0,,mas isso se tornaria uma luz-guia para mim que eu não trocaria pelo mundo inteiro.
+Dialogue: 0,0:56:18.90,0:56:24.98,Default-Italics,,0,0,0,,E essa é a história do meu primeiro amor, do começo ao fim.
+Dialogue: 0,0:56:27.65,0:56:33.69,Default,,0,0,0,,Seo... odeio dizer isto, mas isso não foi amor.
+Dialogue: 0,0:56:34.63,0:56:36.99,Default,,0,0,0,,Você também acha, Naomi-chan?
+Dialogue: 0,0:56:36.99,0:56:38.23,Default,,0,0,0,,Sim.
+Dialogue: 0,0:56:38.23,0:56:40.81,Default,,0,0,0,,Foi apenas admiração da sua parte.
+Dialogue: 0,0:56:40.81,0:56:44.34,Default,,0,0,0,,O amor seria algo bem mais avassalador, constrangedor...
+Dialogue: 0,0:56:44.34,0:56:46.50,Default,,0,0,0,,...e totalmente imprevisível, para completar.
+Dialogue: 0,0:56:47.14,0:56:52.50,Default,,0,0,0,,É uma montanha-russa na qual você chega ao destino ou se espatifa miseravelmente.
+Dialogue: 0,0:56:52.99,0:56:57.33,Default,,0,0,0,,Falando francamente, não sobram memórias bonitas depois de...
+Dialogue: 0,0:56:59.86,0:57:00.79,Default,,0,0,0,,O quê?
+Dialogue: 0,0:57:01.51,0:57:02.99,Default,,0,0,0,,Ah, nada.
+Dialogue: 0,0:57:02.99,0:57:05.56,Default,,0,0,0,,A conversa de vocês parecia tão divertida, só isso.
+Dialogue: 0,0:57:05.56,0:57:08.27,Default,,0,0,0,,Se importam se eu me juntar?
+Dialogue: 0,0:57:11.20,0:57:13.02,Default,,0,0,0,,Prazer em conhecê-las!
+Dialogue: 0,0:57:13.54,0:57:17.15,Default,,0,0,0,,Ora? Você seria por acaso a Seo-san?
+Dialogue: 0,0:57:17.15,0:57:18.47,Default,,0,0,0,,Que ótimo!
+Dialogue: 0,0:57:18.47,0:57:20.98,Default,,0,0,0,,Poupa-me o trabalho de ir cumprimentar.
+Dialogue: 0,0:57:20.98,0:57:22.03,Default,,0,0,0,,Ei, garota!
+Dialogue: 0,0:57:22.03,0:57:24.17,Default,,0,0,0,,Quem disse que você podia se intrometer?
+Dialogue: 0,0:57:24.17,0:57:25.94,Default,,0,0,0,,Qual é o problema?
+Dialogue: 0,0:57:25.94,0:57:29.41,Default,,0,0,0,,Só estou conhecendo minha nova colega de quarto.
+Dialogue: 0,0:57:33.57,0:57:38.04,Default-Italics,,0,0,0,,Ela e eu ficaríamos juntas por um ano... não, por muito mais tempo.
+Dialogue: 0,0:57:38.04,0:57:40.58,Default-Italics,,0,0,0,,Naquela última noite das férias de verão,
+Dialogue: 0,0:57:40.58,0:57:43.19,Default-Italics,,0,0,0,,conheci a garota que um dia alcançaria o topo da Reien,
+Dialogue: 0,0:57:43.19,0:57:45.64,Default-Italics,,0,0,0,,minha inseparável e melhor amiga.
+Dialogue: 0,0:57:54.84,0:57:57.95,Default-Italics,,0,0,0,,E esse é o relato completo do que fiz neste verão.
+Dialogue: 0,0:57:58.71,0:58:01.39,Default-Italics,,0,0,0,,Eu ainda enxergo o futuro.
+Dialogue: 2,0:57:59.53,0:58:03.53,Sign-Top,,0,0,0,,Confinada aos dormitórios novamente
+Dialogue: 0,0:57:59.53,0:58:03.53,Default,,0,0,0,,UÉÉÉ
+Dialogue: 0,0:57:59.53,0:58:03.53,Default,,0,0,0,,Buááá
+Dialogue: 0,0:58:01.39,0:58:06.49,Default-Italics,,0,0,0,,Nada mudou ou foi resolvido,
+Dialogue: 0,0:58:06.49,0:58:09.21,Default-Italics,,0,0,0,,mas cansei completamente de me angustiar.
+Dialogue: 0,0:58:09.93,0:58:15.56,Default-Italics,,0,0,0,,Preciso acreditar em mim mesma, assim como o Kokutou-san fez ao sorrir tão gentilmente para mim.
+Dialogue: 0,0:58:15.56,0:58:18.57,Default-Italics,,0,0,0,,Do contrário, meu futuro abençoado jamais se concretizará.
+Dialogue: 0,0:58:21.77,0:58:24.78,Default-Italics,,0,0,0,,Estou trapaceando na vida com o grande poder da clarividência,
+Dialogue: 0,0:58:24.78,0:58:28.72,Default-Italics,,0,0,0,,e com ele naturalmente vêm grandes responsabilidades.
+Dialogue: 0,0:58:32.94,0:58:37.27,Default-Italics,,0,0,0,,Ainda assim, pude acolher minha visão em vez de repeli-la,
+Dialogue: 0,0:58:37.27,0:58:42.93,Default-Italics,,0,0,0,,porque acredito que um dia ela me permitirá fazer o bem a alguém.
+Dialogue: 0,0:58:44.78,0:58:48.69,Default-Italics,,0,0,0,,E viverei sob essa convicção, com um sorriso no rosto.
+Dialogue: 0,0:59:37.77,0:59:39.63,Default,,0,0,0,,Que calor...
+Dialogue: 2,1:00:17.25,1:00:23.26,Sign-Top,,0,0,0,,Bênção Futura, Introdução
+Dialogue: 2,1:00:17.25,1:00:23.26,Sign-Top,,0,0,0,,Agosto de 2010
+Dialogue: 0,1:00:30.66,1:00:34.77,Default-Italics,,0,0,0,,Não é que eu sinta inveja dos humanos ou algo do tipo.
+Dialogue: 0,1:00:35.42,1:00:39.03,Default-Italics,,0,0,0,,É apenas que a cidade é radiante e vívida demais.
+Dialogue: 0,1:00:43.21,1:00:44.93,Default-Italics,,0,0,0,,Pode parecer uma metáfora estranha,
+Dialogue: 0,1:00:45.74,1:00:48.14,Default-Italics,,0,0,0,,mas sou como a tinta usada para registrar as coisas.
+Dialogue: 0,1:00:51.66,1:00:57.54,Default,,0,0,0,,Uma imensa flor no céu noturno, como a roubar os olhos do povo das pétalas de cerejeira que dançam ao cair.
+Dialogue: 0,1:00:58.44,1:01:00.64,Default,,0,0,0,,A primavera vem apenas uma vez ao ano.
+Dialogue: 0,1:01:00.64,1:01:03.21,Default,,0,0,0,,O que fazer? Eles vão me enxotar.
+Dialogue: 0,1:01:03.97,1:01:07.05,Default,,0,0,0,,O que fazer? Agora eles vão me temer.
+Dialogue: 0,1:01:07.63,1:01:12.05,Default,,0,0,0,,Em seus momentos finais, uma solitária lágrima deslizou pela face do homem.
+Dialogue: 0,1:01:15.68,1:01:17.70,Default,,0,0,0,,Ah, Mitsuru-san!
+Dialogue: 0,1:01:17.70,1:01:19.90,Default,,0,0,0,,Pensei que você tivesse saído.
+Dialogue: 2,1:01:18.15,1:01:19.90,Sign-Top,,0,0,0,,As Lágrimas do Vampiro
+Dialogue: 0,1:01:21.30,1:01:23.40,Default,,0,0,0,,Eu estava no telhado.
+Dialogue: 0,1:01:24.08,1:01:26.95,Default,,0,0,0,,Ah... Que pena, perdi a chance.
+Dialogue: 0,1:01:26.95,1:01:28.93,Default,,0,0,0,,Deveria ter subido.
+Dialogue: 0,1:01:30.08,1:01:31.81,Default,,0,0,0,,Por favor, nem pense nisso.
+Dialogue: 0,1:01:31.81,1:01:34.16,Default,,0,0,0,,Teria arruinado meu descanso.
+Dialogue: 0,1:01:34.85,1:01:37.67,Default,,0,0,0,,Mitsuru-san, você está sempre de mau humor.
+Dialogue: 0,1:01:38.51,1:01:42.95,Default,,0,0,0,,E olha que matei aula no cursinho para te trazer um trabalho.
+Dialogue: 0,1:01:44.68,1:01:48.54,Default,,0,0,0,,Quantas vezes preciso te dizer para não gazear o cursinho para vir aqui?
+Dialogue: 0,1:01:48.54,1:01:53.43,Default,,0,0,0,,Quer que eu seja morto, Mana-ojousama?
+Dialogue: 0,1:01:55.57,1:02:01.23,Default,,0,0,0,,Mitsuru-san, eu odeio que me chamem de "ojousama".
+Dialogue: 0,1:02:02.33,1:02:04.23,Default,,0,0,0,,Isto é uma ordem.
+Dialogue: 0,1:02:04.95,1:02:09.45,Default,,0,0,0,,Tem que me chamar de Mana-kun, como fez quando nos conhecemos.
+Dialogue: 0,1:02:10.06,1:02:12.83,Default,,0,0,0,,Sinto muito, mas não vou entrar nos seus joguinhos.
+Dialogue: 0,1:02:12.83,1:02:16.94,Default,,0,0,0,,Não vou virar marionete de uma garota de dez anos.
+Dialogue: 0,1:02:21.08,1:02:21.79,Default,,0,0,0,,Sim, sim.
+Dialogue: 0,1:02:22.47,1:02:24.53,Default,,0,0,0,,É disso que eu gosto em você.
+Dialogue: 0,1:02:24.53,1:02:27.48,Default,,0,0,0,,Você fala e age como um delinquente.
+Dialogue: 0,1:02:30.52,1:02:33.14,Default,,0,0,0,,Gosto quando as pessoas não usam meias-palavras.
+Dialogue: 0,1:02:38.72,1:02:40.64,Default-Italics,,0,0,0,,Cerca de dois anos atrás,
+Dialogue: 0,1:02:41.60,1:02:47.72,Default-Italics,,0,0,0,,contraí uma enorme dívida e tive que encarar meus credores.
+Dialogue: 2,1:02:43.15,1:02:46.15,Sign-Top,,0,0,0,,Contrato de Quitação de Empréstimo
+Dialogue: 0,1:02:49.96,1:02:55.73,Default-Italics,,0,0,0,,O problema era que o chefe de tais credores era uma figura bem influente por essas bandas.
+Dialogue: 0,1:02:57.22,1:03:02.90,Default-Italics,,0,0,0,,E um yakuza, para completar.
+Dialogue: 2,1:03:24.11,1:03:26.61,Sign-Top,,0,0,0,,As Lágrimas do Vampiro
+Dialogue: 0,1:03:27.25,1:03:29.18,Default,,0,0,0,,Você é o Kamekura-sensei, não é?
+Dialogue: 0,1:03:31.51,1:03:33.54,Default,,0,0,0,,É uma grande honra conhecê-lo!
+Dialogue: 0,1:03:35.53,1:03:40.33,Default-Italics,,0,0,0,,Essa menina, Mana, era a única filha do chefão.
+Dialogue: 0,1:03:40.81,1:03:46.02,Default-Italics,,0,0,0,,E assim me tornei membro do clã deles e vivi para ver outro dia.
+Dialogue: 0,1:03:49.81,1:03:51.71,Default,,0,0,0,,Ora, que conveniente.
+Dialogue: 0,1:03:52.51,1:03:55.95,Default,,0,0,0,,Estávamos justamente querendo abrir uma agência de detetives.
+Dialogue: 0,1:04:00.42,1:04:03.06,Default,,0,0,0,,Você tem as habilidades necessárias, certo?
+Dialogue: 0,1:04:04.82,1:04:07.74,Default,,0,0,0,,O quê? Você ilustra livros infantis?
+Dialogue: 0,1:04:09.32,1:04:10.54,Default,,0,0,0,,Muito bem.
+Dialogue: 0,1:04:10.54,1:04:12.88,Default,,0,0,0,,Pode manter isso como trabalho paralelo.
+Dialogue: 0,1:04:17.84,1:04:21.95,Default,,0,0,0,,Certo, Mana, qual é esse trabalho que você trouxe do clã?
+Dialogue: 0,1:04:22.67,1:04:27.71,Default,,0,0,0,,Uma pessoa suspeita montou uma tenda na região. Você deve investigá-la...
+Dialogue: 0,1:04:28.41,1:04:31.21,Default,,0,0,0,,e dar um chute na bunda dela!
+Dialogue: 0,1:04:31.78,1:04:37.14,Default,,0,0,0,,Não me orgulho disso, mas não levo jeito nenhum para coagir ninguém.
+Dialogue: 0,1:04:39.41,1:04:42.72,Default,,0,0,0,,É uma vidente que ninguém visita.
+Dialogue: 0,1:04:43.13,1:04:45.49,Default,,0,0,0,,Ela é uma conhecida de longa data...
+Dialogue: 0,1:04:45.49,1:04:48.32,Default,,0,0,0,,Hã? Ah, o contrário.
+Dialogue: 0,1:04:48.32,1:04:51.07,Default,,0,0,0,,Portanto, você deve cuidar dela até o fim.
+Dialogue: 2,1:04:52.61,1:04:53.99,Sign-Top,,0,0,0,,Seu novo hardware está instalado e pronto para uso.
+Dialogue: 2,1:04:52.61,1:04:53.99,Sign-Top,,0,0,0,,Dispositivo de Armazenamento USB
+Dialogue: 0,1:04:57.48,1:05:00.10,Default,,0,0,0,,Este é o endereço dela?
+Dialogue: 0,1:05:01.97,1:05:03.76,Default,,0,0,0,,Não posso acreditar.
+Dialogue: 0,1:05:03.76,1:05:07.08,Default,,0,0,0,,Aquela velha ainda está viva?
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Características:
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Mulher de grande porte. Veste preto. Cabelo e chapéu brancos, com véu cobrindo o rosto.
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Idade:
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Desconhecida (Presume-se na faixa dos 60 anos)
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Ocupação:
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Adivinhação / Cartomancia
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Nome real:
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Desconhecido (Alcunha: Mãe de Mifune)
+Dialogue: 2,1:05:04.33,1:05:08.09,Sign-Top,,0,0,0,,Alvo de Investigação
+Dialogue: 0,1:05:08.48,1:05:10.94,Default,,0,0,0,,Conhece essa pessoa, Mitsuru-san?
+Dialogue: 0,1:05:10.94,1:05:12.96,Default,,0,0,0,,De muito tempo atrás, sim.
+Dialogue: 0,1:05:12.96,1:05:17.67,Default,,0,0,0,,Ela era famosa por sempre acertar suas previsões.
+Dialogue: 0,1:05:18.99,1:05:23.53,Default,,0,0,0,,Nossa, diz aqui que ela consegue ver o futuro.
+Dialogue: 0,1:05:23.53,1:05:24.60,Default,,0,0,0,,É verdade?
+Dialogue: 0,1:05:26.18,1:05:27.35,Default,,0,0,0,,Sim.
+Dialogue: 0,1:05:27.35,1:05:30.23,Default,,0,0,0,,A maioria dos poderes de vidência é farsa,
+Dialogue: 0,1:05:30.92,1:05:33.54,Default,,0,0,0,,mas a clarividência dela era autêntica.
+Dialogue: 0,1:05:45.04,1:05:47.54,Default-Italics,,0,0,0,,A clarividência se divide em dois tipos:
+Dialogue: 0,1:06:06.31,1:06:07.68,Default-Italics,,0,0,0,,Previsão e Determinação.
+Dialogue: 0,1:06:07.68,1:06:10.75,Default-Italics,,0,0,0,,Aquela velha possuía o primeiro tipo, assim como eu.
+Dialogue: 0,1:06:12.22,1:06:13.94,Default-Italics,,0,0,0,,Ela era o modelo original que eu imitava.
+Dialogue: 0,1:06:13.94,1:06:16.36,Default,,0,0,0,,Fique perto de mim.
+Dialogue: 0,1:07:04.57,1:07:06.47,Default,,0,0,0,,Sejam bem-vindos.
+Dialogue: 0,1:07:06.47,1:07:10.54,Default,,0,0,0,,Gostaria de ver o seu futuro, jovem?
+Dialogue: 0,1:07:13.13,1:07:14.12,Default,,0,0,0,,Sim!
+Dialogue: 0,1:07:14.12,1:07:15.58,Default,,0,0,0,,Sim, sim, sim!
+Dialogue: 0,1:07:16.69,1:07:18.75,Default,,0,0,0,,Prazer em conhecê-la, senhora vidente!
+Dialogue: 0,1:07:19.60,1:07:23.59,Default,,0,0,0,,Er, eu não sou adulta, mas ainda posso ver minha sorte?
+Dialogue: 0,1:07:23.59,1:07:27.85,Default,,0,0,0,,Nossa, que voz adorável.
+Dialogue: 0,1:07:27.85,1:07:29.69,Default,,0,0,0,,Pois bem.
+Dialogue: 0,1:07:29.69,1:07:32.13,Default,,0,0,0,,O que gostaria de saber?
+Dialogue: 0,1:07:32.13,1:07:34.10,Default,,0,0,0,,Pergunte o que quiser.
+Dialogue: 0,1:07:34.71,1:07:38.27,Default,,0,0,0,,Meninas não pagam.
+Dialogue: 0,1:07:38.27,1:07:42.11,Default,,0,0,0,,Poderia prever a sorte no amor entre mim e o meu papai?
+Dialogue: 0,1:07:49.24,1:07:52.12,Default,,0,0,0,,Ora, não há nada a adivinhar!
+Dialogue: 0,1:07:52.80,1:07:55.07,Default,,0,0,0,,Vocês dois se amam profundamente.
+Dialogue: 0,1:07:55.07,1:07:59.38,Default,,0,0,0,,Se fosse mais profundo, estariam cruzando barreiras éticas.
+Dialogue: 0,1:07:59.82,1:08:00.77,Default,,0,0,0,,Que bom!
+Dialogue: 0,1:08:00.77,1:08:06.48,Default,,0,0,0,,Derrotar a minha mãe e tomar meu papai de volta é o meu objetivo!
+Dialogue: 0,1:08:11.35,1:08:14.23,Default,,0,0,0,,Como decaiu a outrora grande Mãe de Mifune.
+Dialogue: 0,1:08:14.94,1:08:20.26,Default,,0,0,0,,Está insinuando que seu truque de "evitar o infortúnio" agora ficou ultrapassado?
+Dialogue: 0,1:08:22.68,1:08:24.58,Default,,0,0,0,,Dentre todas as pessoas que eu poderia reencontrar.
+Dialogue: 0,1:08:24.58,1:08:26.29,Default,,0,0,0,,Isso me traz lembranças.
+Dialogue: 0,1:08:26.29,1:08:28.24,Default,,0,0,0,,Um colega vidente.
+Dialogue: 0,1:08:28.24,1:08:33.38,Default,,0,0,0,,Ou deveria dizer que costumávamos ser colegas videntes?
+Dialogue: 0,1:08:34.30,1:08:36.20,Default,,0,0,0,,Que surpresa.
+Dialogue: 0,1:08:36.20,1:08:38.75,Default,,0,0,0,,E pensar que achei que você estivesse praticamente cega.
+Dialogue: 0,1:08:38.75,1:08:40.96,Default,,0,0,0,,Não estou falando de você.
+Dialogue: 0,1:08:40.96,1:08:43.04,Default,,0,0,0,,Falo de mim mesma.
+Dialogue: 0,1:08:43.04,1:08:44.50,Default,,0,0,0,,Estou velha, sabe.
+Dialogue: 0,1:08:44.50,1:08:48.21,Default,,0,0,0,,Já faz muito tempo que não consigo mais ver o futuro de ninguém.
+Dialogue: 0,1:08:48.21,1:08:50.51,Default,,0,0,0,,Você não enxerga o futuro?
+Dialogue: 0,1:08:58.08,1:09:00.89,Default,,0,0,0,,Não. Não mais.
+Dialogue: 0,1:09:00.89,1:09:03.81,Default,,0,0,0,,Não consigo ver nada brilhante.
+Dialogue: 0,1:09:03.81,1:09:07.57,Default,,0,0,0,,Tirou um peso das minhas costas, para ser sincera.
+Dialogue: 0,1:09:10.92,1:09:14.45,Default,,0,0,0,,Então foi a isso que o mundo chegou nesses últimos dez anos.
+Dialogue: 0,1:09:15.13,1:09:18.96,Default,,0,0,0,,Não quero ofender, mas desista disso.
+Dialogue: 0,1:09:19.67,1:09:23.96,Default,,0,0,0,,Ninguém quer ver um futuro sombrio ou ser lembrado do seu passado medíocre.
+Dialogue: 0,1:09:24.63,1:09:29.64,Default,,0,0,0,,Encontrar significado na pura esperança há muito perdeu o encanto.
+Dialogue: 0,1:09:31.22,1:09:34.62,Default,,0,0,0,,Como diz o ditado?
+Dialogue: 0,1:09:34.62,1:09:37.23,Default,,0,0,0,,O seu tempo já passou.
+Dialogue: 0,1:09:38.25,1:09:39.52,Default,,0,0,0,,Ora?
+Dialogue: 0,1:09:39.52,1:09:42.36,Default,,0,0,0,,E quanto a você, então?
+Dialogue: 0,1:09:43.81,1:09:46.82,Default,,0,0,0,,Você mudou nestes dez anos?
+Dialogue: 0,1:09:48.75,1:09:50.05,Default,,0,0,0,,Eu?
+Dialogue: 0,1:09:52.00,1:09:53.51,Default,,0,0,0,,Eu...
+Dialogue: 0,1:10:01.26,1:10:05.74,Default,,0,0,0,,Não muito, temo dizer.
+Dialogue: 0,1:10:05.74,1:10:09.30,Default,,0,0,0,,Ao contrário de você, não sou nem sequer uma ameaça à sociedade.
+Dialogue: 0,1:10:09.86,1:10:12.01,Default,,0,0,0,,Sou apenas um delinquente mequetrefe.
+Dialogue: 0,1:10:12.01,1:10:13.47,Default,,0,0,0,,Isso não é verdade!
+Dialogue: 0,1:10:13.47,1:10:15.87,Default,,0,0,0,,Você é uma boa pessoa, Mitsuru-san!
+Dialogue: 0,1:10:15.87,1:10:17.72,Default,,0,0,0,,Tenha um pouco de confiança em si mesmo!
+Dialogue: 0,1:10:17.72,1:10:20.83,Default,,0,0,0,,Bem, nossa, obrigado...
+Dialogue: 0,1:10:20.83,1:10:22.73,Default,,0,0,0,,Mas como você saberia?
+Dialogue: 0,1:10:22.73,1:10:24.26,Default,,0,0,0,,Como?
+Dialogue: 0,1:10:24.26,1:10:26.98,Default,,0,0,0,,Ora, você é igualzinho ao meu papai!
+Dialogue: 0,1:10:27.40,1:10:33.74,Default,,0,0,0,,Tipo, você não se destaca, um dos seus olhos não funciona, você é feito de capacho por mulheres...
+Dialogue: 0,1:10:34.30,1:10:38.87,Default,,0,0,0,,Eu sou ótima em usar gente como vocês.
+Dialogue: 0,1:10:46.69,1:10:48.85,Default,,0,0,0,,Pare de rir, sua velha gagá.
+Dialogue: 0,1:10:48.85,1:10:49.92,Default,,0,0,0,,O esforço pode te matar.
+Dialogue: 0,1:10:49.92,1:10:51.34,Default,,0,0,0,,Pense na sua saúde.
+Dialogue: 0,1:10:53.53,1:10:56.06,Default,,0,0,0,,Fico feliz por ter vivido o bastante para ver isto!
+Dialogue: 0,1:10:57.52,1:11:01.51,Default,,0,0,0,,Não acredito que aquele garoto que conheci se tornou tão humano!
+Dialogue: 0,1:11:03.43,1:11:08.66,Default,,0,0,0,,Você teve bons dez anos.
+Dialogue: 0,1:11:11.11,1:11:15.79,Default,,0,0,0,,Enfim, você não pode continuar com essa tenda aqui!
+Dialogue: 0,1:11:16.51,1:11:19.07,Default,,0,0,0,,Da próxima vez, serão sujeitos violentos vindo te visitar.
+Dialogue: 0,1:11:19.07,1:11:21.29,Default,,0,0,0,,É melhor você se aposentar antes que eles cheguem.
+Dialogue: 0,1:11:21.29,1:11:23.53,Default,,0,0,0,,Cuide da sua vida.
+Dialogue: 0,1:11:23.53,1:11:27.85,Default,,0,0,0,,Faço isso desde antes de você nascer.
+Dialogue: 0,1:11:27.85,1:11:29.88,Default,,0,0,0,,E farei até o fim.
+Dialogue: 0,1:11:32.04,1:11:34.15,Default,,0,0,0,,Vamos embora, Mana.
+Dialogue: 0,1:11:34.15,1:11:36.77,Default,,0,0,0,,Fiz meu trabalho.
+Dialogue: 0,1:11:36.77,1:11:39.43,Default,,0,0,0,,Agora cabe ao clã.
+Dialogue: 0,1:11:39.43,1:11:40.72,Default,,0,0,0,,Espere!
+Dialogue: 0,1:11:41.29,1:11:44.09,Default,,0,0,0,,Algo que ouvi ficou martelando na minha cabeça.
+Dialogue: 0,1:11:45.43,1:11:48.14,Default,,0,0,0,,Senhora, por que continua lendo a sorte das pessoas?
+Dialogue: 0,1:11:48.14,1:11:51.71,Default,,0,0,0,,Agora que não vê mais o futuro, pode finalmente descansar.
+Dialogue: 0,1:11:54.90,1:11:56.37,Default,,0,0,0,,Por que, de fato?
+Dialogue: 0,1:11:56.37,1:12:00.19,Default,,0,0,0,,Pensando bem, não houve nada além de dor.
+Dialogue: 0,1:12:01.66,1:12:03.15,Default,,0,0,0,,Acho que...
+Dialogue: 0,1:12:04.65,1:12:08.21,Default,,0,0,0,,É porque ajudar os outros...
+Dialogue: 0,1:12:08.75,1:12:11.21,Default,,0,0,0,,é a única forma que me resta de usar este poder.
+Dialogue: 0,1:12:14.18,1:12:19.48,Default,,0,0,0,,Uma garota mudou minha vida, há muito tempo.
+Dialogue: 0,1:12:19.48,1:12:24.27,Default,,0,0,0,,Graças a ela, fui libertada de um destino fatídico.
+Dialogue: 0,1:12:24.91,1:12:29.90,Default,,0,0,0,,Em troca, recebi uma vida cheia de fracassos.
+Dialogue: 2,1:12:29.90,1:12:33.15,Sign-Top,,0,0,0,,As Lágrimas do Vampiro
+Dialogue: 0,1:12:31.23,1:12:32.51,Default,,0,0,0,,Mas ainda assim...
+Dialogue: 0,1:12:34.23,1:12:36.70,Default,,0,0,0,,Eu tinha algo a que me apegar.
+Dialogue: 0,1:12:38.64,1:12:42.05,Default,,0,0,0,,Ei, Mitsuru-san, posso te pedir um favor?
+Dialogue: 0,1:12:42.05,1:12:46.00,Default,,0,0,0,,Diga, mas não prometo nada.
+Dialogue: 0,1:12:46.47,1:12:51.42,Default,,0,0,0,,Acho que ler a sorte é um trabalho maravilhoso.
+Dialogue: 0,1:12:51.42,1:12:54.51,Default,,0,0,0,,Esta cidade precisa da Mãe de Mifune.
+Dialogue: 0,1:12:55.62,1:12:58.84,Default,,0,0,0,,E eu adorei essa senhora!
+Dialogue: 0,1:13:00.68,1:13:04.92,Default,,0,0,0,,Você tem o péssimo hábito de se afeiçoar a todo mundo que conhece.
+Dialogue: 0,1:13:06.33,1:13:08.40,Default,,0,0,0,,E então? O que quer de mim?
+Dialogue: 0,1:13:09.40,1:13:14.07,Default,,0,0,0,,Você tem o péssimo hábito de perguntar quando já sabe a resposta, Mitsuru-san.
+Dialogue: 0,1:13:15.00,1:13:17.53,Default,,0,0,0,,Ainda quer que eu diga em voz alta?
+Dialogue: 0,1:13:18.20,1:13:19.88,Default,,0,0,0,,Não, obrigado.
+Dialogue: 0,1:13:19.88,1:13:24.00,Default,,0,0,0,,Se disser em voz alta, ficarei ainda mais deprimido.
+Dialogue: 0,1:13:26.34,1:13:31.02,Default-Italics,,0,0,0,,Enganar a mãe da Mana é... impossível,
+Dialogue: 0,1:13:31.02,1:13:33.23,Default-Italics,,0,0,0,,então vou convencê-la como se minha vida dependesse disso.
+Dialogue: 0,1:13:34.07,1:13:38.28,Default-Italics,,0,0,0,,O negócio dessa velha pode até não decolar, mas ao menos posso dar meu apoio.
+Dialogue: 0,1:13:38.28,1:13:41.68,Default-Italics,,0,0,0,,É isso o que significa cuidar de alguém até o fim.
+Dialogue: 0,1:13:42.42,1:13:45.64,Default,,0,0,0,,Nem sei se essa velha vai concordar.
+Dialogue: 0,1:13:47.13,1:13:50.40,Default,,0,0,0,,Eu só faço o que tenho vontade.
+Dialogue: 0,1:13:50.40,1:13:53.40,Default,,0,0,0,,Viu só? Ela está cheia de disposição!
+Dialogue: 0,1:13:54.05,1:13:58.98,Default,,0,0,0,,Qualquer problema idiota se resolve quando você põe seus óculos, Mitsuru-san!
+Dialogue: 0,1:13:58.98,1:13:59.57,Default,,0,0,0,,Ei!
+Dialogue: 0,1:13:59.57,1:14:01.16,Default,,0,0,0,,Ou eu deveria...
+Dialogue: 0,1:14:01.16,1:14:05.91,Default,,0,0,0,,te chamar de Kuramitsu quando você faz isso?
+Dialogue: 0,1:14:07.12,1:14:11.88,Default,,0,0,0,,Sabe, eu preferia que não tocasse mais nesse nome.
+Dialogue: 0,1:14:18.57,1:14:20.76,Default-Italics,,0,0,0,,Foi há dez anos.
+Dialogue: 0,1:14:21.47,1:14:27.02,Default-Italics,,0,0,0,,Havia um garoto que via um futuro em que era bem-sucedido, e por isso só podia segui-lo à risca.
+Dialogue: 0,1:14:28.16,1:14:33.44,Default-Italics,,0,0,0,,Em dado momento, ele se tornou escravo daquele futuro.
+Dialogue: 0,1:14:33.96,1:14:36.92,Default-Italics,,0,0,0,,Tornou-se um homem-bomba mecânico e frio.
+Dialogue: 0,1:14:36.92,1:14:40.53,Default-Italics,,0,0,0,,Após detonar bombas em um edifício-garagem,
+Dialogue: 0,1:14:40.53,1:14:43.20,Default-Italics,,0,0,0,,ele foi morto por uma certa assassina implacável.
+Dialogue: 0,1:14:44.32,1:14:48.70,Default-Italics,,0,0,0,,Houve duas vítimas das explosões naquele edifício-garagem.
+Dialogue: 0,1:14:49.28,1:14:53.21,Default-Italics,,0,0,0,,Uma foi um homem, que sofreu ferimentos leves ao proteger a filha.
+Dialogue: 0,1:14:53.74,1:14:58.49,Default-Italics,,0,0,0,,A outra não foi apanhada pela detonação,
+Dialogue: 0,1:14:59.90,1:15:03.77,Default-Italics,,0,0,0,,mas teve seu olho direito ferido e cegado.
+Dialogue: 0,1:15:03.77,1:15:06.16,Default-Italics,,0,0,0,,Um garoto de 14 anos.
+Dialogue: 0,1:15:14.20,1:15:16.44,Default-Italics,,0,0,0,,Kuramitsu Meruka...
+Dialogue: 0,1:15:19.29,1:15:21.97,Default-Italics,,0,0,0,,não pertence mais a este mundo.
+Dialogue: 0,1:15:30.06,1:15:35.58,Default-Italics,,0,0,0,,Suponho que haja maior valor em construir algo do que em destruir.
+Dialogue: 0,1:15:36.71,1:15:38.38,Default,,0,0,0,,Então assunto encerrado!
+Dialogue: 0,1:15:38.38,1:15:40.01,Default,,0,0,0,,Não se preocupe, senhora!
+Dialogue: 0,1:15:40.01,1:15:42.19,Default,,0,0,0,,Ele poderia ter um pouco mais de ânimo,
+Dialogue: 0,1:15:42.19,1:15:45.54,Default,,0,0,0,,mas o Mitsuru-san é super confiável quando fica sério!
+Dialogue: 0,1:15:46.63,1:15:47.39,Default,,0,0,0,,Espere um momento.
+Dialogue: 0,1:15:47.94,1:15:50.96,Default,,0,0,0,,Eu sei o nome do rapaz,
+Dialogue: 0,1:15:50.96,1:15:53.99,Default,,0,0,0,,mas ainda não ouvi o seu.
+Dialogue: 0,1:15:59.70,1:16:00.82,Default,,0,0,0,,Mana.
+Dialogue: 0,1:16:02.22,1:16:03.77,Default,,0,0,0,,Ryougi Mana, senhora.
+Dialogue: 0,1:16:03.77,1:16:05.47,Default,,0,0,0,,Você é uma vidente maravilhosa.
+Dialogue: 0,1:16:06.11,1:16:07.49,Default,,0,0,0,,Minha mãe...
+Dialogue: 0,1:16:07.49,1:16:08.66,Default,,0,0,0,,Não,
+Dialogue: 0,1:16:09.39,1:16:11.66,Default,,0,0,0,,meu pai é quem agradece!
+Dialogue: 0,1:16:17.42,1:16:19.42,Default,,0,0,0,,Ah, compreendo.
+Dialogue: 0,1:16:19.42,1:16:22.52,Default,,0,0,0,,Essas coisas acontecem, suponho.
+Dialogue: 0,1:16:24.98,1:16:26.36,Default,,0,0,0,,Vá em boa saúde, então.
+Dialogue: 0,1:16:26.36,1:16:30.34,Default,,0,0,0,,Embora você nem precisasse de mim para ouvir isso.
+Dialogue: 0,1:16:30.34,1:16:34.01,Default,,0,0,0,,E a senhora se cuide também.
+Dialogue: 0,1:16:35.91,1:16:38.85,Default,,0,0,0,,Espero que leve uma vida saudável de velhinha.
+Dialogue: 0,1:16:51.89,1:16:54.30,Default,,0,0,0,,Hora de ir, Mitsuru-san.
+Dialogue: 0,1:16:54.30,1:16:57.71,Default,,0,0,0,,Primeiro temos a minha mãe para enfrentar, não é?
+Dialogue: 0,1:16:58.14,1:17:01.64,Default,,0,0,0,,Tenho que começar logo pelo chefão final, hein?
+Dialogue: 0,1:17:24.76,1:17:29.53,Default-Italics,,0,0,0,,A história em que fui o protagonista terminou dez anos atrás,
+Dialogue: 0,1:17:29.53,1:17:32.85,Default-Italics,,0,0,0,,mas parece que ainda posso desempenhar um papel secundário em outra.
+Dialogue: 0,1:17:38.08,1:17:45.06,Default-Italics,,0,0,0,,E assim a história continua, minha trilha cheia de perigos e repleta de esperança.
+Dialogue: 0,1:17:45.06,1:17:47.40,Default-Italics,,0,0,0,,Meu destino pode ser nebuloso,
+Dialogue: 0,1:17:47.40,1:17:50.15,Default-Italics,,0,0,0,,mas consigo enxergá-lo com clareza no presente, com o meu olho esquerdo.
+Dialogue: 2,1:17:59.14,1:18:03.65,Sign-Top,,0,0,0,,Janeiro de 1996
+Dialogue: 0,1:18:10.85,1:18:12.98,Default-Italics,,0,0,0,,Um encontro à meia-noite.
+Dialogue: 0,1:18:12.98,1:18:15.16,Default-Italics,,0,0,0,,Um vaguear sob o luar.
+Dialogue: 0,1:18:15.56,1:18:18.24,Default-Italics,,0,0,0,,Um encontro com uma assassina em uma encruzilhada.
+Dialogue: 0,1:18:27.69,1:18:32.83,Default-Italics,,0,0,0,,Se eu desaparecer, ela poderá viver feliz.
+Dialogue: 0,1:18:45.46,1:18:49.44,Default-Italics,,0,0,0,,A morte não me assusta.
+Dialogue: 0,1:18:50.82,1:18:52.87,Default-Italics,,0,0,0,,Outras coisas me assustam.
+Dialogue: 0,1:18:52.87,1:18:55.28,Default-Italics,,0,0,0,,O azul do céu ao meio-dia.
+Dialogue: 0,1:18:55.28,1:18:57.28,Default-Italics,,0,0,0,,O pôr do sol após a aula.
+Dialogue: 0,1:18:59.14,1:19:00.28,Default-Italics,,0,0,0,,Coisas desse tipo.
+Dialogue: 0,1:19:12.57,1:19:13.90,Default,,0,0,0,,Bem-vindo.
+Dialogue: 0,1:19:13.90,1:19:16.68,Default,,0,0,0,,Gostaria de ver o seu futuro, jovem?
+Dialogue: 0,1:19:21.00,1:19:23.57,Default,,0,0,0,,Ora? Que interessante.
+Dialogue: 0,1:19:40.68,1:19:42.75,Default,,0,0,0,,Leia a minha sorte.
+Dialogue: 0,1:19:56.47,1:19:59.55,Default,,0,0,0,,Vá em frente. Diga-me o que vê.
+Dialogue: 0,1:19:59.55,1:20:03.48,Default,,0,0,0,,Como posso evitar o terrível futuro que me aguarda?
+Dialogue: 0,1:20:07.57,1:20:10.98,Default,,0,0,0,,Suponho que futuros como o seu realmente existam.
+Dialogue: 0,1:20:12.19,1:20:13.45,Default,,0,0,0,,Eu lamento.
+Dialogue: 0,1:20:13.45,1:20:15.19,Default,,0,0,0,,Você vai morrer.
+Dialogue: 0,1:20:15.19,1:20:17.84,Default,,0,0,0,,Não importa o que faça ou tente fazer,
+Dialogue: 0,1:20:17.84,1:20:20.59,Default,,0,0,0,,você não possui um futuro propriamente dito.
+Dialogue: 0,1:20:21.85,1:20:23.38,Default,,0,0,0,,Essa me surpreendeu.
+Dialogue: 0,1:20:23.38,1:20:25.09,Default,,0,0,0,,Você é para valer.
+Dialogue: 0,1:20:26.76,1:20:28.39,Default,,0,0,0,,Eu realmente sinto muito por isso.
+Dialogue: 0,1:20:35.19,1:20:36.42,Default,,0,0,0,,O quê?
+Dialogue: 0,1:20:36.42,1:20:37.51,Default,,0,0,0,,Você terminou, não terminou?
+Dialogue: 0,1:20:37.91,1:20:39.95,Default,,0,0,0,,Meu futuro é uma completa desgraça, certo?
+Dialogue: 0,1:20:39.95,1:20:42.53,Default,,0,0,0,,Não é como se eu estivesse procurando uma saída.
+Dialogue: 0,1:20:42.53,1:20:44.96,Default,,0,0,0,,Na verdade, tirou um peso das minhas costas.
+Dialogue: 0,1:20:44.96,1:20:49.77,Default,,0,0,0,,Vou partir em paz, mas não por causa da sua previsão.
+Dialogue: 0,1:20:50.84,1:20:53.85,Default,,0,0,0,,Não, não é isso.
+Dialogue: 0,1:20:53.85,1:20:56.83,Default,,0,0,0,,Você vai morrer, aconteça o que acontecer, isso é certo,
+Dialogue: 0,1:20:58.16,1:21:02.16,Default,,0,0,0,,mas um futuro como o seu é algo deveras incomum.
+Dialogue: 0,1:21:02.16,1:21:03.41,Default,,0,0,0,,Hã?
+Dialogue: 0,1:21:04.26,1:21:06.55,Default,,0,0,0,,Você logo desaparecerá.
+Dialogue: 0,1:21:06.55,1:21:10.42,Default,,0,0,0,,Sua perspectiva é sombria, e seu futuro é desamparado.
+Dialogue: 0,1:21:10.42,1:21:14.23,Default,,0,0,0,,Nenhum vestígio seu restará, nem mão amiga será estendida.
+Dialogue: 0,1:21:14.23,1:21:17.43,Default,,0,0,0,,E ainda assim, por mais estranho que pareça, em meio a toda essa desolação...
+Dialogue: 0,1:21:17.92,1:21:20.51,Default,,0,0,0,,O seu sonho continuará vivo.
+Dialogue: 0,1:21:36.13,1:21:39.73,Default,,0,0,0,,Adeus, senhora. Espero que viva uma longa vida.
+Dialogue: 0,1:21:40.79,1:21:43.16,Default,,0,0,0,,Estas ruas são perigosas à noite.
+Dialogue: 0,1:21:43.16,1:21:45.38,Default,,0,0,0,,Não são lugar para idosos.
+Dialogue: 0,1:22:10.61,1:22:14.98,Default-Italics,,0,0,0,,Em meio a toda essa desolação, meu sonho continuará vivo, hein?
+Dialogue: 0,1:22:19.47,1:22:20.99,Default-Italics,,0,0,0,,Entendo.
+Dialogue: 0,1:22:21.90,1:22:24.47,Default-Italics,,0,0,0,,Que bom, então.
+Dialogue: 0,1:22:33.14,1:22:36.58,Default-Italics,,0,0,0,,Minha perspectiva é sombria?
+Dialogue: 0,1:22:36.58,1:22:38.54,Default-Italics,,0,0,0,,Parece que sempre foi assim comigo.
+Dialogue: 0,1:23:34.98,1:23:44.98,ED-Romaji,,0,0,0,,Mirai wa kimi ni yasashii darou ka
+Dialogue: 0,1:23:34.98,1:23:44.98,ED-Kanji,,0,0,0,,未来は君に優しいだろうか
+Dialogue: 1,1:23:34.98,1:23:44.98,ED-PTBR,,0,0,0,,Diga-me, o futuro será gentil com você?
+Dialogue: 0,1:23:45.80,1:23:55.80,ED-Romaji,,0,0,0,,Midori no ame ga kimi wo nurasu made
+Dialogue: 0,1:23:45.80,1:23:55.80,ED-Kanji,,0,0,0,,緑の雨が君を濡らすまで
+Dialogue: 1,1:23:45.80,1:23:55.80,ED-PTBR,,0,0,0,,Até que as chuvas de verão venham te banhar
+Dialogue: 0,1:23:55.98,1:24:02.27,ED-Romaji,,0,0,0,,Massugu ni
+Dialogue: 0,1:23:55.98,1:24:02.27,ED-Kanji,,0,0,0,,まっすぐに
+Dialogue: 1,1:23:55.98,1:24:02.27,ED-PTBR,,0,0,0,,Mantenha a fé
+Dialogue: 0,1:24:01.57,1:24:04.95,ED-Romaji,,0,0,0,,Yukeru darou ka
+Dialogue: 0,1:24:01.57,1:24:04.95,ED-Kanji,,0,0,0,,行けるだろうか
+Dialogue: 1,1:24:01.57,1:24:04.95,ED-PTBR,,0,0,0,,Diga-me, você conseguirá seguir em frente?
+Dialogue: 0,1:24:04.25,1:24:07.56,ED-Romaji,,0,0,0,,Nakeru darou ka
+Dialogue: 0,1:24:04.25,1:24:07.56,ED-Kanji,,0,0,0,,泣けるだろうか
+Dialogue: 1,1:24:04.25,1:24:07.56,ED-PTBR,,0,0,0,,Diga-me, você conseguirá derramar suas lágrimas?
+Dialogue: 0,1:24:06.86,1:24:12.98,ED-Romaji,,0,0,0,,Subete ga shizukani
+Dialogue: 0,1:24:06.86,1:24:12.98,ED-Kanji,,0,0,0,,全てが静かに
+Dialogue: 1,1:24:06.86,1:24:12.98,ED-PTBR,,0,0,0,,Até o dia em que toda a criação
+Dialogue: 0,1:24:12.28,1:24:17.96,ED-Romaji,,0,0,0,,Moeru hi made
+Dialogue: 0,1:24:12.28,1:24:17.96,ED-Kanji,,0,0,0,,燃える日まで
+Dialogue: 1,1:24:12.28,1:24:17.96,ED-PTBR,,0,0,0,,Arda em silêncio sob a luz do sol
+Dialogue: 0,1:24:18.84,1:24:23.15,ED-Romaji,,0,0,0,,Areruya
+Dialogue: 0,1:24:18.84,1:24:23.15,ED-Kanji,,0,0,0,,アレルヤ
+Dialogue: 1,1:24:18.84,1:24:23.15,ED-PTBR,,0,0,0,,Aleluia
+Dialogue: 0,1:24:22.45,1:24:26.48,ED-Romaji,,0,0,0,,Inori wa doko ni mo
+Dialogue: 0,1:24:22.45,1:24:26.48,ED-Kanji,,0,0,0,,祈りは何処にも
+Dialogue: 1,1:24:22.45,1:24:26.48,ED-PTBR,,0,0,0,,Nossas preces a lugar algum
+Dialogue: 0,1:24:25.78,1:24:30.54,ED-Romaji,,0,0,0,,Todokazu kieusete
+Dialogue: 0,1:24:25.78,1:24:30.54,ED-Kanji,,0,0,0,,届かず消え失せて
+Dialogue: 1,1:24:25.78,1:24:30.54,ED-PTBR,,0,0,0,,Alcançam, e se desvanecem sem ninguém para ouvir
+Dialogue: 0,1:24:29.84,1:24:37.24,ED-Romaji,,0,0,0,,Bokura wa uzukumatta mama
+Dialogue: 0,1:24:29.84,1:24:37.24,ED-Kanji,,0,0,0,,僕らはうずくまったまま
+Dialogue: 1,1:24:29.84,1:24:37.24,ED-PTBR,,0,0,0,,Enquanto permanecemos encolhidos na escuridão
+Dialogue: 0,1:24:36.54,1:24:40.64,ED-Romaji,,0,0,0,,Yoake wo yarisugoshite
+Dialogue: 0,1:24:36.54,1:24:40.64,ED-Kanji,,0,0,0,,夜明けをやり過ごして
+Dialogue: 1,1:24:36.54,1:24:40.64,ED-PTBR,,0,0,0,,Esperando o amanhecer passar por nós
+Dialogue: 0,1:24:39.94,1:24:46.03,ED-Romaji,,0,0,0,,Akarui hou e
+Dialogue: 0,1:24:39.94,1:24:46.03,ED-Kanji,,0,0,0,,あかるい方へ
+Dialogue: 1,1:24:39.94,1:24:46.03,ED-PTBR,,0,0,0,,Rumo à direção da luz
+Dialogue: 0,1:24:45.33,1:24:48.62,ED-Romaji,,0,0,0,,Kitto mogaite
+Dialogue: 0,1:24:45.33,1:24:48.62,ED-Kanji,,0,0,0,,きっともがいて
+Dialogue: 1,1:24:45.33,1:24:48.62,ED-PTBR,,0,0,0,,Mesmo que tenhamos que lutar
+Dialogue: 0,1:24:47.92,1:24:51.43,ED-Romaji,,0,0,0,,Nandomo naite
+Dialogue: 0,1:24:47.92,1:24:51.43,ED-Kanji,,0,0,0,,何度も泣いて
+Dialogue: 1,1:24:47.92,1:24:51.43,ED-PTBR,,0,0,0,,Mesmo chorando incontáveis vezes
+Dialogue: 0,1:24:50.73,1:25:03.15,ED-Romaji,,0,0,0,,Bokura wa yuku
+Dialogue: 0,1:24:50.73,1:25:03.15,ED-Kanji,,0,0,0,,僕らはゆく
+Dialogue: 1,1:24:50.73,1:25:03.15,ED-PTBR,,0,0,0,,Nós continuaremos a caminhar
+Dialogue: 0,1:25:22.80,1:25:32.80,ED-Romaji,,0,0,0,,Konna chiisana kimi no te wo totte
+Dialogue: 0,1:25:22.80,1:25:32.80,ED-Kanji,,0,0,0,,こんな小さな君の手を取って
+Dialogue: 1,1:25:22.80,1:25:32.80,ED-PTBR,,0,0,0,,Segurando esta sua pequena mão
+Dialogue: 0,1:25:33.68,1:25:39.23,ED-Romaji,,0,0,0,,Itai hodo no
+Dialogue: 0,1:25:33.68,1:25:39.23,ED-Kanji,,0,0,0,,いたいほどの
+Dialogue: 1,1:25:33.68,1:25:39.23,ED-PTBR,,0,0,0,,Há um brilho tão radiante
+Dialogue: 0,1:25:38.53,1:25:44.53,ED-Romaji,,0,0,0,,Kagayaki ga atte
+Dialogue: 0,1:25:38.53,1:25:44.53,ED-Kanji,,0,0,0,,かがやきがあって
+Dialogue: 1,1:25:38.53,1:25:44.53,ED-PTBR,,0,0,0,,Que chega a nos ofuscar
+Dialogue: 0,1:25:43.83,1:25:49.38,ED-Romaji,,0,0,0,,Shiawase no kioku dake
+Dialogue: 0,1:25:43.83,1:25:49.38,ED-Kanji,,0,0,0,,幸福の記憶だけ
+Dialogue: 1,1:25:43.83,1:25:49.38,ED-PTBR,,0,0,0,,Desejando deixar para trás apenas
+Dialogue: 0,1:25:49.13,1:25:55.47,ED-Romaji,,0,0,0,,Nokoshitai to negainagara
+Dialogue: 0,1:25:49.13,1:25:55.47,ED-Kanji,,0,0,0,,残したいと願いながら
+Dialogue: 1,1:25:49.13,1:25:55.47,ED-PTBR,,0,0,0,,Apenas lembranças de felicidade e paz
+Dialogue: 0,1:25:54.77,1:26:00.91,ED-Romaji,,0,0,0,,Yasashiku muimi ni
+Dialogue: 0,1:25:54.77,1:26:00.91,ED-Kanji,,0,0,0,,優しく無意味に
+Dialogue: 1,1:25:54.77,1:26:00.91,ED-PTBR,,0,0,0,,Até o dia em que com ternura e serenidade
+Dialogue: 0,1:26:00.21,1:26:06.15,ED-Romaji,,0,0,0,,Kieru hi made
+Dialogue: 0,1:26:00.21,1:26:06.15,ED-Kanji,,0,0,0,,消える日まで
+Dialogue: 1,1:26:00.21,1:26:06.15,ED-PTBR,,0,0,0,,Desvanecermos no silêncio da paz
+Dialogue: 0,1:26:06.69,1:26:10.95,ED-Romaji,,0,0,0,,Areruya
+Dialogue: 0,1:26:06.69,1:26:10.95,ED-Kanji,,0,0,0,,アレルヤ
+Dialogue: 1,1:26:06.69,1:26:10.95,ED-PTBR,,0,0,0,,Aleluia
+Dialogue: 0,1:26:10.25,1:26:14.36,ED-Romaji,,0,0,0,,Subete no inochi ga
+Dialogue: 0,1:26:10.25,1:26:14.36,ED-Kanji,,0,0,0,,全てのいのちが
+Dialogue: 1,1:26:10.25,1:26:14.36,ED-PTBR,,0,0,0,,Toda forma de vida logo
+Dialogue: 0,1:26:13.66,1:26:18.39,ED-Romaji,,0,0,0,,Utau toki ga kuru tte
+Dialogue: 0,1:26:13.66,1:26:18.39,ED-Kanji,,0,0,0,,歌うときが来るって
+Dialogue: 1,1:26:13.66,1:26:18.39,ED-PTBR,,0,0,0,,Há de irromper em canções
+Dialogue: 0,1:26:17.69,1:26:21.70,ED-Romaji,,0,0,0,,Shinjite
+Dialogue: 0,1:26:17.69,1:26:21.70,ED-Kanji,,0,0,0,,信じて
+Dialogue: 1,1:26:17.69,1:26:21.70,ED-PTBR,,0,0,0,,Tenha fé
+Dialogue: 0,1:26:21.00,1:26:25.18,ED-Romaji,,0,0,0,,Ame no naka de ryoute
+Dialogue: 0,1:26:21.00,1:26:25.18,ED-Kanji,,0,0,0,,雨の中で両手
+Dialogue: 1,1:26:21.00,1:26:25.18,ED-PTBR,,0,0,0,,Com as duas mãos sob a chuva
+Dialogue: 0,1:26:24.48,1:26:28.54,ED-Romaji,,0,0,0,,Furikazashite odotte
+Dialogue: 0,1:26:24.48,1:26:28.54,ED-Kanji,,0,0,0,,ふりかざして踊って
+Dialogue: 1,1:26:24.48,1:26:28.54,ED-PTBR,,0,0,0,,Erga os braços e dance
+Dialogue: 0,1:26:27.84,1:26:31.27,ED-Romaji,,0,0,0,,Waratterunda
+Dialogue: 0,1:26:27.84,1:26:31.27,ED-Kanji,,0,0,0,,笑ってるんだ
+Dialogue: 1,1:26:27.84,1:26:31.27,ED-PTBR,,0,0,0,,O mundo está sorrindo
+Dialogue: 0,1:26:30.57,1:26:33.88,ED-Romaji,,0,0,0,,Waratteyou yo
+Dialogue: 0,1:26:30.57,1:26:33.88,ED-Kanji,,0,0,0,,笑ってようよ
+Dialogue: 1,1:26:30.57,1:26:33.88,ED-PTBR,,0,0,0,,Venha sorrir também
+Dialogue: 0,1:26:33.18,1:26:36.59,ED-Romaji,,0,0,0,,Namida no umi de
+Dialogue: 0,1:26:33.18,1:26:36.59,ED-Kanji,,0,0,0,,涙の海で
+Dialogue: 1,1:26:33.18,1:26:36.59,ED-PTBR,,0,0,0,,Através do oceano de lágrimas
+Dialogue: 0,1:26:35.89,1:26:39.31,ED-Romaji,,0,0,0,,Nuki te wo kitte
+Dialogue: 0,1:26:35.89,1:26:39.31,ED-Kanji,,0,0,0,,抜き手を切って
+Dialogue: 1,1:26:35.89,1:26:39.31,ED-PTBR,,0,0,0,,Nadando com firmeza e bravura
+Dialogue: 0,1:26:38.61,1:26:50.95,ED-Romaji,,0,0,0,,Mirai e yuku
+Dialogue: 0,1:26:38.61,1:26:50.95,ED-Kanji,,0,0,0,,未来へゆく
+Dialogue: 1,1:26:38.61,1:26:50.95,ED-PTBR,,0,0,0,,Rumo ao futuro
+Dialogue: 0,1:26:57.28,1:27:01.55,ED-Romaji,,0,0,0,,Chiisana inochi wo
+Dialogue: 0,1:26:57.28,1:27:01.55,ED-Kanji,,0,0,0,,小さないのちを
+Dialogue: 1,1:26:57.28,1:27:01.55,ED-PTBR,,0,0,0,,Você consegue, pequena vida
+Dialogue: 1,1:27:00.85,1:27:04.32,ED-PTBR,,0,0,0,,Seja forte agora
+Dialogue: 0,1:27:00.85,1:27:11.68,ED-Romaji,,0,0,0,,Furishibotte
+Dialogue: 0,1:27:00.85,1:27:11.68,ED-Kanji,,0,0,0,,ふりしぼって
+Dialogue: 1,1:27:03.62,1:27:11.68,ED-PTBR,,0,0,0,,Reúna toda a sua coragem
+Dialogue: 0,1:27:10.98,1:27:17.79,ED-Romaji,,0,0,0,,Kimi no mirai e
+Dialogue: 0,1:27:10.98,1:27:17.79,ED-Kanji,,0,0,0,,きみのみらいへ
+Dialogue: 1,1:27:10.98,1:27:17.79,ED-PTBR,,0,0,0,,Construa o seu próprio futuro
+Dialogue: 0,1:27:17.09,1:27:34.70,ED-Romaji,,0,0,0,,Areruya
+Dialogue: 0,1:27:17.09,1:27:34.70,ED-Kanji,,0,0,0,,アレルヤ
+Dialogue: 1,1:27:17.09,1:27:34.70,ED-PTBR,,0,0,0,,Aleluia

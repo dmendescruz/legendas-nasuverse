@@ -1,0 +1,1587 @@
+1
+00:24:16,890 --> 00:24:18,750
+E-E-Espere!
+
+2
+00:24:20,240 --> 00:24:21,530
+Está de brincadeira comigo?!
+
+3
+00:00:02,250 --> 00:00:03,330
+Ai!
+
+4
+00:00:03,910 --> 00:00:05,250
+Fique quieto.
+
+5
+00:00:09,420 --> 00:00:10,900
+Pronto, terminei.
+
+6
+00:00:10,900 --> 00:00:12,010
+Obrigado.
+
+7
+00:00:14,150 --> 00:00:14,930
+Tohsaka?
+
+8
+00:00:15,320 --> 00:00:16,980
+Estou preparando o jantar.
+
+9
+00:00:16,980 --> 00:00:19,390
+Jantar? Agora?
+
+10
+00:00:19,390 --> 00:00:21,130
+É claro.
+
+11
+00:00:21,130 --> 00:00:24,980
+Ninguém consegue ter boas ideias de estômago vazio, não é?
+
+12
+00:00:26,270 --> 00:00:28,340
+Eu fiquei pensando bastante depois daquilo.
+
+13
+00:00:28,340 --> 00:00:31,450
+Sobre por que comecei a lutar na Guerra do Santo Graal.
+
+14
+00:00:31,450 --> 00:00:34,200
+Sobre o que eu queria alcançar.
+
+15
+00:00:35,250 --> 00:00:36,190
+E então?
+
+16
+00:00:37,530 --> 00:00:42,200
+No começo, foi só porque acabei sendo arrastado para isso,
+mas isso já não faz diferença.
+
+17
+00:00:42,530 --> 00:00:45,630
+Eu admiro os defensores da justiça,
+e quero seguir o exemplo deles.
+
+18
+00:00:45,630 --> 00:00:47,460
+Por isso, preciso proteger as pessoas.
+
+19
+00:00:48,150 --> 00:00:51,930
+Sendo Mestre ou não, tendo a Saber ou não...
+
+20
+00:00:51,930 --> 00:00:53,960
+eu vou lutar do mesmo jeito.
+
+21
+00:00:55,280 --> 00:00:56,470
+Ah.
+
+22
+00:00:56,470 --> 00:01:01,090
+Olha, isso é sério. Pelo menos preste atenção.
+
+23
+00:01:01,090 --> 00:01:02,740
+Eu estou prestando atenção.
+
+24
+00:01:02,740 --> 00:01:08,650
+A ideia de ver outros morrerem o incomoda muito mais do que a sua própria morte.
+
+25
+00:01:08,650 --> 00:01:12,940
+Então você decidiu continuar lutando mesmo sendo fraco, certo?
+
+26
+00:01:12,940 --> 00:01:16,000
+É-É...
+
+27
+00:01:16,000 --> 00:01:17,190
+O que foi com você?
+
+28
+00:01:17,190 --> 00:01:19,870
+Está com cara de quem mordeu uma pedra achando que era noz.
+
+29
+00:01:19,870 --> 00:01:23,140
+Eu só imaginei que você seria contra.
+
+30
+00:01:23,140 --> 00:01:25,270
+É claro que sou contra.
+
+31
+00:01:25,270 --> 00:01:30,460
+Mas depois de você ter me salvado daquele jeito, como eu poderia me opor?
+
+32
+00:01:31,270 --> 00:01:36,800
+Além do mais, já aprendi que você vai agir mesmo que eu tente impedi-lo.
+
+33
+00:01:37,220 --> 00:01:41,050
+Então... ainda somos parceiros?
+
+34
+00:01:41,410 --> 00:01:42,750
+Acho que sim.
+
+35
+00:01:42,750 --> 00:01:47,310
+De qualquer forma, eu perderia o sono de preocupação se deixasse você solto por aí.
+
+36
+00:01:47,310 --> 00:01:48,400
+Além disso...
+
+37
+00:01:48,890 --> 00:01:53,420
+para colocar nos seus termos, eu não chego a odiar você.
+
+38
+00:01:53,420 --> 00:01:54,900
+E a sua comida é boa.
+
+39
+00:01:55,710 --> 00:02:01,150
+Então é assim que eu me sinto,
+e para você tudo bem continuar trabalhando comigo, não é?
+
+40
+00:02:03,030 --> 00:02:05,250
+Quero repetir o prato!
+
+41
+00:03:39,000 --> 00:03:41,610
+Por enquanto, a nossa inimiga é a Caster.
+
+42
+00:03:41,610 --> 00:03:43,470
+Ela está protegida pelo Kuzuki, um lutador de combate corpo a corpo,
+
+43
+00:03:43,470 --> 00:03:45,760
+e pelo Archer, que foi para o lado dela.
+
+44
+00:03:46,290 --> 00:03:49,970
+E é apenas questão de tempo até a Saber cair sob o controle dela.
+
+45
+00:03:49,970 --> 00:03:52,460
+Sim, assim que a resistência da Saber se esgotar,
+
+46
+00:03:52,460 --> 00:03:54,860
+não teremos a menor chance.
+
+47
+00:03:54,860 --> 00:03:57,690
+Exatamente. Você tem alguma ideia?
+
+48
+00:03:58,730 --> 00:04:00,960
+Ouça o que vou dizer, e não fique brava.
+
+49
+00:04:00,960 --> 00:04:04,030
+Poderíamos colaborar com outros Mestres?
+
+50
+00:04:05,900 --> 00:04:07,160
+Tudo bem.
+
+51
+00:04:07,160 --> 00:04:09,870
+Na verdade, eu estava pensando na mesma coisa.
+
+52
+00:04:10,330 --> 00:04:13,920
+Ainda não sabemos quem é o Mestre do Lancer, então ele está fora de cogitação,
+
+53
+00:04:13,920 --> 00:04:16,710
+mas talvez tenhamos uma chance com a Illyasviel.
+
+54
+00:04:17,200 --> 00:04:19,940
+Mas como podemos encontrá-la?
+
+55
+00:04:19,940 --> 00:04:22,300
+Tenho uma ideia de onde ela possa estar.
+
+56
+00:04:23,440 --> 00:04:26,300
+Meu pai me contou uma coisa há muito tempo.
+
+57
+00:04:26,300 --> 00:04:30,890
+Ele disse que os Einzberns possuem uma mansão na floresta nos arredores da cidade.
+
+58
+00:04:41,150 --> 00:04:43,610
+Por que não consigo encontrar?
+
+59
+00:04:44,020 --> 00:04:46,530
+Não há Santo Graal aqui.
+
+60
+00:04:46,530 --> 00:04:49,860
+Não. Isso não pode ser verdade.
+
+61
+00:04:49,860 --> 00:04:54,960
+O supervisor da Guerra do Santo Graal jamais perderia de vista o catalisador — o seu trunfo.
+
+62
+00:05:07,550 --> 00:05:09,220
+Seja bem-vinda, Caster!
+
+63
+00:05:09,770 --> 00:05:11,980
+É uma grande honra para mim poder receber
+
+64
+00:05:11,980 --> 00:05:15,720
+uma grandiosa pioneira da taumaturgia, a Princesa de Cólquida.
+
+65
+00:05:18,530 --> 00:05:20,970
+Agora, tem alguma pergunta?
+
+66
+00:05:20,970 --> 00:05:22,650
+Deveria eu ter me apresentado primeiro?
+
+67
+00:05:23,020 --> 00:05:26,040
+Não, eu compreendo a situação.
+
+68
+00:05:26,040 --> 00:05:27,960
+Fui invocada pelo Santo Graal
+
+69
+00:05:27,960 --> 00:05:31,740
+e trazida de volta à vida nesta era tendo você como meu Mestre.
+
+70
+00:05:32,120 --> 00:05:34,890
+Sim, isso é o que é um Servo.
+
+71
+00:05:34,890 --> 00:05:36,950
+E essa é a Guerra do Santo Graal.
+
+72
+00:05:36,950 --> 00:05:39,590
+É o que se espera de uma Serva da classe maga.
+
+73
+00:05:39,590 --> 00:05:41,560
+Fico feliz em não precisar explicar tudo do zero.
+
+74
+00:05:42,680 --> 00:05:45,640
+Ah, gostaria de beber algo?
+
+75
+00:05:45,640 --> 00:05:49,400
+Afinal, vir de mais de 3.000 anos no passado é uma longa jornada.
+
+76
+00:05:49,400 --> 00:05:51,420
+Tenho certeza de que deve estar cansada.
+
+77
+00:05:51,700 --> 00:05:53,930
+Ou prefere tomar um banho primeiro?
+
+78
+00:05:56,120 --> 00:05:59,270
+Agradeço a sua consideração, mas antes disso...
+
+79
+00:05:59,520 --> 00:06:03,410
+você ainda não me disse o seu nome.
+
+80
+00:06:05,870 --> 00:06:08,340
+Sou Atrum Galliasta.
+
+81
+00:06:08,340 --> 00:06:11,510
+Sou um Mestre enviado até aqui pela Associação dos Magos.
+
+82
+00:06:11,510 --> 00:06:13,140
+Minhas razões para obter o Graal
+
+83
+00:06:13,140 --> 00:06:16,620
+são o prestígio da minha linhagem mágica e assegurar um futuro tranquilo.
+
+84
+00:06:17,170 --> 00:06:18,960
+Isso satisfaz a sua curiosidade?
+
+85
+00:06:18,960 --> 00:06:21,520
+O que você quer dizer com "um futuro tranquilo"?
+
+86
+00:06:21,520 --> 00:06:25,040
+Um mundo onde não haja ninguém capaz de me ameaçar.
+
+87
+00:06:25,470 --> 00:06:30,670
+Não é tão Berserker quanto na sua época,
+mas os humanos continuam tão estúpidos quanto sempre foram.
+
+88
+00:06:30,670 --> 00:06:33,410
+Quanto maiores as medidas de defesa própria, melhor.
+
+89
+00:06:33,410 --> 00:06:37,260
+Algo como aquele seu Fantasma Nobre de dragão, por exemplo.
+
+90
+00:06:37,260 --> 00:06:38,600
+Algo como...
+
+91
+00:06:39,250 --> 00:06:41,560
+Espere um pouco, Caster.
+Que história é essa de Fantasma Nobre?
+
+92
+00:06:42,090 --> 00:06:44,750
+A invocação de um dragão da era dos mitos...
+
+93
+00:06:44,750 --> 00:06:47,320
+Achei que esse fosse o Fantasma Nobre da Princesa Medea?
+
+94
+00:06:47,740 --> 00:06:50,920
+Peço perdão, Mestre.
+
+95
+00:06:50,920 --> 00:06:56,090
+O meu Fantasma Nobre é de natureza conceitual, moldado pela minha própria essência.
+
+96
+00:06:56,090 --> 00:06:59,280
+Embora eu possua o conhecimento para invocar um dragão,
+
+97
+00:06:59,280 --> 00:07:01,900
+eu não seria capaz de controlá-lo.
+
+98
+00:07:08,770 --> 00:07:10,790
+Ora, mas que decepção!
+
+99
+00:07:10,790 --> 00:07:12,670
+Ela nem sequer consegue usar um dragão!
+
+100
+00:07:13,300 --> 00:07:16,340
+Mas que Serva absurda fui invocar!
+
+101
+00:07:16,880 --> 00:07:21,100
+E o seu Fantasma Nobre é de anulação de feitiços...
+
+102
+00:07:21,660 --> 00:07:27,850
+Ah, a Princesa Medea cometeu o primeiro caso de fratricídio da história, não foi?
+
+103
+00:07:28,130 --> 00:07:30,580
+Para uma mulher que não fez nada além de trair a todos...
+
+104
+00:07:30,580 --> 00:07:33,320
+...essa adaga que quebra juramentos é bastante apropriada, não acha?
+
+105
+00:07:35,520 --> 00:07:38,690
+Mas eu não vou descartar você, Caster.
+
+106
+00:07:39,510 --> 00:07:42,890
+Todo Servo tem a sua utilidade.
+
+107
+00:07:43,960 --> 00:07:48,970
+Contanto que continue sendo uma mulher astuta, eu vou domá-la direito.
+
+108
+00:08:12,720 --> 00:08:16,030
+Minha família ainda é recente na Associação dos Magos.
+
+109
+00:08:16,950 --> 00:08:21,160
+Por isso, uma das razões para eu lutar nesta Guerra do Graal é obter prestígio.
+
+110
+00:08:21,160 --> 00:08:25,180
+El-Melloi não levou a última guerra a sério, mas comigo é diferente.
+
+111
+00:08:25,180 --> 00:08:27,040
+Eu tenho total intenção de vencer.
+
+112
+00:08:27,500 --> 00:08:30,910
+Para começar, investi muito mais capital.
+
+113
+00:08:30,910 --> 00:08:34,760
+Acredita que um título comprado traz glória comprada?
+
+114
+00:08:34,760 --> 00:08:39,050
+Não. Deve-se usar todas as ferramentas à disposição.
+
+115
+00:08:39,420 --> 00:08:41,340
+Se pretende usar a riqueza como arma,
+
+116
+00:08:41,340 --> 00:08:43,820
+tenho certeza de que há estratégias adequadas para isso.
+
+117
+00:08:44,920 --> 00:08:46,700
+Não entenda errado.
+
+118
+00:08:46,700 --> 00:08:51,150
+Como mago, fiz preparativos para esmagar os outros Mestres.
+
+119
+00:08:51,560 --> 00:08:52,440
+Venha.
+
+120
+00:08:52,440 --> 00:08:54,690
+Vou lhe provar.
+
+121
+00:08:56,550 --> 00:09:00,760
+Isto é uma oficina de alquimia?
+
+122
+00:09:00,760 --> 00:09:05,790
+Minha família utiliza um sistema de magia que gera mana por meio de oferendas.
+
+123
+00:09:06,190 --> 00:09:10,090
+Bem, é uma maldição primitiva que depende de sacrifícios humanos.
+
+124
+00:09:10,090 --> 00:09:15,480
+Esta oficina é uma versão mais moderna e eficiente
+do sistema original.
+
+125
+00:09:15,480 --> 00:09:17,260
+Vou criar um para lhe mostrar.
+
+126
+00:09:22,240 --> 00:09:25,430
+Funciona melhor quando as matérias-primas estão frescas.
+
+127
+00:09:49,830 --> 00:09:54,460
+Que tal? Normalmente levaria um mês para ser criado, mas fiz num piscar de olhos.
+
+128
+00:09:54,460 --> 00:09:57,800
+Ah, e não se preocupe com as matérias-primas.
+
+129
+00:09:58,300 --> 00:10:00,570
+Não vou obtê-las em Fuyuki.
+
+130
+00:10:00,570 --> 00:10:02,490
+Comprei de outros...
+
+131
+00:10:02,490 --> 00:10:04,010
+Isto é ineficiente demais.
+
+132
+00:10:04,010 --> 00:10:09,180
+Usar todas essas vidas para produzir um cristal tão minúsculo
+é atitude de um mago de terceira categoria.
+
+133
+00:10:14,330 --> 00:10:15,330
+O quê...
+
+134
+00:10:15,330 --> 00:10:16,520
+O que você fez?
+
+135
+00:10:16,520 --> 00:10:20,110
+Como conseguiu gerar mana de um forno vazio?
+
+136
+00:10:20,110 --> 00:10:21,440
+Vazio?
+
+137
+00:10:22,160 --> 00:10:28,080
+Ah. Então isso parece vazio aos olhos de vocês, magos modernos?
+
+138
+00:10:28,080 --> 00:10:31,360
+A sua técnica de geração de mana deve estar um nível...
+
+139
+00:10:31,360 --> 00:10:34,170
+não, um mundo inteiro abaixo da minha.
+
+140
+00:10:35,030 --> 00:10:37,490
+M-Mas e quanto ao encantamento?
+
+141
+00:10:37,490 --> 00:10:43,370
+Dediquei tudo o que tinha para projetar esta oficina
+com o propósito de dispensar o processo de encantamento.
+
+142
+00:10:43,370 --> 00:10:47,370
+O encantamento de transmutação sozinho
+deveria levar três dias e três noites!
+
+143
+00:10:47,370 --> 00:10:50,340
+Não tenho necessidade de encantamentos.
+
+144
+00:10:50,340 --> 00:10:54,270
+Para mim, a magia é simplesmente algo a ser ordenado.
+
+145
+00:10:55,770 --> 00:11:01,440
+Perdoe-me por agir sem autorização,
+mas peço que feche esta oficina.
+
+146
+00:11:02,020 --> 00:11:05,060
+Desperdiçar vidas é uma insensatez.
+
+147
+00:11:05,060 --> 00:11:10,380
+Como maga, não posso tolerar uma oficina que gere tal desperdício.
+
+148
+00:11:10,380 --> 00:11:16,320
+Ah, parece que falhei em compreender a verdadeira natureza de um Servo.
+
+149
+00:11:16,320 --> 00:11:18,040
+Pelo meu Feitiço de Feitiço de Comando, ordeno a você:
+
+150
+00:11:19,320 --> 00:11:22,050
+não use o seu Fantasma Nobre contra mim.
+
+151
+00:11:22,390 --> 00:11:26,550
+Eu não gostaria de ser apunhalado pelas costas por uma bruxa traiçoeira.
+
+152
+00:11:37,320 --> 00:11:38,860
+Bruxa?
+
+153
+00:11:38,860 --> 00:11:40,570
+Ele me chamou de bruxa?
+
+154
+00:11:41,170 --> 00:11:44,850
+Todos que conheço me chamam de bruxa.
+
+155
+00:11:46,390 --> 00:11:49,820
+Está dizendo que a Caster é demais para você lidar?
+
+156
+00:11:50,320 --> 00:11:54,280
+Não é uma questão de habilidade, mas de confiança.
+
+157
+00:11:54,280 --> 00:11:56,920
+Os valores dela são simplesmente incompatíveis com os nossos.
+
+158
+00:11:57,730 --> 00:12:01,430
+Ela é uma mulher que conjura magia com um mover de dedos.
+
+159
+00:12:01,430 --> 00:12:05,510
+Para ela, a vida humana não vale mais do que papel.
+
+160
+00:12:05,510 --> 00:12:09,900
+Afinal, essa mulher assassinou a rival no amor
+queimando-a viva dentro do próprio castelo.
+
+161
+00:12:09,900 --> 00:12:11,890
+Eu teria que ser louco para confiar nela.
+
+162
+00:12:11,890 --> 00:12:13,350
+Entendo.
+
+163
+00:12:13,760 --> 00:12:17,940
+É assim que você interpretou as histórias da Princesa Medea?
+
+164
+00:12:17,940 --> 00:12:22,680
+Meu dever é atender aos desejos dos Mestres o melhor que puder.
+
+165
+00:12:22,680 --> 00:12:27,010
+Ainda mais para aqueles respaldados pela Associação dos Magos.
+
+166
+00:12:27,010 --> 00:12:31,130
+Neste momento, o Graal selecionou cinco Mestres.
+
+167
+00:12:31,130 --> 00:12:33,820
+Duas vagas permanecem em aberto.
+
+168
+00:12:38,670 --> 00:12:40,770
+Eu esperava ouvir isso!
+
+169
+00:12:40,770 --> 00:12:44,670
+É possível para mim selar um pacto com outro Servo, certo?
+
+170
+00:12:45,130 --> 00:12:48,410
+Embora sem precedentes, é possível.
+
+171
+00:12:48,410 --> 00:12:49,930
+Mas antes disso,
+
+172
+00:12:50,380 --> 00:12:54,680
+algo precisa ser feito a respeito da Serva
+à qual você está vinculado atualmente.
+
+173
+00:12:54,990 --> 00:12:57,310
+Não importa o quão talentosa seja na magia,
+
+174
+00:12:57,310 --> 00:13:00,950
+ela não passa de uma megera cujo único truque é enganar homens.
+
+175
+00:13:00,950 --> 00:13:03,420
+Eu já preparei o terreno.
+
+176
+00:13:03,420 --> 00:13:06,920
+Ainda assim, o seguro morreu de velho, Padre Kotomine.
+
+177
+00:13:06,920 --> 00:13:09,790
+Quero que entregue isto ao Mestre do Lancer.
+
+178
+00:13:09,790 --> 00:13:14,750
+Ela me deve pelo menos isso como uma
+colega participante da Associação dos Magos.
+
+179
+00:13:18,050 --> 00:13:19,210
+O que é isto?
+
+180
+00:13:19,620 --> 00:13:24,210
+Ora, apenas um contrato vendendo o direito de eliminar a Caster.
+
+181
+00:13:24,790 --> 00:13:29,460
+Se ela concordar, estarei livre da Caster
+sem precisar gastar um único Feitiço de Feitiço de Comando.
+
+182
+00:13:34,630 --> 00:13:37,330
+Para o Mestre do Lancer, você diz?
+
+183
+00:13:38,600 --> 00:13:42,940
+Tal Servo, tal Mestre.
+
+184
+00:13:43,490 --> 00:13:46,440
+Nenhum dos dois tem a menor sorte.
+
+185
+00:13:58,700 --> 00:14:00,950
+Qual é o significado disso?
+
+186
+00:14:00,950 --> 00:14:04,510
+Tomei a iniciativa de desmantelar a sua oficina.
+
+187
+00:14:04,510 --> 00:14:08,550
+Vou levá-lo a um local mais apropriado para fortificação.
+
+188
+00:14:11,250 --> 00:14:13,060
+Desmantelar, é?
+
+189
+00:14:13,060 --> 00:14:14,800
+E o que aconteceu com os meus suprimentos?
+
+190
+00:14:14,800 --> 00:14:17,840
+Ainda me restavam cerca de cinquenta.
+
+191
+00:14:18,570 --> 00:14:21,060
+Eles eram desnecessários, então eu os libertei.
+
+192
+00:14:23,080 --> 00:14:26,510
+E que local "mais apropriado" seria esse?
+
+193
+00:14:27,120 --> 00:14:29,390
+O coração deste ritual.
+
+194
+00:14:29,390 --> 00:14:31,700
+O lugar onde repousa o Grande Graal.
+
+195
+00:14:31,700 --> 00:14:36,230
+Localizei uma fortaleza natural que repele Servos.
+
+196
+00:14:36,230 --> 00:14:41,420
+Se fizer o que digo, eu o levarei até lá, Mestre.
+
+197
+00:14:42,950 --> 00:14:44,990
+Isso não será necessário.
+
+198
+00:14:44,990 --> 00:14:47,760
+Já não preciso mais dos seus serviços, Medea.
+
+199
+00:14:47,760 --> 00:14:49,840
+Ordeno-lhe pelo meu Feitiço de Feitiço de Comando:
+
+200
+00:14:49,840 --> 00:14:51,380
+tire a própria vida, Caster.
+
+201
+00:14:56,370 --> 00:14:57,720
+O que está acontecendo?
+
+202
+00:14:57,720 --> 00:14:59,770
+É preciso mais de um?
+
+203
+00:15:00,310 --> 00:15:02,490
+Ordeno-lhe mais uma vez pelo meu Feitiço de Feitiço de Comando:
+
+204
+00:15:02,490 --> 00:15:04,690
+extermine a si mesma, Caster!
+
+205
+00:15:09,900 --> 00:15:12,430
+Mas que Mestre tolo você é.
+
+206
+00:15:12,430 --> 00:15:15,620
+Esqueceu-se de qual é o meu Fantasma Nobre?
+
+207
+00:15:16,020 --> 00:15:18,530
+Rule Breaker...
+
+208
+00:15:18,530 --> 00:15:20,830
+Mas usei um Feitiço de Feitiço de Comando para proibi-la de usá-lo!
+
+209
+00:15:21,120 --> 00:15:23,690
+De fato, não posso usá-lo contra você.
+
+210
+00:15:24,210 --> 00:15:28,810
+Portanto, usei-o em mim mesma para romper o pacto com você.
+
+211
+00:15:29,960 --> 00:15:32,190
+I-Impossível!
+
+212
+00:15:32,190 --> 00:15:36,410
+Para vocês, Servos, isso é o mesmo que suicídio!
+
+213
+00:15:36,410 --> 00:15:39,080
+Você não será capaz de manter a sua forma física!
+
+214
+00:15:39,080 --> 00:15:41,350
+Sim, mas e daí?
+
+215
+00:15:41,810 --> 00:15:45,810
+Você está prestes a morrer aqui, então isso é da sua conta?
+
+216
+00:15:58,060 --> 00:15:59,080
+O que é isto?
+
+217
+00:15:59,080 --> 00:16:00,830
+O que está acontecendo?
+
+218
+00:16:00,830 --> 00:16:02,660
+Não vou deixar terminar assim!
+
+219
+00:16:07,110 --> 00:16:09,760
+A Guerra do Graal nem sequer começou!
+
+220
+00:16:09,760 --> 00:16:11,990
+Eu não lutei uma única batalha!
+
+221
+00:16:11,990 --> 00:16:13,090
+Assim não!
+
+222
+00:16:30,350 --> 00:16:31,820
+Sim...
+
+223
+00:16:31,820 --> 00:16:36,530
+É um fim apropriado para você,
+um homem que cobiçava resultados antes mesmo de começar.
+
+224
+00:16:37,190 --> 00:16:40,550
+Sua bruxa... traiçoeira...
+
+225
+00:16:46,210 --> 00:16:47,420
+Está tão quente.
+
+226
+00:17:12,920 --> 00:17:16,780
+No fim, é assim que morrerei mais uma vez?
+
+227
+00:17:16,780 --> 00:17:20,720
+Passada adiante por conveniência dos outros, explorada,
+
+228
+00:17:20,720 --> 00:17:23,190
+amaldiçoada como uma traidora...
+
+229
+00:17:23,190 --> 00:17:25,500
+Tudo o que eu queria...
+
+230
+00:17:26,820 --> 00:17:30,580
+era regressar à minha terra natal.
+
+231
+00:17:38,920 --> 00:17:41,160
+O que está fazendo aí?
+
+232
+00:17:43,740 --> 00:17:46,760
+Você acredita em uma história tão absurda?
+
+233
+00:17:46,760 --> 00:17:50,190
+Não vejo motivos para você mentir...
+
+234
+00:17:50,190 --> 00:17:54,190
+a menos que tenha algo a ganhar me enganando.
+
+235
+00:17:54,190 --> 00:17:59,360
+Na verdade, é você quem não tem motivos
+para ajudar uma mulher ensanguentada.
+
+236
+00:17:59,360 --> 00:18:04,450
+Eu dificilmente saberia o seu caráter
+enquanto estivesse inconsciente.
+
+237
+00:18:06,910 --> 00:18:08,470
+Você já se acalmou?
+
+238
+00:18:08,470 --> 00:18:10,460
+Se sim, devemos começar.
+
+239
+00:18:10,900 --> 00:18:12,990
+Então o que você diz é...
+
+240
+00:18:13,970 --> 00:18:17,000
+Você precisa do que chamou de "receptáculo", correto?
+
+241
+00:18:17,600 --> 00:18:21,650
+Pensei que a sua única chance seria eu me tornar o seu Mestre.
+
+242
+00:18:21,650 --> 00:18:23,220
+Ou eu estava errado?
+
+243
+00:18:37,790 --> 00:18:40,230
+Foi buscar lã e saiu tosquiada, não é?
+
+244
+00:18:40,630 --> 00:18:44,260
+Vejo que até uma bruxa sem igual é surpreendentemente frágil.
+
+245
+00:18:44,260 --> 00:18:47,070
+Achei que tivesse lhe dito para vigiar lá fora.
+
+246
+00:18:47,350 --> 00:18:48,820
+Ah, sobre isso.
+
+247
+00:18:48,820 --> 00:18:51,220
+Não há inimigos dignos de nota do lado de fora.
+
+248
+00:18:51,220 --> 00:18:53,180
+Eu já não aguentava mais o tédio.
+
+249
+00:18:53,180 --> 00:18:54,820
+Não é surpresa alguma.
+
+250
+00:18:54,820 --> 00:18:58,820
+No momento em que você mudou de lado,
+o Berserker se tornou o nosso único inimigo.
+
+251
+00:18:58,820 --> 00:19:02,760
+Não foi por saber disso que você se aliou a mim?
+
+252
+00:19:02,760 --> 00:19:04,270
+Talvez.
+
+253
+00:19:04,270 --> 00:19:08,970
+Nunca lhe passou pela cabeça que eu simplesmente
+quisesse quebrar o pacto com aquela Mestre?
+
+254
+00:19:09,570 --> 00:19:13,890
+Que não me importava quem seria meu Mestre, contanto que não fosse aquela garota?
+
+255
+00:19:13,890 --> 00:19:15,000
+Entendo.
+
+256
+00:19:15,000 --> 00:19:19,490
+Nós, Servos, normalmente somos insatisfeitos com nossos Mestres.
+
+257
+00:19:19,490 --> 00:19:23,490
+Está dizendo que se sente aliviado
+por ter se livrado de bancar a babá daquela menininha?
+
+258
+00:19:27,080 --> 00:19:28,640
+Um conselho.
+
+259
+00:19:29,200 --> 00:19:33,240
+Não presuma que todos os Servos são iguais a você.
+
+260
+00:19:33,780 --> 00:19:35,920
+Um Espírito Heroico honrado...
+
+261
+00:19:35,920 --> 00:19:39,080
+...só pode servir a um humano valoroso.
+
+262
+00:19:39,720 --> 00:19:42,270
+Não precisa me dizer o óbvio.
+
+263
+00:19:42,270 --> 00:19:46,630
+Mestres perversos invocam
+Espíritos Heroicos perversos por afinidade natural.
+
+264
+00:19:46,630 --> 00:19:51,000
+Então faz todo sentido que uma bruxa como você
+
+265
+00:19:51,000 --> 00:19:53,260
+tenha invocado um Espírito Heroico fictício.
+
+266
+00:19:53,880 --> 00:19:57,370
+Pouco me importa o que você pensa.
+
+267
+00:19:57,370 --> 00:20:00,470
+A sua vida está nas minhas mãos.
+
+268
+00:20:00,470 --> 00:20:03,530
+Lembre-se disso quando falar comigo.
+
+269
+00:20:03,900 --> 00:20:05,450
+Entendido.
+
+270
+00:20:05,450 --> 00:20:07,620
+Então, como o leal Servo que sou,
+
+271
+00:20:07,620 --> 00:20:10,050
+vou me esforçar para atender às expectativas de minha Senhora.
+
+272
+00:20:18,940 --> 00:20:22,830
+Só mais um pouco, e o Santo Graal estará ao meu alcance.
+
+273
+00:20:34,790 --> 00:20:37,970
+Por enquanto, acho que temos que depositar nossas esperanças na Illyasviel.
+
+274
+00:20:37,970 --> 00:20:41,650
+O Berserker é com certeza o inimigo natural da Caster.
+
+275
+00:20:41,990 --> 00:20:45,330
+A Caster tem alguma ligação com o Berserker?
+
+276
+00:20:45,330 --> 00:20:47,000
+O Archer me contou.
+
+277
+00:20:47,000 --> 00:20:49,830
+Ele disse que a verdadeira identidade do Berserker é Hércules.
+
+278
+00:20:50,390 --> 00:20:53,880
+Se a Caster é mesmo a bruxa sem igual Medea,
+
+279
+00:20:53,880 --> 00:20:56,500
+eles devem ter se conhecido a bordo do Argo.
+
+280
+00:20:56,500 --> 00:21:00,050
+É como o meu ponto fraco em relação ao Kirei.
+
+281
+00:21:00,050 --> 00:21:03,800
+Todo mundo tem alguém com quem simplesmente não consegue lidar.
+
+282
+00:21:06,320 --> 00:21:09,290
+Ei, Shirou. Se importaria de caminhar um pouco na frente?
+
+283
+00:21:09,290 --> 00:21:10,800
+Claro, acho que sim.
+
+284
+00:21:12,700 --> 00:21:13,350
+O que foi isso?
+
+285
+00:21:13,640 --> 00:21:14,930
+Eu sabia.
+
+286
+00:21:14,930 --> 00:21:17,750
+Parece que o controle dela se estende por toda a floresta.
+
+287
+00:21:17,750 --> 00:21:21,510
+Mas isso significa que acabamos de acionar o sistema de segurança dela!
+
+288
+00:21:21,510 --> 00:21:23,550
+Não acho que seja um problema, acha?
+
+289
+00:21:23,550 --> 00:21:26,860
+Viemos aqui para conversar, não para atacar.
+
+290
+00:21:26,860 --> 00:21:30,190
+Então é melhor fazê-la saber que não pretendemos lutar.
+
+291
+00:21:30,190 --> 00:21:31,240
+Compreendi.
+
+292
+00:21:31,620 --> 00:21:33,360
+Mas tome cuidado.
+
+293
+00:21:33,360 --> 00:21:35,370
+Dá um choquezinho.
+
+294
+00:21:35,370 --> 00:21:37,200
+Eu vou ficar bem.
+
+295
+00:21:42,530 --> 00:21:45,130
+Agora essa pirralha exagerou de vez!
+
+296
+00:21:45,130 --> 00:21:48,880
+Eu tenho certeza de que a ouvi rindo agora mesmo!
+
+297
+00:21:50,790 --> 00:21:52,720
+Ela caiu direitinho na minha armadilha.
+
+298
+00:21:53,060 --> 00:21:58,230
+A Rin é tão divertida.
+Dá para esperar uma reação imediata dela a qualquer momento.
+
+299
+00:21:58,640 --> 00:22:01,230
+Mas será que eles vão conseguir chegar aqui em segurança?
+
+300
+00:22:01,600 --> 00:22:04,450
+Talvez eu devesse desativar algumas das armadilhas.
+
+301
+00:22:04,450 --> 00:22:09,150
+Senhorita, com certeza a senhorita não pretende receber essas pessoas aqui dentro.
+
+302
+00:22:09,150 --> 00:22:11,380
+P-Por que não?
+
+303
+00:22:11,380 --> 00:22:14,320
+Eles disseram que vieram para conversar.
+
+304
+00:22:15,320 --> 00:22:16,580
+Além disso...
+
+305
+00:22:18,560 --> 00:22:20,660
+Há coisas que eu gostaria de perguntar a ele.
+
+306
+00:22:20,660 --> 00:22:22,070
+Senhorita!
+
+307
+00:22:22,070 --> 00:22:24,060
+Você é tão preocupada, Sella.
+
+308
+00:22:24,060 --> 00:22:27,750
+Mesmo que estejam tramando algo,
+eles não são páreo para o Berserker.
+
+309
+00:22:27,750 --> 00:22:31,080
+Mesmo sendo assim, não posso permitir.
+
+310
+00:22:31,080 --> 00:22:33,340
+Chega! Eu já decidi!
+
+311
+00:22:33,830 --> 00:22:36,600
+Se a dona do castelo manda receber, você recebe!
+
+312
+00:22:36,600 --> 00:22:39,890
+Esse é mais um motivo para expulsá-los daqui!
+
+313
+00:22:39,890 --> 00:22:43,630
+Como a princesa dos Einzbern,
+a senhorita deve enviar um convite formal
+
+314
+00:22:43,630 --> 00:22:46,280
+e realizar uma recepção de gala,
+em conformidade com a etiqueta!
+
+315
+00:22:46,280 --> 00:22:47,900
+Sella, você é tão teimosa.
+
+316
+00:22:47,900 --> 00:22:50,650
+Além disso, o que você descreve não é o que ela quis dizer.
+
+317
+00:22:53,930 --> 00:22:54,850
+Está bem, tudo bem.
+
+318
+00:22:54,850 --> 00:22:56,950
+A senhorita entendeu agora?
+
+319
+00:22:56,950 --> 00:22:59,500
+Nesse caso, vocês duas vão até lá e os tragam aqui.
+
+320
+00:22:59,500 --> 00:23:00,370
+Senhorita?
+
+321
+00:23:00,370 --> 00:23:02,710
+Estou mandando vocês capturá-los!
+
+322
+00:23:08,750 --> 00:23:11,160
+E então? Vamos precisar disso?
+
+323
+00:23:11,160 --> 00:23:13,420
+É nosso dever como criadas.
+
+324
+00:23:13,420 --> 00:23:17,970
+Se presenciamos desrespeito, aplicamos a punição devida.
+
+325
+00:23:19,610 --> 00:23:21,290
+Sella, isso foi...
+
+326
+00:23:21,290 --> 00:23:23,620
+Parece que é um convidado indesejado.
+
+327
+00:23:34,480 --> 00:23:35,930
+Ai!
+
+328
+00:23:35,930 --> 00:23:39,120
+Aquele maldito, me arrastando junto com ele!
+
+329
+00:23:39,120 --> 00:23:40,880
+Onde diabos eu vim parar?
+
+330
+00:23:40,880 --> 00:23:43,440
+É aqui mesmo que o Berserker está?!
+
+331
+00:23:43,440 --> 00:23:45,290
+Aquele não é o Shirou.
+
+332
+00:23:45,290 --> 00:23:48,130
+Não, parece apenas uma mosca inofensiva.
+
+333
+00:23:48,130 --> 00:23:50,710
+Vamos dar um fim nele e seguir nosso caminho.
+
+334
+00:23:52,380 --> 00:23:53,840
+Vocês duas...
+
+335
+00:23:53,840 --> 00:23:56,380
+São as criadas dos Einzbern?
+
+336
+00:23:56,380 --> 00:23:58,110
+Chegaram na hora certa.
+
+337
+00:23:58,110 --> 00:23:59,390
+Levem-me até onde o Berserker...
+
+338
+00:24:03,290 --> 00:24:04,730
+Cale a sua boca.
+
+339
+00:24:04,730 --> 00:24:07,600
+Não temos tempo para lidar com um invasor como você.
+
+340
+00:24:07,600 --> 00:24:12,410
+Ou salte deste telhado e fuja, ou caia perante esta arma.
+
+341
+00:24:12,410 --> 00:24:14,550
+Você tem dez segundos para decidir.
+
+342
+00:24:14,550 --> 00:24:19,530
+Nove. Oito. Sete. Seis. Cinco.
+
+343
+00:24:19,530 --> 00:24:21,530
+Quatro, três, dois, um.
+
+344
+00:24:25,880 --> 00:24:28,790
+O que temos aqui? Homúnculos, é?
+
+345
+00:24:29,760 --> 00:24:31,710
+E muito bem feitas por sinal.
+
+346
+00:24:31,710 --> 00:24:36,050
+Embora humanas apenas na forma, vocês funcionam como filhas da natureza.
+
+347
+00:24:36,470 --> 00:24:39,040
+Devem ter usado um belo molde para criá-las.
+
+348
+00:24:39,040 --> 00:24:41,540
+Sella, este homem é extremamente...
+
+349
+00:24:41,540 --> 00:24:42,700
+Eu sei.
+
+350
+00:24:42,700 --> 00:24:45,310
+Não se preocupe comigo. Apenas fuja.
+
+351
+00:24:45,310 --> 00:24:47,560
+Não tenham medo agora.
+
+352
+00:24:47,560 --> 00:24:50,810
+Eu perdoarei a sua insolência, visto a demonstração de pavor de vocês.
+
+353
+00:24:53,630 --> 00:24:56,580
+Se valorizam suas vidas, sumam da minha presença.
+
+354
+00:24:56,580 --> 00:25:01,660
+Vou lhes conceder dez segundos em agradecimento por terem deixado o meu Mestre escapar.
+
+355
+00:25:01,660 --> 00:25:04,320
+Aquele garoto é um Mestre?
+
+356
+00:25:04,320 --> 00:25:06,830
+Então não podemos fazer a sua vontade.
+
+357
+00:25:07,200 --> 00:25:11,200
+Nosso dever é proteger a nossa senhora de todas as ameaças externas.
+
+358
+00:25:11,200 --> 00:25:13,540
+Mesmo que aparente ser da realeza,
+
+359
+00:25:13,540 --> 00:25:17,820
+não podemos permitir a passagem de um homem que cheira tanto a sangue!
+
+360
+00:25:17,820 --> 00:25:19,140
+É mesmo?
+
+361
+00:25:19,140 --> 00:25:21,520
+Então caiam como flores despetaladas.
+
+362
+00:25:21,520 --> 00:25:26,600
+Imagino que o receptáculo do Graal virá correndo
+ao ouvir os seus gritos.
+
+363
+00:25:26,600 --> 00:25:29,100
+O receptáculo do Graal...
+
+364
+00:25:29,380 --> 00:25:32,060
+Você é o inimigo da Illya!
+
+365
+00:25:34,860 --> 00:25:39,860
+O Shirou está vindo até aqui, ao castelo onde mamãe viveu outrora.
+
+366
+00:25:50,160 --> 00:25:51,080
+Leysritt!
+
+367
+00:25:59,020 --> 00:26:01,880
+Os magos nunca aprendem, não é?
+
+368
+00:26:02,410 --> 00:26:05,890
+Jamais se deve dar um coração humano a uma ferramenta.
+
+369
+00:26:06,320 --> 00:26:10,890
+Os humanos são incapazes de corresponder à pureza de vocês.
+
+370
+00:26:15,440 --> 00:26:18,800
+Enquanto eu respirar...
+
+371
+00:26:18,800 --> 00:26:21,650
+não deixarei você se aproximar da minha senhora.
+
+372
+00:26:21,970 --> 00:26:23,320
+Oh?
+
+373
+00:26:32,190 --> 00:26:35,040
+Então você pode cumprir o seu dever até o derradeiro fim.
+
+374
+00:26:42,630 --> 00:26:43,880
+Leys...
+
+375
+00:26:43,880 --> 00:26:45,140
+Sella!
+
+376
+00:26:52,100 --> 00:26:55,620
+Você é a boneca que abriga o receptáculo do Graal?
+
+377
+00:26:56,230 --> 00:27:01,820
+Vejo que cruzar um humano e um homúnculo
+deu origem a uma anomalia fascinante.
+
+378
+00:27:02,330 --> 00:27:04,790
+Você as matou...
+
+379
+00:27:05,840 --> 00:27:06,910
+Mate-o.
+
+380
+00:27:06,910 --> 00:27:09,740
+Mate-o agora mesmo, Berserker!
+
+381
+00:27:13,170 --> 00:27:14,800
+Você ouviu a ordem dela.
+
+382
+00:27:14,800 --> 00:27:16,750
+Então venha, grande Espírito Heroico.
+
+383
+00:27:20,500 --> 00:27:25,510
+Brincar com você vai aliviar o meu tédio.
+
+384
+00:27:26,240 --> 00:27:31,090
+Vamos reencenar uma batalha de lendas aqui?
+
+385
+00:29:03,350 --> 00:29:05,080
+Já chega, droga!
+
+386
+00:29:05,080 --> 00:29:07,450
+Não pode ser! Todos aqueles eram Fantasmas Nobres?
+
+387
+00:29:07,450 --> 00:29:09,330
+Mal posso esperar, Illyasviel!
+
+388
+00:29:09,330 --> 00:29:11,540
+A sua derrota é certa.
+
+389
+00:29:11,540 --> 00:29:13,920
+O Berserker não vai perder para ninguém...
+
+390
+00:29:13,920 --> 00:29:16,670
+porque ele é o mais forte do mundo todo!
+
