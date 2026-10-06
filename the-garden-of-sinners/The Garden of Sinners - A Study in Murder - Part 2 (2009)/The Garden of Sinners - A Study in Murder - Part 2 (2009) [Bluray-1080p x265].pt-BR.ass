@@ -922,21 +922,21 @@ Dialogue: 0,1:48:05.72,1:48:08.36,Default,,0,0,0,,Agora perdi muitas coisas prec
 Dialogue: 0,1:48:09.02,1:48:11.15,Default,,0,0,0,,Mas não me importo.
 Dialogue: 0,1:48:12.69,1:48:16.74,Default,,0,0,0,,Eu não te disse? Vou carregar esse fardo junto com você.
 Dialogue: 0,1:48:17.74,1:48:18.70,Default,,0,0,0,,{\i1}É verdade...{\i0}
-Dialogue: 0,1:48:18.86,1:48:23.29,Default,,0,0,0,,{\i1}Se você carregar o meu fardo no meu lugar, terei que viver para sempre ao seu lado...{\i0}
-Dialogue: 0,1:48:27.25,1:48:30.71,Default,,0,0,0,,{\i1}Você é de fato... um cara egoísta.{\i0}
-Dialogue: 0,1:48:30.96,1:48:35.21,Default,,0,0,0,,{\i1}Kokutou...{\i0}
-Dialogue: 0,1:48:36.42,1:48:40.22,Default,,0,0,0,,Mas que noite calma.
-Dialogue: 0,1:48:40.43,1:48:43.06,Default,,0,0,0,,Nem parece que estivemos no meio de toda aquela agitação até agora a pouco.
+Dialogue: 0,1:48:18.86,1:48:23.29,Default,,0,0,0,,{\i1}Eu jurei para você quando você sorriu para mim pela primeira vez no final do verão.{\i0}
+Dialogue: 0,1:48:27.25,1:48:30.71,Default,,0,0,0,,{\i1}Eu disse que carregaria os seus pecados no seu lugar.{\i0}
+Dialogue: 0,1:48:30.96,1:48:35.21,Default,,0,0,0,,{\i1}Por isso... eu vou "matar" você...{\i0}
+Dialogue: 0,1:48:36.42,1:48:40.22,Default,,0,0,0,,{\i1}...para que você nunca mais fique sozinha...{\i0}
+Dialogue: 0,1:48:40.43,1:48:43.06,Default,,0,0,0,,{\i1}...até o instante em que você morrer.{\i0}
 Dialogue: 0,1:48:45.97,1:48:48.40,Default,,0,0,0,,Mas eu sou uma assassina.
-Dialogue: 0,1:48:51.23,1:48:54.15,Default,,0,0,0,,Não sou mais um ser humano.
-Dialogue: 0,1:48:54.40,1:48:57.90,Default,,0,0,0,,Eu vou carregar o seu fardo.
-Dialogue: 0,1:48:58.74,1:49:01.32,Default,,0,0,0,,Você não pode.
-Dialogue: 0,1:49:01.91,1:49:04.12,Default,,0,0,0,,Um crime não pode ser compartilhado.
-Dialogue: 0,1:49:04.41,1:49:08.42,Default,,0,0,0,,Não é o crime que vou carregar, Shiki.
-Dialogue: 0,1:49:08.91,1:49:12.47,Default,,0,0,0,,Vou carregar o seu pecado.
-Dialogue: 0,1:49:49.21,1:49:49.97,Default,M,0,0,0,,Quero continuar acreditando em você porque eu te amo.
-Dialogue: 0,1:50:00.34,1:50:04.47,Default,,0,0,0,,Idiota...
-Dialogue: 0,1:50:20.50,1:50:23.50,Signs2,,0,0,0,,É, costumam me dizer isso com frequência.
+Dialogue: 0,1:48:51.23,1:48:54.15,Default,,0,0,0,,Eu te disse que assassinato é errado, não disse?
+Dialogue: 0,1:48:54.40,1:48:57.90,Default,,0,0,0,,Mas você não conseguiu cumprir a promessa... que boba que você é.
+Dialogue: 0,1:48:58.74,1:49:01.32,Default,,0,0,0,,Desta vez eu perdi a minha paciência.
+Dialogue: 0,1:49:01.91,1:49:04.12,Default,,0,0,0,,Então chorar não vai te livrar dessa bronca.
+Dialogue: 0,1:49:04.41,1:49:08.42,Default,,0,0,0,,Ah, então você não vai me perdoar mesmo se eu chorar?
+Dialogue: 0,1:49:08.91,1:49:12.47,Default,,0,0,0,,Não... eu nunca mais vou deixar você me enganar.
+Dialogue: 0,1:49:49.21,1:49:49.97,Default,M,0,0,0,,Shiki.
+Dialogue: 0,1:50:00.34,1:50:04.47,Default,,0,0,0,,Eu não vou soltar você enquanto eu viver.
+Dialogue: 0,1:50:20.50,1:50:23.50,Signs2,,0,0,0,,{\c&Hfafafa&\fs\fs\fnApple}Fevereiro de 1999
 Dialogue: 0,1:50:23.50,1:50:26.50,Signs2,,0,0,0,,{\c&Hfafafa&\fs\fs\fnApple}Especulação de Assassinato (Parte 2)
 Dialogue: 1,1:50:30.40,1:50:48.10,ED song ro,,0,0,0,,{\org(0,0)\fad(300,300)\kf30\kf64}u{\kf215}ta{\kf104}tte{\kf39} {\kf47}ho{\kf237}shi{\kf104}i{\k22} {\kf75}shi{\kf142}zu{\kf77}ka{\kf104}na{\kf36} {\kf81}a{\kf63}i {\kf63}no {\kf76}ko{\kf74}to{\kf87}ba
 Dialogue: 1,1:50:30.40,1:50:48.10,ED song english,,0,0,0,,{\org(0,0)\fad(300,300)}Quero que cante as palavras serenas de amor.

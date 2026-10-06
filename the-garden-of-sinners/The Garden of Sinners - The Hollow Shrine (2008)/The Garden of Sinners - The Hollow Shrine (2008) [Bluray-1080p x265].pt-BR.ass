@@ -29,318 +29,318 @@ Dialogue: 0,0:01:01.71,0:01:03.84,Main Kara,Nurse,0000,0000,0000,,Nível de cons
 Dialogue: 0,0:01:03.84,0:01:06.11,Main Kara,Nurse,0000,0000,0000,,Pressão arterial em 60, confirmada por palpação.
 Dialogue: 0,0:01:01.71,0:01:06.11,Note Kara,Nurse,0000,0000,0000,,Nota: JCS é a Escala de Coma do Japão.
 Dialogue: 0,0:01:06.11,0:01:08.87,Main Kara,Doc,0000,0000,0000,,Preparem uma linha de transfusão e o monitor de ECG.
-Dialogue: 0,0:01:08.87,0:01:09.37,Main Kara,,0000,0000,0000,,Vou realizar a massagem cardíaca externa.
-Dialogue: 0,0:01:09.37,0:01:12.13,Main Kara,Doc,0000,0000,0000,,Entendido.
-Dialogue: 0,0:01:12.13,0:01:15.54,Main Kara,Nurse,0000,0000,0000,,Vitamina C intravenosa e dexametasona preparados.
-Dialogue: 0,0:01:20.99,0:01:22.69,Main Kara,Doc,0000,0000,0000,,Ventilação artificial em andamento.
-Dialogue: 0,0:01:26.03,0:01:27.24,Main Kara,Nurse,0000,0000,0000,,Linha de transfusão estabelecida.
-Dialogue: 0,0:01:27.24,0:01:28.27,Main Kara,Doc,0000,0000,0000,,Certo, vou iniciar o procedimento.
-Dialogue: 0,0:01:28.27,0:01:30.86,Main Kara,Nurse,0000,0000,0000,,Mais sucção!
-Dialogue: 0,0:01:30.86,0:01:32.00,Main Kara,Doc,0000,0000,0000,,Sim, doutor.
-Dialogue: 0,0:01:32.00,0:01:32.66,Main Kara,Nurse,0000,0000,0000,,A pressão arterial continua caindo!
-Dialogue: 0,0:01:35.03,0:01:37.81,Main Kara,Doc,0000,0000,0000,,Sem pulso carotídeo palpável!
-Dialogue: 0,0:01:37.81,0:01:40.46,Main Kara,Nurse,0000,0000,0000,,Fibrilação ventricular confirmada no monitor!
-Dialogue: 0,0:01:41.41,0:01:42.85,Main Kara,Man,0000,0000,0000,,Carreguem o desfibrilador em 200 joules!
-Dialogue: 0,0:01:42.85,0:01:44.31,Main Kara,Doc,0000,0000,0000,,Afastem-se todos!
-Dialogue: 0,0:01:44.31,0:01:44.54,Main Kara,,0000,0000,0000,,Disparar!
-Dialogue: 0,0:01:44.54,0:01:46.16,Main Kara,Doc,0000,0000,0000,,Carreguem em 300 joules!
-Dialogue: 0,0:01:46.16,0:01:46.63,Main Kara,,0000,0000,0000,,Afastem-se!
-Dialogue: 0,0:01:46.63,0:01:47.59,Main Kara,,0000,0000,0000,,Disparar!
-Dialogue: 0,0:01:47.59,0:01:49.07,Main Kara,,0000,0000,0000,,O ritmo cardíaco voltou...
-Dialogue: 0,0:04:03.09,0:04:07.10,Main Kara,Shiki,0000,0000,0000,,Ela está viva.
-Dialogue: 0,0:04:15.36,0:04:18.36,Main Kara,Nurse,0000,0000,0000,,Mas o coma é profundo.
-Dialogue: 0,0:05:14.44,0:05:16.80,Main Kara,Shiki,0000,0000,0000,,É um milagre ela ter sobrevivido a um choque desses.
-Dialogue: 0,0:05:16.80,0:05:19.30,Note Kara,Sign @05;15,0000,0000,0000,,A colisão contra aquele caminhão deveria ter sido fatal.
-Dialogue: 0,0:05:33.89,0:05:36.37,Main Kara,Touko,0000,0000,0000,,A partir de agora, é uma questão de tempo...
-Dialogue: 0,0:05:36.37,0:05:39.08,Main Kara,Mikiya,0000,0000,0000,,Não sabemos se ela algum dia voltará a acordar.
-Dialogue: 0,0:05:40.28,0:05:42.01,Main Kara,Touko,0000,0000,0000,,Dois anos...
-Dialogue: 0,0:05:42.01,0:05:43.60,Main Kara,Mikiya,0000,0000,0000,,Já faz dois anos completos.
-Dialogue: 0,0:05:43.60,0:05:46.39,Main Kara,Mikiya,0000,0000,0000,,Ela continua dormindo serenamente.
-Dialogue: 0,0:05:47.85,0:05:48.91,Main Kara,Touko,0000,0000,0000,,Flores frescas toda semana...
-Dialogue: 0,0:05:49.54,0:05:52.31,Main Kara,Mikiya,0000,0000,0000,,Aquele rapaz de óculos é incrivelmente dedicado.
-Dialogue: 0,0:05:52.31,0:05:54.73,Main Kara,Touko,0000,0000,0000,,Ele nunca falha um único sábado.
-Dialogue: 0,0:05:54.73,0:05:57.99,Main Kara,Touko,0000,0000,0000,,Será que ele é o namorado dela?
-Dialogue: 0,0:05:57.99,0:06:02.93,Main Kara,Touko,0000,0000,0000,,Ou talvez um amigo de infância?
-Dialogue: 0,0:06:02.93,0:06:04.40,Main Kara,,0000,0000,0000,,Seja o que for, a lealdade dele é comovente.
-Dialogue: 0,0:06:04.40,0:06:09.68,Main Kara,Mikiya,0000,0000,0000,,Se eu estivesse em coma, gostaria de ter alguém assim ao meu lado.
+Dialogue: 0,0:01:08.87,0:01:09.37,Main Kara,,0000,0000,0000,,Entendido!
+Dialogue: 0,0:01:09.37,0:01:12.13,Main Kara,Doc,0000,0000,0000,,Ryougi-san, consegue me ouvir? Ryougi-san!
+Dialogue: 0,0:01:12.13,0:01:15.54,Main Kara,Nurse,0000,0000,0000,,Com licença. Como acompanhante, o senhor deve aguardar aqui fora.
+Dialogue: 0,0:01:20.99,0:01:22.69,Main Kara,Doc,0000,0000,0000,,Um, dois, três!
+Dialogue: 0,0:01:26.03,0:01:27.24,Main Kara,Nurse,0000,0000,0000,,Linha de transfusão obtida.
+Dialogue: 0,0:01:27.24,0:01:28.27,Main Kara,Doc,0000,0000,0000,,Como estão os sinais vitais?
+Dialogue: 0,0:01:28.27,0:01:30.86,Main Kara,Nurse,0000,0000,0000,,A pressão está muito baixa. Os demais sinais estão estáveis.
+Dialogue: 0,0:01:30.86,0:01:32.00,Main Kara,Doc,0000,0000,0000,,Façam um teste de compatibilidade sanguínea, por favor.
+Dialogue: 0,0:01:32.00,0:01:32.66,Main Kara,Nurse,0000,0000,0000,,Entendido.
+Dialogue: 0,0:01:35.03,0:01:37.81,Main Kara,Doc,0000,0000,0000,,Ela está entubada. Vou iniciar os procedimentos pré-operatórios.
+Dialogue: 0,0:01:37.81,0:01:40.46,Main Kara,Nurse,0000,0000,0000,,Ryougi-san, vou precisar cortar o seu quimono.
+Dialogue: 0,0:01:41.41,0:01:42.85,Main Kara,Man,0000,0000,0000,,Ela perdeu sangue demais...
+Dialogue: 0,0:01:42.85,0:01:44.31,Main Kara,Doc,0000,0000,0000,,Preparem uma grande quantidade de bolsas de sangue para transfusão.
+Dialogue: 0,0:01:44.31,0:01:44.54,Main Kara,,0000,0000,0000,,Certo.
+Dialogue: 0,0:01:44.54,0:01:46.16,Main Kara,Doc,0000,0000,0000,,Vou fazer uma radiografia com o aparelho portátil.
+Dialogue: 0,0:01:46.16,0:01:46.63,Main Kara,,0000,0000,0000,,
+Dialogue: 0,0:01:46.63,0:01:47.59,Main Kara,,0000,0000,0000,,
+Dialogue: 0,0:01:47.59,0:01:49.07,Main Kara,,0000,0000,0000,,
+Dialogue: 0,0:04:03.09,0:04:07.10,Main Kara,Shiki,0000,0000,0000,,Não havia... um fim.
+Dialogue: 0,0:04:15.36,0:04:18.36,Main Kara,Nurse,0000,0000,0000,,Certo, e agora, as pernas...
+Dialogue: 0,0:05:14.44,0:05:16.80,Main Kara,Shiki,0000,0000,0000,,Isso é... a morte?
+Dialogue: 0,0:05:16.80,0:05:19.30,Note Kara,Sign @05;15,0000,0000,0000,,{\an6}"Graduação."
+Dialogue: 0,0:05:33.89,0:05:36.37,Main Kara,Touko,0000,0000,0000,,Vou contar com a sua ajuda, Mikiya-kun.
+Dialogue: 0,0:05:36.37,0:05:39.08,Main Kara,Mikiya,0000,0000,0000,,Entendido, Diretora Aozaki.
+Dialogue: 0,0:05:40.28,0:05:42.01,Main Kara,Touko,0000,0000,0000,,Hum, o que foi?
+Dialogue: 0,0:05:42.01,0:05:43.60,Main Kara,Mikiya,0000,0000,0000,,Ah, nada, é que...
+Dialogue: 0,0:05:43.60,0:05:46.39,Main Kara,Mikiya,0000,0000,0000,,Eu só estava pensando... sua aparência é bem diferente\ndo que imaginei pelo telefone.
+Dialogue: 0,0:05:47.85,0:05:48.91,Main Kara,Touko,0000,0000,0000,,Algo assim?
+Dialogue: 0,0:05:49.54,0:05:52.31,Main Kara,Mikiya,0000,0000,0000,,É, sim... isso é...
+Dialogue: 0,0:05:52.31,0:05:54.73,Main Kara,Touko,0000,0000,0000,,Quando se trabalha neste ramo, veja bem,
+Dialogue: 0,0:05:54.73,0:05:57.99,Main Kara,Touko,0000,0000,0000,,há situações que exigem saber agir da forma certa no momento certo.
+Dialogue: 0,0:05:57.99,0:06:02.93,Main Kara,Touko,0000,0000,0000,,É um truque simples. Eu alterno minha personalidade de acordo com o meu campo de visão.
+Dialogue: 0,0:06:02.93,0:06:04.40,Main Kara,,0000,0000,0000,,Ah...
+Dialogue: 0,0:06:04.40,0:06:09.68,Main Kara,Mikiya,0000,0000,0000,,Então, você está apenas querendo passar uma boa impressão, ou está sendo ingênuo mesmo?
 Dialogue: 0,0:06:11.36,0:06:13.94,Main Kara,Touko,0000,0000,0000,,Deixo isso para a sua imaginação.
 Dialogue: 0,0:07:43.36,0:07:45.32,Main Kara,Shiki,0000,0000,0000,,Escuridão...
-Dialogue: 0,0:08:23.54,0:08:24.62,Main Kara,Nurse,0000,0000,0000,,Ai, meu Deus!
-Dialogue: 0,0:08:25.81,0:08:30.56,Main Kara,Nurse,0000,0000,0000,,Doutor, venha cá! Venha depressa! A Ryougi-san... Ela...
+Dialogue: 0,0:08:23.54,0:08:24.62,Main Kara,Nurse,0000,0000,0000,,Céus!
+Dialogue: 0,0:08:25.81,0:08:30.56,Main Kara,Nurse,0000,0000,0000,,Doutor, venha cá! Venha rápido! A Ryougi-san... Ela...
 Dialogue: 0,0:08:32.91,0:08:35.59,Main Kara,Doctor,0000,0000,0000,,Ryougi-san, como você se sente?
 Dialogue: 0,0:08:36.22,0:08:38.92,Main Kara,Doctor,0000,0000,0000,,Está sentindo dor em algum lugar?
-Dialogue: 0,0:08:39.31,0:08:41.81,Main Kara,Doctor,0000,0000,0000,,Consegue me ouvir?
-Dialogue: 0,0:08:41.81,0:08:46.95,Main Kara,Nurse,0000,0000,0000,,Aperte a minha mão se estiver me ouvindo.
-Dialogue: 0,0:08:46.95,0:08:49.12,Main Kara,Doctor,0000,0000,0000,,Os reflexos pupilares estão normais.
-Dialogue: 0,0:08:51.37,0:08:54.93,Main Kara,Doctor,0000,0000,0000,,Mas ela não esboça nenhuma reação verbal.
+Dialogue: 0,0:08:39.31,0:08:41.81,Main Kara,Doctor,0000,0000,0000,,Este é um caso extremamente raro na medicina.
+Dialogue: 0,0:08:41.81,0:08:46.95,Main Kara,Nurse,0000,0000,0000,,Mas ela ter recuperado a consciência é um verdadeiro milagre.\nÉ maravilhoso.
+Dialogue: 0,0:08:46.95,0:08:49.12,Main Kara,Doctor,0000,0000,0000,,Vou verificar a sua pulsação agora.
+Dialogue: 0,0:08:51.37,0:08:54.93,Main Kara,Doctor,0000,0000,0000,,Vamos iniciar a sua reabilitação assim que saírem os resultados dos exames detalhados.
 Dialogue: 0,0:08:54.93,0:08:57.59,Main Kara,Nurse,0000,0000,0000,,Por enquanto, entraremos em contato com a sua família.
-Dialogue: 0,0:09:18.10,0:09:19.56,Main Kara,Nurse,0000,0000,0000,,Senhorita Ryougi, a senhorita esteve dormindo por dois anos inteiros.
-Dialogue: 0,0:09:22.53,0:09:25.50,Main Kara,Nurse,0000,0000,0000,,É natural que o seu corpo esteja enfraquecido e sem forças.
-Dialogue: 0,0:09:27.42,0:09:32.17,Main Kara,Nurse,0000,0000,0000,,Não tente se forçar.
-Dialogue: 0,0:09:32.17,0:09:36.18,Main Kara,Nurse,0000,0000,0000,,O que foi isso?!
-Dialogue: 0,0:09:48.39,0:09:50.28,Main Kara,Nurse 1,0000,0000,0000,,Ela arrancou os tubos!
-Dialogue: 0,0:09:50.97,0:09:54.28,Main Kara,Nurse 1,0000,0000,0000,,Segurem ela! Segurem os braços dela!
-Dialogue: 0,0:09:54.28,0:09:58.29,Main Kara,Nurse 2,0000,0000,0000,,Ela está tentando machucar os próprios olhos!
-Dialogue: 0,0:09:58.29,0:10:02.54,Main Kara,Nurse 1,0000,0000,0000,,Sedativo, rápido!
-Dialogue: 0,0:10:02.54,0:10:06.55,Main Kara,Nurse 2,0000,0000,0000,,Calma, Ryougi-san! Por favor, acalme-se!
-Dialogue: 0,0:10:07.12,0:10:09.18,Main Kara,Nurse 1,0000,0000,0000,,Linhas...
-Dialogue: 0,0:10:09.18,0:10:11.21,Main Kara,Nurse 1,0000,0000,0000,,Tudo está cheio de linhas...
-Dialogue: 0,0:10:11.21,0:10:13.88,Main Kara,Nurse 2,0000,0000,0000,,A morte... está em todo lugar...
-Dialogue: 0,0:10:13.88,0:10:18.31,Main Kara,Nurse 1,0000,0000,0000,,Tirem isso de mim...
-Dialogue: 0,0:10:18.76,0:10:22.81,Main Kara,Nurse 2,0000,0000,0000,,Tirem isso dos meus olhos!
-Dialogue: 0,0:10:22.81,0:10:25.04,Main Kara,Nurse 1,0000,0000,0000,,Ela teve um surto psicótico agudo ao acordar.
-Dialogue: 0,0:10:25.04,0:10:29.07,Main Kara,Nurse 2,0000,0000,0000,,Tivemos que aplicar ataduras sobre os olhos dela para evitar que se automutilasse.
-Dialogue: 0,0:10:40.72,0:10:43.37,Main Kara,Touko,0000,0000,0000,,Ela se recusa terminantemente a falar ou a comer.
-Dialogue: 0,0:10:43.37,0:10:46.42,Main Kara,Nurse,0000,0000,0000,,Os exames neurológicos não revelam danos nas áreas da fala,
-Dialogue: 0,0:10:54.27,0:10:57.30,Main Kara,Touko,0000,0000,0000,,mas ela simplesmente se fechou em um silêncio absoluto.
-Dialogue: 0,0:11:00.21,0:11:05.55,Main Kara,Touko,0000,0000,0000,,Entendo. Uma afasia de ordem psicológica, talvez?
-Dialogue: 0,0:11:07.47,0:11:12.39,Main Kara,Touko,0000,0000,0000,,Acredito que sim. Por isso solicitamos os seus serviços de fonoaudiologia e aconselhamento.
-Dialogue: 0,0:11:12.39,0:11:14.73,Main Kara,Touko,0000,0000,0000,,Pode deixar comigo.
-Dialogue: 0,0:11:14.73,0:11:18.33,Main Kara,Touko,0000,0000,0000,,Tenho bastante experiência com casos... peculiares.
-Dialogue: 0,0:11:20.54,0:11:24.81,Main Kara,Touko,0000,0000,0000,,Com licença.
-Dialogue: 0,0:11:26.83,0:11:30.81,Main Kara,Touko,0000,0000,0000,,Então você é a famosa Ryougi Shiki.
-Dialogue: 0,0:11:30.81,0:11:32.14,Main Kara,Touko,0000,0000,0000,,Muito prazer. Meu nome é Touko Aozaki.
-Dialogue: 0,0:11:34.32,0:11:36.34,Main Kara,Shiki,0000,0000,0000,,Fui contratada formalmente como sua terapeuta da fala.
-Dialogue: 0,0:11:36.84,0:11:39.51,Main Kara,Touko,0000,0000,0000,,Embora eu prefira pensar em mim mesma como uma ouvinte curiosa.
-Dialogue: 0,0:11:39.51,0:11:43.53,Main Kara,Touko,0000,0000,0000,,Não precisa me olhar desse jeito tão desconfiado.
+Dialogue: 0,0:09:18.10,0:09:19.56,Main Kara,Nurse,0000,0000,0000,,Kokutou-san!
+Dialogue: 0,0:09:22.53,0:09:25.50,Main Kara,Nurse,0000,0000,0000,,A Ryougi-san recuperou a consciência.
+Dialogue: 0,0:09:27.42,0:09:32.17,Main Kara,Nurse,0000,0000,0000,,Mas ela acabou de acordar e ainda está em estado de confusão mental.
+Dialogue: 0,0:09:32.17,0:09:36.18,Main Kara,Nurse,0000,0000,0000,,Por isso, estamos restringindo as visitas apenas para a família.
+Dialogue: 0,0:09:48.39,0:09:50.28,Main Kara,Nurse 1,0000,0000,0000,,Ei, você ouviu?
+Dialogue: 0,0:09:50.97,0:09:54.28,Main Kara,Nurse 1,0000,0000,0000,,Fiquei sabendo que uma nova conselheira viria hoje...
+Dialogue: 0,0:09:54.28,0:09:58.29,Main Kara,Nurse 2,0000,0000,0000,,Ela vai assumir a vaga do Dr. Araya a partir de hoje, né?
+Dialogue: 0,0:09:58.29,0:10:02.54,Main Kara,Nurse 1,0000,0000,0000,,Ai, estou tão nervosa! Tomara que seja alguém simpática...
+Dialogue: 0,0:10:02.54,0:10:06.55,Main Kara,Nurse 2,0000,0000,0000,,Ela vai cuidar {\i1}dela{\i0}, não vai?\nA propósito, os olhos dela já melhoraram?
+Dialogue: 0,0:10:07.12,0:10:09.18,Main Kara,Nurse 1,0000,0000,0000,,Parece que ela não vai ficar cega por causa daquilo.
+Dialogue: 0,0:10:09.18,0:10:11.21,Main Kara,Nurse 1,0000,0000,0000,,Fiquei sabendo que ela começou a se acalmar aos poucos.
+Dialogue: 0,0:10:11.21,0:10:13.88,Main Kara,Nurse 2,0000,0000,0000,,Ah, então o cachorrinho dela vai poder vê-la em breve!
+Dialogue: 0,0:10:13.88,0:10:18.31,Main Kara,Nurse 1,0000,0000,0000,,Ah, {\i1}aquele{\i0} cachorrinho? Eu também estava me perguntando...
+Dialogue: 0,0:10:18.76,0:10:22.81,Main Kara,Nurse 2,0000,0000,0000,,Poxa, já faz dois anos, sabia? Ele esteve esperando por dois anos inteirinhos!
+Dialogue: 0,0:10:22.81,0:10:25.04,Main Kara,Nurse 1,0000,0000,0000,,Ela tem muita sorte.
+Dialogue: 0,0:10:25.04,0:10:29.07,Main Kara,Nurse 2,0000,0000,0000,,Não tem? Eu com certeza adoraria ter alguém que se importasse tanto comigo...
+Dialogue: 0,0:10:40.72,0:10:43.37,Main Kara,Touko,0000,0000,0000,,Sou a Aozaki, a fonoaudióloga.
+Dialogue: 0,0:10:43.37,0:10:46.42,Main Kara,Nurse,0000,0000,0000,,Ah, estávamos à sua espera. O quarto dela é logo ali.
+Dialogue: 0,0:10:54.27,0:10:57.30,Main Kara,Touko,0000,0000,0000,,Olá! Como você está?
+Dialogue: 0,0:11:00.21,0:11:05.55,Main Kara,Touko,0000,0000,0000,,Poxa, achei que você estaria pálida e abatida, mas sua pele é tão lisa e bonita.
+Dialogue: 0,0:11:07.47,0:11:12.39,Main Kara,Touko,0000,0000,0000,,Quando ouvi falar de você, sabe, imaginei algo como um fantasma vivendo sob um salgueiro,
+Dialogue: 0,0:11:12.39,0:11:14.73,Main Kara,Touko,0000,0000,0000,,então eu não estava lá muito animada com este trabalho...
+Dialogue: 0,0:11:14.73,0:11:18.33,Main Kara,Touko,0000,0000,0000,,Hum, dei sorte. Uma garota adorável, bem do jeitinho que eu gosto!
+Dialogue: 0,0:11:20.54,0:11:24.81,Main Kara,Touko,0000,0000,0000,,Como vai? Sou Touko Aozaki, fonoaudióloga.
+Dialogue: 0,0:11:26.83,0:11:30.81,Main Kara,Touko,0000,0000,0000,,Estou aqui para ajudar com a sua afasia.
+Dialogue: 0,0:11:30.81,0:11:32.14,Main Kara,Touko,0000,0000,0000,,Prazer em conhecê-la.
+Dialogue: 0,0:11:34.32,0:11:36.34,Main Kara,Shiki,0000,0000,0000,,Quem é que tem afasia, exatamente?
+Dialogue: 0,0:11:36.84,0:11:39.51,Main Kara,Touko,0000,0000,0000,,Tudo bem, eu entendo.
+Dialogue: 0,0:11:39.51,0:11:43.53,Main Kara,Touko,0000,0000,0000,,O diagnóstico está errado e você acha tudo isso um grande estorvo.
 Dialogue: 0,0:11:44.10,0:11:46.80,Main Kara,Touko,0000,0000,0000,,Mas a culpa também é sua, sabia?
-Dialogue: 0,0:11:46.80,0:11:48.86,Main Kara,Touko,0000,0000,0000,,Afinal de contas, você sofreu um choque cerebral violentíssimo naquele acidente.
-Dialogue: 0,0:11:49.49,0:11:52.86,Main Kara,Touko,0000,0000,0000,,As pessoas naturalmente acharão que você perdeu a fala se ficar sem dizer uma palavra por tanto tempo.
+Dialogue: 0,0:11:46.80,0:11:48.86,Main Kara,Touko,0000,0000,0000,,Afinal de contas, você sofreu um trauma cerebral naquele acidente.
+Dialogue: 0,0:11:49.49,0:11:52.86,Main Kara,Touko,0000,0000,0000,,As pessoas naturalmente vão achar que você perdeu a fala\nse ficar sem dizer uma única palavra por tanto tempo.
 Dialogue: 0,0:11:53.34,0:11:55.91,Main Kara,Touko,0000,0000,0000,,E só para você saber exatamente por que estou aqui...
-Dialogue: 0,0:11:55.91,0:11:58.56,Main Kara,Touko,0000,0000,0000,,Bem, vai ser uma longa história se eu começar desde o princípio...
+Dialogue: 0,0:11:55.91,0:11:58.56,Main Kara,Touko,0000,0000,0000,,Bem, vai ser uma longa história se eu começar...
 Dialogue: 0,0:12:01.19,0:12:04.97,Main Kara,Touko,0000,0000,0000,,Ufa, essa passou perto. Quase perdi o emprego um minuto depois de começar.
-Dialogue: 0,0:12:06.45,0:12:07.86,Main Kara,Shiki,0000,0000,0000,,Você tem um visitante assíduo, sabia?
-Dialogue: 0,0:12:07.86,0:12:09.11,Main Kara,,0000,0000,0000,,Aquele garoto de óculos.
-Dialogue: 0,0:12:09.11,0:12:10.96,Main Kara,Shiki,0000,0000,0000,,Ele vem aqui todos os finais de semana sem exceção trazer flores novas.
-Dialogue: 0,0:12:12.24,0:12:14.97,Main Kara,Touko,0000,0000,0000,,Parece que vocês se conhecem desde o colégio.
-Dialogue: 0,0:12:16.07,0:12:17.97,Main Kara,Shiki,0000,0000,0000,,Ele é um rapaz muito gentil... quase ingênuo de tão transparente.
-Dialogue: 0,0:12:19.06,0:12:24.36,Main Kara,Touko,0000,0000,0000,,Mikiya Kokutou.
-Dialogue: 0,0:12:24.36,0:12:27.48,Main Kara,Touko,0000,0000,0000,,Você se lembra dele, não se lembra?
-Dialogue: 0,0:12:27.48,0:12:28.98,Main Kara,Shiki,0000,0000,0000,,Ele quase chorou de alívio quando soube que você finalmente havia acordado.
-Dialogue: 0,0:12:30.05,0:12:36.20,Main Kara,Touko,0000,0000,0000,,Mas os médicos o proibiram de visitá-la por enquanto, devido ao seu estado instável.
-Dialogue: 0,0:12:38.44,0:12:42.45,Main Kara,Touko,0000,0000,0000,,Ele ficou desolado, mas concordou em esperar pacientemente.
-Dialogue: 0,0:12:42.45,0:12:44.46,Main Kara,Touko,0000,0000,0000,,Você tem sorte de ter alguém assim.
-Dialogue: 0,0:13:07.66,0:13:09.56,Main Kara,Mikiya,0000,0000,0000,,Na verdade, sorte até demais.
-Dialogue: 0,0:13:10.56,0:13:12.75,Main Kara,Touko,0000,0000,0000,,Ei, você não vai dizer nada mesmo?
-Dialogue: 0,0:13:12.75,0:13:14.82,Main Kara,Mikiya,0000,0000,0000,,Não vai nem me mandar calar a boca?
-Dialogue: 0,0:13:16.37,0:13:18.15,Main Kara,Touko,0000,0000,0000,,Brrr, que frio que está aqui dentro.
-Dialogue: 0,0:13:18.98,0:13:20.07,Main Kara,Touko,0000,0000,0000,,O verão finalmente chegou, mas este quarto parece um necrotério.
-Dialogue: 0,0:13:23.87,0:13:25.70,Main Kara,Mikiya,0000,0000,0000,,Essa sensação não vem do ambiente físico, vem de você.
-Dialogue: 0,0:13:42.24,0:13:47.47,Main Kara,Touko,0000,0000,0000,,Você está emitindo um ar gélido de morte por todos os poros.
-Dialogue: 0,0:13:56.63,0:14:00.24,Main Kara,Touko,0000,0000,0000,,O que foi que você viu quando abriu os olhos pela primeira vez?
-Dialogue: 0,0:14:04.43,0:14:06.33,Main Kara,Touko,0000,0000,0000,,Por que tentou cegar a si mesma com tanta fúria?
-Dialogue: 0,0:14:07.48,0:14:08.83,Main Kara,Mikiya,0000,0000,0000,,Você não precisa ter medo de falar comigo.
-Dialogue: 0,0:14:11.30,0:14:12.27,Main Kara,Touko,0000,0000,0000,,Ao contrário desses médicos, eu sei exatamente o que você é.
-Dialogue: 0,0:15:09.18,0:15:10.43,Main Kara,Spirit,0000,0000,0000,,E sei o que está acontecendo por trás dessas ataduras.
-Dialogue: 0,0:16:09.13,0:16:11.70,Main Kara,Shiki,0000,0000,0000,,Você não é cega.
-Dialogue: 0,0:16:12.99,0:16:15.33,Main Kara,Shiki,0000,0000,0000,,Você está enxergando longe demais.
-Dialogue: 0,0:16:16.16,0:16:19.46,Main Kara,Shiki,0000,0000,0000,,Está enxergando coisas que os olhos humanos jamais foram feitos para contemplar.
-Dialogue: 0,0:16:25.13,0:16:28.36,Main Kara,Mikiya,0000,0000,0000,,Não é verdade?
-Dialogue: 0,0:16:28.36,0:16:29.55,Main Kara,Nurse,0000,0000,0000,,Quem é você...?
-Dialogue: 0,0:16:36.34,0:16:40.89,Main Kara,Shiki,0000,0000,0000,,Ora, finalmente resolveu falar.
-Dialogue: 0,0:16:41.67,0:16:46.15,Main Kara,Shiki,0000,0000,0000,,Sua voz é mais suave do que eu imaginava.
-Dialogue: 0,0:16:47.87,0:16:49.66,Main Kara,Touko,0000,0000,0000,,Eu já disse: sou Touko Aozaki.
-Dialogue: 0,0:16:50.40,0:16:55.64,Main Kara,Touko,0000,0000,0000,,Uma maga... ou, no papel oficial deste hospital, uma terapeuta de linguagem.
-Dialogue: 0,0:16:55.64,0:16:57.68,Main Kara,Touko,0000,0000,0000,,O que você quer de mim?
-Dialogue: 0,0:16:57.68,0:17:00.76,Main Kara,Touko,0000,0000,0000,,Nada em especial. Apenas curiosidade científica e uma pitada de simpatia.
-Dialogue: 0,0:17:01.45,0:17:04.13,Main Kara,Shiki,0000,0000,0000,,Eu não preciso da sua simpatia.
-Dialogue: 0,0:17:05.27,0:17:10.16,Main Kara,Touko,0000,0000,0000,,Vá embora.
-Dialogue: 0,0:17:10.16,0:17:14.29,Main Kara,Touko,0000,0000,0000,,Não posso fazer isso. Sou paga por hora, sabia?
-Dialogue: 0,0:17:14.29,0:17:17.43,Main Kara,Touko,0000,0000,0000,,E a sua família é bastante generosa quando o assunto é o seu bem-estar.
-Dialogue: 0,0:17:18.07,0:17:21.44,Main Kara,Touko,0000,0000,0000,,Embora eu ache que o dinheiro deles seja um tanto amaldiçoado.
-Dialogue: 0,0:17:23.64,0:17:26.40,Main Kara,Touko,0000,0000,0000,,O clã Ryougi...
-Dialogue: 0,0:17:26.40,0:17:29.12,Main Kara,Shiki,0000,0000,0000,,Uma linhagem arcaica de exterminadores de demônios.
-Dialogue: 0,0:17:29.12,0:17:32.20,Main Kara,Touko,0000,0000,0000,,Eles criam recipientes humanos capazes de abrigar duas almas distintas.
-Dialogue: 0,0:17:32.76,0:17:37.88,Main Kara,Touko,0000,0000,0000,,Uma personalidade para o yin, e outra para o yang.
-Dialogue: 0,0:17:39.02,0:17:43.50,Main Kara,Touko,0000,0000,0000,,Mas você perdeu a outra metade, não perdeu?
-Dialogue: 0,0:17:50.78,0:17:54.93,Main Kara,Shiki,0000,0000,0000,,O outro Shiki...
-Dialogue: 0,0:17:57.60,0:18:03.64,Main Kara,Touko,0000,0000,0000,,O SHIKI masculino não está mais com você.
-Dialogue: 0,0:18:04.97,0:18:10.45,Main Kara,Touko,0000,0000,0000,,Ele morreu naquele acidente de dois anos atrás.
-Dialogue: 0,0:18:10.45,0:18:13.40,Main Kara,Touko,0000,0000,0000,,Cale-se...
-Dialogue: 0,0:18:20.23,0:18:23.36,Main Kara,Touko,0000,0000,0000,,Ele morreu para salvar você.
-Dialogue: 0,0:18:24.47,0:18:29.17,Main Kara,Touko,0000,0000,0000,,E agora restou apenas você... sozinha dentro desta casca.
-Dialogue: 0,0:18:29.86,0:18:32.18,Main Kara,Touko,0000,0000,0000,,Ele se foi...
-Dialogue: 0,0:18:32.95,0:18:38.18,Main Kara,Touko,0000,0000,0000,,O SHIKI se foi para sempre...
-Dialogue: 0,0:18:39.66,0:18:41.31,Main Kara,Mikiya,0000,0000,0000,,E deixou um imenso buraco negro no meu peito.
-Dialogue: 0,0:18:42.48,0:18:46.31,Main Kara,Touko,0000,0000,0000,,Eu não sei quem eu sou.
-Dialogue: 0,0:18:47.59,0:18:49.05,Main Kara,Touko,0000,0000,0000,,Ela tem que construir um novo eu para si mesma,
-Dialogue: 0,0:18:49.05,0:18:53.07,Main Kara,Touko,0000,0000,0000,,não usando as suas memórias passadas, mas acumulando experiências no presente.
-Dialogue: 0,0:18:53.07,0:18:58.08,Main Kara,Touko,0000,0000,0000,,Esta é a construção de um santuário... uma tarefa na qual ninguém mais pode ajudá-la.
-Dialogue: 0,0:18:58.77,0:19:04.33,Main Kara,Touko,0000,0000,0000,,Em outras palavras: significa apenas que você deve interagir com ela da mesma forma que fazia até agora.
-Dialogue: 0,0:19:06.47,0:19:13.80,Main Kara,Touko,0000,0000,0000,,Sim, agora que ele se perdeu, você não poderá recuperar as memórias que perdeu com ele.
-Dialogue: 0,0:19:14.67,0:19:19.92,Main Kara,Touko,0000,0000,0000,,A verdade sobre o quanto Ryougi Shiki estava relacionada aos assassinatos de dois anos atrás
-Dialogue: 0,0:19:19.92,0:19:23.59,Main Kara,Touko,0000,0000,0000,,morreu junto com o SHIKI.
-Dialogue: 0,0:19:25.69,0:19:29.84,Main Kara,Touko,0000,0000,0000,,Ninguém jamais saberá.
-Dialogue: 0,0:19:29.84,0:19:30.86,Main Kara,Shiki,0000,0000,0000,,Nem mesmo você.
-Dialogue: 0,0:19:30.86,0:19:37.09,Main Kara,Touko,0000,0000,0000,,Por que ele se foi?
+Dialogue: 0,0:12:06.45,0:12:07.86,Main Kara,Shiki,0000,0000,0000,,Você...
+Dialogue: 0,0:12:07.86,0:12:09.11,Main Kara,,0000,0000,0000,,Sim?
+Dialogue: 0,0:12:09.11,0:12:10.96,Main Kara,Shiki,0000,0000,0000,,Você não é médica, é?
+Dialogue: 0,0:12:12.24,0:12:14.97,Main Kara,Touko,0000,0000,0000,,Exato. Ser uma maga é o meu trabalho de verdade.
+Dialogue: 0,0:12:16.07,0:12:17.97,Main Kara,Shiki,0000,0000,0000,,Não tenho nada a pedir para uma charlatã.
+Dialogue: 0,0:12:19.06,0:12:24.36,Main Kara,Touko,0000,0000,0000,,Bem, isso é verdade. Uma maga não seria capaz de tapar o vazio do seu coração.
+Dialogue: 0,0:12:24.36,0:12:27.48,Main Kara,Touko,0000,0000,0000,,Apenas pessoas comuns conseguem fazer isso.
+Dialogue: 0,0:12:27.48,0:12:28.98,Main Kara,Shiki,0000,0000,0000,,O vazio do meu coração?
+Dialogue: 0,0:12:30.05,0:12:36.20,Main Kara,Touko,0000,0000,0000,,Sim. Você já deve ter percebido que está completamente sozinha agora, não é?
+Dialogue: 0,0:12:38.44,0:12:42.45,Main Kara,Touko,0000,0000,0000,,Parece que hoje ainda é um pouco cedo demais, então encerramos por aqui.
+Dialogue: 0,0:12:42.45,0:12:44.46,Main Kara,Touko,0000,0000,0000,,Até amanhã! Tchauzinho!
+Dialogue: 0,0:13:07.66,0:13:09.56,Main Kara,Mikiya,0000,0000,0000,,A Shiki estava bem?
+Dialogue: 0,0:13:10.56,0:13:12.75,Main Kara,Touko,0000,0000,0000,,Sim, por enquanto.
+Dialogue: 0,0:13:12.75,0:13:14.82,Main Kara,Mikiya,0000,0000,0000,,O que você quer dizer com "por enquanto"?
+Dialogue: 0,0:13:16.37,0:13:18.15,Main Kara,Touko,0000,0000,0000,,Brrr, que frio.
+Dialogue: 0,0:13:18.98,0:13:20.07,Main Kara,Touko,0000,0000,0000,,Vamos tomar um chá lá em cima.
+Dialogue: 0,0:13:23.87,0:13:25.70,Main Kara,Mikiya,0000,0000,0000,,Er, Touko-san?
+Dialogue: 0,0:13:42.24,0:13:47.47,Main Kara,Touko,0000,0000,0000,,Você já deve ter percebido que está completamente sozinha agora, não é?
+Dialogue: 0,0:13:56.63,0:14:00.24,Main Kara,Touko,0000,0000,0000,,Não estou dizendo que a vida dela esteja em perigo nem nada do tipo.
+Dialogue: 0,0:14:04.43,0:14:06.33,Main Kara,Touko,0000,0000,0000,,É só que você não deveria ir vê-la ainda.
+Dialogue: 0,0:14:07.48,0:14:08.83,Main Kara,Mikiya,0000,0000,0000,,Mas ela está bem, não está?
+Dialogue: 0,0:14:11.30,0:14:12.27,Main Kara,Touko,0000,0000,0000,,Sim.
+Dialogue: 0,0:15:09.18,0:15:10.43,Main Kara,Spirit,0000,0000,0000,,Eu aceito o lugar.
+Dialogue: 0,0:16:09.13,0:16:11.70,Main Kara,Shiki,0000,0000,0000,,Este lugar é tão bonito...
+Dialogue: 0,0:16:12.99,0:16:15.33,Main Kara,Shiki,0000,0000,0000,,Mesmo sendo tão felizes...
+Dialogue: 0,0:16:16.16,0:16:19.46,Main Kara,Shiki,0000,0000,0000,,Os seres humanos são tão solitários...
+Dialogue: 0,0:16:25.13,0:16:28.36,Main Kara,Mikiya,0000,0000,0000,,Poderia entregar estas flores para a Ryougi-san, por favor?
+Dialogue: 0,0:16:28.36,0:16:29.55,Main Kara,Nurse,0000,0000,0000,,Pode deixar comigo.
+Dialogue: 0,0:16:36.34,0:16:40.89,Main Kara,Shiki,0000,0000,0000,,A mulher que dizia ser conselheira vinha todos os dias.
+Dialogue: 0,0:16:41.67,0:16:46.15,Main Kara,Shiki,0000,0000,0000,,Percebi que parecia ter me tornado dependente das conversas que tinha com ela.
+Dialogue: 0,0:16:47.87,0:16:49.66,Main Kara,Touko,0000,0000,0000,,Entendo.
+Dialogue: 0,0:16:50.40,0:16:55.64,Main Kara,Touko,0000,0000,0000,,Então, não era que o senhor SHIKI não tivesse controle sobre o seu corpo,
+Dialogue: 0,0:16:55.64,0:16:57.68,Main Kara,Touko,0000,0000,0000,,mas sim que ele escolhia não usar o controle que tinha.
+Dialogue: 0,0:16:57.68,0:17:00.76,Main Kara,Touko,0000,0000,0000,,Ouvir sobre vocês dois está ficando cada vez mais fascinante.
+Dialogue: 0,0:17:01.45,0:17:04.13,Main Kara,Shiki,0000,0000,0000,,Não há nada de fascinante em ter dupla personalidade...
+Dialogue: 0,0:17:05.27,0:17:10.16,Main Kara,Touko,0000,0000,0000,,Vocês dois, sabe, não eram algo tão simples quanto uma dupla personalidade...
+Dialogue: 0,0:17:10.16,0:17:14.29,Main Kara,Touko,0000,0000,0000,,Vocês dois existiam ao mesmo tempo e possuíam vontade própria.
+Dialogue: 0,0:17:14.29,0:17:17.43,Main Kara,Touko,0000,0000,0000,,E ainda assim, as ações que tomavam estavam sempre em harmonia.
+Dialogue: 0,0:17:18.07,0:17:21.44,Main Kara,Touko,0000,0000,0000,,Não existem outros relatos de uma dupla personalidade tão bizarra e complexa.
+Dialogue: 0,0:17:23.64,0:17:26.40,Main Kara,Touko,0000,0000,0000,,No seu caso, seria mais adequado falar em personalidades individuais combinadas.
+Dialogue: 0,0:17:26.40,0:17:29.12,Main Kara,Shiki,0000,0000,0000,,Personalidades individuais combinadas?
+Dialogue: 0,0:17:29.12,0:17:32.20,Main Kara,Touko,0000,0000,0000,,Sim. Mas mesmo assim, ainda restam algumas dúvidas.
+Dialogue: 0,0:17:32.76,0:17:37.88,Main Kara,Touko,0000,0000,0000,,Se for esse o caso, então o SHIKI não tinha necessidade de estar adormecido.
+Dialogue: 0,0:17:39.02,0:17:43.50,Main Kara,Touko,0000,0000,0000,,Parece que ele estava sempre dormindo, no entanto. Isso é um tanto estranho.
+Dialogue: 0,0:17:50.78,0:17:54.93,Main Kara,Shiki,0000,0000,0000,,O nome dele é o único que eu não consigo lembrar.
+Dialogue: 0,0:17:57.60,0:18:03.64,Main Kara,Touko,0000,0000,0000,,Ela está oca. Há um buraco imenso no coração dela.
+Dialogue: 0,0:18:04.97,0:18:10.45,Main Kara,Touko,0000,0000,0000,,Mas não importa o quão pouco ela sinta de si mesma,
+Dialogue: 0,0:18:10.45,0:18:13.40,Main Kara,Touko,0000,0000,0000,,ela ainda é Ryougi Shiki.
+Dialogue: 0,0:18:20.23,0:18:23.36,Main Kara,Touko,0000,0000,0000,,Do jeito que está agora, ela provavelmente não internalizou a sensação de estar viva, mas...
+Dialogue: 0,0:18:24.47,0:18:29.17,Main Kara,Touko,0000,0000,0000,,Cedo ou tarde, chegará a hora em que ela conseguirá reconhecer a si mesma como Shiki.
+Dialogue: 0,0:18:29.86,0:18:32.18,Main Kara,Touko,0000,0000,0000,,Uma rosa nasce uma rosa.
+Dialogue: 0,0:18:32.95,0:18:38.18,Main Kara,Touko,0000,0000,0000,,Ela não se tornará uma flor diferente simplesmente mudando\no solo onde cresce ou a água que bebe.
+Dialogue: 0,0:18:39.66,0:18:41.31,Main Kara,Mikiya,0000,0000,0000,,Touko-san...
+Dialogue: 0,0:18:42.48,0:18:46.31,Main Kara,Touko,0000,0000,0000,,No fim das contas, ela não terá escolha a não ser tapar o vazio do coração com alguma coisa.
+Dialogue: 0,0:18:47.59,0:18:49.05,Main Kara,Touko,0000,0000,0000,,Ela terá que construir um novo eu para si mesma,
+Dialogue: 0,0:18:49.05,0:18:53.07,Main Kara,Touko,0000,0000,0000,,não através das memórias perdidas, mas acumulando experiências do presente.
+Dialogue: 0,0:18:53.07,0:18:58.08,Main Kara,Touko,0000,0000,0000,,Essa é a construção de um santuário no qual ninguém pode ajudá-la.
+Dialogue: 0,0:18:58.77,0:19:04.33,Main Kara,Touko,0000,0000,0000,,Em outras palavras, isso significa apenas que você deve interagir com ela como sempre fez até agora.
+Dialogue: 0,0:19:06.47,0:19:13.80,Main Kara,Touko,0000,0000,0000,,Sim, agora que ele se foi, você não pode recuperar as memórias que perdeu.
+Dialogue: 0,0:19:14.67,0:19:19.92,Main Kara,Touko,0000,0000,0000,,A verdade sobre a ligação de Ryougi Shiki com os assassinatos do serial killer há dois anos
+Dialogue: 0,0:19:19.92,0:19:23.59,Main Kara,Touko,0000,0000,0000,,está verdadeiramente perdida na escuridão.
+Dialogue: 0,0:19:25.69,0:19:29.84,Main Kara,Touko,0000,0000,0000,,Mas não havia motivo para o SHIKI desaparecer, havia?
+Dialogue: 0,0:19:29.84,0:19:30.86,Main Kara,Shiki,0000,0000,0000,,Hein?
+Dialogue: 0,0:19:30.86,0:19:37.09,Main Kara,Touko,0000,0000,0000,,Digo, se ele não tivesse feito nada, teria sido você quem desapareceria, Shiki, então...
 Dialogue: 0,0:19:37.09,0:19:40.87,Main Kara,Touko,0000,0000,0000,,Por que ele escolheu desaparecer por vontade própria?
-Dialogue: 0,0:19:41.66,0:19:45.07,Main Kara,Shiki,0000,0000,0000,,Porque ele te amava, Shiki.
-Dialogue: 0,0:19:45.07,0:19:47.67,Main Kara,Touko,0000,0000,0000,,Ele era a metade impulsiva e destrutiva.
-Dialogue: 0,0:19:47.67,0:19:51.53,Main Kara,Touko,0000,0000,0000,,Se continuasse vivo, ele inevitavelmente te arrastaria para a autodestruição.
-Dialogue: 0,0:19:53.65,0:19:56.79,Main Kara,Touko,0000,0000,0000,,Ele preferiu morrer para que você pudesse viver.
-Dialogue: 0,0:19:57.62,0:19:59.64,Main Kara,Shiki,0000,0000,0000,,Mas agora a sua mente é como um santuário vazio.
-Dialogue: 0,0:20:00.30,0:20:03.39,Main Kara,Touko,0000,0000,0000,,Um templo deserto e sem divindade dentro.
-Dialogue: 0,0:20:03.39,0:20:07.62,Main Kara,Touko,0000,0000,0000,,E você sabe o que acontece com templos abandonados?
-Dialogue: 0,0:20:07.62,0:20:08.90,Main Kara,Shiki,0000,0000,0000,,Eles atraem espíritos errantes.
-Dialogue: 0,0:20:08.90,0:20:12.61,Main Kara,Shiki,0000,0000,0000,,Criaturas impuras que buscam desesperadamente um abrigo para habitar.
-Dialogue: 0,0:20:14.22,0:20:16.27,Main Kara,Touko,0000,0000,0000,,Você sente a presença deles à noite, não sente?
-Dialogue: 0,0:20:19.84,0:20:22.03,Main Kara,Touko,0000,0000,0000,,Eles sussurram ao pé da sua cama.
-Dialogue: 0,0:20:26.74,0:20:32.45,Main Kara,Touko,0000,0000,0000,,Eles querem devorar o que restou de você.
-Dialogue: 0,0:21:39.33,0:21:43.70,Main Kara,Doc,0000,0000,0000,,E essas linhas...
-Dialogue: 0,0:21:43.70,0:21:47.65,Main Kara,Doc,0000,0000,0000,,Essas linhas pretas que você vê por toda parte.
-Dialogue: 0,0:21:47.65,0:21:49.54,Main Kara,Nurse,0000,0000,0000,,Tire as ataduras.
-Dialogue: 0,0:21:51.61,0:21:57.09,Main Kara,Doc,0000,0000,0000,,Não! Não vou tirar!
-Dialogue: 0,0:21:53.47,0:21:54.74,Main Kara,Shiki (in between),0000,0000,0000,,Se eu olhar... eu vou enlouquecer!
-Dialogue: 0,0:21:57.63,0:21:58.72,Main Kara,Shiki,0000,0000,0000,,Tudo tem rachaduras! As paredes, os móveis, as pessoas!
-Dialogue: 0,0:21:59.77,0:22:00.53,Main Kara,Shiki,0000,0000,0000,,Basta um leve toque para que tudo se desfaça em pedaços!
-Dialogue: 0,0:22:04.97,0:22:06.43,Main Kara,Shiki,0000,0000,0000,,Isso não é loucura, Shiki.
-Dialogue: 0,0:22:07.72,0:22:12.17,Main Kara,Shiki,0000,0000,0000,,Isso é a morte.
-Dialogue: 0,0:22:22.28,0:22:26.06,Main Kara,Shiki,0000,0000,0000,,Você esteve conectada à Raiz da Existência durante os dois anos em que esteve em coma.
-Dialogue: 0,0:22:26.91,0:22:27.67,Main Kara,Touko,0000,0000,0000,,A sua consciência tocou a fonte primordial de todas as coisas.
-Dialogue: 0,0:22:28.11,0:22:30.75,Main Kara,Touko,0000,0000,0000,,E quando você voltou para este lado, os seus olhos permaneceram sintonizados com o fim.
-Dialogue: 0,0:22:34.82,0:22:36.35,Main Kara,Touko,0000,0000,0000,,Você agora enxerga a fragilidade intrínseca da matéria.
-Dialogue: 0,0:22:42.81,0:22:48.78,Main Kara,Touko,0000,0000,0000,,Os Olhos Místicos de Percepção da Morte.
-Dialogue: 0,0:22:48.78,0:22:54.32,Main Kara,Touko,0000,0000,0000,,Uma capacidade lendária que muitos magos passariam milênios tentando obter.
-Dialogue: 0,0:22:56.17,0:22:58.14,Main Kara,Shiki,0000,0000,0000,,E você a recebeu de presente.
-Dialogue: 0,0:23:00.70,0:23:02.52,Main Kara,Touko,0000,0000,0000,,Eu não quero isso!
-Dialogue: 0,0:23:02.52,0:23:03.40,Main Kara,Shiki,0000,0000,0000,,Eu só quero que tudo isso pare!
-Dialogue: 0,0:23:03.81,0:23:05.21,Main Kara,Touko,0000,0000,0000,,Arrancar os próprios olhos não vai adiantar nada.
-Dialogue: 0,0:23:06.92,0:23:10.47,Main Kara,Touko,0000,0000,0000,,Mesmo se você ficar cega, a sua mente continuará enxergando as linhas.
-Dialogue: 0,0:23:12.85,0:23:15.59,Main Kara,Touko,0000,0000,0000,,O circuito já foi gravado no seu cérebro.
-Dialogue: 0,0:23:15.59,0:23:21.93,Main Kara,Touko,0000,0000,0000,,A única saída é aprender a controlar essa visão.
-Dialogue: 0,0:23:23.41,0:23:28.54,Main Kara,Touko,0000,0000,0000,,E aceitar a sua própria natureza.
-Dialogue: 0,0:23:29.18,0:23:34.19,Main Kara,Touko,0000,0000,0000,,Eu não sou uma assassina...
-Dialogue: 0,0:23:34.19,0:23:37.27,Main Kara,Touko,0000,0000,0000,,Não tente bancar a inocente.
-Dialogue: 0,0:23:37.27,0:23:40.15,Main Kara,Touko,0000,0000,0000,,Você nasceu com essa aptidão.
-Dialogue: 0,0:23:42.18,0:23:45.99,Main Kara,Touko,0000,0000,0000,,E agora terá que utilizá-la se quiser continuar viva.
-Dialogue: 0,0:23:53.60,0:23:57.13,Main Kara,Touko,0000,0000,0000,,Eles estão vindo.
-Dialogue: 0,0:23:57.84,0:24:00.63,Main Kara,Touko,0000,0000,0000,,Quem?!
-Dialogue: 0,0:24:01.24,0:24:05.95,Main Kara,Touko,0000,0000,0000,,Os mortos deste hospital.
-Dialogue: 0,0:24:07.89,0:24:11.39,Main Kara,Shiki,0000,0000,0000,,As almas penadas que vagam pelos corredores escuros.
-Dialogue: 0,0:24:13.01,0:24:14.89,Main Kara,Touko,0000,0000,0000,,Eles perceberam que o seu santuário está desprotegido.
-Dialogue: 0,0:24:15.43,0:24:20.32,Main Kara,Touko,0000,0000,0000,,Esta noite, eles virão reivindicar o seu corpo.
-Dialogue: 0,0:24:20.32,0:24:23.90,Main Kara,Touko,0000,0000,0000,,E você terá que fazer uma escolha.
-Dialogue: 0,0:24:24.49,0:24:26.24,Main Kara,Touko,0000,0000,0000,,Morrer como uma carcaça roubada por espectros,
-Dialogue: 0,0:24:26.70,0:24:31.37,Main Kara,Touko,0000,0000,0000,,ou abrir os olhos e cortar a morte deles fora.
-Dialogue: 0,0:24:31.80,0:24:36.12,Main Kara,Touko,0000,0000,0000,,A decisão é sua.
+Dialogue: 0,0:19:41.66,0:19:45.07,Main Kara,Shiki,0000,0000,0000,,Eu não sei. Mais importante, e quanto à tesoura?
+Dialogue: 0,0:19:45.07,0:19:47.67,Main Kara,Touko,0000,0000,0000,,Ah, disseram que nem pensar.
+Dialogue: 0,0:19:47.67,0:19:51.53,Main Kara,Touko,0000,0000,0000,,Você tem histórico, então está proibida de segurar objetos pontiagudos.
+Dialogue: 0,0:19:53.65,0:19:56.79,Main Kara,Touko,0000,0000,0000,,A propósito, por que você pediu uma tesoura?
+Dialogue: 0,0:19:57.62,0:19:59.64,Main Kara,Shiki,0000,0000,0000,,Porque eu queria cortar meu cabelo.
+Dialogue: 0,0:20:00.30,0:20:03.39,Main Kara,Touko,0000,0000,0000,,Quer que eu chame um cabeleireiro para você, então?
+Dialogue: 0,0:20:03.39,0:20:07.62,Main Kara,Touko,0000,0000,0000,,Afinal, precisamos comemorar a sua recuperação. Vou trazer alguém muito bom; o que acha?
+Dialogue: 0,0:20:07.62,0:20:08.90,Main Kara,Shiki,0000,0000,0000,,Não, tudo bem...
+Dialogue: 0,0:20:08.90,0:20:12.61,Main Kara,Shiki,0000,0000,0000,,Não quero nem imaginar outras pessoas tocando no meu cabelo.
+Dialogue: 0,0:20:14.22,0:20:16.27,Main Kara,Touko,0000,0000,0000,,Você é mesmo uma gracinha...
+Dialogue: 0,0:20:19.84,0:20:22.03,Main Kara,Touko,0000,0000,0000,,Bem, então vou indo por hoje.
+Dialogue: 0,0:20:26.74,0:20:32.45,Main Kara,Touko,0000,0000,0000,,A partir de amanhã, talvez eu venha como uma pessoa diferente,\nentão estou deixando ela sob seus cuidados, de certa forma.
+Dialogue: 0,0:21:39.33,0:21:43.70,Main Kara,Doc,0000,0000,0000,,A sua recuperação nunca deixa de me surpreender.
+Dialogue: 0,0:21:43.70,0:21:47.65,Main Kara,Doc,0000,0000,0000,,Você está bem agora, então poderá ter alta do hospital amanhã.
+Dialogue: 0,0:21:47.65,0:21:49.54,Main Kara,Nurse,0000,0000,0000,,Ryougi-san, parabéns.
+Dialogue: 0,0:21:51.61,0:21:57.09,Main Kara,Doc,0000,0000,0000,,E quanto aos seus olhos, vamos retirar as ataduras amanhã, então...
+Dialogue: 0,0:21:53.47,0:21:54.74,Main Kara,Shiki (in between),0000,0000,0000,,Não...
+Dialogue: 0,0:21:57.63,0:21:58.72,Main Kara,Shiki,0000,0000,0000,,Eu não...
+Dialogue: 0,0:21:59.77,0:22:00.53,Main Kara,Shiki,0000,0000,0000,,Eu não quero...
+Dialogue: 0,0:22:04.97,0:22:06.43,Main Kara,Shiki,0000,0000,0000,,Eu não quero...
+Dialogue: 0,0:22:07.72,0:22:12.17,Main Kara,Shiki,0000,0000,0000,,Eu não quero ver aquele mundo nunca mais!
+Dialogue: 0,0:22:22.28,0:22:26.06,Main Kara,Shiki,0000,0000,0000,,Não vou me permitir cair naquela escuridão de jeito nenhum.
+Dialogue: 0,0:22:26.91,0:22:27.67,Main Kara,Touko,0000,0000,0000,,Espere!
+Dialogue: 0,0:22:28.11,0:22:30.75,Main Kara,Touko,0000,0000,0000,,Você tem uma determinação impressionante. Forte até demais, na verdade.
+Dialogue: 0,0:22:34.82,0:22:36.35,Main Kara,Touko,0000,0000,0000,,O que foi que você viu?
+Dialogue: 0,0:22:42.81,0:22:48.78,Main Kara,Touko,0000,0000,0000,,Olhos Místicos de Percepção da Morte? Seria um desperdício perdê-los, Shiki.
+Dialogue: 0,0:22:48.78,0:22:54.32,Main Kara,Touko,0000,0000,0000,,E mesmo se você arrancasse seus olhos, não conseguiria evitar ver o que está destinada a ver.
+Dialogue: 0,0:22:56.17,0:22:58.14,Main Kara,Shiki,0000,0000,0000,,Você é humana?
+Dialogue: 0,0:23:00.70,0:23:02.52,Main Kara,Touko,0000,0000,0000,,Sou uma maga.
+Dialogue: 0,0:23:02.52,0:23:03.40,Main Kara,Shiki,0000,0000,0000,,Touko, é você?
+Dialogue: 0,0:23:03.81,0:23:05.21,Main Kara,Touko,0000,0000,0000,,Eu apenas...
+Dialogue: 0,0:23:06.92,0:23:10.47,Main Kara,Touko,0000,0000,0000,,pensei em te ensinar a usar esses olhos, só isso.
+Dialogue: 0,0:23:12.85,0:23:15.59,Main Kara,Touko,0000,0000,0000,,Tudo o que existe possui rachaduras.
+Dialogue: 0,0:23:15.59,0:23:21.93,Main Kara,Touko,0000,0000,0000,,Como não existe matéria perfeita, tudo carrega o desejo intrínseco de se romper e retornar ao zero.
+Dialogue: 0,0:23:23.41,0:23:28.54,Main Kara,Touko,0000,0000,0000,,Por causa do seu acidente há dois anos, seus olhos se tornaram capazes de enxergar essas rachaduras.
+Dialogue: 0,0:23:29.18,0:23:34.19,Main Kara,Touko,0000,0000,0000,,Você consegue ver linhas que nós não podemos, e como esteve em contato íntimo com a morte por tanto tempo,
+Dialogue: 0,0:23:34.19,0:23:37.27,Main Kara,Touko,0000,0000,0000,,seu cérebro consegue compreender exatamente o que elas significam.
+Dialogue: 0,0:23:37.27,0:23:40.15,Main Kara,Touko,0000,0000,0000,,Como resultado, você consegue enxergar a morte.
+Dialogue: 0,0:23:42.18,0:23:45.99,Main Kara,Touko,0000,0000,0000,,E não apenas isso: você também deve ser capaz de tocar nessas linhas.
+Dialogue: 0,0:23:53.60,0:23:57.13,Main Kara,Touko,0000,0000,0000,,Sim. Já passou da hora de você despertar, Ryougi Shiki.
+Dialogue: 0,0:23:57.84,0:24:00.63,Main Kara,Touko,0000,0000,0000,,Originalmente, você deveria pertencer ao meu lado do mundo, sabia?
+Dialogue: 0,0:24:01.24,0:24:05.95,Main Kara,Touko,0000,0000,0000,,Não fique sonhando com uma felicidade comum e garantida.
+Dialogue: 0,0:24:07.89,0:24:11.39,Main Kara,Shiki,0000,0000,0000,,Eu não tenho vontade nenhuma de viver!
+Dialogue: 0,0:24:13.01,0:24:14.89,Main Kara,Touko,0000,0000,0000,,É porque o seu coração está vazio?
+Dialogue: 0,0:24:15.43,0:24:20.32,Main Kara,Touko,0000,0000,0000,,Eu também compreendo a angústia que você sente ao\nperder o SHIKI e renascer como uma pessoa diferente.
+Dialogue: 0,0:24:20.32,0:24:23.90,Main Kara,Touko,0000,0000,0000,,Mas é apenas isso.
+Dialogue: 0,0:24:24.49,0:24:26.24,Main Kara,Touko,0000,0000,0000,,E no entanto, você...
+Dialogue: 0,0:24:26.70,0:24:31.37,Main Kara,Touko,0000,0000,0000,,Mesmo não tendo vontade alguma de viver, diz que não quer morrer?
+Dialogue: 0,0:24:31.80,0:24:36.12,Main Kara,Touko,0000,0000,0000,,Mesmo não tendo motivo algum para viver, diz que tem medo de morrer?
 Dialogue: 0,0:24:36.64,0:24:41.75,Main Kara,Touko,0000,0000,0000,,Você está apenas andando na corda bamba do limite, incapaz de escolher entre a vida ou a morte.
-Dialogue: 0,0:24:42.81,0:24:45.26,Main Kara,Touko,0000,0000,0000,,É natural que a sua mente tenha se tornado um santuário desolado.
-Dialogue: 0,0:24:46.37,0:24:48.22,Main Kara,Shiki,0000,0000,0000,,Como você pode falar com tanta arrogância, agindo como se soubesse de tudo?!
-Dialogue: 0,0:24:52.74,0:24:57.14,Main Kara,Touko,0000,0000,0000,,Viu alguma coisa? Você está cheia de brechas; por isso se perturba com um contato tão breve.
-Dialogue: 0,0:24:58.00,0:25:03.97,Main Kara,Touko,0000,0000,0000,,Do ponto de vista dos espíritos errantes deste hospital, o seu corpo é um receptáculo de primeira classe.
-Dialogue: 0,0:25:03.97,0:25:07.65,Main Kara,Touko,0000,0000,0000,,A menos que abra os seus olhos, você será possuída por eles e morrerá.
-Dialogue: 0,0:25:08.27,0:25:09.73,Main Kara,Shiki,0000,0000,0000,,Eu deixei uma faca sobre a mesinha de cabeceira.
-Dialogue: 0,0:25:10.57,0:25:14.47,Main Kara,Shiki,0000,0000,0000,,Use-a se quiser sobreviver.
-Dialogue: 0,0:25:16.25,0:25:17.41,Main Kara,Touko,0000,0000,0000,,Touko!
-Dialogue: 0,0:25:19.75,0:25:22.82,Main Kara,Touko,0000,0000,0000,,Boa sorte, Shiki.
-Dialogue: 0,0:25:22.82,0:25:24.50,Main Kara,Touko,0000,0000,0000,,Espero que amanhã você ainda seja você mesma.
-Dialogue: 0,0:25:28.42,0:25:33.93,Main Kara,Touko,0000,0000,0000,,Ela foi embora...
-Dialogue: 0,0:25:46.18,0:25:50.56,Main Kara,Touko,0000,0000,0000,,Que mulher mais insuportável.
-Dialogue: 0,0:26:11.88,0:26:14.76,Main Kara,Spirit,0000,0000,0000,,A faca...
-Dialogue: 0,0:26:36.29,0:26:39.84,Main Kara,Touko,0000,0000,0000,,Uma adaga afiada.
-Dialogue: 0,0:26:39.84,0:26:43.12,Main Kara,Touko,0000,0000,0000,,O que foi isso?!
-Dialogue: 0,0:26:43.12,0:26:46.62,Main Kara,Touko,0000,0000,0000,,A luz... a luz do quarto apagou!
-Dialogue: 0,0:26:47.90,0:26:52.00,Main Kara,Touko,0000,0000,0000,,A maçaneta da porta...
-Dialogue: 0,0:26:53.48,0:26:59.30,Main Kara,Touko,0000,0000,0000,,Tem alguém girando a maçaneta do lado de fora...
-Dialogue: 0,0:28:02.06,0:28:07.09,Main Kara,Touko,0000,0000,0000,,O ar ficou denso demais.
-Dialogue: 0,0:28:13.01,0:28:14.22,Main Kara,Shiki,0000,0000,0000,,Um cheiro insuportável de terra úmida e podridão...
-Dialogue: 0,0:28:15.56,0:28:20.18,Main Kara,Shiki,0000,0000,0000,,Eles entraram...
-Dialogue: 0,0:28:20.18,0:28:24.18,Main Kara,Shiki,0000,0000,0000,,Cadáveres... espectros ambulantes...
-Dialogue: 0,0:28:24.18,0:28:27.73,Main Kara,Shiki,0000,0000,0000,,Dê para nós...
-Dialogue: 0,0:28:29.77,0:28:34.74,Main Kara,Shiki,0000,0000,0000,,Dê o seu corpo para nós...
-Dialogue: 0,0:28:59.09,0:29:00.23,Main Kara,Shiki,0000,0000,0000,,Tão jovem... tão viva...
-Dialogue: 0,0:29:28.43,0:29:31.77,Main Kara,Shiki,0000,0000,0000,,Nós sentimos tanto frio...
-Dialogue: 0,0:29:31.77,0:29:34.13,Main Kara,Touko,0000,0000,0000,,Deixe-nos entrar no seu santuário...
-Dialogue: 0,0:29:35.21,0:29:36.80,Main Kara,Shiki,0000,0000,0000,,Não se aproximem!
-Dialogue: 0,0:29:37.31,0:29:40.78,Main Kara,Touko,0000,0000,0000,,Fiquem longe de mim!
-Dialogue: 0,0:29:40.78,0:29:43.22,Main Kara,Touko,0000,0000,0000,,As mãos deles... são como garras congeladas!
-Dialogue: 0,0:29:50.15,0:29:53.27,Main Kara,Touko,0000,0000,0000,,Estão me sufocando...
-Dialogue: 0,0:29:53.78,0:29:55.55,Main Kara,Touko,0000,0000,0000,,Eu não consigo respirar...
-Dialogue: 0,0:29:55.55,0:29:57.78,Main Kara,Shiki,0000,0000,0000,,Eu vou morrer...?
-Dialogue: 0,0:29:58.69,0:29:59.61,Main Kara,Touko,0000,0000,0000,,É assim que tudo termina?
-Dialogue: 0,0:30:01.78,0:30:04.16,Main Kara,Touko,0000,0000,0000,,Sendo devorada por lixo deste tipo?!
-Dialogue: 0,0:30:14.68,0:30:18.17,Main Kara,Touko,0000,0000,0000,,Não...
-Dialogue: 0,0:30:22.93,0:30:25.00,Main Kara,Shiki,0000,0000,0000,,Eu me recuso!
-Dialogue: 0,0:30:25.00,0:30:26.93,Main Kara,Touko,0000,0000,0000,,O SHIKI morreu para que eu vivesse!
-Dialogue: 0,0:30:27.90,0:30:30.96,Main Kara,Touko,0000,0000,0000,,Eu não vou deixar a morte dele ser em vão!
-Dialogue: 0,0:30:30.96,0:30:32.94,Main Kara,Touko,0000,0000,0000,,As ataduras...
-Dialogue: 0,0:30:33.52,0:30:37.82,Main Kara,Touko,0000,0000,0000,,Eu vou arrancar estas ataduras!
-Dialogue: 0,0:30:37.82,0:30:43.66,Main Kara,Touko,0000,0000,0000,,Olhos Místicos de Percepção da Morte...
-Dialogue: 0,0:30:43.66,0:30:46.99,Main Kara,Shiki,0000,0000,0000,,Se vocês estão aí... me mostrem o fim dessas coisas!
-Dialogue: 0,0:30:47.80,0:30:52.66,Main Kara,Touko,0000,0000,0000,,Eu vejo...
-Dialogue: 0,0:30:52.66,0:30:53.83,Main Kara,Touko,0000,0000,0000,,Eu vejo com clareza absoluta!
-Dialogue: 0,0:30:54.53,0:30:59.04,Main Kara,Shiki,0000,0000,0000,,As linhas pretas... as linhas de corte fatal que entrelaçam esses monstros!
-Dialogue: 0,0:30:59.04,0:30:59.71,Main Kara,Shiki,0000,0000,0000,,Mesmo que sejam espíritos... se eles têm existência, eles podem morrer!
-Dialogue: 0,0:31:08.76,0:31:11.77,Main Kara,Shiki,0000,0000,0000,,E se podem morrer, eu posso matá-los!
-Dialogue: 0,0:31:52.05,0:31:52.89,Main Kara,Touko,0000,0000,0000,,Desapareçam do meu quarto!!
+Dialogue: 0,0:24:42.81,0:24:45.26,Main Kara,Touko,0000,0000,0000,,É natural que a sua mente tenha se tornado um santuário vazio.
+Dialogue: 0,0:24:46.37,0:24:48.22,Main Kara,Shiki,0000,0000,0000,,Como você pode falar isso, agindo como se soubesse de alguma coisa?!
+Dialogue: 0,0:24:52.74,0:24:57.14,Main Kara,Touko,0000,0000,0000,,Viu alguma coisa? Você está baixando a guarda, e é por isso\nque se perturba com um contato tão breve.
+Dialogue: 0,0:24:58.00,0:25:03.97,Main Kara,Touko,0000,0000,0000,,Do ponto de vista dos espíritos errantes deste hospital, seu corpo é um receptáculo de primeira classe.
+Dialogue: 0,0:25:03.97,0:25:07.65,Main Kara,Touko,0000,0000,0000,,A menos que abra os olhos, você será possuída por eles e morrerá.
+Dialogue: 0,0:25:08.27,0:25:09.73,Main Kara,Shiki,0000,0000,0000,,Eu não me importo...
+Dialogue: 0,0:25:10.57,0:25:14.47,Main Kara,Shiki,0000,0000,0000,,Se essas coisas me preencherem, para mim tanto faz.
+Dialogue: 0,0:25:16.25,0:25:17.41,Main Kara,Touko,0000,0000,0000,,Que patética.
+Dialogue: 0,0:25:19.75,0:25:22.82,Main Kara,Touko,0000,0000,0000,,A proteção das Runas é inútil se você continuar desse jeito.
+Dialogue: 0,0:25:22.82,0:25:24.50,Main Kara,Touko,0000,0000,0000,,Faça o que quiser agora.
+Dialogue: 0,0:25:28.42,0:25:33.93,Main Kara,Touko,0000,0000,0000,,Mas será que o SHIKI realmente morreu em vão, Ryougi Shiki?
+Dialogue: 0,0:25:46.18,0:25:50.56,Main Kara,Touko,0000,0000,0000,,Mas será que o SHIKI realmente morreu em vão, Ryougi Shiki?
+Dialogue: 0,0:26:11.88,0:26:14.76,Main Kara,Spirit,0000,0000,0000,,Eu aceito o lugar.
+Dialogue: 0,0:26:36.29,0:26:39.84,Main Kara,Touko,0000,0000,0000,,Ela não terá escolha a não ser tapar o vazio do coração com alguma coisa.
+Dialogue: 0,0:26:39.84,0:26:43.12,Main Kara,Touko,0000,0000,0000,,Ela terá que construir um novo eu para si mesma,
+Dialogue: 0,0:26:43.12,0:26:46.62,Main Kara,Touko,0000,0000,0000,,não através das memórias perdidas, mas acumulando experiências do presente.
+Dialogue: 0,0:26:47.90,0:26:52.00,Main Kara,Touko,0000,0000,0000,,Essa é a construção de um santuário no qual ninguém pode ajudá-la.
+Dialogue: 0,0:26:53.48,0:26:59.30,Main Kara,Touko,0000,0000,0000,,Em outras palavras, isso significa apenas que você deve interagir com ela como sempre fez até agora.
+Dialogue: 0,0:28:02.06,0:28:07.09,Main Kara,Touko,0000,0000,0000,,Mas será que o SHIKI realmente morreu em vão, Ryougi Shiki?
+Dialogue: 0,0:28:13.01,0:28:14.22,Main Kara,Shiki,0000,0000,0000,,De jeito nenhum...
+Dialogue: 0,0:28:15.56,0:28:20.18,Main Kara,Shiki,0000,0000,0000,,A morte é tão solitária e desprovida de valor...
+Dialogue: 0,0:28:20.18,0:28:24.18,Main Kara,Shiki,0000,0000,0000,,A morte é tão sombria e medonha...
+Dialogue: 0,0:28:24.18,0:28:27.73,Main Kara,Shiki,0000,0000,0000,,Mesmo eu tendo mais medo da morte do que de qualquer outra coisa...
+Dialogue: 0,0:28:29.77,0:28:34.74,Main Kara,Shiki,0000,0000,0000,,De jeito nenhum! Não vou cair ali, não importa o que aconteça!
+Dialogue: 0,0:28:59.09,0:29:00.23,Main Kara,Shiki,0000,0000,0000,,Não hesite!
+Dialogue: 0,0:29:28.43,0:29:31.77,Main Kara,Shiki,0000,0000,0000,,Tão facilmente...
+Dialogue: 0,0:29:31.77,0:29:34.13,Main Kara,Touko,0000,0000,0000,,Nossa, que surpresa. Você é uma gata ou o quê?
+Dialogue: 0,0:29:35.21,0:29:36.80,Main Kara,Shiki,0000,0000,0000,,Touko?
+Dialogue: 0,0:29:37.31,0:29:40.78,Main Kara,Touko,0000,0000,0000,,Eu coloquei um campo delimitado no seu quarto para que os espíritos não entrassem,
+Dialogue: 0,0:29:40.78,0:29:43.22,Main Kara,Touko,0000,0000,0000,,mas pensar que eles conseguiriam um corpo físico para atravessar a barreira...
+Dialogue: 0,0:29:50.15,0:29:53.27,Main Kara,Touko,0000,0000,0000,,Espíritos normalmente não possuem esse nível de inteligência.
+Dialogue: 0,0:29:53.78,0:29:55.55,Main Kara,Touko,0000,0000,0000,,Foi um erro meu.
+Dialogue: 0,0:29:55.55,0:29:57.78,Main Kara,Shiki,0000,0000,0000,,Então faça alguma coisa a respeito!
+Dialogue: 0,0:29:58.69,0:29:59.61,Main Kara,Touko,0000,0000,0000,,Pode deixar.
+Dialogue: 0,0:30:01.78,0:30:04.16,Main Kara,Touko,0000,0000,0000,,Fehu, Uruz, Thurisaz.
+Dialogue: 0,0:30:14.68,0:30:18.17,Main Kara,Touko,0000,0000,0000,,Droga. As runas Ansuz que trouxe comigo eram fracas demais, hein?
+Dialogue: 0,0:30:22.93,0:30:25.00,Main Kara,Shiki,0000,0000,0000,,Ei, sua vigarista!
+Dialogue: 0,0:30:25.00,0:30:26.93,Main Kara,Touko,0000,0000,0000,,Isso não é uma tarefa fácil.
+Dialogue: 0,0:30:27.90,0:30:30.96,Main Kara,Touko,0000,0000,0000,,Se estivesse vivo, queimar o coração resolveria o problema, mas...
+Dialogue: 0,0:30:30.96,0:30:32.94,Main Kara,Touko,0000,0000,0000,,Quando se trata de um morto, a coisa não é tão simples.
+Dialogue: 0,0:30:33.52,0:30:37.82,Main Kara,Touko,0000,0000,0000,,Como já está morto, mesmo que perca um braço ou a cabeça, ele nem vai ligar.
+Dialogue: 0,0:30:37.82,0:30:43.66,Main Kara,Touko,0000,0000,0000,,Para detê-lo, precisaríamos ou da força\ndo fogo de um crematório ou dos rituais de um sacerdote.
+Dialogue: 0,0:30:43.66,0:30:46.99,Main Kara,Shiki,0000,0000,0000,,Chega de empáfia. O resumo da ópera é que você não consegue dar cabo dele.
+Dialogue: 0,0:30:47.80,0:30:52.66,Main Kara,Touko,0000,0000,0000,,Nem você. Os mortos já estão mortos, então você não pode matá-lo.
+Dialogue: 0,0:30:52.66,0:30:53.83,Main Kara,Touko,0000,0000,0000,,Temos que fugir.
+Dialogue: 0,0:30:54.53,0:30:59.04,Main Kara,Shiki,0000,0000,0000,,Morto ou não, isso é um cadáver vivo, não é?
+Dialogue: 0,0:30:59.04,0:30:59.71,Main Kara,Shiki,0000,0000,0000,,Então...
+Dialogue: 0,0:31:08.76,0:31:11.77,Main Kara,Shiki,0000,0000,0000,,Não importa o que seja, eu vou matar!
+Dialogue: 0,0:31:52.05,0:31:52.89,Main Kara,Touko,0000,0000,0000,,Shiki!
 Dialogue: 0,0:32:02.58,0:32:03.83,Main Kara,Shiki,0000,0000,0000,,Está no meu caminho...
-Dialogue: 0,0:32:22.01,0:32:24.51,Main Kara,Shiki,0000,0000,0000,,Um corte...
-Dialogue: 0,0:32:25.51,0:32:28.09,Main Kara,Shiki,0000,0000,0000,,Apenas um traço ao longo da linha... e a forma espiritual se desintegra!
-Dialogue: 0,0:33:01.42,0:33:04.10,Main Kara,Touko,0000,0000,0000,,Não há sangue, não há resistência.
-Dialogue: 0,0:33:19.30,0:33:21.44,Main Kara,Shiki,0000,0000,0000,,A própria existência deles é simplesmente cancelada.
-Dialogue: 0,0:33:22.49,0:33:24.69,Main Kara,Shiki,0000,0000,0000,,Que poder avassalador...
-Dialogue: 0,0:33:25.66,0:33:29.20,Main Kara,Shiki,0000,0000,0000,,É assustador... e ao mesmo tempo tão natural.
-Dialogue: 0,0:34:03.81,0:34:05.50,Main Kara,Touko,0000,0000,0000,,Como se eu tivesse nascido para empunhar esta lâmina.
-Dialogue: 0,0:34:11.38,0:34:17.70,Main Kara,Shiki,0000,0000,0000,,Muito bem.
-Dialogue: 0,0:34:18.23,0:34:21.03,Main Kara,Touko,0000,0000,0000,,Parece que você fez a sua escolha.
-Dialogue: 0,0:34:21.62,0:34:24.71,Main Kara,Touko,0000,0000,0000,,Eu vou te ensinar a dominar a Percepção da Morte.
-Dialogue: 0,0:34:25.25,0:34:28.62,Main Kara,Touko,0000,0000,0000,,E em troca, você vai me ajudar no meu ramo de trabalho.
-Dialogue: 0,0:34:28.62,0:34:30.47,Main Kara,Touko,0000,0000,0000,,Por acaso acabei de perder o meu antigo ajudante,
-Dialogue: 0,0:34:31.29,0:34:33.99,Main Kara,Touko,0000,0000,0000,,então preciso de alguém para agir em campo no meu lugar.
-Dialogue: 0,0:34:34.70,0:34:37.22,Main Kara,Shiki,0000,0000,0000,,Ora. O seu trabalho envolve matar pessoas?
-Dialogue: 0,0:34:38.48,0:34:40.06,Main Kara,Touko,0000,0000,0000,,Sim, claro.
-Dialogue: 0,0:34:40.63,0:34:43.29,Main Kara,Shiki,0000,0000,0000,,Contanto que você não se importe de caçar aberrações e anomalias.
-Dialogue: 0,0:34:44.17,0:34:47.94,Main Kara,Shiki,0000,0000,0000,,Eles não são humanos de qualquer forma.
-Dialogue: 0,0:34:58.67,0:35:00.48,Main Kara,Touko,0000,0000,0000,,Por mim, tanto faz.
-Dialogue: 0,0:35:00.48,0:35:02.22,Main Kara,Touko,0000,0000,0000,,Desde que eu não tenha que ficar presa nesta cama patética.
-Dialogue: 0,0:35:02.92,0:35:05.28,Main Kara,Touko,0000,0000,0000,,Excelente resposta.
-Dialogue: 0,0:35:09.02,0:35:14.66,Main Kara,Touko,0000,0000,0000,,Amanhã trarei roupas adequadas para você.
-Dialogue: 0,0:35:19.05,0:35:20.86,Main Kara,Touko,0000,0000,0000,,E também um par de óculos especiais para quando você quiser descansar a visão.
-Dialogue: 0,0:35:20.86,0:35:24.59,Main Kara,Touko,0000,0000,0000,,Óculos?
-Dialogue: 0,0:35:28.38,0:35:31.54,Main Kara,Shiki,0000,0000,0000,,Sim. Eles bloqueiam a percepção das linhas da morte para que você possa olhar para as pessoas sem vê-las desmoronando.
-Dialogue: 0,0:35:31.54,0:35:34.45,Main Kara,Shiki,0000,0000,0000,,Pense nisso como um presente de boas-vindas à agência Garan no Dou.
-Dialogue: 0,0:35:35.18,0:35:37.72,Main Kara,Shiki,0000,0000,0000,,"Garan no Dou"...
-Dialogue: 0,0:35:37.72,0:35:41.56,Main Kara,Shiki,0000,0000,0000,,O Santuário Vazio.
-Dialogue: 0,0:35:42.59,0:35:45.18,Main Kara,Shiki,0000,0000,0000,,Um nome muito apropriado para nós duas.
-Dialogue: 0,0:35:46.16,0:35:50.71,Main Kara,Shiki,0000,0000,0000,,Agora descanse.
-Dialogue: 0,0:35:58.09,0:36:04.51,Main Kara,SHIKI,0000,0000,0000,,A sua nova vida começa a partir de hoje.
-Dialogue: 0,0:36:09.56,0:36:10.98,Main Kara,Mikiya,0000,0000,0000,,A minha nova vida...
-Dialogue: 0,0:36:21.96,0:36:23.75,Main Kara,Mikiya,0000,0000,0000,,Sem o SHIKI...
-Dialogue: 0,0:36:26.31,0:36:28.68,Main Kara,Shiki,0000,0000,0000,,Mas com o Kokutou ainda me esperando lá fora.
-Dialogue: 0,0:36:29.75,0:36:38.76,Main Kara,Shiki,0000,0000,0000,,Acho que vou tentar seguir em frente.
-Dialogue: 0,0:36:43.61,0:36:45.47,Main Kara,Shiki,0000,0000,0000,,Pelo menos mais um pouco.
-Dialogue: 0,0:36:47.95,0:36:50.27,Main Kara,Shiki,0000,0000,0000,,Enquanto isso, em outra ala do hospital...
-Dialogue: 0,0:36:47.95,0:36:50.27,Note Kara,Shiki,0000,0000,0000,,Uma jovem repousa imóvel sob os lençóis brancos.
-Dialogue: 0,0:36:54.74,0:36:56.54,Main Kara,Mikiya,0000,0000,0000,,Seus olhos contemplam o céu cinzento pela janela.
-Dialogue: 0,0:36:59.50,0:37:01.78,Main Kara,Mikiya,0000,0000,0000,,Incapaz de mover os membros, condenada a definhar lentamente.
-Dialogue: 0,0:37:07.83,0:37:10.79,Main Kara,Shiki,0000,0000,0000,,Kirie Fujijo.
-Dialogue: 0,0:42:28.12,0:42:30.88,Main Kara,Araya,0000,0000,0000,,A sombra de um homem alto em sobretudo escuro se aproxima do leito.
-Dialogue: 0,0:42:32.30,0:42:36.37,Main Kara,Kirie,0000,0000,0000,,Quem está aí...?
-Dialogue: 0,0:42:37.23,0:42:40.87,Main Kara,Araya,0000,0000,0000,,Você deseja a liberdade, não deseja?
-Dialogue: 0,0:42:43.91,0:42:49.09,Main Kara,Araya,0000,0000,0000,,Quem é você?
-Dialogue: 0,0:42:52.20,0:42:55.01,Main Kara,Kirie,0000,0000,0000,,Alguém que pode conceder a você um corpo que flutua acima do mundo.
-Dialogue: 0,0:42:58.62,0:43:00.10,Main Kara,Fujino,0000,0000,0000,,Um corpo que não conhece a dor da paralisia.
-Dialogue: 0,0:43:00.73,0:43:03.28,Main Kara,Fujino,0000,0000,0000,,Flutuar...?
-Dialogue: 0,0:43:03.28,0:43:05.96,Main Kara,Fujino,0000,0000,0000,,Sim. Desprender-se da carne e contemplar a cidade de cima.
-Dialogue: 0,0:43:14.38,0:43:16.93,Main Kara,Araya,0000,0000,0000,,Observar tudo a partir de uma vista panorâmica.
+Dialogue: 0,0:32:22.01,0:32:24.51,Main Kara,Shiki,0000,0000,0000,,Você é um mero pedaço de morte...
+Dialogue: 0,0:32:25.51,0:32:28.09,Main Kara,Shiki,0000,0000,0000,,Não ouse ficar no meu caminho!
+Dialogue: 0,0:33:01.42,0:33:04.10,Main Kara,Touko,0000,0000,0000,,Ela não o finalizou direito, que tola!
+Dialogue: 0,0:33:19.30,0:33:21.44,Main Kara,Shiki,0000,0000,0000,,Agora você não tem como escapar...
+Dialogue: 0,0:33:22.49,0:33:24.69,Main Kara,Shiki,0000,0000,0000,,Eu vou matar a parte fraca de mim!
+Dialogue: 0,0:33:25.66,0:33:29.20,Main Kara,Shiki,0000,0000,0000,,Eu jamais entregarei Ryougi Shiki para alguém como você!
+Dialogue: 0,0:34:03.81,0:34:05.50,Main Kara,Touko,0000,0000,0000,,Então você matou, não matou?
+Dialogue: 0,0:34:11.38,0:34:17.70,Main Kara,Shiki,0000,0000,0000,,Você disse que me ensinaria a usar estes olhos...
+Dialogue: 0,0:34:18.23,0:34:21.03,Main Kara,Touko,0000,0000,0000,,Sim, mas sob certas condições...
+Dialogue: 0,0:34:21.62,0:34:24.71,Main Kara,Touko,0000,0000,0000,,Vou te ensinar a usar a Percepção da Morte.
+Dialogue: 0,0:34:25.25,0:34:28.62,Main Kara,Touko,0000,0000,0000,,E em troca, você vai me ajudar na minha linha de trabalho.
+Dialogue: 0,0:34:28.62,0:34:30.47,Main Kara,Touko,0000,0000,0000,,Acontece que perdi meu familiar recentemente,
+Dialogue: 0,0:34:31.29,0:34:33.99,Main Kara,Touko,0000,0000,0000,,então meio que preciso de alguém para agir no meu lugar.
+Dialogue: 0,0:34:34.70,0:34:37.22,Main Kara,Shiki,0000,0000,0000,,Ah. O seu trabalho significa que eu posso matar pessoas?
+Dialogue: 0,0:34:38.48,0:34:40.06,Main Kara,Touko,0000,0000,0000,,Sim, é claro.
+Dialogue: 0,0:34:40.63,0:34:43.29,Main Kara,Shiki,0000,0000,0000,,Então eu aceito. Use-me como quiser.
+Dialogue: 0,0:34:44.17,0:34:47.94,Main Kara,Shiki,0000,0000,0000,,Eu não tenho nenhum outro objetivo mesmo.
+Dialogue: 0,0:34:58.67,0:35:00.48,Main Kara,Touko,0000,0000,0000,,Sem propósito, é?
+Dialogue: 0,0:35:00.48,0:35:02.22,Main Kara,Touko,0000,0000,0000,,Isso também é bastante trágico,
+Dialogue: 0,0:35:02.92,0:35:05.28,Main Kara,Touko,0000,0000,0000,,mas você ainda está enganada.
+Dialogue: 0,0:35:09.02,0:35:14.66,Main Kara,Touko,0000,0000,0000,,Ser um santuário vazio significa que você pode colocar quantas coisas quiser lá dentro, sabia?
+Dialogue: 0,0:35:19.05,0:35:20.86,Main Kara,Touko,0000,0000,0000,,Você realmente é uma garota de sorte.
+Dialogue: 0,0:35:20.86,0:35:24.59,Main Kara,Touko,0000,0000,0000,,Não existe futuro melhor do que esse.
+Dialogue: 0,0:35:28.38,0:35:31.54,Main Kara,Shiki,0000,0000,0000,,Qual foi o preço que ele pagou?
+Dialogue: 0,0:35:31.54,0:35:34.45,Main Kara,Shiki,0000,0000,0000,,O que foi que ele protegeu ao desaparecer?
+Dialogue: 0,0:35:35.18,0:35:37.72,Main Kara,Shiki,0000,0000,0000,,O SHIKI, que agora se foi...
+Dialogue: 0,0:35:37.72,0:35:41.56,Main Kara,Shiki,0000,0000,0000,,Ele provavelmente queria proteger o próprio sonho.
+Dialogue: 0,0:35:42.59,0:35:45.18,Main Kara,Shiki,0000,0000,0000,,O sonho de viver uma vida feliz.
+Dialogue: 0,0:35:46.16,0:35:50.71,Main Kara,Shiki,0000,0000,0000,,Embora tenha me deixado com uma solidão tão profunda...
+Dialogue: 0,0:35:58.09,0:36:04.51,Main Kara,SHIKI,0000,0000,0000,,{\fad(0,800)}Gostei bastante de você, então nos veremos de novo em breve, Kokutou.
+Dialogue: 0,0:36:09.56,0:36:10.98,Main Kara,Mikiya,0000,0000,0000,,Bom dia, Shiki.
+Dialogue: 0,0:36:21.96,0:36:23.75,Main Kara,Mikiya,0000,0000,0000,,Você sabe quem eu sou?
+Dialogue: 0,0:36:26.31,0:36:28.68,Main Kara,Shiki,0000,0000,0000,,Sim. Eu sabia.
+Dialogue: 0,0:36:29.75,0:36:38.76,Main Kara,Shiki,0000,0000,0000,,Eu sabia que você foi o único que esperou por mim todo esse tempo, que me protegeu.
+Dialogue: 0,0:36:43.61,0:36:45.47,Main Kara,Shiki,0000,0000,0000,,Kokutou Mikiya.
+Dialogue: 0,0:36:47.95,0:36:50.27,Main Kara,Shiki,0000,0000,0000,,Exatamente como o escritor francês.
+Dialogue: 0,0:36:47.95,0:36:50.27,Note Kara,Shiki,0000,0000,0000,,Nota: Kokutou também pode ser pronunciado como "Cocteau", nome do escritor francês Jean Cocteau.
+Dialogue: 0,0:36:54.74,0:36:56.54,Main Kara,Mikiya,0000,0000,0000,,Que bom que fez sol hoje.
+Dialogue: 0,0:36:59.50,0:37:01.78,Main Kara,Mikiya,0000,0000,0000,,É o dia perfeito para a sua alta do hospital.
+Dialogue: 0,0:37:07.83,0:37:10.79,Main Kara,Shiki,0000,0000,0000,,Então existem coisas que não desaparecem?
+Dialogue: 0,0:42:28.12,0:42:30.88,Main Kara,Araya,0000,0000,0000,,Então, você é Fujou Kirie?
+Dialogue: 0,0:42:32.30,0:42:36.37,Main Kara,Kirie,0000,0000,0000,,O senhor é um amigo do meu pai?
+Dialogue: 0,0:42:37.23,0:42:40.87,Main Kara,Araya,0000,0000,0000,,Vim para realizar o seu desejo.
+Dialogue: 0,0:42:43.91,0:42:49.09,Main Kara,Araya,0000,0000,0000,,Você não anseia por outro corpo? Um que possa mover livremente, como desejar?
+Dialogue: 0,0:42:52.20,0:42:55.01,Main Kara,Kirie,0000,0000,0000,,O que é o senhor?
+Dialogue: 0,0:42:58.62,0:43:00.10,Main Kara,Fujino,0000,0000,0000,,O que eu devo fazer?
+Dialogue: 0,0:43:00.73,0:43:03.28,Main Kara,Fujino,0000,0000,0000,,Eu não posso voltar desse jeito...
+Dialogue: 0,0:43:03.28,0:43:05.96,Main Kara,Fujino,0000,0000,0000,,O que eu devo fazer?
+Dialogue: 0,0:43:14.38,0:43:16.93,Main Kara,Araya,0000,0000,0000,,Você é Asagami Fujino?
 Dialogue: 0,0:43:18.31,0:43:20.66,Main Kara,Araya,0000,0000,0000,,Você quer que eu a cure?
-Dialogue: 0,0:43:22.90,0:43:27.88,Main Kara,Araya,0000,0000,0000,,Concordo. Devo curar a anomalia do seu corpo.
-Dialogue: 0,0:43:34.17,0:43:36.93,Main Kara,Fujino,0000,0000,0000,,O que exatamente você é?
+Dialogue: 0,0:43:22.90,0:43:27.88,Main Kara,Araya,0000,0000,0000,,De acordo. Eu curarei a anomalia do seu corpo.
+Dialogue: 0,0:43:34.17,0:43:36.93,Main Kara,Fujino,0000,0000,0000,,O que exatamente é o senhor?
 Dialogue: 0,0:43:42.00,0:43:44.94,Main Kara,Shirazumi,0000,0000,0000,,Quem é você?
-Dialogue: 0,0:43:48.39,0:43:50.16,Main Kara,Araya,0000,0000,0000,,Um Mago.
+Dialogue: 0,0:43:48.39,0:43:50.16,Main Kara,Araya,0000,0000,0000,,Um mago.
 Dialogue: 0,0:43:50.99,0:43:53.32,Main Kara,Araya,0000,0000,0000,,Souren Araya.
-Dialogue: 0,0:44:05.67,0:44:09.10,Preview Kara,Shiki,0000,0000,0000,,Eu simplesmente não posso tolerar a sua existência.
+Dialogue: 0,0:44:05.67,0:44:09.10,Preview Kara,Shiki,0000,0000,0000,,Eu simplesmente não consigo tolerar a sua existência.
 Dialogue: 0,0:44:11.48,0:44:14.66,Preview Kara,Tomoe,0000,0000,0000,,Eu matei alguém!
-Dialogue: 0,0:44:14.66,0:44:16.29,Preview Kara,Shiki,0000,0000,0000,,Você matou os seus próprios pais?!
-Dialogue: 0,0:44:17.05,0:44:20.10,Preview Kara,Shiki,0000,0000,0000,,Kokutou, você sabe alguma coisa sobre o Condomínio Ogawa em Kayamihama?
-Dialogue: 0,0:44:20.10,0:44:26.20,Preview Kara,Kokutou,0000,0000,0000,,O Condomínio Ogawa é composto por dois edifícios semicirculares de 10 andares construídos um de frente para o outro.
-Dialogue: 0,0:44:26.20,0:44:27.40,Preview Kara,Kokutou,0000,0000,0000,,Isso com certeza não é nada comum.
+Dialogue: 0,0:44:14.66,0:44:16.29,Preview Kara,Shiki,0000,0000,0000,,Você matou os seus pais?
+Dialogue: 0,0:44:17.05,0:44:20.10,Preview Kara,Shiki,0000,0000,0000,,Kokutou, você sabe alguma coisa sobre o Complexo Ogawa em Kayamihama?
+Dialogue: 0,0:44:20.10,0:44:26.20,Preview Kara,Kokutou,0000,0000,0000,,O Complexo Ogawa são dois prédios semicirculares de dez andares construídos lado a lado.
+Dialogue: 0,0:44:26.20,0:44:27.40,Preview Kara,Kokutou,0000,0000,0000,,Isso com certeza não é comum.
 Dialogue: 0,0:44:28.64,0:44:32.14,Preview Kara,Touko,0000,0000,0000,,Você vai visitar a sua família que supostamente está morta?
-Dialogue: 0,0:44:32.14,0:44:36.11,Preview Kara,Tomoe,0000,0000,0000,,Mas eu os matei! São os que estão vivos que estão errados!
-Dialogue: 0,0:44:36.78,0:44:38.57,Preview Kara,Shiki,0000,0000,0000,,Por que você não vai lá conferir?
-Dialogue: 0,0:44:38.57,0:44:40.89,Preview Kara,Araya,0000,0000,0000,,Encara aquela escuridão profunda.
+Dialogue: 0,0:44:32.14,0:44:36.11,Preview Kara,Tomoe,0000,0000,0000,,Mas eu os matei! São os vivos que estão errados!
+Dialogue: 0,0:44:36.78,0:44:38.57,Preview Kara,Shiki,0000,0000,0000,,Por que não vai verificar?
+Dialogue: 0,0:44:38.57,0:44:40.89,Preview Kara,Araya,0000,0000,0000,,Encare aquela escuridão.
 Dialogue: 0,0:44:40.89,0:44:44.31,Preview Kara,Araya,0000,0000,0000,,E lembre-se do seu próprio nome.
-Dialogue: 0,0:44:44.31,0:44:45.59,Preview Kara,Kokutou,0000,0000,0000,,O que você fez com a Shiki?!
+Dialogue: 0,0:44:44.31,0:44:45.59,Preview Kara,Kokutou,0000,0000,0000,,O que você fez com a Shiki?
 Dialogue: 0,0:44:45.59,0:44:47.42,Preview Kara,Tomoe,0000,0000,0000,,O Absoluto...
 Dialogue: 0,0:44:47.42,0:44:51.75,Preview Kara,Touko,0000,0000,0000,,Materializar um Absoluto para capturar o Absoluto...
 Dialogue: 0,0:44:49.96,0:44:52.42,Preview Kara,Tomoe,0000,0000,0000,,O Absoluto... Um Absoluto capaz de capturar o Absoluto...
