@@ -1,5 +1,5 @@
 # Legendas do Nasuverse em Português Brasileiro (PT-BR)
-### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners* e *Fate/stay night [Unlimited Blade Works]*
+### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners*, *Fate/stay night [Unlimited Blade Works]* e a Trilogia *Fate/stay night [Heaven's Feel]*
 
 > **Este repositório reúne arquivos de legendas em português brasileiro (.ass estilizado e .srt limpo) prontos para download e uso em reprodutores de vídeo (VLC, MPV) e servidores de mídia (Jellyfin, Plex, Emby).**  
 > Todas as faixas foram sincronizadas e revisadas com base nos lançamentos definitivos em Blu-ray (BD-Rip), cobrindo episódios estendidos e cenas adicionais ausentes das transmissões de TV.
@@ -21,7 +21,7 @@ O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses prob
 
 ## Conteúdo do Acervo
 
-O repositório é composto por **74 arquivos de legendas** (37 pares duplos), cobrindo integralmente as duas sagas:
+O repositório é composto por **80 arquivos de legendas** (40 pares duplos), cobrindo integralmente as seguintes sagas:
 
 ### 1. The Garden of Sinners (*Kara no Kyoukai* / 空の境界) — Coleção Completa (10 Títulos)
 * **Filme 1:** *Vista Panorâmica (Overlooking View / 俯瞰風景)* [2007]
@@ -49,6 +49,21 @@ O repositório é composto por **74 arquivos de legendas** (37 pares duplos), co
   * O clímax da Guerra do Santo Graal, o embate de ideais entre Shirou e Archer, e a manifestação do *Unlimited Blade Works*.
 
 > **Total em Unlimited Blade Works:** 27 episódios, somando 8.927 linhas de diálogo e elementos gráficos.
+
+---
+
+### 3. Fate/stay night [Heaven's Feel] — Trilogia Cinematográfica Completa (3 Filmes)
+* **Filme 1:** *I. Presage Flower (Flor do Presságio)* [2017]
+  * A gênese da rota mais sombria de Fuyuki: o passado de Sakura Matou, a introdução de Zouken Matou, o despertar de True Assassin e a manifestação inicial da Sombra.
+  * 1.172 linhas de diálogo e elementos em tela traduzidos diretamente do master japonês de Blu-ray, incluindo a localização lírica completa da canção tema *Hana no Uta* (Aimer / Yuki Kajiura).
+* **Filme 2:** *II. Lost Butterfly (Borboleta Perdida)* [2019]
+  * O aprofundamento do conflito trágico: a queda e corrupção de Sakura Matou, o embate avassalador de Berserker vs. Saber Alter, o sacrifício e transplante do braço de Archer com o Sudário de Martin, e a resolução de Shirou Emiya em se tornar o herói exclusivo de Sakura.
+  * 1.017 eventos de fala e placas sincronizados 1:1 contra o master do Blu-ray, calibrados sem nenhum descompasso de índice.
+* **Filme 3:** *III. Spring Song (Canção da Primavera)* [2020]
+  * O desfecho épico da Quinta Guerra: a invasão da Grande Caverna de Fuyuki, o exorcismo de Zouken por Kotomine via batismo sacrossanto, Shirou liberando o braço esquerdo de Archer e executando *Nine Lives Blade Works*, Rider enfrentando Saber Alter com o escudo protetor de *Rho Aias* e as rédeas de *Bellerophon*, o confronto fratricida entre Rin e Sakura, a destruição do Graal com a *Rule Breaker*, a luta corporal entre Shirou e Kotomine, a salvação da alma de Shirou pelo sacrifício de Illyasviel na Terceira Magia (*Heaven's Feel*) e o epílogo sob as cerejeiras em flor.
+  * 1.159 eventos auditados e sincronizados 1:1, com adaptação poética integral da canção tema de encerramento *Haru wa Yuku* (Aimer / Yuki Kajiura).
+
+> **Total em Heaven's Feel:** 3 filmes completos, somando 3.348 eventos de fala, invocações e placas milimetricamente calibrados.
 
 ---
 
@@ -89,6 +104,7 @@ Na ficção japonesa, o modo como os personagens se tratam expressa proximidade,
 As composições de Yuki Kajiura, interpretadas por Kalafina, e as canções temas de Aimer e Mashiro Ayano funcionam como comentários líricos sobre o destino dos personagens. Em vez de uma tradução mecânica palavra por palavra, buscou-se manter a métrica, a cadência rítmica e o sentido poético em português:
 * **The Garden of Sinners:** *Oblivious*, *Kimi ga Hikari ni Kaete Yuku*, *Kizuato*, *ARIA*, *Sprinter*, *Fairytale*, *Seventh Heaven*, *Snow is Falling* e *Alleluia*.
 * **Fate/stay night [UBW]:** Aberturas *ideal white* e *Brave Shine*; encerramentos *Believe* e *Ring Your Bell*; e a canção de inserção *Last Stardust* no Episódio 20.
+* **Fate/stay night [Heaven's Feel]:** As três canções temas de Aimer & Yuki Kajiura (*Hana no Uta*, *I beg you* e *Haru wa Yuku*), adaptadas com sensibilidade poética e sincronizadas verso por verso com os créditos originais.
 * **O Cântico de Unlimited Blade Works:** Mantida a tradição do encantamento solene em inglês intercalado às reflexões internas de Shirou e Archer em português.
 
 ### 4. Alinhamento com os Masters de Blu-ray
