@@ -1,0 +1,172 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E12 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.35,0:00:06.18,Default,,0,0,0,,Sella. Liz.
+Dialogue: 0,0:00:06.64,0:00:09.36,Default,,0,0,0,,Hoje é Natal!
+Dialogue: 0,0:00:09.64,0:00:11.90,Default,,0,0,0,,Está tudo pronto para a nossa festa?
+Dialogue: 0,0:00:12.44,0:00:13.90,Default,,0,0,0,,Perfeitamente, senhorita.
+Dialogue: 0,0:00:14.77,0:00:16.44,Default,,0,0,0,,Desde o saguão de entrada até os corredores,
+Dialogue: 0,0:00:16.69,0:00:18.65,Default,,0,0,0,,todo o caminho até o salão nobre
+Dialogue: 0,0:00:18.90,0:00:20.74,Default,,0,0,0,,já se encontra inteiramente decorado.
+Dialogue: 0,0:00:21.78,0:00:24.41,Default,,0,0,0,,A cozinha também está a postos.
+Dialogue: 0,0:00:24.87,0:00:26.74,Default,,0,0,0,,Agora só resta receber os convidados.
+Dialogue: 0,0:00:27.91,0:00:28.83,Default,,0,0,0,,E quanto a isso,
+Dialogue: 0,0:00:29.75,0:00:30.71,Default,,0,0,0,,como ficou?
+Dialogue: 0,0:00:31.29,0:00:32.79,Default,,0,0,0,,Aqui está!
+Dialogue: 0,0:00:41.38,0:00:43.02,Default,,0,0,0,,É minúsculo!
+Dialogue: 0,0:01:48.95,0:01:51.08,Default,,0,0,0,,Olhe lá fora, Rin.
+Dialogue: 0,0:01:51.29,0:01:53.54,Default,,0,0,0,,A cidade está iluminada e linda.
+Dialogue: 0,0:01:54.33,0:01:57.38,Default,,0,0,0,,Você mal consegue parar quieta no banco, Sakura.
+Dialogue: 0,0:01:57.71,0:02:02.09,Default,,0,0,0,,Mas é claro! Vamos passar o Natal num castelo de verdade!
+Dialogue: 0,0:02:02.42,0:02:03.84,Default,,0,0,0,,Não poderia haver nada mais mágico!
+Dialogue: 0,0:02:04.17,0:02:06.72,Default,,0,0,0,,Mal posso esperar para provar os pratos da Sella.
+Dialogue: 0,0:02:07.39,0:02:10.89,Default,,0,0,0,,O Shirou foi mais cedo para ajudar nos preparativos.
+Dialogue: 0,0:02:11.56,0:02:16.06,Default,,0,0,0,,Eu também estou ansiosa... Ah, a comida deliciosa do Shirou...
+Dialogue: 0,0:02:16.28,0:02:20.94,Default,,0,0,0,,Os dois cozinham tão bem que minhas expectativas estão nas alturas.
+Dialogue: 0,0:02:22.19,0:02:26.86,Default,,0,0,0,,Ontem à noite a Sakura estava tão empolgada que mal conseguiu pregar os olhos.
+Dialogue: 0,0:02:28.32,0:02:31.37,Default,,0,0,0,,Rider, não precisa contar essas coisas para todo mundo!
+Dialogue: 0,0:02:38.26,0:02:39.54,Default,,0,0,0,,Pensando bem,
+Dialogue: 0,0:02:39.75,0:02:43.51,Default,,0,0,0,,o castelo dos Einzbern fica bem isolado da cidade.
+Dialogue: 0,0:02:43.88,0:02:46.59,Default,,0,0,0,,Se fosse mais perto, poderíamos visitar com mais frequência.
+Dialogue: 0,0:02:47.51,0:02:51.77,Default,,0,0,0,,Aliás, estamos demorando mais do que o normal.
+Dialogue: 0,0:02:51.97,0:02:55.43,Default,,0,0,0,,Havia muito tráfego na estrada, acabamos atrasando um pouco.
+Dialogue: 0,0:02:55.85,0:02:56.98,Default,,0,0,0,,Vamos pegar um atalho.
+Dialogue: 0,0:02:58.23,0:02:59.65,Default,,0,0,0,,Como assim?
+Dialogue: 0,0:03:03.53,0:03:06.82,Default,,0,0,0,,Cortar caminho pela encosta da montanha? Isso lá é atalho?!
+Dialogue: 0,0:03:07.86,0:03:09.87,Default,,0,0,0,,Tem certeza de que vai dar certo?
+Dialogue: 0,0:03:10.24,0:03:13.08,Default,,0,0,0,,Sim, chegaremos pontualmente.
+Dialogue: 0,0:03:13.54,0:03:15.83,Default,,0,0,0,,Não era essa a questão!
+Dialogue: 0,0:03:20.75,0:03:21.42,Default,,0,0,0,,Opa.
+Dialogue: 0,0:03:25.38,0:03:28.26,Default,,0,0,0,,Como é que vamos sair dessa agora?
+Dialogue: 0,0:03:28.38,0:03:30.30,Default,,0,0,0,,- Estamos enrascadas.\n- Com a permissão de vocês.
+Dialogue: 0,0:03:36.18,0:03:37.23,Default,,0,0,0,,Rider?
+Dialogue: 0,0:03:37.64,0:03:39.85,Default,,0,0,0,,Vou levá-las em segurança.
+Dialogue: 0,0:03:40.35,0:03:41.49,Default,,0,0,0,,Segurem-se firme!
+Dialogue: 0,0:03:54.08,0:03:56.20,Default,,0,0,0,,Shirou! Shirou!
+Dialogue: 0,0:03:56.42,0:03:59.41,Default,,0,0,0,,Illya, é perigoso ficar tão perto do fogão, afaste-se um pouquinho.
+Dialogue: 0,0:03:59.71,0:04:01.17,Default,,0,0,0,,Está bem!
+Dialogue: 0,0:04:09.34,0:04:10.84,Default,,0,0,0,,{\i1}Panquecas de batata alemãs (Kartoffelpuffer).{\i}
+Dialogue: 0,0:04:12.59,0:04:15.26,Default,,0,0,0,,{\i1}Batatas raladas fritas na frigideira.{\i}
+Dialogue: 0,0:04:15.51,0:04:17.27,Default,,0,0,0,,{\i1}Um clássico do dia a dia na Alemanha.{\i}
+Dialogue: 0,0:04:23.98,0:04:25.65,Default,,0,0,0,,Não precisa se preocupar, Sella.
+Dialogue: 0,0:04:26.37,0:04:29.45,Default,,0,0,0,,O Shirou só prepara pratos divinos!
+Dialogue: 0,0:04:30.65,0:04:32.61,Default,,0,0,0,,Permiti que ele usasse a nossa cozinha
+Dialogue: 0,0:04:32.82,0:04:34.87,Default,,0,0,0,,apenas porque a senhorita não poupou elogios às habilidades dele...
+Dialogue: 0,0:04:35.70,0:04:37.08,Default,,0,0,0,,no entanto, senhor Emiya,
+Dialogue: 0,0:04:38.08,0:04:41.46,Default,,0,0,0,,se o senhor apresentar pratos sem o devido refinamento,
+Dialogue: 0,0:04:42.09,0:04:46.09,Default,,0,0,0,,tenha plena ciência de que eu o expulsarei deste castelo imediatamente.
+Dialogue: 0,0:04:47.05,0:04:50.09,Default,,0,0,0,,O Shirou vai te deixar de queixo caído, você vai ver só!
+Dialogue: 0,0:04:55.48,0:04:57.90,Default,,0,0,0,,{\fad(300,300)\i1\fs45\b0\pos(432,482)}Chegamos...{\i0}
+Dialogue: 0,0:04:55.48,0:05:00.11,Default,,0,0,0,,{\fad(300,300)\i1\fs45\b0\pos(824,365)}Estou exausta...{\i0}
+Dialogue: 0,0:04:56.60,0:04:59.52,Default,,0,0,0,,{\fad(300,300)\i1\fs45\b0\pos(1170,490)}O castelo?{\i0}
+Dialogue: 0,0:04:55.85,0:04:58.06,Default,,0,0,0,,Sella, eu trouxe as nossas convidadas.
+Dialogue: 0,0:04:58.19,0:05:00.15,Default,,0,0,0,,{\fad(300,300)\i1\fs45\b0\pos(1072,626)}Shirou!{\i0}
+Dialogue: 0,0:04:58.56,0:04:59.81,Default,,0,0,0,,Muito obrigada, Leysritt.
+Dialogue: 0,0:05:00.56,0:05:03.44,Default,,0,0,0,,Shirou, os preparativos já foram concluídos?
+Dialogue: 0,0:05:04.31,0:05:07.23,Default,,0,0,0,,Ainda não, faltam apenas alguns detalhes.
+Dialogue: 0,0:05:07.94,0:05:09.53,Default,,0,0,0,,Se for só isso...
+Dialogue: 0,0:05:10.82,0:05:12.70,Default,,0,0,0,,vamos terminar todos juntos!
+Dialogue: 0,0:05:13.28,0:05:13.95,Default,,0,0,0,,Sim!
+Dialogue: 0,0:06:02.96,0:06:04.92,Default,,0,0,0,,Feliz Natal!
+Dialogue: 0,0:06:07.79,0:06:09.38,Default,,0,0,0,,Tudo aqui é tão sofisticado!
+Dialogue: 0,0:06:09.50,0:06:11.51,Default,,0,0,0,,As decorações estão esplêndidas.
+Dialogue: 0,0:06:11.67,0:06:13.42,Default,,0,0,0,,Estamos tendo uma noite de Natal verdadeiramente encantada.
+Dialogue: 0,0:06:14.13,0:06:15.30,Default,,0,0,0,,Maravilhoso.
+Dialogue: 0,0:06:15.97,0:06:18.55,Default,,0,0,0,,Que privilégio provar tamanha iguaria!
+Dialogue: 0,0:06:22.10,0:06:26.10,Default,,0,0,0,,A apresentação está impecável, e o sabor é digno de nota.
+Dialogue: 0,0:06:26.23,0:06:28.86,Default,,0,0,0,,A carne está incrivelmente macia e derrete na boca.
+Dialogue: 0,0:06:29.02,0:06:31.07,Default,,0,0,0,,A Sella nos presenteou com um verdadeiro banquete!
+Dialogue: 0,0:06:32.28,0:06:34.04,Default,,0,0,0,,E isso não é tudo.
+Dialogue: 0,0:06:34.86,0:06:37.20,Default,,0,0,0,,O rosbife do Shirou também está divino.
+Dialogue: 0,0:06:38.07,0:06:41.33,Default,,0,0,0,,Eu deixei os pratos principais a cargo da Liz e da Sella,
+Dialogue: 0,0:06:41.58,0:06:43.83,Default,,0,0,0,,mas já que você queria preparar algo especial também...
+Dialogue: 0,0:06:44.25,0:06:47.67,Default,,0,0,0,,Ah, então foi isso o que ele fez com aquela peça enorme de carne...
+Dialogue: 0,0:06:48.30,0:06:50.85,Default,,0,0,0,,{\fad(350,0)\i1}POUCO ANTES...{\i0}
+Dialogue: 0,0:06:53.80,0:06:55.51,Default,,0,0,0,,{\i1}Uma peça bem espessa...{\i}
+Dialogue: 0,0:06:57.68,0:07:00.68,Default,,0,0,0,,{\i1}Geralmente fica fora do meu orçamento, mas como é Natal...{\i}
+Dialogue: 0,0:07:01.01,0:07:02.51,Default,,0,0,0,,{\i1}Resolvi cometer uma extravagância.{\i}
+Dialogue: 0,0:07:04.06,0:07:06.81,Default,,0,0,0,,{\i1}Primeiro, deixe a carne atingir a temperatura ambiente.{\i}
+Dialogue: 0,0:07:06.89,0:07:09.19,Default,,0,0,0,,{\i1}Espalhe sal grosso por toda a superfície,{\i}
+Dialogue: 0,0:07:09.48,0:07:13.12,Default,,0,0,0,,{\i1}misture sal com alho amassado e introduza cortes na carne.{\i}
+Dialogue: 0,0:07:13.53,0:07:17.11,Default,,0,0,0,,{\i1}Envolva em filme plástico e deixe marinar para absorver os temperos{\i}
+Dialogue: 0,0:07:17.36,0:07:18.61,Default,,0,0,0,,{\i1}por cerca de quinze a trinta minutos.{\i}
+Dialogue: 0,0:07:19.78,0:07:22.91,Default,,0,0,0,,{\i1}Em seguida, coloque um fio de azeite na frigideira em fogo baixo{\i}
+Dialogue: 0,0:07:23.16,0:07:27.66,Default,,0,0,0,,{\i1}e doure o alho para soltar todo o aroma perfumado.{\i}
+Dialogue: 0,0:07:28.63,0:07:30.08,Default,,0,0,0,,{\i1}Retire as lâminas de alho douradas{\i}
+Dialogue: 0,0:07:30.21,0:07:32.42,Default,,0,0,0,,{\i1}e coloque a peça de carne em fogo alto.{\i}
+Dialogue: 0,0:07:34.96,0:07:37.01,Default,,0,0,0,,{\i1}Sele bem os quatro lados por dois minutos cada{\i}
+Dialogue: 0,0:07:37.22,0:07:38.68,Default,,0,0,0,,{\i1}para criar uma crosta dourada e selar os sucos.{\i}
+Dialogue: 0,0:07:40.84,0:07:44.60,Default,,0,0,0,,{\i1}Tampe a frigideira, desligue o fogo e deixe descansar por cinco minutos.{\i}
+Dialogue: 0,0:07:46.06,0:07:47.64,Default,,0,0,0,,{\i1}Vire a carne do outro lado,{\i}
+Dialogue: 0,0:07:47.98,0:07:51.81,Default,,0,0,0,,{\i1}tampe novamente e cozinhe por três a quatro minutos em fogo bem baixinho.{\i}
+Dialogue: 0,0:07:53.90,0:07:55.94,Default,,0,0,0,,{\i1}Espete um espeto de metal bem no centro da peça,{\i}
+Dialogue: 0,0:07:56.15,0:07:58.82,Default,,0,0,0,,{\i1}e encoste-o delicadamente abaixo dos lábios após alguns segundos.{\i}
+Dialogue: 0,0:07:58.99,0:08:02.53,Default,,0,0,0,,{\i1}Se estiver morno e agradável, a carne atingiu o ponto ideal.{\i}
+Dialogue: 0,0:08:03.29,0:08:07.70,Default,,0,0,0,,{\i1}Salpique pimenta-do-reino moída na hora por toda a peça,{\i}
+Dialogue: 0,0:08:08.33,0:08:09.54,Default,,0,0,0,,{\i1}e envolva com cuidado{\i}
+Dialogue: 0,0:08:09.67,0:08:12.13,Default,,0,0,0,,{\i1}em filme plástico e depois em papel-alumínio duplo.{\i}
+Dialogue: 0,0:08:12.21,0:08:15.13,Default,,0,0,0,,{\i1}Deixe descansar por trinta minutos e o rosbife estará pronto!{\i}
+Dialogue: 0,0:08:17.67,0:08:22.34,Default,,0,0,0,,Agora basta aproveitar o fundo da frigideira caramelizado para fazer o molho.
+Dialogue: 0,0:08:23.14,0:08:26.68,Default,,0,0,0,,Eu queria ter usado filé-mignon, mas estava muito caro.
+Dialogue: 0,0:08:27.18,0:08:29.73,Default,,0,0,0,,Mas já ficou maravilhoso assim, Shirou!
+Dialogue: 0,0:08:35.94,0:08:38.28,Default,,0,0,0,,Ficou delicioso de verdade, Shirou!
+Dialogue: 0,0:08:39.61,0:08:42.16,Default,,0,0,0,,Senhor Emiya, normalmente
+Dialogue: 0,0:08:42.45,0:08:46.71,Default,,0,0,0,,a senhorita Illyasviel consome exclusivamente cortes nobres de primeira linha.
+Dialogue: 0,0:08:47.45,0:08:48.91,Default,,0,0,0,,Eu imaginei que fosse assim.
+Dialogue: 0,0:08:49.62,0:08:50.50,Default,,0,0,0,,Sella?
+Dialogue: 0,0:08:51.08,0:08:53.63,Default,,0,0,0,,Apesar de ter sido preparado com uma carne de corte comum,
+Dialogue: 0,0:08:54.25,0:08:57.09,Default,,0,0,0,,admito com surpresa que o prato ficou bastante aceitável.
+Dialogue: 0,0:08:57.75,0:08:59.97,Default,,0,0,0,,Shirou, isso é um grande elogio vindo dela.
+Dialogue: 0,0:09:00.80,0:09:01.88,Default,,0,0,0,,Leysritt!
+Dialogue: 0,0:09:12.90,0:09:14.81,Default,,0,0,0,,Estava tudo delicioso, não estava, Rider?
+Dialogue: 0,0:09:15.56,0:09:17.02,Default,,0,0,0,,Concordo plenamente, Sakura.
+Dialogue: 0,0:09:22.11,0:09:23.41,Default,,0,0,0,,Em que você está pensando, Rin?
+Dialogue: 0,0:09:24.36,0:09:27.20,Default,,0,0,0,,Eu estava com a impressão de que faltava alguma coisa importante,
+Dialogue: 0,0:09:27.58,0:09:29.41,Default,,0,0,0,,e acabei de me dar conta do que é.
+Dialogue: 0,0:09:30.21,0:09:32.00,Default,,0,0,0,,Do que você está falando?
+Dialogue: 0,0:09:35.25,0:09:36.88,Default,,0,0,0,,Ele voltou!
+Dialogue: 0,0:09:46.76,0:09:47.85,Default,,0,0,0,,Puxa vida...
+Dialogue: 0,0:09:50.06,0:09:52.06,Default,,0,0,0,,Eu me perdi completamente por aqui.
+Dialogue: 0,0:09:52.31,0:09:54.02,Default,,0,0,0,,Onde será que fica o banheiro?
+Dialogue: 0,0:10:08.45,0:10:10.33,Default,,0,0,0,,Ah, é só a Liz...
+Dialogue: 0,0:10:10.66,0:10:13.25,Default,,0,0,0,,Ela largou a vassoura encostada ali.
+Dialogue: 0,0:10:34.28,0:10:36.90,Default,,0,0,0,,Seja bem-vindo de volta, Berserker!
+Dialogue: 0,0:10:37.15,0:10:38.23,Default,,0,0,0,,Ele é gigantesco!
+Dialogue: 0,0:10:38.77,0:10:42.28,Default,,0,0,0,,Então era o Berserker que estava trazendo o pinheiro de Natal!
+Dialogue: 0,0:10:42.73,0:10:44.57,Default,,0,0,0,,Ué? Onde foi que ele achou essa árvore?
+Dialogue: 0,0:10:45.24,0:10:47.49,Default,,0,0,0,,Vamos nos apressar, Leysritt.
+Dialogue: 0,0:10:47.78,0:10:48.45,Default,,0,0,0,,Sim.
+Dialogue: 0,0:10:55.62,0:10:58.00,Default,,0,0,0,,Agora sim o ambiente está com verdadeiro clima de Natal.
+Dialogue: 0,0:10:59.13,0:11:02.42,Default,,0,0,0,,Eu tenho uma coisa para você, a propósito, Berserker.
+Dialogue: 0,0:11:03.42,0:11:06.05,Default,,0,0,0,,É o seu presente de Natal.
+Dialogue: 0,0:11:09.30,0:11:11.10,Default,,0,0,0,,Sim, eu sei.
+Dialogue: 0,0:11:11.60,0:11:12.68,Default,,0,0,0,,Eu te compreendo.
+Dialogue: 0,0:11:13.10,0:11:15.52,Default,,0,0,0,,A Sakura preparou estes outros aqui.
+Dialogue: 0,0:11:16.02,0:11:18.52,Default,,0,0,0,,São chamados de biscoitos decorados com glacê.
+Dialogue: 0,0:11:19.06,0:11:20.90,Default,,0,0,0,,A Sakura é muito prendada.
+Dialogue: 0,0:11:21.94,0:11:23.82,Default,,0,0,0,,Eu fiz estes biscoitos
+Dialogue: 0,0:11:24.15,0:11:25.40,Default,,0,0,0,,esculpidos à sua imagem.
+Dialogue: 0,0:11:25.94,0:11:27.70,Default,,0,0,0,,Você aceita, Berserker?
+Dialogue: 0,0:11:38.33,0:11:42.00,Default,,0,0,0,,Illya, que tal comermos os biscoitos que assamos mais cedo?
+Dialogue: 0,0:11:42.34,0:11:46.42,Default,,0,0,0,,A Rin preparou uma compota de maçãs ao vinho.
+Dialogue: 0,0:11:46.88,0:11:49.34,Default,,0,0,0,,Sakura, temos Christstollen tradicional de Natal.
+Dialogue: 0,0:11:49.80,0:11:51.81,Default,,0,0,0,,Vamos comê-lo de sobremesa!
+Dialogue: 0,0:11:53.18,0:11:56.10,Default,,0,0,0,,Berserker, esqueci de te dizer uma coisa.
+Dialogue: 0,0:11:56.93,0:11:58.73,Default,,0,0,0,,Feliz Natal!

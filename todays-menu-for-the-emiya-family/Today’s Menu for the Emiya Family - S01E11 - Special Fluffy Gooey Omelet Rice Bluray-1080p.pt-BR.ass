@@ -1,0 +1,181 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E11 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.48,0:00:18.40,Default,,0,0,0,,Archer!
+Dialogue: 0,0:00:29.08,0:00:31.33,Default,,0,0,0,,Eu vou sair com a Sakura.
+Dialogue: 0,0:00:31.87,0:00:34.59,Default,,0,0,0,,Depois que terminarmos as compras,\nesperamos por você no parque habitual.
+Dialogue: 0,0:00:35.29,0:00:37.38,Default,,0,0,0,,Nos encontramos lá ao meio-dia!
+Dialogue: 0,0:00:38.05,0:00:38.88,Default,,0,0,0,,Espere um instante, Rin.
+Dialogue: 0,0:00:39.67,0:00:42.72,Default,,0,0,0,,Não vejo problema em vocês aproveitarem a folga juntas,
+Dialogue: 0,0:00:43.26,0:00:45.68,Default,,0,0,0,,mas em que exatamente isso me diz respeito?
+Dialogue: 0,0:00:47.72,0:00:50.06,Default,,0,0,0,,Duas garotas vão fazer compras
+Dialogue: 0,0:00:50.31,0:00:53.10,Default,,0,0,0,,passando por uma infinidade de lojas... Conseguiu entender agora?
+Dialogue: 0,0:00:54.35,0:00:56.06,Default,,0,0,0,,Ou seja, serei o carregador de sacolas.
+Dialogue: 0,0:00:56.48,0:00:57.94,Default,,0,0,0,,Sinto muito por isso...
+Dialogue: 0,0:00:59.99,0:01:01.15,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:01:01.90,0:01:03.28,Default,,0,0,0,,Divirtam-se.
+Dialogue: 0,0:01:04.49,0:01:05.45,Default,,0,0,0,,Eba!
+Dialogue: 0,0:01:06.41,0:01:08.13,Default,,0,0,0,,Ao meio-dia no parque, combinado?
+Dialogue: 0,0:01:08.37,0:01:09.91,Default,,0,0,0,,Não se esqueça!
+Dialogue: 0,0:01:22.17,0:01:24.26,Default,,0,0,0,,Cheguei um pouco adiantado,
+Dialogue: 0,0:01:25.39,0:01:26.39,Default,,0,0,0,,mas não tem problema.
+Dialogue: 0,0:01:27.60,0:01:28.72,Default,,0,0,0,,Vou aproveitar para...
+Dialogue: 0,0:01:28.81,0:01:30.14,Default,,0,0,0,,Larga do meu pé de uma vez!
+Dialogue: 0,0:01:31.90,0:01:33.48,Default,,0,0,0,,Eu já disse que não posso!
+Dialogue: 0,0:01:34.19,0:01:36.31,Default,,0,0,0,,Qual é, não seja tão duro!
+Dialogue: 0,0:01:36.48,0:01:37.61,Default,,0,0,0,,É só por um tempinho!
+Dialogue: 0,0:01:37.77,0:01:39.65,Default,,0,0,0,,Eu tenho compromisso!
+Dialogue: 0,0:01:39.90,0:01:41.16,Default,,0,0,0,,Me solta!
+Dialogue: 0,0:01:41.32,0:01:42.32,Default,,0,0,0,,Ora, por favor!
+Dialogue: 0,0:01:42.44,0:01:44.70,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,0:01:45.61,0:01:47.83,Default,,0,0,0,,Droga, ele fugiu.
+Dialogue: 0,0:01:58.92,0:01:59.63,Default,,0,0,0,,E aí.
+Dialogue: 0,0:02:01.92,0:02:04.01,Default,,0,0,0,,O que você quer, Lancer?
+Dialogue: 0,0:02:04.80,0:02:08.30,Default,,0,0,0,,Estou com um probleminha aqui, veja bem.
+Dialogue: 0,0:02:09.30,0:02:13.56,Default,,0,0,0,,Só para confirmar uma coisa:\nvocê sabe cozinhar?
+Dialogue: 0,0:02:16.94,0:02:18.56,Default,,0,0,0,,Sejam bem-vindos!
+Dialogue: 0,0:02:23.15,0:02:24.32,Default,,0,0,0,,Fiquem à vontade.
+Dialogue: 0,0:02:30.53,0:02:32.16,Default,,0,0,0,,Já estou indo!
+Dialogue: 0,0:02:35.41,0:02:37.12,Default,,0,0,0,,Como foi que eu vim parar aqui?
+Dialogue: 0,0:02:37.67,0:02:50.23,Default,,0,0,0,,{\fad(500,0)\i1}LEMBRANÇA{\i0}
+Dialogue: 0,0:02:38.54,0:02:40.34,Default,,0,0,0,,{\i1}Quebra essa para mim no restaurante!{\i}
+Dialogue: 0,0:02:40.59,0:02:41.46,Default,,0,0,0,,{\i1}Eu recuso.{\i}
+Dialogue: 0,0:02:41.92,0:02:43.96,Default,,0,0,0,,{\i1}Que cara antipático.{\i}
+Dialogue: 0,0:02:44.21,0:02:45.92,Default,,0,0,0,,{\i1}Vou pedir para o garoto, então.{\i}
+Dialogue: 0,0:02:46.05,0:02:47.85,Default,,0,0,0,,{\i1}Ele cozinha muito melhor do que você mesmo.{\i}
+Dialogue: 0,0:02:48.55,0:02:49.60,Default,,0,0,0,,{\i1}Espere um momento.{\i}
+Dialogue: 0,0:02:50.97,0:02:53.22,Default,,0,0,0,,Acabei perdendo a compostura...
+Dialogue: 0,0:02:54.22,0:02:55.18,Default,,0,0,0,,Pensando bem...
+Dialogue: 0,0:03:00.61,0:03:02.44,Default,,0,0,0,,Eles têm tudo o que é necessário por aqui.
+Dialogue: 0,0:03:03.57,0:03:05.78,Default,,0,0,0,,Você salvou a minha pele!
+Dialogue: 0,0:03:06.40,0:03:08.70,Default,,0,0,0,,O cozinheiro principal teve um imprevisto de última hora.
+Dialogue: 0,0:03:09.24,0:03:12.49,Default,,0,0,0,,E a comida daqui tem uma ótima reputação na praça,
+Dialogue: 0,0:03:12.83,0:03:15.25,Default,,0,0,0,,então não dava para colocar qualquer um no lugar...
+Dialogue: 0,0:03:15.79,0:03:17.12,Default,,0,0,0,,Estou contando com você, Archer.
+Dialogue: 0,0:03:21.29,0:03:22.71,Default,,0,0,0,,{\i1}São onze horas...{\i}
+Dialogue: 0,0:03:23.59,0:03:25.34,Default,,0,0,0,,{\i1}Preciso estar no parque{\i}
+Dialogue: 0,0:03:25.59,0:03:27.30,Default,,0,0,0,,{\i1}exatamente no horário marcado com a Rin.{\i}
+Dialogue: 0,0:03:31.39,0:03:32.81,Default,,0,0,0,,Sejam bem-vindos!
+Dialogue: 0,0:03:35.68,0:03:36.89,Default,,0,0,0,,Mas que história é essa...
+Dialogue: 0,0:03:37.18,0:03:40.10,Default,,0,0,0,,Por que estou vendo um rosto tão familiar bem na minha frente?
+Dialogue: 0,0:03:40.77,0:03:44.53,Default,,0,0,0,,Eu só queria tomar um chá tranquilamente com o Souichirou...
+Dialogue: 0,0:03:44.65,0:03:46.57,Default,,0,0,0,,Basta tomar o seu chá e pronto.
+Dialogue: 0,0:03:49.36,0:03:51.78,Default,,0,0,0,,Mas isso me deixa desconfortável...
+Dialogue: 0,0:03:55.99,0:03:58.54,Default,,0,0,0,,Caster, o local pouco importa.
+Dialogue: 0,0:03:59.71,0:04:02.92,Default,,0,0,0,,O que realmente importa não é estarmos juntos?
+Dialogue: 0,0:04:03.50,0:04:06.51,Default,,0,0,0,,Souichirou...
+Dialogue: 0,0:04:09.30,0:04:10.80,Default,,0,0,0,,Saiu um pedido aqui!
+Dialogue: 0,0:04:11.39,0:04:12.89,Default,,0,0,0,,Dois sanduíches quentes!
+Dialogue: 0,0:04:13.64,0:04:14.64,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:04:26.44,0:04:27.36,Default,,0,0,0,,Pedido pronto.
+Dialogue: 0,0:04:31.95,0:04:34.58,Default,,0,0,0,,Mandou bem, Archer! Continue assim!
+Dialogue: 0,0:04:41.67,0:04:44.04,Default,,0,0,0,,Tem um café bem aqui?
+Dialogue: 0,0:04:45.21,0:04:47.75,Default,,0,0,0,,Falando nisso, já é meio-dia...
+Dialogue: 0,0:04:50.30,0:04:51.93,Default,,0,0,0,,Seja bem-vinda!
+Dialogue: 0,0:04:56.31,0:04:58.27,Default,,0,0,0,,Você está em todos os lugares, pelo visto.
+Dialogue: 0,0:04:58.56,0:04:59.98,Default,,0,0,0,,Você trabalha aqui também?
+Dialogue: 0,0:05:00.43,0:05:02.19,Default,,0,0,0,,E não sou só eu não!
+Dialogue: 0,0:05:06.57,0:05:08.82,Default,,0,0,0,,Archer? O que você está fazendo aqui?
+Dialogue: 0,0:05:09.11,0:05:11.36,Default,,0,0,0,,Eu preferiria não comentar sobre isso.
+Dialogue: 0,0:05:13.07,0:05:14.78,Default,,0,0,0,,Muita coisa aconteceu...
+Dialogue: 0,0:05:14.78,0:05:16.12,Default,,0,0,0,,Souichirou...
+Dialogue: 0,0:05:20.04,0:05:20.91,Default,,0,0,0,,E qual vai ser o seu pedido?
+Dialogue: 0,0:05:23.17,0:05:27.51,Default,,0,0,0,,{\i1}OMURICE ESPECIAL DO CHEF{\i0}
+Dialogue: 0,0:05:29.30,0:05:30.26,Default,,0,0,0,,Vejamos...
+Dialogue: 0,0:05:30.46,0:05:32.55,Default,,0,0,0,,O Omurice Especial do Chef, por favor!
+Dialogue: 0,0:05:34.18,0:05:35.05,Default,,0,0,0,,Compreendido.
+Dialogue: 0,0:05:36.30,0:05:37.30,Default,,0,0,0,,Saiu um omurice!
+Dialogue: 0,0:05:37.85,0:05:38.76,Default,,0,0,0,,Você dá conta, né?
+Dialogue: 0,0:05:53.61,0:05:54.61,Default,,0,0,0,,Um omurice.
+Dialogue: 0,0:05:56.41,0:05:57.49,Default,,0,0,0,,É para já!
+Dialogue: 0,0:06:08.79,0:06:10.17,Default,,0,0,0,,Primeiro, o molho especial de tomate.
+Dialogue: 0,0:06:11.60,0:06:13.72,Default,,0,0,0,,{\i1}Pique o alho finamente.{\i}
+Dialogue: 0,0:06:14.30,0:06:16.18,Default,,0,0,0,,{\i1}Refogue no azeite de oliva extravirgem.{\i}
+Dialogue: 0,0:06:17.30,0:06:21.35,Default,,0,0,0,,{\i1}Acrescente tomates pelados picados e caldo concentrado triturado,{\i}
+Dialogue: 0,0:06:22.10,0:06:26.19,Default,,0,0,0,,{\i1}depois sal, pimenta-do-reino e uma pitada de açúcar.{\i}
+Dialogue: 0,0:06:27.35,0:06:29.27,Default,,0,0,0,,{\i1}Derreta uma noz de manteiga para emulsionar.{\i}
+Dialogue: 0,0:06:39.49,0:06:43.95,Default,,0,0,0,,{\i1}Pique as cebolas em cubinhos e corte os cogumelos em lâminas finas.{\i}
+Dialogue: 0,0:06:44.79,0:06:47.50,Default,,0,0,0,,{\i1}Corte as sobrecoxas de frango em cubos pequenos{\i}
+Dialogue: 0,0:06:48.96,0:06:50.59,Default,,0,0,0,,{\i1}para compor o recheio do arroz.{\i}
+Dialogue: 0,0:06:55.56,0:06:57.93,Default,,0,0,0,,{\i1}Assim que a carne de frango dourar na frigideira,{\i}
+Dialogue: 0,0:06:58.76,0:07:03.35,Default,,0,0,0,,{\i1}adicione a cebola e os cogumelos, refogando tudo uniformemente.{\i}
+Dialogue: 0,0:07:04.31,0:07:06.44,Default,,0,0,0,,{\i1}Tempere com sal, pimenta-do-reino moída na hora,{\i}
+Dialogue: 0,0:07:06.94,0:07:08.31,Default,,0,0,0,,{\i1}um toque de caldo triturado{\i}
+Dialogue: 0,0:07:09.02,0:07:10.52,Default,,0,0,0,,{\i1}e ketchup de qualidade.{\i}
+Dialogue: 0,0:07:11.52,0:07:14.74,Default,,0,0,0,,{\i1}Refogue bem o molho com a carne para reduzir a acidez do tomate.{\i}
+Dialogue: 0,0:07:15.61,0:07:17.03,Default,,0,0,0,,{\i1}Adicione o arroz cozido soltinho,{\i}
+Dialogue: 0,0:07:18.11,0:07:19.74,Default,,0,0,0,,{\i1}misture delicadamente com a espátula sem amassar os grãos,{\i}
+Dialogue: 0,0:07:20.03,0:07:22.91,Default,,0,0,0,,{\i1}e incorpore todo o molho até ficar homogêneo sem queimar.{\i}
+Dialogue: 0,0:07:30.58,0:07:31.96,Default,,0,0,0,,Sejam bem-vindas!
+Dialogue: 0,0:07:43.06,0:07:44.52,Default,,0,0,0,,{\i1}E por último, a omelete cremosa.{\i}
+Dialogue: 0,0:07:44.77,0:07:47.52,Default,,0,0,0,,{\i1}Aqueça a manteiga com um fio de azeite na frigideira antiaderente,{\i}
+Dialogue: 0,0:07:48.02,0:07:50.81,Default,,0,0,0,,{\i1}e despeje os ovos batidos temperados com sal.{\i}
+Dialogue: 0,0:07:52.06,0:07:53.77,Default,,0,0,0,,{\i1}Mexa energicamente com os hashis formando pregas macias,{\i}
+Dialogue: 0,0:07:54.73,0:07:57.69,Default,,0,0,0,,{\i1}sacudindo a frigideira para que os ovos fiquem no ponto cremoso por dentro.{\i}
+Dialogue: 0,0:07:58.53,0:08:02.99,Default,,0,0,0,,{\i1}Quando estiver cremoso, empurre delicadamente para a borda da frigideira,{\i}
+Dialogue: 0,0:08:03.33,0:08:06.54,Default,,0,0,0,,{\i1}molde no formato clássico oval e feche as pontas.{\i}
+Dialogue: 0,0:08:07.45,0:08:10.08,Default,,0,0,0,,{\i1}Com a emenda voltada para cima,{\i}
+Dialogue: 0,0:08:12.42,0:08:14.25,Default,,0,0,0,,{\i1}deposite a omelete suavemente por cima do arroz com frango,{\i}
+Dialogue: 0,0:08:20.34,0:08:21.09,Default,,0,0,0,,{\i1}e está pronto para servir.{\i}
+Dialogue: 0,0:08:35.52,0:08:37.11,Default,,0,0,0,,A textura é tão fofinha e delicada!
+Dialogue: 0,0:08:38.90,0:08:41.45,Default,,0,0,0,,Sendo assim, vou experimentar!
+Dialogue: 0,0:08:53.25,0:08:54.42,Default,,0,0,0,,Mas isto está divino!
+Dialogue: 0,0:08:56.50,0:08:58.13,Default,,0,0,0,,Foi preparado com uma precisão impecável!
+Dialogue: 0,0:08:59.97,0:09:00.80,Default,,0,0,0,,E...
+Dialogue: 0,0:09:08.89,0:09:10.31,Default,,0,0,0,,o sabor é extraordinário.
+Dialogue: 0,0:09:12.14,0:09:14.15,Default,,0,0,0,,Quem diria que você seria capaz de fazer algo assim?
+Dialogue: 0,0:09:15.02,0:09:17.36,Default,,0,0,0,,Você também tem dotes culinários afinal?
+Dialogue: 0,0:09:20.49,0:09:22.82,Default,,0,0,0,,Fico satisfeito que tenha sido do seu agrado.
+Dialogue: 0,0:09:27.20,0:09:28.33,Default,,0,0,0,,Foi um verdadeiro banquete.
+Dialogue: 0,0:09:44.01,0:09:47.97,Default,,0,0,0,,O seu omurice estava excepcional, Archer.
+Dialogue: 0,0:09:58.77,0:09:59.53,Default,,0,0,0,,Ei,
+Dialogue: 0,0:10:00.32,0:10:01.32,Default,,0,0,0,,estão te chamando ali!
+Dialogue: 0,0:10:02.32,0:10:03.20,Default,,0,0,0,,Quem, eu?
+Dialogue: 0,0:10:27.22,0:10:28.22,Default,,0,0,0,,É por conta da casa.
+Dialogue: 0,0:10:29.05,0:10:29.76,Default,,0,0,0,,Obrigada!
+Dialogue: 0,0:10:36.02,0:10:37.77,Default,,0,0,0,,Não me reconheceu até agora?
+Dialogue: 0,0:10:38.86,0:10:41.28,Default,,0,0,0,,Peguei estas roupas emprestadas da Sakura para disfarçar.
+Dialogue: 0,0:10:42.11,0:10:43.94,Default,,0,0,0,,Quando vi você cozinhando aqui,
+Dialogue: 0,0:10:44.07,0:10:47.32,Default,,0,0,0,,achei que seria divertido entrar para ver como você se saía.
+Dialogue: 0,0:10:48.57,0:10:51.79,Default,,0,0,0,,A Sakura preferiu não vir,
+Dialogue: 0,0:10:52.58,0:10:55.04,Default,,0,0,0,,mas foi muito engraçado ver você de avental comandando as panelas.
+Dialogue: 0,0:10:57.29,0:10:58.58,Default,,0,0,0,,Peço desculpas...
+Dialogue: 0,0:10:59.25,0:11:01.04,Default,,0,0,0,,Acabei furando o nosso compromisso...
+Dialogue: 0,0:11:01.76,0:11:03.34,Default,,0,0,0,,Ah, o nosso encontro?
+Dialogue: 0,0:11:04.17,0:11:05.59,Default,,0,0,0,,Não tem problema nenhum.
+Dialogue: 0,0:11:06.43,0:11:08.09,Default,,0,0,0,,O Lancer me explicou a situação de emergência,
+Dialogue: 0,0:11:08.55,0:11:11.68,Default,,0,0,0,,e cá entre nós, eu tinha te obrigado a carregar sacolas.
+Dialogue: 0,0:11:12.64,0:11:14.27,Default,,0,0,0,,Mas me diga uma coisa:
+Dialogue: 0,0:11:14.27,0:11:16.31,Default,,0,0,0,,você gostou de trabalhar aqui?
+Dialogue: 0,0:11:16.77,0:11:18.44,Default,,0,0,0,,Não aconteceu nada de estranho?
+Dialogue: 0,0:11:21.32,0:11:23.94,Default,,0,0,0,,Ué, ainda está emburrado comigo?
+Dialogue: 0,0:11:24.49,0:11:26.70,Default,,0,0,0,,Então nesse caso, vou querer um omurice para mim também!
+Dialogue: 0,0:11:27.53,0:11:29.41,Default,,0,0,0,,Aquele mesmo que a Saber estava saboreando.
+Dialogue: 0,0:11:29.53,0:11:30.70,Default,,0,0,0,,Você prepara um para mim?
+Dialogue: 0,0:11:31.53,0:11:32.79,Default,,0,0,0,,E aí ficamos quites.
+Dialogue: 0,0:11:36.66,0:11:41.13,Default,,0,0,0,,Tudo bem...\nQuantos você quiser.
+Dialogue: 0,0:12:02.94,0:12:05.23,Default,,0,0,0,,Shirou, Shirou, escuta só!
+Dialogue: 0,0:12:06.28,0:12:09.61,Default,,0,0,0,,Num café na cidade nova,\neu provei a comida do Archer!
+Dialogue: 0,0:12:13.37,0:12:14.74,Default,,0,0,0,,E... estava gostoso?
+Dialogue: 0,0:12:16.04,0:12:18.41,Default,,0,0,0,,Sim! Absolutamente delicioso!
+Dialogue: 0,0:12:19.83,0:12:20.79,Default,,0,0,0,,Compreendo...
+Dialogue: 0,0:12:22.21,0:12:25.67,Default,,0,0,0,,Muito bem, Saber! Hoje à noite\nvou acrescentar mais dois pratos ao jantar!
+Dialogue: 0,0:12:26.13,0:12:27.97,Default,,0,0,0,,Vai ser um banquete monumental!
+Dialogue: 0,0:12:30.30,0:12:30.98,Default,,0,0,0,,Shirou?...

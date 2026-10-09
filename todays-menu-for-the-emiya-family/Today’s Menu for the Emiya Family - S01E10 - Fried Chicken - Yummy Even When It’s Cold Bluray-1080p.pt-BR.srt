@@ -1,0 +1,604 @@
+1
+00:00:20,030 --> 00:00:20,780
+Shirou!
+
+2
+00:00:21,780 --> 00:00:22,740
+Boa noite.
+
+3
+00:00:24,320 --> 00:00:25,160
+Oi!
+
+4
+00:00:28,040 --> 00:00:29,500
+Desculpe pelo atraso.
+
+5
+00:00:29,910 --> 00:00:32,620
+Fiquei retido até mais tarde na escola.
+
+6
+00:00:33,500 --> 00:00:35,670
+Não se preocupe, não foi nada.
+
+7
+00:00:36,750 --> 00:00:39,510
+Você estava ajudando nos preparativos do festival escolar?
+
+8
+00:00:40,270 --> 00:00:44,010
+FESTIVAL CULTURAL: FALTAM 6 DIAS
+
+9
+00:00:40,550 --> 00:00:41,340
+Sim.
+
+10
+00:00:41,720 --> 00:00:43,800
+Falta apenas uma semana agora.
+
+11
+00:00:44,010 --> 00:00:47,110
+SALA DO CONSELHO ESTUDANTIL\nCOMITÊ ORGANIZADOR DO FESTIVAL
+
+12
+00:00:44,220 --> 00:00:46,310
+Os preparativos estão quase concluídos.
+
+13
+00:00:47,350 --> 00:00:48,770
+Muito bem...
+
+14
+00:00:49,480 --> 00:00:51,890
+Leve estes relatórios para o professor Kuzuki.
+
+15
+00:00:51,980 --> 00:00:52,640
+Pois não!
+
+16
+00:01:00,780 --> 00:01:03,820
+Atenção a todos, hoje é um dia crucial!
+
+17
+00:01:04,660 --> 00:01:06,990
+Vamos dar um último gás para finalizar tudo.
+
+18
+00:02:07,970 --> 00:02:11,480
+FESTIVAL CULTURAL: FALTAM 3 DIAS
+
+19
+00:02:24,450 --> 00:02:25,320
+Issei.
+
+20
+00:02:25,610 --> 00:02:27,820
+Terminei de consertar os equipamentos.
+
+21
+00:02:28,490 --> 00:02:29,910
+Fico sem jeito, Emiya.
+
+22
+00:02:30,330 --> 00:02:32,950
+Acabo sempre te encarregando de todos os consertos pesados...
+
+23
+00:02:33,700 --> 00:02:35,620
+Não esquenta com isso, de verdade.
+
+24
+00:02:36,960 --> 00:02:39,080
+Vocês é que estão ralando um bocado por aqui.
+
+25
+00:02:40,250 --> 00:02:41,840
+O trabalho burocrático, você sabe como é...
+
+26
+00:02:42,840 --> 00:02:44,800
+Aprovar projetos das turmas,
+
+27
+00:02:44,920 --> 00:02:46,760
+vistoriar os estandes e assim por diante.
+
+28
+00:02:48,340 --> 00:02:50,260
+Trabalho é o que não falta.
+
+29
+00:02:50,890 --> 00:02:53,100
+Eu não sou membro oficial do conselho,
+
+30
+00:02:53,430 --> 00:02:55,810
+mas se precisar de ajuda, é só avisar.
+
+31
+00:02:56,730 --> 00:02:57,310
+Estou à disposição.
+
+32
+00:02:57,600 --> 00:03:00,110
+Em breve vou te pedir uma mãozinha sim.
+
+33
+00:03:16,910 --> 00:03:17,790
+Com licença!
+
+34
+00:03:18,960 --> 00:03:20,080
+Licença...
+
+35
+00:03:21,000 --> 00:03:22,000
+Com licença!
+
+36
+00:03:22,380 --> 00:03:26,380
+Como assim o estande do clube de atletismo foi vetado?!
+
+37
+00:03:26,670 --> 00:03:28,680
+Explique-se agora mesmo!
+
+38
+00:03:28,800 --> 00:03:30,890
+Nós exigimos explicações cabíveis,
+
+39
+00:03:30,890 --> 00:03:32,760
+senhor presidente do conselho estudantil!
+
+40
+00:03:34,640 --> 00:03:36,480
+O que você quer que eu explique?
+
+41
+00:03:38,100 --> 00:03:41,020
+Qual é o sentido desse "Quiosque de Frutos do Mar da Praia"?
+
+42
+00:03:41,610 --> 00:03:44,860
+No cardápio: caramujos grelhados, ostras frescas e lagostas?!
+
+43
+00:03:45,400 --> 00:03:47,820
+Eu jamais aprovarei uma insanidade dessas!
+
+44
+00:03:47,950 --> 00:03:51,710
+REPROVADO
+
+45
+00:03:48,080 --> 00:03:48,990
+Seu cabeça-dura!
+
+46
+00:03:52,990 --> 00:03:54,490
+Ah, qual é, presidente!
+
+47
+00:03:54,620 --> 00:03:58,120
+Hoje em dia a gente precisa disso para atrair o público!
+
+48
+00:03:58,620 --> 00:03:59,960
+Refaçam a proposta do zero!
+
+49
+00:04:02,000 --> 00:04:04,670
+Eu bem que te avisei, Maki.
+
+50
+00:04:05,250 --> 00:04:08,800
+Deveríamos ter ficado no clássico espetinho de lula.
+
+51
+00:04:09,170 --> 00:04:11,800
+Kane, acho que o problema não é esse...
+
+52
+00:04:12,140 --> 00:04:14,390
+Vamos sair e pensar juntas em outra ideia.
+
+53
+00:04:16,060 --> 00:04:17,220
+Já era...
+
+54
+00:04:17,390 --> 00:04:19,600
+Passo o bastão para você, Yukika...
+
+55
+00:04:19,690 --> 00:04:21,240
+Maki...
+
+56
+00:04:26,900 --> 00:04:28,570
+O que significa tudo isso aqui?
+
+57
+00:04:29,240 --> 00:04:30,200
+Como assim?
+
+58
+00:04:30,360 --> 00:04:32,870
+É a decoração do clube de tiro com arco.
+
+59
+00:04:35,120 --> 00:04:38,330
+Você não pediu autorização prévia ao conselho estudantil!
+
+60
+00:04:38,620 --> 00:04:39,460
+Vetado!
+
+61
+00:04:40,370 --> 00:04:41,620
+Está brincando com a minha cara?
+
+62
+00:04:41,790 --> 00:04:44,250
+Precisa de autorização do conselho até para isso?
+
+63
+00:04:44,750 --> 00:04:45,920
+É sério mesmo?
+
+64
+00:04:46,800 --> 00:04:48,710
+Eu carreguei essa tralha toda até aqui nos braços!
+
+65
+00:04:49,010 --> 00:04:50,760
+Isso vai atrapalhar demais a minha vida.
+
+66
+00:04:51,760 --> 00:04:52,590
+Olha só, e aí?
+
+67
+00:04:53,090 --> 00:04:54,140
+Você estava aí, garoto?
+
+68
+00:04:54,850 --> 00:04:57,890
+Agora você está trabalhando em floricultura?
+
+69
+00:04:58,020 --> 00:05:01,230
+Não, me pediram uma ajuda e acabei pegando mais esse bico.
+
+70
+00:05:02,270 --> 00:05:04,100
+Vocês dois se conhecem, Emiya?
+
+71
+00:05:04,350 --> 00:05:06,480
+Sim, digamos que sim.
+
+72
+00:05:08,400 --> 00:05:10,870
+E então, como é que vai ser?
+
+73
+00:05:11,030 --> 00:05:12,070
+Retirem essas flores daqui!
+
+74
+00:05:12,240 --> 00:05:13,950
+Seja um pouco mais maleável, Issei!
+
+75
+00:05:14,070 --> 00:05:15,990
+A ordem precisa ser mantida!
+
+76
+00:05:16,330 --> 00:05:17,080
+Seu insensível!
+
+77
+00:05:17,370 --> 00:05:18,450
+Muito bem!
+
+78
+00:05:20,290 --> 00:05:21,290
+Senhorita.
+
+79
+00:05:24,460 --> 00:05:27,710
+Você vai estragar a sua beleza se ficar zangada desse jeito.
+
+80
+00:05:34,760 --> 00:05:37,600
+Ei, me ouça até o fim!
+
+81
+00:05:44,600 --> 00:05:45,940
+Bem, vou indo nessa.
+
+82
+00:05:46,400 --> 00:05:46,940
+Tudo bem.
+
+83
+00:05:47,520 --> 00:05:49,230
+Você vai voltar muito tarde?
+
+84
+00:05:50,110 --> 00:05:52,400
+Sim, com certeza.
+
+85
+00:05:52,820 --> 00:05:55,570
+Quer que eu prepare algo para você jantar?
+
+86
+00:05:56,320 --> 00:05:58,410
+Não, não precisa se preocupar comigo.
+
+87
+00:06:16,390 --> 00:06:18,550
+Vocês do conselho ficam até tão tarde todos os dias...
+
+88
+00:06:19,010 --> 00:06:20,760
+Será que vão aguentar o ritmo?
+
+89
+00:06:21,560 --> 00:06:23,560
+Issei, o seu olhar está completamente vago.
+
+90
+00:06:25,980 --> 00:06:28,690
+Para que tudo corra perfeitamente no festival,
+
+91
+00:06:28,980 --> 00:06:31,980
+temos que deixar tudo pronto do nosso lado.
+
+92
+00:06:32,690 --> 00:06:35,450
+Mas depois de hoje teremos vencido a maior parte.
+
+93
+00:06:35,820 --> 00:06:37,570
+Mais uma vez, obrigado pela sua ajuda.
+
+94
+00:06:38,160 --> 00:06:39,910
+Amanhã contarei com você de novo.
+
+95
+00:06:40,410 --> 00:06:42,700
+Pode deixar.\nBem, vou indo para casa.
+
+96
+00:06:46,540 --> 00:06:49,290
+Não aguento mais comer pãozinho doce toda noite...
+
+97
+00:06:50,170 --> 00:06:52,920
+Carne... Eu quero comer carne de verdade...
+
+98
+00:06:53,630 --> 00:06:54,920
+Carne...
+
+99
+00:06:55,420 --> 00:06:56,430
+Pois é...
+
+100
+00:06:57,180 --> 00:06:58,800
+Isso sim nos daria uma energia renovada.
+
+101
+00:07:03,520 --> 00:07:06,850
+Se vocês forem ficar aqui mais um pouco,
+
+102
+00:07:07,100 --> 00:07:09,860
+eu posso preparar alguma coisa rápida para vocês.
+
+103
+00:07:11,150 --> 00:07:12,780
+O Emiya faria comida para a gente...
+
+104
+00:07:13,440 --> 00:07:16,740
+Não, imagina, não posso te pedir tanto a essa hora.
+
+105
+00:07:16,860 --> 00:07:18,870
+O quê?! O Emiya vai cozinhar para nós?!
+
+106
+00:07:19,620 --> 00:07:20,780
+O Emiya?
+
+107
+00:07:23,160 --> 00:07:25,200
+Ele vai fazer comida mesmo?!
+
+108
+00:07:31,380 --> 00:07:33,380
+Bem, vou me apressar para voltar logo.
+
+109
+00:07:33,920 --> 00:07:35,010
+Estaremos te esperando ansiosamente!
+
+110
+00:07:46,350 --> 00:07:49,520
+Corte o frango em pedaços grandes para morder.
+
+111
+00:07:54,480 --> 00:07:56,900
+Rale o alho e o gengibre fresco.
+
+112
+00:07:57,780 --> 00:08:02,530
+Acrescente shoyu para o sabor básico, sal, pimenta e um toque de saquê.
+
+113
+00:08:05,370 --> 00:08:08,960
+Mergulhe os pedaços de frango, massageie bem e deixe marinar por cinco minutos.
+
+114
+00:08:12,040 --> 00:08:13,420
+Retire o frango marinado,
+
+115
+00:08:13,670 --> 00:08:16,590
+limpe o excesso de tempero e passe no ovo batido.
+
+116
+00:08:16,670 --> 00:08:18,340
+Misture bem para envolver a carne.
+
+117
+00:08:22,470 --> 00:08:25,140
+Misture farinha de trigo e amido de milho (katakuriko) em partes iguais,
+
+118
+00:08:25,890 --> 00:08:28,600
+e empane o frango umedecido no ovo nessa mistura.
+
+119
+00:08:32,190 --> 00:08:34,570
+Aqueça o óleo entre 160 e 180 graus,
+
+120
+00:08:34,730 --> 00:08:36,400
+e frite os pedaços por cerca de um minuto.
+
+121
+00:08:39,110 --> 00:08:42,570
+Retire e deixe descansar sobre a grade por um minuto aproveitando o calor residual.
+
+122
+00:08:43,240 --> 00:08:44,740
+Este método é perfeito
+
+123
+00:08:44,910 --> 00:08:48,450
+para não ressecar a carne e manter todo o suco suculento por dentro.
+
+124
+00:08:50,500 --> 00:08:53,340
+Dê batidinhas leves na crosta e volte à fritura.
+
+125
+00:08:55,790 --> 00:08:59,510
+Repita o processo duas a três vezes até o interior cozinhar por completo.
+
+126
+00:09:01,380 --> 00:09:02,260
+Para finalizar com crocância máxima,
+
+127
+00:09:02,840 --> 00:09:06,270
+frite a 200 graus por trinta a quarenta segundos.
+
+128
+00:09:08,560 --> 00:09:09,390
+E o karaage está pronto!
+
+129
+00:09:24,160 --> 00:09:25,620
+Frango frito?!
+
+130
+00:09:25,740 --> 00:09:27,240
+Muito obrigado, Emiya!
+
+131
+00:09:27,830 --> 00:09:29,290
+Bom apetite!
+
+132
+00:09:39,920 --> 00:09:40,920
+Que delícia...
+
+133
+00:09:42,220 --> 00:09:44,840
+Daria para comer isso sem parar a noite inteira...
+
+134
+00:09:45,510 --> 00:09:46,510
+O tempero suculento explode na boca...
+
+135
+00:09:47,260 --> 00:09:48,810
+Vocês estavam com vontade de comer carne.
+
+136
+00:09:49,310 --> 00:09:51,350
+Frango frito é fácil e prático de comer,
+
+137
+00:09:51,520 --> 00:09:53,230
+e continua incrivelmente saboroso mesmo depois de esfriar.
+
+138
+00:09:53,890 --> 00:09:56,770
+Você é atencioso demais como sempre, Emiya.
+
+139
+00:09:57,360 --> 00:09:58,820
+Mesmo já estando tarde da noite,
+
+140
+00:09:58,900 --> 00:10:00,820
+agora vamos dar o gás final para concluir tudo!
+
+141
+00:10:01,150 --> 00:10:01,860
+Sim!
+
+142
+00:10:03,150 --> 00:10:06,740
+A esta hora da noite, já está tudo tão escuro lá fora...
+
+143
+00:10:07,530 --> 00:10:09,080
+É melhor eu ir para casa.
+
+144
+00:10:29,050 --> 00:10:31,560
+Desculpe a demora, acabei ficando até muito tarde...
+
+145
+00:10:33,430 --> 00:10:34,850
+Você está com fome, não está?
+
+146
+00:10:35,770 --> 00:10:36,980
+Vou preparar algo para você agora mesmo.
+
+147
+00:10:37,440 --> 00:10:38,190
+Ah, não...
+
+148
+00:10:38,810 --> 00:10:40,070
+Não estou com tanta fome...
+
+149
+00:10:42,780 --> 00:10:44,360
+assim...
+
+150
+00:10:45,070 --> 00:10:45,900
+Eu faço bem rapidinho.
+
+151
+00:10:56,210 --> 00:10:57,880
+Está delicioso, Shirou!
+

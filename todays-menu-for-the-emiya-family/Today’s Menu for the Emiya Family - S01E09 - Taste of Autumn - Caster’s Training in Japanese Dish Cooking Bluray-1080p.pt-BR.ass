@@ -1,0 +1,151 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E09 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.62,0:00:26.37,Default,,0,0,0,,Encontrei você!
+Dialogue: 0,0:00:33.83,0:00:35.00,Default,,0,0,0,,Garoto...
+Dialogue: 0,0:00:38.26,0:00:39.47,Default,,0,0,0,,Caster?
+Dialogue: 0,0:00:39.67,0:00:42.26,Default,,0,0,0,,Eu gostaria que você me desse umas aulas.
+Dialogue: 0,0:00:44.51,0:00:45.43,Default,,0,0,0,,Como é que é?
+Dialogue: 0,0:01:46.46,0:01:50.13,Default,,0,0,0,,{\fad(400,0)\i1}UM POUCO ANTES...{\i0}
+Dialogue: 0,0:01:55.46,0:01:57.29,Default,,0,0,0,,{\i1}Um dia perfeito para lavar roupa.{\i}
+Dialogue: 0,0:01:57.42,0:01:59.14,Default,,0,0,0,,{\i1}Gostaria de agradecer ao senhor{\i}
+Dialogue: 0,0:01:59.29,0:02:01.46,Default,,0,0,0,,{\i1}pelo treino de hoje, senhor Souichirou.{\i}
+Dialogue: 0,0:02:01.88,0:02:02.81,Default,,0,0,0,,{\i1}Não foi nada demais.{\i}
+Dialogue: 0,0:02:03.01,0:02:04.93,Default,,0,0,0,,{\i1}Se eu puder ser útil, é só avisar.{\i}
+Dialogue: 0,0:02:06.34,0:02:09.22,Default,,0,0,0,,- {\i1}Souichirou...{\i}\n- {\i1}Deveríamos comer algo caprichado hoje à noite.{\i}
+Dialogue: 0,0:02:09.97,0:02:10.93,Default,,0,0,0,,{\i1}E falando nisso...{\i}
+Dialogue: 0,0:02:11.18,0:02:13.23,Default,,0,0,0,,{\i1}Ontem à noite eu comi um prato maravilhoso:{\i}
+Dialogue: 0,0:02:13.43,0:02:16.85,Default,,0,0,0,,{\i1}inhames cozidos com aquele tempero que penetra bem a fundo!{\i}
+Dialogue: 0,0:02:17.06,0:02:20.02,Default,,0,0,0,,{\i1}Por que a senhora Medea não prepara um para o senhor?{\i}
+Dialogue: 0,0:02:20.44,0:02:21.78,Default,,0,0,0,,{\i1}Boa ideia.{\i}
+Dialogue: 0,0:02:23.11,0:02:26.36,Default,,0,0,0,,{\i1}Inhames cozidos?{\i}
+Dialogue: 0,0:02:26.78,0:02:28.91,Default,,0,0,0,,{\i1}Como será que se prepara isso?{\i}
+Dialogue: 0,0:02:29.78,0:02:32.49,Default,,0,0,0,,{\i1}Primeiro fervem-se as raízes de inhame...{\i}
+Dialogue: 0,0:02:33.33,0:02:34.71,Default,,0,0,0,,{\i1}e depois refogam?{\i}
+Dialogue: 0,0:02:35.96,0:02:41.17,Default,,0,0,0,,{\i1}Não tenho a menor ideia, mas se o Souichirou quer comer...{\i}
+Dialogue: 0,0:02:59.86,0:03:03.45,Default,,0,0,0,,Ora, ora! Mas que casal inusitado!
+Dialogue: 0,0:03:03.94,0:03:05.90,Default,,0,0,0,,Você tem preferência por amantes novinhos, pelo visto.
+Dialogue: 0,0:03:08.49,0:03:11.12,Default,,0,0,0,,Vê se me dá logo esses peixes agulhão-do-japão, senhor peixeiro.
+Dialogue: 0,0:03:11.28,0:03:14.20,Default,,0,0,0,,Pois não! E para a madame aqui, o que vai ser?
+Dialogue: 0,0:03:14.63,0:03:17.80,Default,,0,0,0,,Ah, ela está fazendo um treinamento intensivo de culinária.
+Dialogue: 0,0:03:18.96,0:03:22.50,Default,,0,0,0,,Você cozinhando?! O mundo com certeza não está pronto para isso!
+Dialogue: 0,0:03:22.75,0:03:24.51,Default,,0,0,0,,Eu vou te torrar todinho, seu vira-lata pulguento.
+Dialogue: 0,0:03:24.67,0:03:26.26,Default,,0,0,0,,Calma, pessoal, sem brigas...
+Dialogue: 0,0:03:27.26,0:03:29.76,Default,,0,0,0,,- Aqui está o seu peixe.\n- Muito obrigado.
+Dialogue: 0,0:03:30.27,0:03:33.18,Default,,0,0,0,,Vou dar o meu melhor pelo Souichirou.
+Dialogue: 0,0:03:34.77,0:03:37.89,Default,,0,0,0,,Ela está aproveitando a vida de recém-casada como ninguém.
+Dialogue: 0,0:03:42.31,0:03:45.07,Default,,0,0,0,,A sua cozinha é surpreendentemente bem cuidada!
+Dialogue: 0,0:03:45.32,0:03:46.69,Default,,0,0,0,,Você está salvando a minha pele, garoto!
+Dialogue: 0,0:03:46.90,0:03:52.16,Default,,0,0,0,,Mal posso esperar para que o Souichirou prove os meus inhames cozidos.
+Dialogue: 0,0:03:56.62,0:03:59.21,Default,,0,0,0,,Vamos lá, garoto, mostre-me como se faz.
+Dialogue: 0,0:04:00.04,0:04:01.83,Default,,0,0,0,,{\i1}Uma verdadeira esposa dedicada.{\i}
+Dialogue: 0,0:04:03.63,0:04:06.10,Default,,0,0,0,,Muito bem, vamos começar.
+Dialogue: 0,0:04:06.34,0:04:08.80,Default,,0,0,0,,Além dos inhames cozidos, prepararemos
+Dialogue: 0,0:04:08.92,0:04:11.35,Default,,0,0,0,,um refogado de espinafre marinado e uma sopa de missô.
+Dialogue: 0,0:04:11.59,0:04:14.14,Default,,0,0,0,,O peixe sanma da estação servirá como prato principal.
+Dialogue: 0,0:04:14.43,0:04:16.39,Default,,0,0,0,,Ele tem uma gordurinha suculenta nesta época.
+Dialogue: 0,0:04:16.64,0:04:19.39,Default,,0,0,0,,Uma refeição deve ser equilibrada, faz todo sentido.
+Dialogue: 0,0:04:19.60,0:04:21.36,Default,,0,0,0,,Ensine-me tudo isso também.
+Dialogue: 0,0:04:21.90,0:04:24.69,Default,,0,0,0,,Primeiro, descascamos os inhames.
+Dialogue: 0,0:04:25.23,0:04:29.49,Default,,0,0,0,,Se forem frescos, basta esfregar com um pano úmido,
+Dialogue: 0,0:04:29.74,0:04:33.99,Default,,0,0,0,,mas como estes não são, cortamos as pontas e descascamos com firmeza.
+Dialogue: 0,0:04:42.04,0:04:43.42,Default,,0,0,0,,Você maneja a faca com muita destreza.
+Dialogue: 0,0:04:43.58,0:04:45.38,Default,,0,0,0,,Eu não te contei antes?
+Dialogue: 0,0:04:45.79,0:04:47.63,Default,,0,0,0,,Nós também usamos lâminas nos rituais de feitiçaria,
+Dialogue: 0,0:04:47.80,0:04:50.05,Default,,0,0,0,,então sei muito bem como manusear uma faca.
+Dialogue: 0,0:04:53.18,0:04:57.01,Default,,0,0,0,,{\i1}Primeiro fervemos os inhames para retirar a baba pegajosa,{\i}
+Dialogue: 0,0:04:57.64,0:05:01.15,Default,,0,0,0,,{\i1}portanto ferva a água e mergulhe-os por três a quatro minutos.{\i}
+Dialogue: 0,0:05:01.73,0:05:06.11,Default,,0,0,0,,{\i1}Em seguida, passe por água fria corrente e lave bem para remover o excesso de goma.{\i}
+Dialogue: 0,0:05:07.27,0:05:08.94,Default,,0,0,0,,{\i1}Coloque-os na panela,{\i}
+Dialogue: 0,0:05:09.11,0:05:12.32,Default,,0,0,0,,{\i1}regue com o caldo dashi até cobrir e leve ao fogo.{\i}
+Dialogue: 0,0:05:13.66,0:05:17.66,Default,,0,0,0,,{\i1}Assim que ferver, acrescente o açúcar, o saquê e o mirin,{\i}
+Dialogue: 0,0:05:17.83,0:05:22.62,Default,,0,0,0,,{\i1}coloque uma tampa de madeira (otoshibuta) e deixe cozinhar em fogo brando por cinco a seis minutos.{\i}
+Dialogue: 0,0:05:24.96,0:05:28.42,Default,,0,0,0,,{\i1}Adicione o shoyu e deixe apurar por mais cinco a seis minutos.{\i}
+Dialogue: 0,0:05:29.67,0:05:33.93,Default,,0,0,0,,{\i1}Quando o caldo tiver reduzido, balance a panela delicadamente para não grudar no fundo,{\i}
+Dialogue: 0,0:05:34.18,0:05:36.19,Default,,0,0,0,,{\i1}envolvendo os inhames na calda brilhante.{\i}
+Dialogue: 0,0:05:36.93,0:05:39.10,Default,,0,0,0,,{\i1}Assim que ganharem um brilho dourado, estará pronto.{\i}
+Dialogue: 0,0:05:40.39,0:05:43.69,Default,,0,0,0,,Então é assim que se faz inhame cozido tradicional?
+Dialogue: 0,0:05:45.81,0:05:47.94,Default,,0,0,0,,Agora vamos preparar o peixe.
+Dialogue: 0,0:05:49.23,0:05:51.57,Default,,0,0,0,,{\i1}Ao preparar peixes inteiros com pele,{\i}
+Dialogue: 0,0:05:51.69,0:05:54.78,Default,,0,0,0,,{\i1}é fundamental limpá-los muito bem antes de começar.{\i}
+Dialogue: 0,0:05:55.28,0:05:59.83,Default,,0,0,0,,{\i1}Enxágue em água corrente, retire o muco da pele e seque com cuidado.{\i}
+Dialogue: 0,0:06:00.45,0:06:04.21,Default,,0,0,0,,{\i1}Para eliminar o odor forte, salpique sal moderadamente{\i}
+Dialogue: 0,0:06:04.37,0:06:06.46,Default,,0,0,0,,{\i1}e deixe descansar por dez a quinze minutos.{\i}
+Dialogue: 0,0:06:06.67,0:06:09.38,Default,,0,0,0,,{\i1}Depois seque a umidade que se formar na superfície com papel-toalha.{\i}
+Dialogue: 0,0:06:10.30,0:06:12.80,Default,,0,0,0,,{\i1}Faça pequenos cortes diagonais na pele{\i}
+Dialogue: 0,0:06:12.97,0:06:16.68,Default,,0,0,0,,{\i1}e salgue novamente para dar sabor antes de levar à grelha.{\i}
+Dialogue: 0,0:06:18.76,0:06:22.22,Default,,0,0,0,,Cheguei em casa...\nVocê está cozinhando, Shirou?
+Dialogue: 0,0:06:23.10,0:06:25.36,Default,,0,0,0,,Dava para sentir um cheiro maravilhoso desde...
+Dialogue: 0,0:06:25.69,0:06:26.81,Default,,0,0,0,,o portão de entrada...
+Dialogue: 0,0:06:27.77,0:06:28.61,Default,,0,0,0,,Boa noite.
+Dialogue: 0,0:06:28.99,0:06:32.28,Default,,0,0,0,,Olá, Saber. Peço perdão pela intromissão.
+Dialogue: 0,0:06:33.86,0:06:36.33,Default,,0,0,0,,O que a Caster está fazendo aqui?!
+Dialogue: 0,0:06:36.57,0:06:38.95,Default,,0,0,0,,O Shirou está me ensinando a cozinhar.
+Dialogue: 0,0:06:39.12,0:06:41.41,Default,,0,0,0,,Eu não acredito nessa história nem por um segundo!
+Dialogue: 0,0:06:42.04,0:06:46.21,Default,,0,0,0,,Mas é a mais pura verdade.\nVocê chegou bem na hora, poderia experimentar?
+Dialogue: 0,0:06:48.13,0:06:50.17,Default,,0,0,0,,Isso não está envenenado, está?
+Dialogue: 0,0:06:50.42,0:06:53.46,Default,,0,0,0,,Pode ficar tranquila, Saber.\nEu mesmo me responsabilizo.
+Dialogue: 0,0:07:12.69,0:07:16.54,Default,,0,0,0,,Espero que o Souichirou fique tão feliz quanto você!
+Dialogue: 0,0:07:18.78,0:07:20.54,Default,,0,0,0,,{\i1}Entendo...{\i}
+Dialogue: 0,0:07:20.78,0:07:23.08,Default,,0,0,0,,Muito bem, compreendi a situação.
+Dialogue: 0,0:07:23.20,0:07:26.04,Default,,0,0,0,,Vou aguardar ansiosamente até que tudo fique pronto.
+Dialogue: 0,0:07:26.29,0:07:27.58,Default,,0,0,0,,É mesmo?
+Dialogue: 0,0:07:29.08,0:07:31.59,Default,,0,0,0,,Vamos lá, vamos concluir a refeição.
+Dialogue: 0,0:07:34.76,0:07:38.22,Default,,0,0,0,,Ferva o espinafre e resfrie em água gelada...
+Dialogue: 0,0:07:38.47,0:07:39.38,Default,,0,0,0,,Certo.
+Dialogue: 0,0:07:39.76,0:07:42.47,Default,,0,0,0,,Retire a gordura do tofu frito, que vai entrar na salada.
+Dialogue: 0,0:07:43.10,0:07:44.47,Default,,0,0,0,,Tirar a gordura?
+Dialogue: 0,0:07:44.64,0:07:46.60,Default,,0,0,0,,A sopa de missô não deve ferver depois de pronto,
+Dialogue: 0,0:07:46.77,0:07:49.56,Default,,0,0,0,,senão ela perde o aroma e as propriedades nutritivas.
+Dialogue: 0,0:07:49.69,0:07:51.57,Default,,0,0,0,,Espere um pouco, garoto!
+Dialogue: 0,0:07:52.06,0:07:54.07,Default,,0,0,0,,Explique em um ritmo mais calmo.
+Dialogue: 0,0:07:54.27,0:07:56.44,Default,,0,0,0,,Isto não é um encantamento de conjuração rápida...
+Dialogue: 0,0:07:56.69,0:07:58.58,Default,,0,0,0,,Falei coisas demais de uma vez só?
+Dialogue: 0,0:07:59.11,0:08:02.24,Default,,0,0,0,,Eu vou anotar a receita no papel para você, não se preocupe.
+Dialogue: 0,0:08:03.99,0:08:05.33,Default,,0,0,0,,Perfeito!
+Dialogue: 0,0:08:05.87,0:08:09.16,Default,,0,0,0,,Agora só falta empratar as porções e estará pronto.
+Dialogue: 0,0:08:12.13,0:08:13.71,Default,,0,0,0,,Bom apetite!
+Dialogue: 0,0:08:27.18,0:08:28.93,Default,,0,0,0,,Está delicioso!
+Dialogue: 0,0:08:30.10,0:08:34.82,Default,,0,0,0,,Fica com um sabor ainda mais profundo no dia seguinte.
+Dialogue: 0,0:08:35.98,0:08:39.65,Default,,0,0,0,,Isso significa que não devemos comer tudo de uma vez...
+Dialogue: 0,0:08:40.28,0:08:44.07,Default,,0,0,0,,A carne do peixe está suculenta, e a salada ficou ótima.
+Dialogue: 0,0:08:44.24,0:08:46.41,Default,,0,0,0,,Você cozinha como um verdadeiro profissional, garoto.
+Dialogue: 0,0:08:47.54,0:08:49.16,Default,,0,0,0,,Muito obrigado pelo elogio.
+Dialogue: 0,0:08:50.29,0:08:53.71,Default,,0,0,0,,Mal posso esperar para cozinhar tudo isso para o Souichirou.
+Dialogue: 0,0:09:02.01,0:09:03.56,Default,,0,0,0,,Vejamos...
+Dialogue: 0,0:09:04.09,0:09:06.56,Default,,0,0,0,,Achei que tivesse feito exatamente
+Dialogue: 0,0:09:07.47,0:09:09.35,Default,,0,0,0,,tudo conforme ele me ensinou...
+Dialogue: 0,0:09:10.98,0:09:12.98,Default,,0,0,0,,Mas não ficou exatamente igual...
+Dialogue: 0,0:09:13.98,0:09:17.07,Default,,0,0,0,,Bem, o sabor ao menos deve estar bom...
+Dialogue: 0,0:09:18.36,0:09:19.23,Default,,0,0,0,,Caster.
+Dialogue: 0,0:09:20.78,0:09:22.11,Default,,0,0,0,,Souichirou...
+Dialogue: 0,0:09:22.82,0:09:25.32,Default,,0,0,0,,Você estava demorando a voltar, por isso vim até aqui.
+Dialogue: 0,0:09:28.04,0:09:31.00,Default,,0,0,0,,Peço imensas desculpas...
+Dialogue: 0,0:09:31.62,0:09:36.25,Default,,0,0,0,,Eu queria preparar uma refeição deliciosa para o senhor...
+Dialogue: 0,0:09:41.51,0:09:44.52,Default,,0,0,0,,mas cometi alguns pequenos deslizes
+Dialogue: 0,0:09:44.68,0:09:47.01,Default,,0,0,0,,e o resultado não saiu como eu esperava.
+Dialogue: 0,0:10:06.87,0:10:07.78,Default,,0,0,0,,Caster.
+Dialogue: 0,0:10:09.08,0:10:11.95,Default,,0,0,0,,Se não deu certo desta vez, basta tentar de novo.
+Dialogue: 0,0:10:13.91,0:10:15.33,Default,,0,0,0,,Eu sempre estarei aqui ao seu lado.
+Dialogue: 0,0:10:18.71,0:10:19.75,Default,,0,0,0,,Sim...
+Dialogue: 0,0:10:21.30,0:10:22.59,Default,,0,0,0,,Muito obrigada do fundo do meu coração...
+Dialogue: 0,0:10:26.09,0:10:27.55,Default,,0,0,0,,Souichirou...
+Dialogue: 0,0:10:30.43,0:10:33.02,Default,,0,0,0,,Darei o meu melhor!
+Dialogue: 0,0:10:38.36,0:10:42.32,Default,,0,0,0,,Espere só um instante, Souichirou!\nVou colocar a mesa para nós!

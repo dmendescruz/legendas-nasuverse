@@ -1,0 +1,157 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E03 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.97,0:00:08.30,Default,,0,0,0,,A Taiga me pediu para passar na casa dela,
+Dialogue: 0,0:00:08.47,0:00:11.26,Default,,0,0,0,,então eu vim, já que sou uma boa menina...
+Dialogue: 0,0:00:11.42,0:00:13.30,Default,,0,0,0,,Ah, Illya!
+Dialogue: 0,0:00:14.01,0:00:16.80,Default,,0,0,0,,Seja muito bem-vinda!
+Dialogue: 0,0:00:17.05,0:00:20.42,Default,,0,0,0,,Diga, Taiga, tem alguma coisa acontecendo hoje?
+Dialogue: 0,0:00:21.17,0:00:26.47,Default,,0,0,0,,Illya, pare de fazer perguntas\ne troque de roupa rapidinho, pode ser?
+Dialogue: 0,0:00:30.42,0:00:32.17,Default,,0,0,0,,Vamos lá, Taiga...
+Dialogue: 0,0:00:32.63,0:00:37.30,Default,,0,0,0,,Você poderia ao menos me explicar\no que está tramando?
+Dialogue: 0,0:00:39.01,0:00:41.13,Default,,0,0,0,,Senhorita Taiga, terminei.
+Dialogue: 0,0:00:43.01,0:00:44.55,Default,,0,0,0,,Ela já está pronta.
+Dialogue: 0,0:00:46.67,0:00:50.76,Default,,0,0,0,,Taiga, que traje é este?
+Dialogue: 0,0:01:56.17,0:01:59.18,Default,,0,0,0,,Ficou muito, mas muito bem em você,\nse quer saber a minha opinião!
+Dialogue: 0,0:02:00.47,0:02:02.30,Default,,0,0,0,,Ficou mesmo?
+Dialogue: 0,0:02:03.09,0:02:07.76,Default,,0,0,0,,Bem, agora que você está pronta,\nque tal irmos?
+Dialogue: 0,0:02:08.05,0:02:09.80,Default,,0,0,0,,Ir? Para onde?
+Dialogue: 0,0:02:10.51,0:02:13.30,Default,,0,0,0,,Isso é surpresa!
+Dialogue: 0,0:02:17.26,0:02:19.72,Default,,0,0,0,,Estava esperando por você, Ilyasviel.
+Dialogue: 0,0:02:20.38,0:02:22.47,Default,,0,0,0,,Desculpe pela espera.
+Dialogue: 0,0:02:22.59,0:02:26.42,Default,,0,0,0,,- Saber?\n- Você está radiante.
+Dialogue: 0,0:02:27.26,0:02:30.80,Default,,0,0,0,,Será um trajeto curto,\nmas eu cuidarei de escoltá-la.
+Dialogue: 0,0:02:31.26,0:02:33.30,Default,,0,0,0,,Dê-me a sua mão, por favor.
+Dialogue: 0,0:02:44.59,0:02:48.52,Default,,0,0,0,,Bem-vinda, Illya!\nNossa, você está maravilhosa!
+Dialogue: 0,0:02:49.80,0:02:52.67,Default,,0,0,0,,Mas esta é a casa do Shirou, não é?
+Dialogue: 0,0:02:53.51,0:02:55.55,Default,,0,0,0,,A Sakura e a Rin também estão aqui...
+Dialogue: 0,0:02:56.34,0:02:58.92,Default,,0,0,0,,Eu sabia!\nVocês estão tramando alguma coisa.
+Dialogue: 0,0:02:59.30,0:03:01.03,Default,,0,0,0,,Ora, ora...
+Dialogue: 0,0:03:01.55,0:03:03.72,Default,,0,0,0,,Que jeito de falar...
+Dialogue: 0,0:03:04.09,0:03:07.05,Default,,0,0,0,,Isso é fruto do seu comportamento\nno dia a dia, Rin.
+Dialogue: 0,0:03:11.88,0:03:13.09,Default,,0,0,0,,Esta é a sala de estar?
+Dialogue: 0,0:03:13.59,0:03:17.55,Default,,0,0,0,,Diga, Illya,\nsabe que dia é hoje?
+Dialogue: 0,0:03:18.30,0:03:19.55,Default,,0,0,0,,Hoje?
+Dialogue: 0,0:03:37.60,0:03:41.22,Default,,0,0,0,,Três de março é o Festival dos Pêssegos,\no Dia das Meninas!
+Dialogue: 0,0:03:41.64,0:03:46.89,Default,,0,0,0,,Comemoramos o crescimento saudável\ne a felicidade das garotas.
+Dialogue: 0,0:03:47.35,0:03:50.18,Default,,0,0,0,,Elas são tão pequeninas,\nmas cheias de detalhes...
+Dialogue: 0,0:03:50.35,0:03:52.68,Default,,0,0,0,,São chamadas de bonecas {\i1}Hina{\i}.
+Dialogue: 0,0:03:52.80,0:03:56.68,Default,,0,0,0,,Pensamos que seria uma ótima oportunidade
+Dialogue: 0,0:03:56.80,0:03:59.05,Default,,0,0,0,,para apresentar um pouco da nossa cultura a você.
+Dialogue: 0,0:03:59.14,0:04:01.51,Default,,0,0,0,,Bem, a ideia foi minha!
+Dialogue: 0,0:04:01.89,0:04:05.09,Default,,0,0,0,,E decidimos segui-la.
+Dialogue: 0,0:04:05.64,0:04:07.10,Default,,0,0,0,,Shirou!
+Dialogue: 0,0:04:07.68,0:04:13.18,Default,,0,0,0,,Pensando bem, não sei se eu deveria estar aqui\nno meio de tantas garotas...
+Dialogue: 0,0:04:13.55,0:04:15.59,Default,,0,0,0,,Não acha meio tarde para pensar nisso?
+Dialogue: 0,0:04:15.89,0:04:17.55,Default,,0,0,0,,E então, o prato está pronto?
+Dialogue: 0,0:04:18.01,0:04:19.78,Default,,0,0,0,,Sim, tudo pronto!
+Dialogue: 0,0:04:20.25,0:04:22.71,Default,,0,0,0,,Graças à sua ajuda e à da Sakura.
+Dialogue: 0,0:04:24.31,0:04:27.10,Default,,0,0,0,,Illya, todos nós nos dedicamos\npara preparar isso.
+Dialogue: 0,0:04:31.64,0:04:33.76,Default,,0,0,0,,Esperamos que você goste.
+Dialogue: 0,0:04:36.18,0:04:37.88,Default,,0,0,0,,Enfim...
+Dialogue: 0,0:04:37.88,0:04:41.63,Default,,0,0,0,,{\i1}Momentos antes...{\i0}
+Dialogue: 0,0:04:38.22,0:04:41.63,Default,,0,0,0,,vou na frente para cuidar dos preparativos.
+Dialogue: 0,0:04:42.22,0:04:46.68,Default,,0,0,0,,Mande a Saber para a minha casa depois,\ncomo combinamos!
+Dialogue: 0,0:04:46.89,0:04:48.18,Default,,0,0,0,,Pode deixar.
+Dialogue: 0,0:04:48.18,0:04:49.70,Default,,0,0,0,,Cuidaremos de tudo por aqui.
+Dialogue: 0,0:04:49.97,0:04:51.20,Default,,0,0,0,,Tenha um bom dia.
+Dialogue: 0,0:04:53.14,0:04:54.85,Default,,0,0,0,,Isto é bem divertido.
+Dialogue: 0,0:04:55.02,0:04:56.89,Default,,0,0,0,,Acha que a Illya vai ficar surpresa?
+Dialogue: 0,0:04:57.35,0:05:00.60,Default,,0,0,0,,Ah, esse tipo de coisa te diverte, Sakura?
+Dialogue: 0,0:05:00.89,0:05:03.14,Default,,0,0,0,,Você não gosta, Rin?
+Dialogue: 0,0:05:04.89,0:05:08.89,Default,,0,0,0,,Não, não é isso...\neu também estou me divertindo um pouco.
+Dialogue: 0,0:05:10.98,0:05:14.64,Default,,0,0,0,,Ah, que bom então.
+Dialogue: 0,0:05:17.04,0:05:19.97,Default,,0,0,0,,Bem, vou cuidar das decorações.
+Dialogue: 0,0:05:20.18,0:05:21.97,Default,,0,0,0,,Sim, por favor.
+Dialogue: 0,0:05:22.23,0:05:24.60,Default,,0,0,0,,Sakura, vou te ajudar.
+Dialogue: 0,0:05:28.43,0:05:30.81,Default,,0,0,0,,Eu vou aguardar o momento\nde entrar em cena.
+Dialogue: 0,0:05:31.02,0:05:32.81,Default,,0,0,0,,Contamos com você para isso, Saber.
+Dialogue: 0,0:05:37.73,0:05:38.81,Default,,0,0,0,,Muito bem...
+Dialogue: 0,0:05:40.35,0:05:42.64,Default,,0,0,0,,Que tal começarmos?
+Dialogue: 0,0:05:44.73,0:05:48.81,Default,,0,0,0,,{\i1}Primeiro, escorra o arroz lavado\nem uma peneira para tirar a água.{\i}
+Dialogue: 0,0:05:50.93,0:05:53.85,Default,,0,0,0,,{\i1}Pique brotos de bambu, cenouras, raiz de lótus (renkon),{\i}
+Dialogue: 0,0:05:54.02,0:05:56.39,Default,,0,0,0,,{\i1}e os cogumelos shiitake secos já hidratados.{\i}
+Dialogue: 0,0:05:56.60,0:05:58.52,Default,,0,0,0,,{\i1}Deixe as fatias de raiz de lótus de molho.{\i}
+Dialogue: 0,0:05:59.60,0:06:03.60,Default,,0,0,0,,{\i1}Coloque os ingredientes picados e o arroz lavado\nna panela elétrica.{\i}
+Dialogue: 0,0:06:04.93,0:06:08.34,Default,,0,0,0,,{\i1}Adicione um pouco menos de água do que o habitual\ne, para o tempero,{\i}
+Dialogue: 0,0:06:08.34,0:06:10.64,Default,,0,0,0,,{\i1}acrescente shoyu, saquê culinário, mirin{\i}
+Dialogue: 0,0:06:10.85,0:06:13.89,Default,,0,0,0,,{\i1}e a água do molho dos cogumelos na panela.{\i}
+Dialogue: 0,0:06:15.27,0:06:17.72,Default,,0,0,0,,{\i1}Normalmente, os ingredientes seriam cozidos à parte,{\i}
+Dialogue: 0,0:06:17.89,0:06:20.43,Default,,0,0,0,,{\i1}mas usaremos a panela elétrica\npara simplificar o processo.{\i}
+Dialogue: 0,0:06:22.73,0:06:24.56,Default,,0,0,0,,{\i1}Agora, vamos preparar os fios de ovos dourados (kinshi tamago).{\i}
+Dialogue: 0,0:06:25.64,0:06:29.06,Default,,0,0,0,,{\i1}Bata os ovos com uma pitada de sal e açúcar,{\i}
+Dialogue: 0,0:06:29.39,0:06:32.28,Default,,0,0,0,,{\i1}passe por uma peneira e faça um crepe bem fino na frigideira.{\i}
+Dialogue: 0,0:06:33.56,0:06:37.10,Default,,0,0,0,,{\i1}Corte em tiras bem fininhas,\ne os fios dourados estarão prontos.{\i}
+Dialogue: 0,0:06:38.77,0:06:40.52,Default,,0,0,0,,{\i1}Tire as fibras das ervilhas-tortas,{\i}
+Dialogue: 0,0:06:40.77,0:06:43.18,Default,,0,0,0,,{\i1}ferva rapidamente as cenouras{\i}
+Dialogue: 0,0:06:43.35,0:06:45.64,Default,,0,0,0,,{\i1}e as raízes de lótus em água com sal,{\i}
+Dialogue: 0,0:06:45.81,0:06:47.52,Default,,0,0,0,,{\i1}e mergulhe-as em água gelada.{\i}
+Dialogue: 0,0:06:48.60,0:06:50.35,Default,,0,0,0,,{\i1}Adicione saquê à água na panela.{\i}
+Dialogue: 0,0:06:50.52,0:06:53.56,Default,,0,0,0,,{\i1}Assim que os camarões cozinharem,\ncoloque-os no vinagre temperado.{\i}
+Dialogue: 0,0:06:55.10,0:06:56.52,Default,,0,0,0,,Que aroma agradável.
+Dialogue: 0,0:06:58.77,0:06:59.89,Default,,0,0,0,,Saber?
+Dialogue: 0,0:07:00.27,0:07:03.14,Default,,0,0,0,,Estava pensando se haveria algo\nem que eu pudesse ajudar.
+Dialogue: 0,0:07:03.85,0:07:05.31,Default,,0,0,0,,Não se preocupe, eu dou conta.
+Dialogue: 0,0:07:05.98,0:07:09.99,Default,,0,0,0,,Poderia se preparar para ir buscar a Illya?
+Dialogue: 0,0:07:10.27,0:07:11.93,Default,,0,0,0,,Sim, cuidarei disso imediatamente!
+Dialogue: 0,0:07:13.77,0:07:18.27,Default,,0,0,0,,{\i1}Com o arroz cozido, regue-o com o vinagre temperado dos camarões,{\i}
+Dialogue: 0,0:07:19.18,0:07:21.72,Default,,0,0,0,,{\i1}e misture cortando o arroz na vertical com a espátula.{\i}
+Dialogue: 0,0:07:23.43,0:07:26.89,Default,,0,0,0,,{\i1}Quando sentir que a espátula ficou pesada ao mexer,{\i}
+Dialogue: 0,0:07:27.06,0:07:30.56,Default,,0,0,0,,{\i1}pare e vá esfriando o arroz com um leque.{\i}
+Dialogue: 0,0:07:32.23,0:07:37.52,Default,,0,0,0,,{\i1}De tempos em tempos, vire o arroz\npara liberar o calor de baixo.{\i}
+Dialogue: 0,0:07:38.48,0:07:41.93,Default,,0,0,0,,{\i1}Ao esfriar rapidamente,\no arroz de sushi adquire um brilho perfeito.{\i}
+Dialogue: 0,0:07:44.27,0:07:46.27,Default,,0,0,0,,Sakura, está tudo certo?
+Dialogue: 0,0:07:46.68,0:07:50.89,Default,,0,0,0,,- Ah, é a minha vez?\n- Sim, por favor.
+Dialogue: 0,0:07:51.27,0:07:52.95,Default,,0,0,0,,Para a montagem final,
+Dialogue: 0,0:07:53.17,0:07:56.17,Default,,0,0,0,,é melhor deixar nas suas mãos.
+Dialogue: 0,0:07:57.07,0:08:01.23,Default,,0,0,0,,Deixe comigo, Shirou.\nQuero tentar uma ideia diferente.
+Dialogue: 0,0:08:13.48,0:08:15.23,Default,,0,0,0,,Com licença, Emiya...
+Dialogue: 0,0:08:17.11,0:08:20.52,Default,,0,0,0,,Gostaria de pegar a cozinha emprestada\npor alguns instantes.
+Dialogue: 0,0:08:20.90,0:08:23.03,Default,,0,0,0,,Você também queria preparar alguma coisa, Tohsaka?
+Dialogue: 0,0:08:23.47,0:08:25.50,Default,,0,0,0,,Sim, de certa forma.
+Dialogue: 0,0:08:25.85,0:08:28.63,Default,,0,0,0,,Ver as bonecas Hina me deu uma inspiração.
+Dialogue: 0,0:08:29.38,0:08:32.33,Default,,0,0,0,,A apresentação visual também é fundamental.
+Dialogue: 0,0:08:33.13,0:08:34.53,Default,,0,0,0,,Já estou quase acabando aqui.
+Dialogue: 0,0:08:53.25,0:08:57.49,Default,,0,0,0,,E foi assim que a Sakura e eu preparamos\neste {\i1}chirashizushi{\i}.
+Dialogue: 0,0:08:57.75,0:09:01.49,Default,,0,0,0,,Eu não teria pensado nesse arranjo por conta própria.
+Dialogue: 0,0:09:02.04,0:09:04.29,Default,,0,0,0,,E estes aqui foram feitos pela Tohsaka.
+Dialogue: 0,0:09:06.04,0:09:07.62,Default,,0,0,0,,Estou impressionada.
+Dialogue: 0,0:09:08.37,0:09:09.86,Default,,0,0,0,,Nem me diga...
+Dialogue: 0,0:09:10.16,0:09:12.74,Default,,0,0,0,,Eu quase nunca cozinho, deveria ter ficado quieta.
+Dialogue: 0,0:09:13.04,0:09:18.12,Default,,0,0,0,,O clima do momento me contagiou...\nou melhor, me empolgou.
+Dialogue: 0,0:09:19.50,0:09:22.58,Default,,0,0,0,,Bem, deixem isso de lado,
+Dialogue: 0,0:09:22.79,0:09:24.62,Default,,0,0,0,,e vamos comer logo, certo?
+Dialogue: 0,0:09:42.91,0:09:44.79,Default,,0,0,0,,Que tal comermos agora?
+Dialogue: 0,0:09:45.08,0:09:46.70,Default,,0,0,0,,Bom apetite!
+Dialogue: 0,0:09:47.70,0:09:51.73,Default,,0,0,0,,Olha só, as raízes de lótus e as cenouras\nestão em formato de flores...
+Dialogue: 0,0:09:52.00,0:09:57.70,Default,,0,0,0,,A preparação está esplêndida,\nainda mais caprichada do que o habitual.
+Dialogue: 0,0:09:58.83,0:10:02.45,Default,,0,0,0,,Shirou, este é o saquê doce do festival!
+Dialogue: 0,0:10:02.58,0:10:04.83,Default,,0,0,0,,Não tem a versão com álcool para adultos?
+Dialogue: 0,0:10:05.00,0:10:08.33,Default,,0,0,0,,Fuji-nee, contente-se com esse por hoje.
+Dialogue: 0,0:10:08.62,0:10:13.34,Default,,0,0,0,,Montar flores com sashimis de salmão...\nQue ideia genial!
+Dialogue: 0,0:10:15.62,0:10:16.99,Default,,0,0,0,,Illya?
+Dialogue: 0,0:10:18.62,0:10:22.49,Default,,0,0,0,,Vocês tiveram bastante coragem\nem aprontar uma surpresa dessas para mim!
+Dialogue: 0,0:10:26.16,0:10:27.29,Default,,0,0,0,,Mas quer saber...
+Dialogue: 0,0:10:28.87,0:10:32.58,Default,,0,0,0,,Pensando bem, não é nada mau\numa festa tão animada assim.
+Dialogue: 0,0:10:34.08,0:10:35.12,Default,,0,0,0,,Que bom que gostou.
+Dialogue: 0,0:10:37.45,0:10:43.58,Default,,0,0,0,,Ei, Shirou! Você ainda não me disse\no que achou da minha roupa!
+Dialogue: 0,0:10:44.95,0:10:47.41,Default,,0,0,0,,Bem, você está muito bonit...
+Dialogue: 0,0:10:47.70,0:10:49.79,Default,,0,0,0,,Obrigada, irmãozinho!
+Dialogue: 0,0:10:49.91,0:10:52.29,Default,,0,0,0,,Mas o que é isso, Ilyasviel?!

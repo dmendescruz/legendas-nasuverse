@@ -1,0 +1,524 @@
+1
+00:00:05,210 --> 00:00:07,670
+Carne de porco empanada, croquetes...
+
+2
+00:00:07,900 --> 00:00:09,670
+Carne de porco com gengibre...
+
+3
+00:00:10,210 --> 00:00:12,660
+Nikujaga, sukiyaki...
+
+4
+00:00:12,660 --> 00:00:14,290
+Tofu frito...
+
+5
+00:00:14,830 --> 00:00:17,250
+Cavala, sanma...
+
+6
+00:00:18,280 --> 00:00:19,500
+Kinmedai!
+
+7
+00:00:21,210 --> 00:00:23,460
+Kinmedai\N400 ienes a posta
+
+8
+00:00:24,620 --> 00:00:27,040
+Está um pouco fora do meu orçamento...
+
+9
+00:00:28,960 --> 00:00:31,210
+Carne de porco empanada, croquetes...
+
+10
+00:00:33,330 --> 00:00:36,460
+Kinme, linguado, pargo fresco!
+
+11
+00:00:40,710 --> 00:00:42,670
+Uma pechincha imperdível!
+
+12
+00:01:49,170 --> 00:01:51,620
+Ora, veja só quem está aí... É você, garoto.
+
+13
+00:01:52,290 --> 00:01:55,040
+E você? Está trabalhando aqui?
+
+14
+00:01:55,330 --> 00:01:57,340
+Sim, não dá para ver?
+
+15
+00:01:57,540 --> 00:01:59,210
+Veio comprar coisas para o jantar?
+
+16
+00:01:59,580 --> 00:02:01,750
+Vim. Por que a pergunta?\nAlgum problema?
+
+17
+00:02:01,960 --> 00:02:03,870
+Não, problema nenhum.
+
+18
+00:02:04,580 --> 00:02:06,520
+Diga-me, jovem cavalheiro,
+
+19
+00:02:06,670 --> 00:02:08,750
+o que você me recomendaria para hoje?
+
+20
+00:02:09,580 --> 00:02:11,500
+O kinme, sem a menor dúvida...
+
+21
+00:02:12,620 --> 00:02:14,170
+senhorita.
+
+22
+00:02:14,920 --> 00:02:19,210
+Ah, que galanteador!\nMuito bem, vou levar uma posta.
+
+23
+00:02:19,790 --> 00:02:20,960
+Muito obrigado pela preferência!
+
+24
+00:02:21,210 --> 00:02:24,250
+O grande herói celta\nreconvertido em peixeiro...
+
+25
+00:02:26,210 --> 00:02:29,460
+Acho que peixe vai bem\npara o jantar de hoje.
+
+26
+00:02:31,540 --> 00:02:32,670
+Lancer!
+
+27
+00:02:33,040 --> 00:02:33,920
+Diga lá?
+
+28
+00:02:34,300 --> 00:02:36,370
+Tem alguma recomendação?
+
+29
+00:02:37,290 --> 00:02:40,000
+Boa pergunta...
+
+30
+00:02:40,830 --> 00:02:44,420
+Que tal salmão?\nEstá barato e bem fresco!
+
+31
+00:02:45,180 --> 00:02:47,460
+Salmão? Parece ótimo.
+
+32
+00:02:47,790 --> 00:02:50,040
+Fica perfeito feito no vapor.
+
+33
+00:02:50,440 --> 00:02:54,440
+Salmão\N98 ienes a posta
+
+34
+00:02:51,210 --> 00:02:54,080
+Bem, esta noite farei salmão no papel-alumínio.
+
+35
+00:02:54,710 --> 00:02:56,710
+No que? Isso se come?
+
+36
+00:02:57,210 --> 00:02:59,960
+É fácil de fazer e fica uma delícia.
+
+37
+00:03:00,120 --> 00:03:01,250
+Vou levar três postas.
+
+38
+00:03:12,370 --> 00:03:14,670
+Espere aí,\ntem uma posta a mais aqui.
+
+39
+00:03:15,120 --> 00:03:17,790
+Garoto, prepare uma porção dessas\nno papel-alumínio para mim também.
+
+40
+00:03:18,120 --> 00:03:18,830
+Como é?
+
+41
+00:03:19,170 --> 00:03:22,330
+Não se preocupe, eu pago a minha parte.
+
+42
+00:03:22,710 --> 00:03:25,250
+Não, não é isso que eu quis dizer...
+
+43
+00:03:26,970 --> 00:03:30,120
+Passo lá depois do expediente,\nentão não se esqueça de mim!
+
+44
+00:03:44,580 --> 00:03:45,790
+Ora, ora...
+
+45
+00:03:54,080 --> 00:03:55,500
+Vem dali...
+
+46
+00:04:01,790 --> 00:04:02,750
+Que surpresa.
+
+47
+00:04:03,460 --> 00:04:06,420
+É a própria Saber vindo abrir a porta.
+
+48
+00:04:06,920 --> 00:04:10,960
+Eu sabia que estava sentindo mana...\nO que você veio fazer aqui?
+
+49
+00:04:11,670 --> 00:04:15,000
+O garoto não te contou nada?\nVim comer um pedaço.
+
+50
+00:04:15,920 --> 00:04:17,730
+Comer um pedaço?
+
+51
+00:04:18,460 --> 00:04:20,330
+Vim me convidar para o jantar.
+
+52
+00:04:23,250 --> 00:04:24,500
+Uma lembrança!
+
+53
+00:04:28,370 --> 00:04:29,960
+Ora, não precisava de tudo isso.
+
+54
+00:04:30,540 --> 00:04:32,540
+Mas isso é bebida alcoólica!
+
+55
+00:04:33,170 --> 00:04:35,040
+Ué, você não bebe?
+
+56
+00:04:35,330 --> 00:04:37,330
+Claro que não, sou menor de idade!
+
+57
+00:04:37,750 --> 00:04:41,370
+Não esquenta a cabeça com essas coisas,\nsenão você nunca vai crescer.
+
+58
+00:04:44,460 --> 00:04:46,960
+Bom, vou ficar esperando a comida\nno meu canto.
+
+59
+00:04:50,250 --> 00:04:52,290
+A Fuji-nee vai adorar isso...
+
+60
+00:05:05,250 --> 00:05:09,830
+O salmão irlandês é famoso,\nse não me engano...
+
+61
+00:05:10,710 --> 00:05:13,290
+Acho que isso remonta\nà mitologia celta.
+
+62
+00:05:15,750 --> 00:05:19,330
+O Salmão da Sabedoria\nde Fionn mac Cumhaill?
+
+63
+00:05:22,460 --> 00:05:23,590
+Vamos começar.
+
+64
+00:05:34,670 --> 00:05:39,000
+Primeiro, antes de temperar,\nregue com um pouco de saquê culinário.
+
+65
+00:05:39,750 --> 00:05:44,290
+Salgue os dois lados,\ne deixe descansar de 5 a 10 minutos.
+
+66
+00:05:45,870 --> 00:05:47,960
+Assim que as postas começarem\na soltar umidade,
+
+67
+00:05:48,290 --> 00:05:50,620
+seque-as delicadamente com papel-toalha.
+
+68
+00:05:53,290 --> 00:05:54,790
+Em seguida, as cebolas.
+
+69
+00:05:55,830 --> 00:05:59,790
+Corte-as em fatias bem finas,\ne faça o mesmo com as cenouras.
+
+70
+00:06:00,620 --> 00:06:02,540
+Separe os cogumelos em pequenos ramos,
+
+71
+00:06:03,330 --> 00:06:06,420
+depois adicione sal e pimenta-do-reino\nàs postas de salmão.
+
+72
+00:06:10,170 --> 00:06:12,710
+Espalhe as cebolas e as cenouras\nsobre o papel-alumínio,
+
+73
+00:06:13,120 --> 00:06:15,460
+salpique um pouco de caldo em pó,\ne disponha o salmão por cima.
+
+74
+00:06:15,870 --> 00:06:18,250
+Coloque os cogumelos,
+
+75
+00:06:18,540 --> 00:06:20,750
+e finalize com um cubo de manteiga no topo.
+
+76
+00:06:22,750 --> 00:06:26,170
+Feche bem o papel-alumínio pelas pontas\ne tampe a frigideira.
+
+77
+00:06:26,330 --> 00:06:29,210
+Deixe cozinhar no vapor\npor cerca de 15 a 20 minutos.
+
+78
+00:06:31,250 --> 00:06:35,170
+Agora, dois acompanhamentos\ne uma sopa de missô...
+
+79
+00:06:38,670 --> 00:06:39,710
+Lancer?
+
+80
+00:06:40,040 --> 00:06:41,170
+Sim?
+
+81
+00:06:41,370 --> 00:06:44,920
+Perdoe-me a insistência,\nmas o que você realmente quer conosco?
+
+82
+00:06:45,290 --> 00:06:48,670
+Eu já te respondi:\nvim pela comida.
+
+83
+00:06:49,710 --> 00:06:52,120
+Não fique me olhando com essa cara brava.
+
+84
+00:06:53,680 --> 00:06:58,100
+A garota Matou e a Rider\npassaram na peixaria outro dia,
+
+85
+00:06:58,250 --> 00:07:02,330
+e elogiaram tanto os pratos do garoto\nque fiquei com aquilo na cabeça.
+
+86
+00:07:03,620 --> 00:07:07,250
+Elas têm toda razão,\no Shirou cozinha maravilhosamente bem.
+
+87
+00:07:08,670 --> 00:07:10,830
+Se você veio por isso, muito bem.
+
+88
+00:07:11,580 --> 00:07:13,790
+Vamos dividir o jantar.
+
+89
+00:07:14,210 --> 00:07:15,620
+O que é isso, afinal?
+
+90
+00:07:15,960 --> 00:07:19,210
+Precisa da autorização do Rei\npara provar a sua comida agora?
+
+91
+00:07:20,330 --> 00:07:21,830
+Não é bem isso...
+
+92
+00:07:29,630 --> 00:07:31,300
+Cheguei!
+
+93
+00:07:32,720 --> 00:07:34,330
+Senhorita Taiga!
+
+94
+00:07:35,620 --> 00:07:39,750
+Mas se não é o Sr. Lancer!\nO que você faz aqui?
+
+95
+00:07:40,000 --> 00:07:42,250
+Vim aproveitar um banquete caseiro!
+
+96
+00:07:44,000 --> 00:07:46,980
+Já está quase pronto,\npodem se sentar!
+
+97
+00:07:59,370 --> 00:08:02,670
+Para finalizar, salpique salsa picada.
+
+98
+00:08:09,920 --> 00:08:14,330
+E assim, no cardápio desta noite,\ntemos salmão assado na folha de alumínio.
+
+99
+00:08:18,040 --> 00:08:19,290
+Aqui está!
+
+100
+00:08:22,420 --> 00:08:24,540
+Ah, que aroma incrível.
+
+101
+00:08:25,330 --> 00:08:26,790
+E sem mais delongas...
+
+102
+00:08:39,120 --> 00:08:42,920
+Sensacional! O tempero está de parabéns!
+
+103
+00:08:44,330 --> 00:08:45,710
+O que é isso aí?
+
+104
+00:08:46,750 --> 00:08:48,830
+É maionese com wasabi.
+
+105
+00:08:49,420 --> 00:08:51,370
+Resolvi preparar uma porção para testar.
+
+106
+00:08:51,710 --> 00:08:54,460
+Experimente, dá um contraste de sabor bem interessante.
+
+107
+00:09:01,920 --> 00:09:05,520
+Isso aqui é bom demais!
+
+108
+00:09:05,520 --> 00:09:08,210
+Shirou, passa para cá também!
+
+109
+00:09:08,290 --> 00:09:09,480
+Já vai, já vai.
+
+110
+00:09:22,170 --> 00:09:25,330
+Ela estava pronta para lutar dez minutos atrás...
+
+111
+00:09:38,790 --> 00:09:40,290
+Pois é, vejam só...
+
+112
+00:09:45,210 --> 00:09:46,540
+Muito obrigado pela refeição!
+
+113
+00:09:51,190 --> 00:09:54,170
+Nossa, enchi a pança!
+
+114
+00:09:54,580 --> 00:09:56,120
+Você manda muito bem, garoto!
+
+115
+00:09:57,000 --> 00:09:58,290
+Eu sou um Servo,
+
+116
+00:09:58,710 --> 00:10:02,120
+então não preciso exatamente de comida para me manter,
+
+117
+00:10:02,960 --> 00:10:04,580
+mas eu não abro mão de boa comida!
+
+118
+00:10:04,920 --> 00:10:06,120
+Aparecerei mais vezes!
+
+119
+00:10:08,290 --> 00:10:09,330
+Tudo bem...
+
+120
+00:10:19,620 --> 00:10:20,580
+Toma!
+
+121
+00:10:27,670 --> 00:10:31,250
+Que foi? É a minha retribuição pela sua hospitalidade!
+
+122
+00:10:31,770 --> 00:10:36,210
+Como assim,\nvocê pretende dormir aqui?!
+
+123
+00:10:36,580 --> 00:10:38,870
+Você se esquenta por pouca coisa, garoto.
+
+124
+00:10:39,000 --> 00:10:40,610
+Mas é claro que me esquento!
+
+125
+00:10:43,290 --> 00:10:45,250
+Agora que guardamos a louça,
+
+126
+00:10:45,830 --> 00:10:49,080
+que tal passarmos para a rodada de saquê pós-jantar?
+
+127
+00:10:49,420 --> 00:10:51,540
+Isso aí, tem um monte de garrafas!
+
+128
+00:10:51,830 --> 00:10:53,290
+Tenho um mau pressentimento sobre isso...
+
+129
+00:10:53,540 --> 00:10:55,290
+Vamos beber até o amanhecer?
+
+130
+00:10:55,370 --> 00:10:57,460
+- Sim!\n- Taiga!
+
+131
+00:10:57,710 --> 00:10:59,170
+Ele vai ficar aqui direto?!
+

@@ -21,7 +21,7 @@ O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses prob
 
 ## Conteúdo do Acervo
 
-O repositório é composto por **108 arquivos de legendas** (54 pares duplos), cobrindo integralmente as seguintes sagas:
+O repositório é composto por **134 arquivos de legendas** (67 pares duplos), cobrindo integralmente as seguintes sagas:
 
 ### 1. The Garden of Sinners (*Kara no Kyoukai* / 空の境界) — Coleção Completa (10 Títulos)
 * **Filme 1:** *Vista Panorâmica (Overlooking View / 俯瞰風景)* [2007]
@@ -86,6 +86,26 @@ O repositório é composto por **108 arquivos de legendas** (54 pares duplos), c
   * **S01E25 — Fate/Zero:** O incêndio devastador de Fuyuki, o renascimento dos sobreviventes e a passagem do juramento do Herói da Justiça a Shirou Emiya.
  
 > **Total em Fate/Zero:** 14 episódios desenvolvidos sob medida em padrão duplo, somando 3.557 blocos milimetricamente alinhados aos masters de Blu-ray.
+
+---
+
+### 5. Today's Menu for the Emiya Family (*Emiya-san Chi no Kyou no Gohan* / 衛宮さんちの今日のごはん) — Temporada Completa (13 Episódios)
+O cotidiano afetuoso e acolhedor de Fuyuki onde os Mestres e Servos convivem pacificamente ao redor da culinária caseira:
+* **S01E01 — Toshikoshi Soba (Soba de Ano-Novo):** 137 eventos. O ritual de passagem de ano entre Shirou, Saber, Taiga e Illya, o preparo do caldo *kaeshi* e o significado tradicional do soba.
+* **S01E02 — Salmon, Mushroom and Butter Baked in Foil:** 131 eventos. Lancer na peixaria, o jantar inesperado na residência Emiya e o salmão com cogumelos assado no papel-alumínio.
+* **S01E03 — Spring Chirashizushi:** 137 eventos. A celebração do *Hinamatsuri* (Dia das Meninas) para Illyasviel com Shirou, Sakura e Rin preparando o colorido chirashizushi de primavera.
+* **S01E04 — Spring Greens and Bacon Sandwich:** 120 eventos. Shirou no Templo Ryuudou com a senhorita Neko do Bar Copenhagen, os sanduíches de vegetais da montanha e a visita a Sasaki Koujirou.
+* **S01E05 — Bamboo Shoot Gratin:** 138 eventos. Os brotos de bambu colhidos por Issei transformados em um gratin caseiro com Sakura e Rider.
+* **S01E06 — First Hamburg Steak:** 133 eventos. As lembranças afetivas da infância de Shirou preparando seu primeiro bife de hambúrguer para Kiritsugu Emiya em um dia chuvoso.
+* **S01E07 — Refreshing and Easy to Eat Chilled Ochazuke:** 156 eventos. A tarde de vôlei aquático no parque Wakuwaku Splash com Archer, Lancer e Saber, encerrada com o refrescante ochazuke gelado de verão.
+* **S01E08 — Tohsaka’s Gomoku Fried Rice:** 156 eventos. Shirou e Sakura na Mansão Tohsaka aprendendo os segredos do autêntico arroz frito chinês (*Gomoku Chahan*) diretamente com Rin.
+* **S01E09 — Taste of Autumn - Caster’s Training in Japanese Dish Cooking:** 131 eventos. Medea (Caster) aprendendo culinária tradicional japonesa com Shirou para surpreender Souichirou Kuzuki com inhame cozido (*satoimo*) e peixe sanma.
+* **S01E10 — Fried Chicken - Yummy Even When It’s Cold:** 151 eventos. A maratona noturna do conselho estudantil no festival escolar de Homurahara revitalizada com o crocante *karaage* de frango em dupla fritura.
+* **S01E11 — Special Fluffy Gooey Omelet Rice:** 161 eventos. Archer assumindo a cozinha de um café ocidental e preparando o lendário Omurice cremoso do Chef para Saber e Rin.
+* **S01E12 — One-Pan Roast Beef:** 152 eventos. O banquete de Natal no Castelo dos Einzbern com Sella, Leysritt, Illya, Sakura, Rin e o rosbife na frigideira de Shirou, com direito ao pinheiro natalino trazido por Berserker.
+* **S01E13 — Hot, Hot Hot Pot:** 137 eventos. O encerramento sob a nevasca de Fuyuki com todos reunidos na residência Emiya saboreando a panela quente (*Nabemono*) e a sopa cremosa de arroz (*Zousui*).
+
+> **Total em Today's Menu:** 13 episódios completos em padrão duplo (.ass estilizado e .srt limpo), somando 1.840 linhas de diálogo e receitas milimetricamente sincronizadas.
 
 ---
 

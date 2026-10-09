@@ -1,0 +1,158 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E05 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.46,0:00:14.17,Default,,0,0,0,,Muito obrigada pela refeição!
+Dialogue: 0,0:00:14.63,0:00:17.04,Default,,0,0,0,,E com a permissão de vocês,
+Dialogue: 0,0:00:17.92,0:00:19.25,Default,,0,0,0,,vou indo na frente!
+Dialogue: 0,0:00:26.96,0:00:29.92,Default,,0,0,0,,A Fuji-nee parece com muita pressa hoje.
+Dialogue: 0,0:00:30.04,0:00:32.79,Default,,0,0,0,,Sim, ela precisa preparar o plano de aula.
+Dialogue: 0,0:00:46.38,0:00:48.00,Default,,0,0,0,,Você é incrível, Shirou.
+Dialogue: 0,0:00:49.21,0:00:49.58,Default,,0,0,0,,Sim?
+Dialogue: 0,0:00:50.79,0:00:54.38,Default,,0,0,0,,Bem, Shirou, vou indo na frente também, tá bom?
+Dialogue: 0,0:00:56.75,0:01:00.54,Default,,0,0,0,,Rider, aconteceu alguma coisa com a Sakura?
+Dialogue: 0,0:01:01.75,0:01:03.00,Default,,0,0,0,,Ah, sim...
+Dialogue: 0,0:01:04.34,0:01:07.88,Default,,0,0,0,,Mas você não precisa se preocupar, Shirou.
+Dialogue: 0,0:01:09.00,0:01:10.83,Default,,0,0,0,,Bom, se você está dizendo...
+Dialogue: 0,0:01:12.13,0:01:14.42,Default,,0,0,0,,Sim, tenho certeza de que vai dar tudo certo.
+Dialogue: 0,0:02:20.04,0:02:20.83,Default,,0,0,0,,Issei!
+Dialogue: 0,0:02:24.09,0:02:26.46,Default,,0,0,0,,Reikan, o que foi?
+Dialogue: 0,0:02:27.38,0:02:29.92,Default,,0,0,0,,Gostaria que você entregasse isso ao Shirou.
+Dialogue: 0,0:02:32.54,0:02:33.54,Default,,0,0,0,,Mas isso é...
+Dialogue: 0,0:02:38.38,0:02:39.13,Default,,0,0,0,,Emiya!
+Dialogue: 0,0:02:41.25,0:02:42.88,Default,,0,0,0,,Oi, Issei.
+Dialogue: 0,0:02:43.25,0:02:46.46,Default,,0,0,0,,Bom dia. Que bom te encontrar,\neu estava te procurando.
+Dialogue: 0,0:02:46.96,0:02:48.29,Default,,0,0,0,,Queria falar comigo?
+Dialogue: 0,0:02:48.63,0:02:50.46,Default,,0,0,0,,Sim, para te entregar isto aqui.
+Dialogue: 0,0:02:54.63,0:02:55.92,Default,,0,0,0,,Ora...
+Dialogue: 0,0:02:56.50,0:02:58.38,Default,,0,0,0,,Parecem brotos de bambu frescos.
+Dialogue: 0,0:02:59.09,0:03:00.67,Default,,0,0,0,,Naturalmente, já que são exatamente isso.
+Dialogue: 0,0:03:01.63,0:03:03.92,Default,,0,0,0,,Meu irmão os recebeu de presente,
+Dialogue: 0,0:03:04.17,0:03:08.71,Default,,0,0,0,,e faz questão de agradecer pelos sanduíches do outro dia.
+Dialogue: 0,0:03:11.67,0:03:13.46,Default,,0,0,0,,Não precisava se incomodar com isso!
+Dialogue: 0,0:03:14.13,0:03:16.67,Default,,0,0,0,,Mas de qualquer forma, muito obrigado,\ntodo mundo lá em casa vai adorar.
+Dialogue: 0,0:03:17.63,0:03:21.13,Default,,0,0,0,,Será preciso tirar o amargor primeiro,\nmas tenho certeza de que você dará conta.
+Dialogue: 0,0:03:22.34,0:03:24.63,Default,,0,0,0,,Vou indo agora, até mais tarde.
+Dialogue: 0,0:03:26.67,0:03:29.92,Default,,0,0,0,,{\i1}Vou preparar alguns bentôs com eles\ne levar para eles depois.{\i}
+Dialogue: 0,0:03:32.46,0:03:36.29,Default,,0,0,0,,{\i1}Como será que posso cozinhar\nessa quantidade de brotos de bambu?{\i}
+Dialogue: 0,0:03:37.21,0:03:39.29,Default,,0,0,0,,{\i1}Com arroz temperado?{\i}
+Dialogue: 0,0:03:39.71,0:03:42.42,Default,,0,0,0,,{\i1}Cozidos? Fritos?{\i}
+Dialogue: 0,0:03:43.00,0:03:44.08,Default,,0,0,0,,Emiya?
+Dialogue: 0,0:03:45.04,0:03:46.79,Default,,0,0,0,,O que você está fazendo com isso aí?
+Dialogue: 0,0:03:47.46,0:03:50.50,Default,,0,0,0,,Ah, o Issei me deu de presente.
+Dialogue: 0,0:03:51.79,0:03:54.67,Default,,0,0,0,,O quê?\nO presidente do conselho andou desenterrando brotos de bambu?
+Dialogue: 0,0:04:15.59,0:04:16.63,Default,,0,0,0,,Matou.
+Dialogue: 0,0:04:18.92,0:04:20.38,Default,,0,0,0,,Mitsuzuri-senpai.
+Dialogue: 0,0:04:21.63,0:04:23.46,Default,,0,0,0,,Fazendo compras com a Rider?
+Dialogue: 0,0:04:28.00,0:04:30.58,Default,,0,0,0,,Comprando em grandes quantidades?
+Dialogue: 0,0:04:30.92,0:04:34.25,Default,,0,0,0,,Ah, não, é para o jantar de hoje.
+Dialogue: 0,0:04:34.92,0:04:37.54,Default,,0,0,0,,Preparar uma porção generosa\ndeixa a comida mais saborosa.
+Dialogue: 0,0:04:38.09,0:04:41.04,Default,,0,0,0,,E misturar ingredientes traz sabores inesperados.
+Dialogue: 0,0:04:43.79,0:04:46.72,Default,,0,0,0,,E o que você vai cozinhar esta noite?
+Dialogue: 0,0:04:47.34,0:04:51.21,Default,,0,0,0,,Para o cardápio?\nEstava pensando em fazer um gratin.
+Dialogue: 0,0:04:52.25,0:04:53.88,Default,,0,0,0,,Um gratin?
+Dialogue: 0,0:04:54.84,0:04:56.04,Default,,0,0,0,,É uma ótima ideia!
+Dialogue: 0,0:04:56.63,0:04:58.96,Default,,0,0,0,,É simples, mas é um clássico lá em casa,
+Dialogue: 0,0:04:59.54,0:05:01.29,Default,,0,0,0,,e muito fácil de fazer em grande quantidade.
+Dialogue: 0,0:05:02.38,0:05:05.25,Default,,0,0,0,,Bem, vou indo nessa, Matou.
+Dialogue: 0,0:05:05.54,0:05:07.04,Default,,0,0,0,,Tem gente me esperando.
+Dialogue: 0,0:05:07.67,0:05:11.08,Default,,0,0,0,,Tudo bem.\nNos vemos na escola amanhã, então.
+Dialogue: 0,0:05:11.50,0:05:13.33,Default,,0,0,0,,Até a próxima!
+Dialogue: 0,0:05:17.54,0:05:20.25,Default,,0,0,0,,Mana, terminou as compras?
+Dialogue: 0,0:05:21.13,0:05:22.33,Default,,0,0,0,,Que tédio, vamos logo para casa?
+Dialogue: 0,0:05:23.17,0:05:23.75,Default,,0,0,0,,Sim, claro.
+Dialogue: 0,0:05:25.84,0:05:27.79,Default,,0,0,0,,Que tal fazermos um gratin?
+Dialogue: 0,0:05:28.67,0:05:29.33,Default,,0,0,0,,Beleza.
+Dialogue: 0,0:05:33.59,0:05:34.50,Default,,0,0,0,,Shirou,
+Dialogue: 0,0:05:35.34,0:05:36.63,Default,,0,0,0,,para a refeição de hoje,
+Dialogue: 0,0:05:37.38,0:05:39.63,Default,,0,0,0,,o que você acha de fazermos um gratin?
+Dialogue: 0,0:05:40.79,0:05:43.38,Default,,0,0,0,,Uma versão prática usando caldo em pó para ensopado.
+Dialogue: 0,0:05:44.84,0:05:47.25,Default,,0,0,0,,Um gratin? Excelente ideia!
+Dialogue: 0,0:05:47.54,0:05:48.96,Default,,0,0,0,,Eu vou te ajudar.
+Dialogue: 0,0:05:49.54,0:05:51.25,Default,,0,0,0,,Vamos tirar o refratário do armário.
+Dialogue: 0,0:05:51.63,0:05:53.04,Default,,0,0,0,,Muito obrigada!
+Dialogue: 0,0:05:57.42,0:05:59.38,Default,,0,0,0,,Diga, Shirou...
+Dialogue: 0,0:05:59.84,0:06:01.42,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:06:02.50,0:06:06.04,Default,,0,0,0,,Um gratin tradicional não fica um pouco sem graça?
+Dialogue: 0,0:06:08.09,0:06:10.25,Default,,0,0,0,,Pensando bem, talvez...
+Dialogue: 0,0:06:15.21,0:06:18.08,Default,,0,0,0,,Sakura, e se a gente acrescentasse isto?
+Dialogue: 0,0:06:20.79,0:06:23.46,Default,,0,0,0,,Brotos de bambu?
+Dialogue: 0,0:06:24.59,0:06:27.83,Default,,0,0,0,,O Issei me deu esta manhã,\ne já deixei de molho para tirar o amargor.
+Dialogue: 0,0:06:28.50,0:06:31.38,Default,,0,0,0,,Ainda bem que não tivemos aula esta tarde.
+Dialogue: 0,0:06:32.29,0:06:35.17,Default,,0,0,0,,Se não fizermos isso rápido,\neles acabam ficando amargos.
+Dialogue: 0,0:06:36.42,0:06:37.88,Default,,0,0,0,,Poderíamos apenas cozinhá-los simples,
+Dialogue: 0,0:06:38.21,0:06:41.04,Default,,0,0,0,,mas ao natural são frescos e crocantes,
+Dialogue: 0,0:06:41.71,0:06:43.04,Default,,0,0,0,,embora dê um pouco de trabalho para preparar.
+Dialogue: 0,0:06:44.38,0:06:46.58,Default,,0,0,0,,Um gratin com brotos de bambu?
+Dialogue: 0,0:06:47.13,0:06:48.92,Default,,0,0,0,,Eu nunca tentei fazer assim antes.
+Dialogue: 0,0:06:49.71,0:06:51.33,Default,,0,0,0,,Eu também não.
+Dialogue: 0,0:06:52.04,0:06:54.46,Default,,0,0,0,,Mas tenho certeza de que vai ficar uma delícia.
+Dialogue: 0,0:06:58.04,0:06:59.42,Default,,0,0,0,,Muito bem, vamos começar?
+Dialogue: 0,0:07:00.38,0:07:01.13,Default,,0,0,0,,Sim!
+Dialogue: 0,0:07:02.67,0:07:06.13,Default,,0,0,0,,{\i1}Corte os brotos de bambu em fatias finas,\ndo mesmo tamanho do macarrão caracol.{\i}
+Dialogue: 0,0:07:06.79,0:07:08.17,Default,,0,0,0,,{\i1}Faça o mesmo com as cebolas.{\i}
+Dialogue: 0,0:07:08.75,0:07:10.79,Default,,0,0,0,,{\i1}Pique o peito de frango em pedaços pequenos.{\i}
+Dialogue: 0,0:07:11.84,0:07:16.46,Default,,0,0,0,,{\i1}Descasque levemente a base fibrosa dos aspargos,{\i}
+Dialogue: 0,0:07:16.88,0:07:19.54,Default,,0,0,0,,{\i1}ferva-os em água com sal,{\i}
+Dialogue: 0,0:07:20.21,0:07:21.71,Default,,0,0,0,,{\i1}resfrie imediatamente em água gelada,{\i}
+Dialogue: 0,0:07:22.00,0:07:23.75,Default,,0,0,0,,{\i1}e corte em pequenos pedaços.{\i}
+Dialogue: 0,0:07:25.54,0:07:28.17,Default,,0,0,0,,{\i1}Cozinhe o macarrão em água abundante.{\i}
+Dialogue: 0,0:07:29.67,0:07:31.75,Default,,0,0,0,,{\i1}Coloque um fio de azeite na frigideira,{\i}
+Dialogue: 0,0:07:32.21,0:07:33.75,Default,,0,0,0,,{\i1}e refogue na ordem:{\i}
+Dialogue: 0,0:07:33.84,0:07:36.50,Default,,0,0,0,,{\i1}o frango, as cebolas e os brotos de bambu.{\i}
+Dialogue: 0,0:07:38.34,0:07:40.71,Default,,0,0,0,,{\i1}Depois adicione o macarrão cozido, a água,{\i}
+Dialogue: 0,0:07:41.25,0:07:42.71,Default,,0,0,0,,{\i1}e por último o leite.{\i}
+Dialogue: 0,0:07:43.92,0:07:46.71,Default,,0,0,0,,{\i1}Assim que levantar fervura, adicione o pó para ensopado branco,{\i}
+Dialogue: 0,0:07:46.96,0:07:48.88,Default,,0,0,0,,{\i1}e ajuste até atingir a consistência cremosa ideal.{\i}
+Dialogue: 0,0:07:51.21,0:07:53.67,Default,,0,0,0,,{\i1}Transfira tudo para uma travessa refratária,{\i}
+Dialogue: 0,0:07:54.09,0:07:56.71,Default,,0,0,0,,{\i1}distribua os aspargos e cubra com queijo ralado.{\i}
+Dialogue: 0,0:07:58.34,0:08:01.08,Default,,0,0,0,,{\i1}Para finalizar, salpique farinha de rosca por cima{\i}
+Dialogue: 0,0:08:01.92,0:08:03.21,Default,,0,0,0,,{\i1}e leve ao forno para gratinar.{\i}
+Dialogue: 0,0:08:08.63,0:08:11.71,Default,,0,0,0,,Bem, enquanto gratina,\nque tal eu preparar uma salada?
+Dialogue: 0,0:08:12.38,0:08:15.58,Default,,0,0,0,,E eu vou cuidar de fazer a sopa!
+Dialogue: 0,0:08:23.88,0:08:26.33,Default,,0,0,0,,Que aroma maravilhoso de queijo derretido!
+Dialogue: 0,0:08:35.92,0:08:37.83,Default,,0,0,0,,Parece que dourou com perfeição!
+Dialogue: 0,0:08:39.67,0:08:41.50,Default,,0,0,0,,Prontinho, está na mesa!
+Dialogue: 0,0:08:43.29,0:08:45.29,Default,,0,0,0,,Mas isto é um gratin!
+Dialogue: 0,0:08:46.34,0:08:48.79,Default,,0,0,0,,Um prato ocidental, a especialidade da Sakura.
+Dialogue: 0,0:08:49.63,0:08:51.92,Default,,0,0,0,,Parece divino!
+Dialogue: 0,0:08:52.59,0:08:57.00,Default,,0,0,0,,O Shirou sugeriu darmos um toque diferente nos ingredientes.
+Dialogue: 0,0:09:00.25,0:09:01.13,Default,,0,0,0,,Sendo assim...
+Dialogue: 0,0:09:02.63,0:09:04.29,Default,,0,0,0,,Bom apetite!
+Dialogue: 0,0:09:25.09,0:09:26.79,Default,,0,0,0,,A textura crocante está impecável.
+Dialogue: 0,0:09:27.09,0:09:30.33,Default,,0,0,0,,Sim, os brotos de bambu combinaram incrivelmente bem.
+Dialogue: 0,0:09:32.09,0:09:35.00,Default,,0,0,0,,Não foram esses que você trouxe hoje à tarde?
+Dialogue: 0,0:09:35.67,0:09:36.83,Default,,0,0,0,,Pareciam muito com esses.
+Dialogue: 0,0:09:37.92,0:09:39.00,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:09:39.63,0:09:42.25,Default,,0,0,0,,Os vegetais frescos da estação são muito saborosos.
+Dialogue: 0,0:09:42.96,0:09:47.67,Default,,0,0,0,,Colocar brotos de bambu num gratin...\nVocê sempre tem ideias geniais, Shirou!
+Dialogue: 0,0:09:51.34,0:09:53.42,Default,,0,0,0,,Diga, Shirou?
+Dialogue: 0,0:09:54.79,0:09:58.00,Default,,0,0,0,,Você poderia me dar um pouco desses brotos?
+Dialogue: 0,0:09:58.84,0:10:01.92,Default,,0,0,0,,Claro que sim, sobraram bastante.
+Dialogue: 0,0:10:02.96,0:10:04.33,Default,,0,0,0,,Muito obrigada!
+Dialogue: 0,0:10:13.79,0:10:15.29,Default,,0,0,0,,Gratin?
+Dialogue: 0,0:10:16.59,0:10:18.58,Default,,0,0,0,,Eu não sou muito chegado nisso, mas...
+Dialogue: 0,0:10:28.50,0:10:30.58,Default,,0,0,0,,Espera aí, isso aqui é broto de bambu?
+Dialogue: 0,0:10:41.13,0:10:42.29,Default,,0,0,0,,Que maravilha!
+Dialogue: 0,0:10:43.09,0:10:44.63,Default,,0,0,0,,O Shinji raspou o prato até o fim!
+Dialogue: 0,0:10:45.29,0:10:49.17,Default,,0,0,0,,O Shirou cozinha tão bem,\neu quero aprender muito mais com ele.
+Dialogue: 0,0:10:49.75,0:10:52.83,Default,,0,0,0,,A sua comida também é excelente, Sakura.
+Dialogue: 0,0:10:53.50,0:10:56.42,Default,,0,0,0,,Da próxima vez,\nele vai terminar o prato todo de novo!
+Dialogue: 0,0:10:57.17,0:10:58.04,Default,,0,0,0,,Com certeza.
+Dialogue: 0,0:10:58.88,0:10:59.67,Default,,0,0,0,,Sim!

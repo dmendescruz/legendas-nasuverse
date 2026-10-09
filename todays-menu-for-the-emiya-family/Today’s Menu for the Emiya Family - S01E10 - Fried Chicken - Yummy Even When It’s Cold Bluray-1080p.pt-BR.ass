@@ -1,0 +1,171 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E10 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.03,0:00:20.78,Default,,0,0,0,,Shirou!
+Dialogue: 0,0:00:21.78,0:00:22.74,Default,,0,0,0,,Boa noite.
+Dialogue: 0,0:00:24.32,0:00:25.16,Default,,0,0,0,,Oi!
+Dialogue: 0,0:00:28.04,0:00:29.50,Default,,0,0,0,,Desculpe pelo atraso.
+Dialogue: 0,0:00:29.91,0:00:32.62,Default,,0,0,0,,Fiquei retido até mais tarde na escola.
+Dialogue: 0,0:00:33.50,0:00:35.67,Default,,0,0,0,,Não se preocupe, não foi nada.
+Dialogue: 0,0:00:36.75,0:00:39.51,Default,,0,0,0,,Você estava ajudando nos preparativos do festival escolar?
+Dialogue: 0,0:00:40.27,0:00:44.01,Default,,0,0,0,,{\i1}FESTIVAL CULTURAL: FALTAM 6 DIAS{\i0}
+Dialogue: 0,0:00:40.55,0:00:41.34,Default,,0,0,0,,Sim.
+Dialogue: 0,0:00:41.72,0:00:43.80,Default,,0,0,0,,Falta apenas uma semana agora.
+Dialogue: 0,0:00:44.01,0:00:47.11,Default,,0,0,0,,{\i1}SALA DO CONSELHO ESTUDANTIL\nCOMITÊ ORGANIZADOR DO FESTIVAL{\i0}
+Dialogue: 0,0:00:44.22,0:00:46.31,Default,,0,0,0,,Os preparativos estão quase concluídos.
+Dialogue: 0,0:00:47.35,0:00:48.77,Default,,0,0,0,,Muito bem...
+Dialogue: 0,0:00:49.48,0:00:51.89,Default,,0,0,0,,Leve estes relatórios para o professor Kuzuki.
+Dialogue: 0,0:00:51.98,0:00:52.64,Default,,0,0,0,,Pois não!
+Dialogue: 0,0:01:00.78,0:01:03.82,Default,,0,0,0,,Atenção a todos, hoje é um dia crucial!
+Dialogue: 0,0:01:04.66,0:01:06.99,Default,,0,0,0,,Vamos dar um último gás para finalizar tudo.
+Dialogue: 0,0:02:07.97,0:02:11.48,Default,,0,0,0,,{\i1}FESTIVAL CULTURAL: FALTAM 3 DIAS{\i0}
+Dialogue: 0,0:02:24.45,0:02:25.32,Default,,0,0,0,,Issei.
+Dialogue: 0,0:02:25.61,0:02:27.82,Default,,0,0,0,,Terminei de consertar os equipamentos.
+Dialogue: 0,0:02:28.49,0:02:29.91,Default,,0,0,0,,Fico sem jeito, Emiya.
+Dialogue: 0,0:02:30.33,0:02:32.95,Default,,0,0,0,,Acabo sempre te encarregando de todos os consertos pesados...
+Dialogue: 0,0:02:33.70,0:02:35.62,Default,,0,0,0,,Não esquenta com isso, de verdade.
+Dialogue: 0,0:02:36.96,0:02:39.08,Default,,0,0,0,,Vocês é que estão ralando um bocado por aqui.
+Dialogue: 0,0:02:40.25,0:02:41.84,Default,,0,0,0,,O trabalho burocrático, você sabe como é...
+Dialogue: 0,0:02:42.84,0:02:44.80,Default,,0,0,0,,Aprovar projetos das turmas,
+Dialogue: 0,0:02:44.92,0:02:46.76,Default,,0,0,0,,vistoriar os estandes e assim por diante.
+Dialogue: 0,0:02:48.34,0:02:50.26,Default,,0,0,0,,Trabalho é o que não falta.
+Dialogue: 0,0:02:50.89,0:02:53.10,Default,,0,0,0,,Eu não sou membro oficial do conselho,
+Dialogue: 0,0:02:53.43,0:02:55.81,Default,,0,0,0,,mas se precisar de ajuda, é só avisar.
+Dialogue: 0,0:02:56.73,0:02:57.31,Default,,0,0,0,,Estou à disposição.
+Dialogue: 0,0:02:57.60,0:03:00.11,Default,,0,0,0,,Em breve vou te pedir uma mãozinha sim.
+Dialogue: 0,0:03:16.91,0:03:17.79,Default,,0,0,0,,Com licença!
+Dialogue: 0,0:03:18.96,0:03:20.08,Default,,0,0,0,,Licença...
+Dialogue: 0,0:03:21.00,0:03:22.00,Default,,0,0,0,,Com licença!
+Dialogue: 0,0:03:22.38,0:03:26.38,Default,,0,0,0,,Como assim o estande do clube de atletismo foi vetado?!
+Dialogue: 0,0:03:26.67,0:03:28.68,Default,,0,0,0,,Explique-se agora mesmo!
+Dialogue: 0,0:03:28.80,0:03:30.89,Default,,0,0,0,,Nós exigimos explicações cabíveis,
+Dialogue: 0,0:03:30.89,0:03:32.76,Default,,0,0,0,,senhor presidente do conselho estudantil!
+Dialogue: 0,0:03:34.64,0:03:36.48,Default,,0,0,0,,O que você quer que eu explique?
+Dialogue: 0,0:03:38.10,0:03:41.02,Default,,0,0,0,,Qual é o sentido desse "Quiosque de Frutos do Mar da Praia"?
+Dialogue: 0,0:03:41.61,0:03:44.86,Default,,0,0,0,,No cardápio: caramujos grelhados, ostras frescas e lagostas?!
+Dialogue: 0,0:03:45.40,0:03:47.82,Default,,0,0,0,,Eu jamais aprovarei uma insanidade dessas!
+Dialogue: 0,0:03:47.95,0:03:51.71,Default,,0,0,0,,{\i1}REPROVADO{\i0}
+Dialogue: 0,0:03:48.08,0:03:48.99,Default,,0,0,0,,Seu cabeça-dura!
+Dialogue: 0,0:03:52.99,0:03:54.49,Default,,0,0,0,,Ah, qual é, presidente!
+Dialogue: 0,0:03:54.62,0:03:58.12,Default,,0,0,0,,Hoje em dia a gente precisa disso para atrair o público!
+Dialogue: 0,0:03:58.62,0:03:59.96,Default,,0,0,0,,Refaçam a proposta do zero!
+Dialogue: 0,0:04:02.00,0:04:04.67,Default,,0,0,0,,Eu bem que te avisei, Maki.
+Dialogue: 0,0:04:05.25,0:04:08.80,Default,,0,0,0,,Deveríamos ter ficado no clássico espetinho de lula.
+Dialogue: 0,0:04:09.17,0:04:11.80,Default,,0,0,0,,Kane, acho que o problema não é esse...
+Dialogue: 0,0:04:12.14,0:04:14.39,Default,,0,0,0,,Vamos sair e pensar juntas em outra ideia.
+Dialogue: 0,0:04:16.06,0:04:17.22,Default,,0,0,0,,Já era...
+Dialogue: 0,0:04:17.39,0:04:19.60,Default,,0,0,0,,Passo o bastão para você, Yukika...
+Dialogue: 0,0:04:19.69,0:04:21.24,Default,,0,0,0,,Maki...
+Dialogue: 0,0:04:26.90,0:04:28.57,Default,,0,0,0,,O que significa tudo isso aqui?
+Dialogue: 0,0:04:29.24,0:04:30.20,Default,,0,0,0,,Como assim?
+Dialogue: 0,0:04:30.36,0:04:32.87,Default,,0,0,0,,É a decoração do clube de tiro com arco.
+Dialogue: 0,0:04:35.12,0:04:38.33,Default,,0,0,0,,Você não pediu autorização prévia ao conselho estudantil!
+Dialogue: 0,0:04:38.62,0:04:39.46,Default,,0,0,0,,Vetado!
+Dialogue: 0,0:04:40.37,0:04:41.62,Default,,0,0,0,,Está brincando com a minha cara?
+Dialogue: 0,0:04:41.79,0:04:44.25,Default,,0,0,0,,Precisa de autorização do conselho até para isso?
+Dialogue: 0,0:04:44.75,0:04:45.92,Default,,0,0,0,,É sério mesmo?
+Dialogue: 0,0:04:46.80,0:04:48.71,Default,,0,0,0,,Eu carreguei essa tralha toda até aqui nos braços!
+Dialogue: 0,0:04:49.01,0:04:50.76,Default,,0,0,0,,Isso vai atrapalhar demais a minha vida.
+Dialogue: 0,0:04:51.76,0:04:52.59,Default,,0,0,0,,Olha só, e aí?
+Dialogue: 0,0:04:53.09,0:04:54.14,Default,,0,0,0,,Você estava aí, garoto?
+Dialogue: 0,0:04:54.85,0:04:57.89,Default,,0,0,0,,Agora você está trabalhando em floricultura?
+Dialogue: 0,0:04:58.02,0:05:01.23,Default,,0,0,0,,Não, me pediram uma ajuda e acabei pegando mais esse bico.
+Dialogue: 0,0:05:02.27,0:05:04.10,Default,,0,0,0,,Vocês dois se conhecem, Emiya?
+Dialogue: 0,0:05:04.35,0:05:06.48,Default,,0,0,0,,Sim, digamos que sim.
+Dialogue: 0,0:05:08.40,0:05:10.87,Default,,0,0,0,,E então, como é que vai ser?
+Dialogue: 0,0:05:11.03,0:05:12.07,Default,,0,0,0,,Retirem essas flores daqui!
+Dialogue: 0,0:05:12.24,0:05:13.95,Default,,0,0,0,,Seja um pouco mais maleável, Issei!
+Dialogue: 0,0:05:14.07,0:05:15.99,Default,,0,0,0,,A ordem precisa ser mantida!
+Dialogue: 0,0:05:16.33,0:05:17.08,Default,,0,0,0,,Seu insensível!
+Dialogue: 0,0:05:17.37,0:05:18.45,Default,,0,0,0,,Muito bem!
+Dialogue: 0,0:05:20.29,0:05:21.29,Default,,0,0,0,,Senhorita.
+Dialogue: 0,0:05:24.46,0:05:27.71,Default,,0,0,0,,Você vai estragar a sua beleza se ficar zangada desse jeito.
+Dialogue: 0,0:05:34.76,0:05:37.60,Default,,0,0,0,,Ei, me ouça até o fim!
+Dialogue: 0,0:05:44.60,0:05:45.94,Default,,0,0,0,,Bem, vou indo nessa.
+Dialogue: 0,0:05:46.40,0:05:46.94,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:05:47.52,0:05:49.23,Default,,0,0,0,,Você vai voltar muito tarde?
+Dialogue: 0,0:05:50.11,0:05:52.40,Default,,0,0,0,,Sim, com certeza.
+Dialogue: 0,0:05:52.82,0:05:55.57,Default,,0,0,0,,Quer que eu prepare algo para você jantar?
+Dialogue: 0,0:05:56.32,0:05:58.41,Default,,0,0,0,,Não, não precisa se preocupar comigo.
+Dialogue: 0,0:06:16.39,0:06:18.55,Default,,0,0,0,,Vocês do conselho ficam até tão tarde todos os dias...
+Dialogue: 0,0:06:19.01,0:06:20.76,Default,,0,0,0,,Será que vão aguentar o ritmo?
+Dialogue: 0,0:06:21.56,0:06:23.56,Default,,0,0,0,,Issei, o seu olhar está completamente vago.
+Dialogue: 0,0:06:25.98,0:06:28.69,Default,,0,0,0,,Para que tudo corra perfeitamente no festival,
+Dialogue: 0,0:06:28.98,0:06:31.98,Default,,0,0,0,,temos que deixar tudo pronto do nosso lado.
+Dialogue: 0,0:06:32.69,0:06:35.45,Default,,0,0,0,,Mas depois de hoje teremos vencido a maior parte.
+Dialogue: 0,0:06:35.82,0:06:37.57,Default,,0,0,0,,Mais uma vez, obrigado pela sua ajuda.
+Dialogue: 0,0:06:38.16,0:06:39.91,Default,,0,0,0,,Amanhã contarei com você de novo.
+Dialogue: 0,0:06:40.41,0:06:42.70,Default,,0,0,0,,Pode deixar.\nBem, vou indo para casa.
+Dialogue: 0,0:06:46.54,0:06:49.29,Default,,0,0,0,,Não aguento mais comer pãozinho doce toda noite...
+Dialogue: 0,0:06:50.17,0:06:52.92,Default,,0,0,0,,Carne... Eu quero comer carne de verdade...
+Dialogue: 0,0:06:53.63,0:06:54.92,Default,,0,0,0,,Carne...
+Dialogue: 0,0:06:55.42,0:06:56.43,Default,,0,0,0,,Pois é...
+Dialogue: 0,0:06:57.18,0:06:58.80,Default,,0,0,0,,Isso sim nos daria uma energia renovada.
+Dialogue: 0,0:07:03.52,0:07:06.85,Default,,0,0,0,,Se vocês forem ficar aqui mais um pouco,
+Dialogue: 0,0:07:07.10,0:07:09.86,Default,,0,0,0,,eu posso preparar alguma coisa rápida para vocês.
+Dialogue: 0,0:07:11.15,0:07:12.78,Default,,0,0,0,,O Emiya faria comida para a gente...
+Dialogue: 0,0:07:13.44,0:07:16.74,Default,,0,0,0,,Não, imagina, não posso te pedir tanto a essa hora.
+Dialogue: 0,0:07:16.86,0:07:18.87,Default,,0,0,0,,O quê?! O Emiya vai cozinhar para nós?!
+Dialogue: 0,0:07:19.62,0:07:20.78,Default,,0,0,0,,O Emiya?
+Dialogue: 0,0:07:23.16,0:07:25.20,Default,,0,0,0,,Ele vai fazer comida mesmo?!
+Dialogue: 0,0:07:31.38,0:07:33.38,Default,,0,0,0,,Bem, vou me apressar para voltar logo.
+Dialogue: 0,0:07:33.92,0:07:35.01,Default,,0,0,0,,Estaremos te esperando ansiosamente!
+Dialogue: 0,0:07:46.35,0:07:49.52,Default,,0,0,0,,{\i1}Corte o frango em pedaços grandes para morder.{\i}
+Dialogue: 0,0:07:54.48,0:07:56.90,Default,,0,0,0,,{\i1}Rale o alho e o gengibre fresco.{\i}
+Dialogue: 0,0:07:57.78,0:08:02.53,Default,,0,0,0,,{\i1}Acrescente shoyu para o sabor básico, sal, pimenta e um toque de saquê.{\i}
+Dialogue: 0,0:08:05.37,0:08:08.96,Default,,0,0,0,,{\i1}Mergulhe os pedaços de frango, massageie bem e deixe marinar por cinco minutos.{\i}
+Dialogue: 0,0:08:12.04,0:08:13.42,Default,,0,0,0,,{\i1}Retire o frango marinado,{\i}
+Dialogue: 0,0:08:13.67,0:08:16.59,Default,,0,0,0,,{\i1}limpe o excesso de tempero e passe no ovo batido.{\i}
+Dialogue: 0,0:08:16.67,0:08:18.34,Default,,0,0,0,,{\i1}Misture bem para envolver a carne.{\i}
+Dialogue: 0,0:08:22.47,0:08:25.14,Default,,0,0,0,,{\i1}Misture farinha de trigo e amido de milho (katakuriko) em partes iguais,{\i}
+Dialogue: 0,0:08:25.89,0:08:28.60,Default,,0,0,0,,{\i1}e empane o frango umedecido no ovo nessa mistura.{\i}
+Dialogue: 0,0:08:32.19,0:08:34.57,Default,,0,0,0,,{\i1}Aqueça o óleo entre 160 e 180 graus,{\i}
+Dialogue: 0,0:08:34.73,0:08:36.40,Default,,0,0,0,,{\i1}e frite os pedaços por cerca de um minuto.{\i}
+Dialogue: 0,0:08:39.11,0:08:42.57,Default,,0,0,0,,{\i1}Retire e deixe descansar sobre a grade por um minuto aproveitando o calor residual.{\i}
+Dialogue: 0,0:08:43.24,0:08:44.74,Default,,0,0,0,,{\i1}Este método é perfeito{\i}
+Dialogue: 0,0:08:44.91,0:08:48.45,Default,,0,0,0,,{\i1}para não ressecar a carne e manter todo o suco suculento por dentro.{\i}
+Dialogue: 0,0:08:50.50,0:08:53.34,Default,,0,0,0,,{\i1}Dê batidinhas leves na crosta e volte à fritura.{\i}
+Dialogue: 0,0:08:55.79,0:08:59.51,Default,,0,0,0,,{\i1}Repita o processo duas a três vezes até o interior cozinhar por completo.{\i}
+Dialogue: 0,0:09:01.38,0:09:02.26,Default,,0,0,0,,{\i1}Para finalizar com crocância máxima,{\i}
+Dialogue: 0,0:09:02.84,0:09:06.27,Default,,0,0,0,,{\i1}frite a 200 graus por trinta a quarenta segundos.{\i}
+Dialogue: 0,0:09:08.56,0:09:09.39,Default,,0,0,0,,{\i1}E o karaage está pronto!{\i}
+Dialogue: 0,0:09:24.16,0:09:25.62,Default,,0,0,0,,Frango frito?!
+Dialogue: 0,0:09:25.74,0:09:27.24,Default,,0,0,0,,Muito obrigado, Emiya!
+Dialogue: 0,0:09:27.83,0:09:29.29,Default,,0,0,0,,Bom apetite!
+Dialogue: 0,0:09:39.92,0:09:40.92,Default,,0,0,0,,Que delícia...
+Dialogue: 0,0:09:42.22,0:09:44.84,Default,,0,0,0,,Daria para comer isso sem parar a noite inteira...
+Dialogue: 0,0:09:45.51,0:09:46.51,Default,,0,0,0,,O tempero suculento explode na boca...
+Dialogue: 0,0:09:47.26,0:09:48.81,Default,,0,0,0,,Vocês estavam com vontade de comer carne.
+Dialogue: 0,0:09:49.31,0:09:51.35,Default,,0,0,0,,Frango frito é fácil e prático de comer,
+Dialogue: 0,0:09:51.52,0:09:53.23,Default,,0,0,0,,e continua incrivelmente saboroso mesmo depois de esfriar.
+Dialogue: 0,0:09:53.89,0:09:56.77,Default,,0,0,0,,Você é atencioso demais como sempre, Emiya.
+Dialogue: 0,0:09:57.36,0:09:58.82,Default,,0,0,0,,Mesmo já estando tarde da noite,
+Dialogue: 0,0:09:58.90,0:10:00.82,Default,,0,0,0,,agora vamos dar o gás final para concluir tudo!
+Dialogue: 0,0:10:01.15,0:10:01.86,Default,,0,0,0,,Sim!
+Dialogue: 0,0:10:03.15,0:10:06.74,Default,,0,0,0,,A esta hora da noite, já está tudo tão escuro lá fora...
+Dialogue: 0,0:10:07.53,0:10:09.08,Default,,0,0,0,,É melhor eu ir para casa.
+Dialogue: 0,0:10:29.05,0:10:31.56,Default,,0,0,0,,Desculpe a demora, acabei ficando até muito tarde...
+Dialogue: 0,0:10:33.43,0:10:34.85,Default,,0,0,0,,Você está com fome, não está?
+Dialogue: 0,0:10:35.77,0:10:36.98,Default,,0,0,0,,Vou preparar algo para você agora mesmo.
+Dialogue: 0,0:10:37.44,0:10:38.19,Default,,0,0,0,,Ah, não...
+Dialogue: 0,0:10:38.81,0:10:40.07,Default,,0,0,0,,Não estou com tanta fome...
+Dialogue: 0,0:10:42.78,0:10:44.36,Default,,0,0,0,,assim...
+Dialogue: 0,0:10:45.07,0:10:45.90,Default,,0,0,0,,Eu faço bem rapidinho.
+Dialogue: 0,0:10:56.21,0:10:57.88,Default,,0,0,0,,Está delicioso, Shirou!

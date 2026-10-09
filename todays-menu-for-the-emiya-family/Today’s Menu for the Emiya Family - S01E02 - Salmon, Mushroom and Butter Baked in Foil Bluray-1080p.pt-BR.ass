@@ -1,0 +1,151 @@
+[Script Info]
+; Script generated for Today's Menu for the Emiya Family (2017)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Today's Menu for the Emiya Family - S01E02 (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.21,0:00:07.67,Default,,0,0,0,,Carne de porco empanada, croquetes...
+Dialogue: 0,0:00:07.90,0:00:09.67,Default,,0,0,0,,Carne de porco com gengibre...
+Dialogue: 0,0:00:10.21,0:00:12.66,Default,,0,0,0,,{\i1}Nikujaga{\i}, {\i1}sukiyaki{\i}...
+Dialogue: 0,0:00:12.66,0:00:14.29,Default,,0,0,0,,Tofu frito...
+Dialogue: 0,0:00:14.83,0:00:17.25,Default,,0,0,0,,Cavala, {\i1}sanma{\i}...
+Dialogue: 0,0:00:18.28,0:00:19.50,Default,,0,0,0,,{\i1}Kinmedai{\i}!
+Dialogue: 0,0:00:21.21,0:00:23.46,Default,,0,0,0,,{\i1}Kinmedai\N400 ienes a posta{\i}
+Dialogue: 0,0:00:24.62,0:00:27.04,Default,,0,0,0,,Está um pouco fora do meu orçamento...
+Dialogue: 0,0:00:28.96,0:00:31.21,Default,,0,0,0,,Carne de porco empanada, croquetes...
+Dialogue: 0,0:00:33.33,0:00:36.46,Default,,0,0,0,,{\i1}Kinme{\i}, linguado, pargo fresco!
+Dialogue: 0,0:00:40.71,0:00:42.67,Default,,0,0,0,,Uma pechincha imperdível!
+Dialogue: 0,0:01:49.17,0:01:51.62,Default,,0,0,0,,Ora, veja só quem está aí... É você, garoto.
+Dialogue: 0,0:01:52.29,0:01:55.04,Default,,0,0,0,,E você? Está trabalhando aqui?
+Dialogue: 0,0:01:55.33,0:01:57.34,Default,,0,0,0,,Sim, não dá para ver?
+Dialogue: 0,0:01:57.54,0:01:59.21,Default,,0,0,0,,Veio comprar coisas para o jantar?
+Dialogue: 0,0:01:59.58,0:02:01.75,Default,,0,0,0,,Vim. Por que a pergunta?\nAlgum problema?
+Dialogue: 0,0:02:01.96,0:02:03.87,Default,,0,0,0,,Não, problema nenhum.
+Dialogue: 0,0:02:04.58,0:02:06.52,Default,,0,0,0,,Diga-me, jovem cavalheiro,
+Dialogue: 0,0:02:06.67,0:02:08.75,Default,,0,0,0,,o que você me recomendaria para hoje?
+Dialogue: 0,0:02:09.58,0:02:11.50,Default,,0,0,0,,O {\i1}kinme{\i}, sem a menor dúvida...
+Dialogue: 0,0:02:12.62,0:02:14.17,Default,,0,0,0,,senhorita.
+Dialogue: 0,0:02:14.92,0:02:19.21,Default,,0,0,0,,Ah, que galanteador!\nMuito bem, vou levar uma posta.
+Dialogue: 0,0:02:19.79,0:02:20.96,Default,,0,0,0,,Muito obrigado pela preferência!
+Dialogue: 0,0:02:21.21,0:02:24.25,Default,,0,0,0,,{\i1}O grande herói celta\nreconvertido em peixeiro...{\i}
+Dialogue: 0,0:02:26.21,0:02:29.46,Default,,0,0,0,,{\i1}Acho que peixe vai bem\npara o jantar de hoje.{\i}
+Dialogue: 0,0:02:31.54,0:02:32.67,Default,,0,0,0,,Lancer!
+Dialogue: 0,0:02:33.04,0:02:33.92,Default,,0,0,0,,Diga lá?
+Dialogue: 0,0:02:34.30,0:02:36.37,Default,,0,0,0,,Tem alguma recomendação?
+Dialogue: 0,0:02:37.29,0:02:40.00,Default,,0,0,0,,Boa pergunta...
+Dialogue: 0,0:02:40.83,0:02:44.42,Default,,0,0,0,,Que tal salmão?\nEstá barato e bem fresco!
+Dialogue: 0,0:02:45.18,0:02:47.46,Default,,0,0,0,,Salmão? Parece ótimo.
+Dialogue: 0,0:02:47.79,0:02:50.04,Default,,0,0,0,,Fica perfeito feito no vapor.
+Dialogue: 0,0:02:50.44,0:02:54.44,Default,,0,0,0,,{\i1}Salmão\N98 ienes a posta{\i}
+Dialogue: 0,0:02:51.21,0:02:54.08,Default,,0,0,0,,Bem, esta noite farei salmão no papel-alumínio.
+Dialogue: 0,0:02:54.71,0:02:56.71,Default,,0,0,0,,No que? Isso se come?
+Dialogue: 0,0:02:57.21,0:02:59.96,Default,,0,0,0,,É fácil de fazer e fica uma delícia.
+Dialogue: 0,0:03:00.12,0:03:01.25,Default,,0,0,0,,Vou levar três postas.
+Dialogue: 0,0:03:12.37,0:03:14.67,Default,,0,0,0,,Espere aí,\ntem uma posta a mais aqui.
+Dialogue: 0,0:03:15.12,0:03:17.79,Default,,0,0,0,,Garoto, prepare uma porção dessas\nno papel-alumínio para mim também.
+Dialogue: 0,0:03:18.12,0:03:18.83,Default,,0,0,0,,Como é?
+Dialogue: 0,0:03:19.17,0:03:22.33,Default,,0,0,0,,Não se preocupe, eu pago a minha parte.
+Dialogue: 0,0:03:22.71,0:03:25.25,Default,,0,0,0,,Não, não é isso que eu quis dizer...
+Dialogue: 0,0:03:26.97,0:03:30.12,Default,,0,0,0,,Passo lá depois do expediente,\nentão não se esqueça de mim!
+Dialogue: 0,0:03:44.58,0:03:45.79,Default,,0,0,0,,Ora, ora...
+Dialogue: 0,0:03:54.08,0:03:55.50,Default,,0,0,0,,Vem dali...
+Dialogue: 0,0:04:01.79,0:04:02.75,Default,,0,0,0,,Que surpresa.
+Dialogue: 0,0:04:03.46,0:04:06.42,Default,,0,0,0,,É a própria Saber vindo abrir a porta.
+Dialogue: 0,0:04:06.92,0:04:10.96,Default,,0,0,0,,Eu sabia que estava sentindo mana...\nO que você veio fazer aqui?
+Dialogue: 0,0:04:11.67,0:04:15.00,Default,,0,0,0,,O garoto não te contou nada?\nVim comer um pedaço.
+Dialogue: 0,0:04:15.92,0:04:17.73,Default,,0,0,0,,Comer um pedaço?
+Dialogue: 0,0:04:18.46,0:04:20.33,Default,,0,0,0,,Vim me convidar para o jantar.
+Dialogue: 0,0:04:23.25,0:04:24.50,Default,,0,0,0,,Uma lembrança!
+Dialogue: 0,0:04:28.37,0:04:29.96,Default,,0,0,0,,Ora, não precisava de tudo isso.
+Dialogue: 0,0:04:30.54,0:04:32.54,Default,,0,0,0,,Mas isso é bebida alcoólica!
+Dialogue: 0,0:04:33.17,0:04:35.04,Default,,0,0,0,,Ué, você não bebe?
+Dialogue: 0,0:04:35.33,0:04:37.33,Default,,0,0,0,,Claro que não, sou menor de idade!
+Dialogue: 0,0:04:37.75,0:04:41.37,Default,,0,0,0,,Não esquenta a cabeça com essas coisas,\nsenão você nunca vai crescer.
+Dialogue: 0,0:04:44.46,0:04:46.96,Default,,0,0,0,,Bom, vou ficar esperando a comida\nno meu canto.
+Dialogue: 0,0:04:50.25,0:04:52.29,Default,,0,0,0,,A Fuji-nee vai adorar isso...
+Dialogue: 0,0:05:05.25,0:05:09.83,Default,,0,0,0,,{\i1}O salmão irlandês é famoso,\nse não me engano...{\i}
+Dialogue: 0,0:05:10.71,0:05:13.29,Default,,0,0,0,,{\i1}Acho que isso remonta\nà mitologia celta.{\i}
+Dialogue: 0,0:05:15.75,0:05:19.33,Default,,0,0,0,,{\i1}O Salmão da Sabedoria\nde Fionn mac Cumhaill?{\i}
+Dialogue: 0,0:05:22.46,0:05:23.59,Default,,0,0,0,,Vamos começar.
+Dialogue: 0,0:05:34.67,0:05:39.00,Default,,0,0,0,,Primeiro, antes de temperar,\nregue com um pouco de saquê culinário.
+Dialogue: 0,0:05:39.75,0:05:44.29,Default,,0,0,0,,Salgue os dois lados,\ne deixe descansar de 5 a 10 minutos.
+Dialogue: 0,0:05:45.87,0:05:47.96,Default,,0,0,0,,{\i1}Assim que as postas começarem\na soltar umidade,{\i}
+Dialogue: 0,0:05:48.29,0:05:50.62,Default,,0,0,0,,{\i1}seque-as delicadamente com papel-toalha.{\i}
+Dialogue: 0,0:05:53.29,0:05:54.79,Default,,0,0,0,,{\i1}Em seguida, as cebolas.{\i}
+Dialogue: 0,0:05:55.83,0:05:59.79,Default,,0,0,0,,{\i1}Corte-as em fatias bem finas,\ne faça o mesmo com as cenouras.{\i}
+Dialogue: 0,0:06:00.62,0:06:02.54,Default,,0,0,0,,{\i1}Separe os cogumelos em pequenos ramos,{\i}
+Dialogue: 0,0:06:03.33,0:06:06.42,Default,,0,0,0,,{\i1}depois adicione sal e pimenta-do-reino\nàs postas de salmão.{\i}
+Dialogue: 0,0:06:10.17,0:06:12.71,Default,,0,0,0,,{\i1}Espalhe as cebolas e as cenouras\nsobre o papel-alumínio,{\i}
+Dialogue: 0,0:06:13.12,0:06:15.46,Default,,0,0,0,,{\i1}salpique um pouco de caldo em pó,\ne disponha o salmão por cima.{\i}
+Dialogue: 0,0:06:15.87,0:06:18.25,Default,,0,0,0,,{\i1}Coloque os cogumelos,{\i}
+Dialogue: 0,0:06:18.54,0:06:20.75,Default,,0,0,0,,{\i1}e finalize com um cubo de manteiga no topo.{\i}
+Dialogue: 0,0:06:22.75,0:06:26.17,Default,,0,0,0,,{\i1}Feche bem o papel-alumínio pelas pontas\ne tampe a frigideira.{\i}
+Dialogue: 0,0:06:26.33,0:06:29.21,Default,,0,0,0,,{\i1}Deixe cozinhar no vapor\npor cerca de 15 a 20 minutos.{\i}
+Dialogue: 0,0:06:31.25,0:06:35.17,Default,,0,0,0,,Agora, dois acompanhamentos\ne uma sopa de missô...
+Dialogue: 0,0:06:38.67,0:06:39.71,Default,,0,0,0,,Lancer?
+Dialogue: 0,0:06:40.04,0:06:41.17,Default,,0,0,0,,Sim?
+Dialogue: 0,0:06:41.37,0:06:44.92,Default,,0,0,0,,Perdoe-me a insistência,\nmas o que você realmente quer conosco?
+Dialogue: 0,0:06:45.29,0:06:48.67,Default,,0,0,0,,Eu já te respondi:\nvim pela comida.
+Dialogue: 0,0:06:49.71,0:06:52.12,Default,,0,0,0,,Não fique me olhando com essa cara brava.
+Dialogue: 0,0:06:53.68,0:06:58.10,Default,,0,0,0,,A garota Matou e a Rider\npassaram na peixaria outro dia,
+Dialogue: 0,0:06:58.25,0:07:02.33,Default,,0,0,0,,e elogiaram tanto os pratos do garoto\nque fiquei com aquilo na cabeça.
+Dialogue: 0,0:07:03.62,0:07:07.25,Default,,0,0,0,,Elas têm toda razão,\no Shirou cozinha maravilhosamente bem.
+Dialogue: 0,0:07:08.67,0:07:10.83,Default,,0,0,0,,Se você veio por isso, muito bem.
+Dialogue: 0,0:07:11.58,0:07:13.79,Default,,0,0,0,,Vamos dividir o jantar.
+Dialogue: 0,0:07:14.21,0:07:15.62,Default,,0,0,0,,O que é isso, afinal?
+Dialogue: 0,0:07:15.96,0:07:19.21,Default,,0,0,0,,Precisa da autorização do Rei\npara provar a sua comida agora?
+Dialogue: 0,0:07:20.33,0:07:21.83,Default,,0,0,0,,Não é bem isso...
+Dialogue: 0,0:07:29.63,0:07:31.30,Default,,0,0,0,,Cheguei!
+Dialogue: 0,0:07:32.72,0:07:34.33,Default,,0,0,0,,Senhorita Taiga!
+Dialogue: 0,0:07:35.62,0:07:39.75,Default,,0,0,0,,Mas se não é o Sr. Lancer!\nO que você faz aqui?
+Dialogue: 0,0:07:40.00,0:07:42.25,Default,,0,0,0,,Vim aproveitar um banquete caseiro!
+Dialogue: 0,0:07:44.00,0:07:46.98,Default,,0,0,0,,Já está quase pronto,\npodem se sentar!
+Dialogue: 0,0:07:59.37,0:08:02.67,Default,,0,0,0,,{\i1}Para finalizar, salpique salsa picada.{\i}
+Dialogue: 0,0:08:09.92,0:08:14.33,Default,,0,0,0,,E assim, no cardápio desta noite,\ntemos salmão assado na folha de alumínio.
+Dialogue: 0,0:08:18.04,0:08:19.29,Default,,0,0,0,,Aqui está!
+Dialogue: 0,0:08:22.42,0:08:24.54,Default,,0,0,0,,Ah, que aroma incrível.
+Dialogue: 0,0:08:25.33,0:08:26.79,Default,,0,0,0,,E sem mais delongas...
+Dialogue: 0,0:08:39.12,0:08:42.92,Default,,0,0,0,,Sensacional! O tempero está de parabéns!
+Dialogue: 0,0:08:44.33,0:08:45.71,Default,,0,0,0,,O que é isso aí?
+Dialogue: 0,0:08:46.75,0:08:48.83,Default,,0,0,0,,É maionese com {\i1}wasabi{\i}.
+Dialogue: 0,0:08:49.42,0:08:51.37,Default,,0,0,0,,Resolvi preparar uma porção para testar.
+Dialogue: 0,0:08:51.71,0:08:54.46,Default,,0,0,0,,Experimente, dá um contraste de sabor bem interessante.
+Dialogue: 0,0:09:01.92,0:09:05.52,Default,,0,0,0,,Isso aqui é bom demais!
+Dialogue: 0,0:09:05.52,0:09:08.21,Default,,0,0,0,,Shirou, passa para cá também!
+Dialogue: 0,0:09:08.29,0:09:09.48,Default,,0,0,0,,Já vai, já vai.
+Dialogue: 0,0:09:22.17,0:09:25.33,Default,,0,0,0,,Ela estava pronta para lutar dez minutos atrás...
+Dialogue: 0,0:09:38.79,0:09:40.29,Default,,0,0,0,,Pois é, vejam só...
+Dialogue: 0,0:09:45.21,0:09:46.54,Default,,0,0,0,,Muito obrigado pela refeição!
+Dialogue: 0,0:09:51.19,0:09:54.17,Default,,0,0,0,,Nossa, enchi a pança!
+Dialogue: 0,0:09:54.58,0:09:56.12,Default,,0,0,0,,Você manda muito bem, garoto!
+Dialogue: 0,0:09:57.00,0:09:58.29,Default,,0,0,0,,Eu sou um Servo,
+Dialogue: 0,0:09:58.71,0:10:02.12,Default,,0,0,0,,então não preciso exatamente de comida para me manter,
+Dialogue: 0,0:10:02.96,0:10:04.58,Default,,0,0,0,,mas eu não abro mão de boa comida!
+Dialogue: 0,0:10:04.92,0:10:06.12,Default,,0,0,0,,Aparecerei mais vezes!
+Dialogue: 0,0:10:08.29,0:10:09.33,Default,,0,0,0,,Tudo bem...
+Dialogue: 0,0:10:19.62,0:10:20.58,Default,,0,0,0,,Toma!
+Dialogue: 0,0:10:27.67,0:10:31.25,Default,,0,0,0,,Que foi? É a minha retribuição pela sua hospitalidade!
+Dialogue: 0,0:10:31.77,0:10:36.21,Default,,0,0,0,,Como assim,\nvocê pretende dormir aqui?!
+Dialogue: 0,0:10:36.58,0:10:38.87,Default,,0,0,0,,Você se esquenta por pouca coisa, garoto.
+Dialogue: 0,0:10:39.00,0:10:40.61,Default,,0,0,0,,Mas é claro que me esquento!
+Dialogue: 0,0:10:43.29,0:10:45.25,Default,,0,0,0,,Agora que guardamos a louça,
+Dialogue: 0,0:10:45.83,0:10:49.08,Default,,0,0,0,,que tal passarmos para a rodada de saquê pós-jantar?
+Dialogue: 0,0:10:49.42,0:10:51.54,Default,,0,0,0,,Isso aí, tem um monte de garrafas!
+Dialogue: 0,0:10:51.83,0:10:53.29,Default,,0,0,0,,Tenho um mau pressentimento sobre isso...
+Dialogue: 0,0:10:53.54,0:10:55.29,Default,,0,0,0,,Vamos beber até o amanhecer?
+Dialogue: 0,0:10:55.37,0:10:57.46,Default,,0,0,0,,- Sim!\n- Taiga!
+Dialogue: 0,0:10:57.71,0:10:59.17,Default,,0,0,0,,Ele vai ficar aqui direto?!
