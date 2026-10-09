@@ -1,0 +1,308 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E17 - The Eighth Contract (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E17 - The Eighth Contract (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:08.81,0:02:09.98,Default,,0,0,0,,Assassinado?!
+Dialogue: 0,0:02:13.23,0:02:14.78,Default,,0,0,0,,Impossível...
+Dialogue: 0,0:02:14.78,0:02:18.49,Default,,0,0,0,,Por que matariam o padre?!
+Dialogue: 0,0:02:18.86,0:02:20.41,Default,,0,0,0,,Não podemos permitir isso...
+Dialogue: 0,0:02:20.87,0:02:22.87,Default,,0,0,0,,Não podemos permitir isso!
+Dialogue: 0,0:02:28.40,0:02:32.95,Default,,0,0,0,,Deve estar sendo difícil para você perder o padre desta maneira.
+Dialogue: 0,0:02:32.95,0:02:33.90,Default,,0,0,0,,Sim.
+Dialogue: 0,0:02:33.90,0:02:39.33,Default,,0,0,0,,O Padre Risei era como um segundo pai para mim.
+Dialogue: 0,0:02:39.88,0:02:42.61,Default,,0,0,0,,Tem sido uma sucessão de imprevistos.
+Dialogue: 0,0:02:43.39,0:02:47.68,Default,,0,0,0,,Pode ser necessário formularmos algum plano de imediato.
+Dialogue: 0,0:02:58.28,0:03:00.65,Default,,0,0,0,,Por que não contou ao Tokiomi?
+Dialogue: 0,0:03:02.70,0:03:03.91,Default,,0,0,0,,O que quer dizer?
+Dialogue: 0,0:03:03.91,0:03:06.62,Default,,0,0,0,,Tenho pena do seu pai.
+Dialogue: 0,0:03:06.62,0:03:10.16,Default,,0,0,0,,Ele morreu acreditando que o próprio filho era um homem santo.
+Dialogue: 0,0:03:10.87,0:03:12.04,Default,,0,0,0,,Não...
+Dialogue: 0,0:03:12.62,0:03:14.63,Default,,0,0,0,,Será que isso não foi a salvação dele?
+Dialogue: 0,0:03:16.04,0:03:19.67,Default,,0,0,0,,A morte do seu pai não desperta sentimento algum dentro de você?
+Dialogue: 0,0:03:21.05,0:03:23.13,Default,,0,0,0,,Ele foi assassinado, sabia?
+Dialogue: 0,0:03:23.13,0:03:26.60,Default,,0,0,0,,Não deveria aparentar ao menos um pouco de tristeza?
+Dialogue: 0,0:03:27.05,0:03:29.31,Default,,0,0,0,,Sim, isso me perturba profundamente.
+Dialogue: 0,0:03:30.31,0:03:32.39,Default,,0,0,0,,Perturba mesmo?
+Dialogue: 0,0:03:33.48,0:03:37.77,Default,,0,0,0,,Seria porque não foi você quem o matou com as próprias mãos?
+Dialogue: 0,0:03:47.16,0:03:48.58,Default,,0,0,0,,Saber...
+Dialogue: 0,0:03:50.04,0:03:52.46,Default,,0,0,0,,Irisviel, como está se sentindo?
+Dialogue: 0,0:03:54.29,0:03:57.38,Default,,0,0,0,,Parece que a fiz se preocupar.
+Dialogue: 0,0:03:57.38,0:03:58.46,Default,,0,0,0,,Peço desculpas.
+Dialogue: 0,0:03:58.46,0:03:59.75,Default,,0,0,0,,Não foi nada.
+Dialogue: 0,0:03:59.75,0:04:04.05,Default,,0,0,0,,Contanto que esteja verdadeiramente bem, não poderia pedir por mais nada.
+Dialogue: 0,0:04:04.59,0:04:05.47,Default,,0,0,0,,Mas...
+Dialogue: 0,0:04:10.14,0:04:11.77,Default,,0,0,0,,Está tudo bem.
+Dialogue: 0,0:04:11.77,0:04:13.85,Default,,0,0,0,,Esta presença é a Maiya-san.
+Dialogue: 0,0:04:14.64,0:04:16.11,Default,,0,0,0,,Dos Tohsaka?
+Dialogue: 0,0:04:16.11,0:04:17.17,Default,,0,0,0,,Sim.
+Dialogue: 0,0:04:17.17,0:04:20.15,Default,,0,0,0,,Tohsaka Tokiomi está solicitando uma aliança.
+Dialogue: 0,0:04:20.15,0:04:22.69,Default,,0,0,0,,Uma aliança? Agora?
+Dialogue: 0,0:04:23.11,0:04:28.62,Default,,0,0,0,,O Tohsaka deve estar apreensivo com a ideia de lidar com o Rider e o Berserker.
+Dialogue: 0,0:04:29.16,0:04:33.87,Default,,0,0,0,,Parecemos ser a facção mais propensa a formar uma aliança, por isso nos convidou para um encontro.
+Dialogue: 0,0:04:34.46,0:04:37.88,Default,,0,0,0,,Em outras palavras, ele nos julga os mais fracos em comparação aos demais.
+Dialogue: 0,0:04:37.88,0:04:42.71,Default,,0,0,0,,Tohsaka disse que deseja se encontrar esta noite, na igreja da cidade de Fuyuki.
+Dialogue: 0,0:04:43.09,0:04:50.47,Default,,0,0,0,,Tohsaka Tokiomi vem fazendo preparativos elaborados para esta Guerra do Graal desde os estágios iniciais.
+Dialogue: 0,0:04:50.89,0:04:58.10,Default,,0,0,0,,Também é provável que ele esteja manipulando o Mestre de Assassin, Kotomine Kirei, a partir das sombras.
+Dialogue: 0,0:05:00.15,0:05:08.74,Default,,0,0,0,,Se o Tohsaka de fato exerce influência sobre Kotomine Kirei, então não podemos ignorar a proposta dele.
+Dialogue: 0,0:05:09.28,0:05:10.16,Default,,0,0,0,,De fato.
+Dialogue: 0,0:05:11.87,0:05:13.79,Default,,0,0,0,,Kotomine Kirei...
+Dialogue: 0,0:05:14.29,0:05:16.66,Default,,0,0,0,,Lembre-se desse nome, Saber.
+Dialogue: 0,0:05:17.08,0:05:23.30,Default,,0,0,0,,Se existe alguém capaz de derrotar o Kiritsugu e vencer a Guerra do Santo Graal,
+Dialogue: 0,0:05:23.30,0:05:25.88,Default,,0,0,0,,esse alguém é Kotomine Kirei.
+Dialogue: 0,0:05:30.60,0:05:33.31,Default,,0,0,0,,Nós aceitaremos o convite dele.
+Dialogue: 0,0:05:43.90,0:05:44.90,Default,,0,0,0,,Papai?
+Dialogue: 0,0:05:49.91,0:05:50.91,Default,,0,0,0,,Papai!
+Dialogue: 0,0:06:05.38,0:06:08.76,Default,,0,0,0,,Rin, o seu pai gostaria de falar com você.
+Dialogue: 0,0:06:28.07,0:06:28.95,Default,,0,0,0,,Rin.
+Dialogue: 0,0:06:29.61,0:06:32.78,Default,,0,0,0,,Conforme for crescendo, mantenha a Associação em débito com você.
+Dialogue: 0,0:06:33.66,0:06:36.20,Default,,0,0,0,,Além disso, deixo o restante ao seu próprio discernimento.
+Dialogue: 0,0:06:36.83,0:06:39.87,Default,,0,0,0,,Você se sairá bem por conta própria.
+Dialogue: 0,0:06:40.58,0:06:42.75,Default,,0,0,0,,Um dia, o Santo Graal surgirá.
+Dialogue: 0,0:06:43.13,0:06:46.30,Default,,0,0,0,,É responsabilidade da família Tohsaka obtê-lo.
+Dialogue: 0,0:06:46.30,0:06:47.47,Default,,0,0,0,,Acima de tudo...
+Dialogue: 0,0:06:47.47,0:06:51.55,Default,,0,0,0,,se você deseja ser uma maga, esse é o caminho que deve trilhar.
+Dialogue: 0,0:06:53.30,0:06:54.85,Default,,0,0,0,,Rin, pegue isto.
+Dialogue: 0,0:07:01.27,0:07:02.85,Default,,0,0,0,,Bem, eu já vou indo.
+Dialogue: 0,0:07:03.48,0:07:05.44,Default,,0,0,0,,Você sabe o que fazer a partir de agora, certo?
+Dialogue: 0,0:07:06.36,0:07:07.27,Default,,0,0,0,,Sim.
+Dialogue: 0,0:07:10.20,0:07:12.57,Default,,0,0,0,,Adeus, papai.
+Dialogue: 0,0:07:29.96,0:07:36.72,Default,,0,0,0,,Primeiramente, permita-me agradecer por comparecerem ao meu chamado.
+Dialogue: 0,0:07:38.10,0:07:39.89,Default,,0,0,0,,Permita-me apresentá-lo.
+Dialogue: 0,0:07:39.89,0:07:43.56,Default,,0,0,0,,Este é Kotomine Kirei, meu discípulo.
+Dialogue: 0,0:07:43.56,0:07:50.07,Default,,0,0,0,,Embora tenhamos sido concorrentes pelo Graal no passado, tudo isso já foi superado.
+Dialogue: 0,0:07:50.90,0:07:55.45,Default,,0,0,0,,Ele perdeu o seu Servo e abdicou de seus direitos como Mestre.
+Dialogue: 0,0:07:56.12,0:08:00.54,Default,,0,0,0,,A Guerra do Graal agora caminha para a sua conclusão.
+Dialogue: 0,0:08:01.08,0:08:07.63,Default,,0,0,0,,As facções remanescentes são, como antecipado, os Mestres das Três Famílias Fundadoras, juntamente com um forasteiro.
+Dialogue: 0,0:08:08.05,0:08:11.63,Default,,0,0,0,,Agora, como avaliam a situação atual?
+Dialogue: 0,0:08:12.02,0:08:13.65,Default,,0,0,0,,Não vejo motivos para preocupação.
+Dialogue: 0,0:08:13.65,0:08:18.65,Default,,0,0,0,,Visto que temos sob comando a Saber, a Serva mais poderosa, não precisamos esperar por um momento oportuno para atacar.
+Dialogue: 0,0:08:18.65,0:08:21.41,Default,,0,0,0,,Basta continuarmos vencendo cada batalha.
+Dialogue: 0,0:08:21.41,0:08:22.61,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:08:22.61,0:08:27.68,Default,,0,0,0,,Em minha opinião, é lamentável que os Matou tenham errado tão grosseiramente em sua estratégia.
+Dialogue: 0,0:08:28.09,0:08:34.37,Default,,0,0,0,,Eles impuseram um Servo desgastante demais a um Mestre debilitado, acelerando a própria ruína dele.
+Dialogue: 0,0:08:35.05,0:08:38.03,Default,,0,0,0,,O Rider provavelmente emergirá vitorioso.
+Dialogue: 0,0:08:38.03,0:08:41.87,Default,,0,0,0,,O Graal não pode, sob hipótese alguma, cair em mãos estranhas.
+Dialogue: 0,0:08:42.29,0:08:46.29,Default,,0,0,0,,Nós dois deveríamos concordar ao menos nisso.
+Dialogue: 0,0:08:46.29,0:08:48.38,Default,,0,0,0,,Qualquer aliança está fora de cogitação.
+Dialogue: 0,0:08:48.79,0:08:53.01,Default,,0,0,0,,Contudo, se deseja discutir a ordem pela qual lidaremos com os nossos inimigos,
+Dialogue: 0,0:08:53.01,0:08:55.76,Default,,0,0,0,,talvez possamos chegar a um acordo.
+Dialogue: 0,0:08:57.43,0:08:58.43,Default,,0,0,0,,Explique melhor.
+Dialogue: 0,0:08:58.43,0:09:03.68,Default,,0,0,0,,Podemos acertar as contas com a facção Tohsaka após derrotarmos os demais Mestres.
+Dialogue: 0,0:09:04.44,0:09:07.31,Default,,0,0,0,,Essa é uma proposta que o nosso lado pode aceitar.
+Dialogue: 0,0:09:07.31,0:09:09.98,Default,,0,0,0,,Portanto, um cessar-fogo temporário e condicional?
+Dialogue: 0,0:09:10.57,0:09:12.61,Default,,0,0,0,,Um meio-termo razoável.
+Dialogue: 0,0:09:13.40,0:09:15.28,Default,,0,0,0,,Nós impomos duas condições.
+Dialogue: 0,0:09:15.82,0:09:23.41,Default,,0,0,0,,Primeiro: você compartilhará qualquer informação que possua a respeito do Rider e de seu Mestre.
+Dialogue: 0,0:09:24.25,0:09:25.16,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:09:25.16,0:09:31.25,Default,,0,0,0,,Segundo: você removerá Kotomine Kirei da Guerra do Graal.
+Dialogue: 0,0:09:35.09,0:09:36.05,Default,,0,0,0,,Remover o Kirei?
+Dialogue: 0,0:09:36.05,0:09:39.21,Default,,0,0,0,,Não exigirei que o mate.
+Dialogue: 0,0:09:39.21,0:09:46.44,Default,,0,0,0,,Mas até que esta guerra termine, insisto que ele deixe Fuyuki... não, o Japão por completo.
+Dialogue: 0,0:09:46.44,0:09:48.69,Default,,0,0,0,,Antes do amanhecer de amanhã.
+Dialogue: 0,0:09:50.69,0:09:52.90,Default,,0,0,0,,Poderia explicar por que deseja isso?
+Dialogue: 0,0:09:52.90,0:09:58.41,Default,,0,0,0,,Há ressentimento de sobra entre a facção Einzbern e o Executor.
+Dialogue: 0,0:09:59.24,0:10:02.41,Default,,0,0,0,,Se a facção Tohsaka continuar a abrigá-lo,
+Dialogue: 0,0:10:02.41,0:10:06.50,Default,,0,0,0,,será impossível confiarmos em vocês sob qualquer circunstância.
+Dialogue: 0,0:10:07.50,0:10:08.54,Default,,0,0,0,,Qual o significado disto?
+Dialogue: 0,0:10:11.13,0:10:11.92,Default,,0,0,0,,Kirei.
+Dialogue: 0,0:10:15.80,0:10:17.26,Default,,0,0,0,,E então?
+Dialogue: 0,0:10:17.26,0:10:19.34,Default,,0,0,0,,O que achou do presente do Kiritsugu?
+Dialogue: 0,0:10:19.34,0:10:23.06,Default,,0,0,0,,Está mais próxima de um cavalo do que de um carro.
+Dialogue: 0,0:10:23.06,0:10:25.14,Default,,0,0,0,,Parece me agradar bem mais.
+Dialogue: 0,0:10:25.14,0:10:29.90,Default,,0,0,0,,Cavalgarei à frente e assegurarei que a rota seja segura.
+Dialogue: 0,0:10:35.48,0:10:37.40,Default,,0,0,0,,Vamos nós também.
+Dialogue: 0,0:10:41.95,0:10:43.16,Default,,0,0,0,,S-Senhora?
+Dialogue: 0,0:10:43.74,0:10:44.62,Default,,0,0,0,,O que houve?
+Dialogue: 0,0:10:45.12,0:10:47.16,Default,,0,0,0,,Vá em frente, Maiya-san.
+Dialogue: 0,0:10:47.16,0:10:48.54,Default,,0,0,0,,Mas...
+Dialogue: 0,0:10:48.54,0:10:51.71,Default,,0,0,0,,O Tohsaka perceberá que há algo de errado.
+Dialogue: 0,0:10:59.43,0:11:02.09,Default,,0,0,0,,Isto não é inesperado...
+Dialogue: 0,0:11:02.76,0:11:04.76,Default,,0,0,0,,Era inevitável.
+Dialogue: 0,0:11:05.39,0:11:13.19,Default,,0,0,0,,Na verdade, é um milagre que eu tenha conseguido funcionar como humana por tanto tempo.
+Dialogue: 0,0:11:14.45,0:11:16.69,Default,,0,0,0,,O Kiritsugu sabe disso?
+Dialogue: 0,0:11:16.69,0:11:19.16,Default,,0,0,0,,Mantenha isso em segredo da Saber.
+Dialogue: 0,0:11:19.16,0:11:22.08,Default,,0,0,0,,Ela tem uma batalha decisiva pela frente.
+Dialogue: 0,0:11:22.75,0:11:25.47,Default,,0,0,0,,Não quero que ela se preocupe comigo.
+Dialogue: 0,0:11:25.47,0:11:29.46,Default,,0,0,0,,Mas Maiya-san, há algo que eu quero que saiba.
+Dialogue: 0,0:11:30.41,0:11:34.21,Default,,0,0,0,,Eu sou um homúnculo criado para a Guerra do Graal.
+Dialogue: 0,0:11:35.00,0:11:37.42,Default,,0,0,0,,Você sabe disso, certo?
+Dialogue: 0,0:11:37.42,0:11:38.13,Default,,0,0,0,,Sim.
+Dialogue: 0,0:11:38.46,0:11:43.39,Default,,0,0,0,,O Velho Acht concedeu ao receptáculo um instinto de autopreservação,
+Dialogue: 0,0:11:43.89,0:11:48.47,Default,,0,0,0,,para que evitasse todos os perigos e resguardasse o Graal até a sua consumação.
+Dialogue: 0,0:11:48.47,0:11:53.23,Default,,0,0,0,,Ele disfarçou o receptáculo sob o véu de "Irisviel".
+Dialogue: 0,0:11:53.81,0:11:56.02,Default,,0,0,0,,Isso é o que eu sou.
+Dialogue: 0,0:11:56.69,0:11:58.19,Default,,0,0,0,,Mas isso...
+Dialogue: 0,0:11:58.19,0:11:59.86,Default,,0,0,0,,Quer dizer que...?
+Dialogue: 0,0:11:59.86,0:12:04.28,Default,,0,0,0,,Muito em breve, voltarei a ser apenas o que era.
+Dialogue: 0,0:12:04.82,0:12:10.70,Default,,0,0,0,,Na próxima vez, não poderei sequer conversar com você deste jeito.
+Dialogue: 0,0:12:10.70,0:12:15.67,Default,,0,0,0,,Foi por isso que o Kiritsugu deixou a bainha da Saber comigo.
+Dialogue: 0,0:12:16.21,0:12:17.38,Default,,0,0,0,,Avalon...
+Dialogue: 0,0:12:18.05,0:12:20.17,Default,,0,0,0,,Você conhece as propriedades dela?
+Dialogue: 0,0:12:20.17,0:12:23.88,Default,,0,0,0,,Ela interrompe o envelhecimento e possui poder de cura infinito.
+Dialogue: 0,0:12:23.88,0:12:25.51,Default,,0,0,0,,Foi isso o que me disseram.
+Dialogue: 0,0:12:25.51,0:12:30.85,Default,,0,0,0,,São os efeitos dela que impedem esta minha carcaça de entrar em colapso.
+Dialogue: 0,0:12:31.43,0:12:37.61,Default,,0,0,0,,É claro que ela não opera tão bem quando a Saber não está por perto.
+Dialogue: 0,0:12:37.61,0:12:40.82,Default,,0,0,0,,Por que está me contando tudo isso?
+Dialogue: 0,0:12:41.40,0:12:43.20,Default,,0,0,0,,Hisau Maiya.
+Dialogue: 0,0:12:43.82,0:12:46.99,Default,,0,0,0,,Você jamais sentiria pena de mim.
+Dialogue: 0,0:12:47.78,0:12:50.04,Default,,0,0,0,,Você me reconheceria.
+Dialogue: 0,0:12:50.58,0:12:52.20,Default,,0,0,0,,É por isso.
+Dialogue: 0,0:12:52.20,0:12:54.04,Default,,0,0,0,,Senhora, eu...
+Dialogue: 0,0:12:54.58,0:12:58.00,Default,,0,0,0,,Eu sempre pensei na senhora como alguém distante.
+Dialogue: 0,0:12:58.00,0:13:00.00,Default,,0,0,0,,Não é verdade.
+Dialogue: 0,0:13:00.92,0:13:02.21,Default,,0,0,0,,Você me compreende?
+Dialogue: 0,0:13:02.21,0:13:02.80,Default,,0,0,0,,Sim.
+Dialogue: 0,0:13:03.51,0:13:05.63,Default,,0,0,0,,Mesmo ao custo da minha própria vida...
+Dialogue: 0,0:13:06.14,0:13:10.14,Default,,0,0,0,,Irisviel, eu a protegerei até o fim.
+Dialogue: 0,0:13:10.81,0:13:12.02,Default,,0,0,0,,Por isso...
+Dialogue: 0,0:13:13.48,0:13:15.94,Default,,0,0,0,,Por favor, morra por Emiya Kiritsugu.
+Dialogue: 0,0:13:16.90,0:13:18.94,Default,,0,0,0,,Para que o sonho dele se torne realidade.
+Dialogue: 0,0:13:23.65,0:13:24.99,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:13:27.24,0:13:32.20,Default,,0,0,0,,Eu teria preferido estar ciente dos seus atritos com os Einzbern.
+Dialogue: 0,0:13:32.75,0:13:36.00,Default,,0,0,0,,Receio não ter escolha.
+Dialogue: 0,0:13:37.42,0:13:41.71,Default,,0,0,0,,Você se retirará da Guerra do Graal, Kirei.
+Dialogue: 0,0:13:56.27,0:13:58.10,Default,,0,0,0,,Emiya Kiritsugu...
+Dialogue: 0,0:13:58.10,0:14:00.44,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:14:02.86,0:14:07.49,Default,,0,0,0,,Partirei deste lugar sem jamais descobrir?
+Dialogue: 0,0:14:08.53,0:14:11.95,Default,,0,0,0,,Ainda está remoendo isso?
+Dialogue: 0,0:14:11.95,0:14:14.95,Default,,0,0,0,,Quão lerdo você consegue ser, Kirei?
+Dialogue: 0,0:14:16.46,0:14:19.42,Default,,0,0,0,,O Graal ainda o convoca.
+Dialogue: 0,0:14:20.25,0:14:25.42,Default,,0,0,0,,E você, lá no fundo, ainda anseia por lutar.
+Dialogue: 0,0:14:26.59,0:14:31.93,Default,,0,0,0,,Desde que me lembro por gente, vivi a minha vida buscando apenas uma coisa.
+Dialogue: 0,0:14:32.47,0:14:38.77,Default,,0,0,0,,Dediquei todo o meu tempo a isso e suportei imensa dor, mas tudo foi em vão.
+Dialogue: 0,0:14:39.19,0:14:46.19,Default,,0,0,0,,Ainda assim, sinto que estou mais perto da resposta agora do que jamais estive.
+Dialogue: 0,0:14:46.19,0:14:50.70,Default,,0,0,0,,Por que ainda hesita após tanto autoexame?
+Dialogue: 0,0:14:51.32,0:14:52.70,Default,,0,0,0,,Tenho um pressentimento...
+Dialogue: 0,0:14:53.41,0:14:58.62,Default,,0,0,0,,...de que destruirei a mim mesmo quando descobrir todas as respostas.
+Dialogue: 0,0:15:04.75,0:15:06.63,Default,,0,0,0,,Entendo. Obrigado.
+Dialogue: 0,0:15:08.38,0:15:12.34,Default,,0,0,0,,Acabou de obter alguma nova informação interessante?
+Dialogue: 0,0:15:12.34,0:15:17.14,Default,,0,0,0,,Descobri a localização do esconderijo dos Einzbern.
+Dialogue: 0,0:15:19.14,0:15:20.23,Default,,0,0,0,,Você é incrível, Kirei!
+Dialogue: 0,0:15:20.23,0:15:22.94,Default,,0,0,0,,Sinceramente, você me impressiona!
+Dialogue: 0,0:15:23.48,0:15:26.11,Default,,0,0,0,,Você planejava continuar o tempo todo.
+Dialogue: 0,0:15:26.11,0:15:27.86,Default,,0,0,0,,Eu hesitei, de fato.
+Dialogue: 0,0:15:28.57,0:15:30.36,Default,,0,0,0,,Estava preparado para desistir.
+Dialogue: 0,0:15:30.36,0:15:35.24,Default,,0,0,0,,Mas, no fim das contas, você tem toda a razão, Rei dos Heróis.
+Dialogue: 0,0:15:35.66,0:15:41.04,Default,,0,0,0,,Não conheço outro remédio senão prosseguir com a minha busca.
+Dialogue: 0,0:15:42.00,0:15:42.79,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:15:44.29,0:15:46.55,Default,,0,0,0,,Um presente do meu pai.
+Dialogue: 0,0:15:49.55,0:15:52.05,Default,,0,0,0,,Jo 4:24.
+Dialogue: 0,0:15:52.80,0:15:54.64,Default,,0,0,0,,O Evangelho de São João.
+Dialogue: 0,0:15:56.47,0:15:58.02,Default,,0,0,0,,Deus é Espírito,
+Dialogue: 0,0:15:58.02,0:16:03.48,Default,,0,0,0,,e os que O adoram devem adorá-Lo em espírito e em verdade.
+Dialogue: 0,0:16:08.69,0:16:10.40,Default,,0,0,0,,Contudo, Kirei...
+Dialogue: 0,0:16:10.40,0:16:13.41,Default,,0,0,0,,Um problema gravíssimo permanece.
+Dialogue: 0,0:16:14.07,0:16:21.37,Default,,0,0,0,,Caso participe da Guerra do Graal por vontade própria, Tohsaka Tokiomi se tornará o seu inimigo.
+Dialogue: 0,0:16:22.25,0:16:29.30,Default,,0,0,0,,Em outras palavras, você está no mesmo aposento que um Servo inimigo sem nada para se defender.
+Dialogue: 0,0:16:29.30,0:16:32.26,Default,,0,0,0,,Uma situação bastante delicada, não acha?
+Dialogue: 0,0:16:32.26,0:16:33.68,Default,,0,0,0,,Não.
+Dialogue: 0,0:16:34.22,0:16:36.80,Default,,0,0,0,,Eu pensei em uma maneira de implorar pela minha vida.
+Dialogue: 0,0:16:36.80,0:16:38.31,Default,,0,0,0,,Ora...
+Dialogue: 0,0:16:38.31,0:16:39.52,Default,,0,0,0,,Gilgamesh...
+Dialogue: 0,0:16:40.27,0:16:44.19,Default,,0,0,0,,Deixe-me contar-lhe a verdade por trás da Guerra do Santo Graal.
+Dialogue: 0,0:16:45.06,0:16:45.94,Default,,0,0,0,,O quê?
+Dialogue: 0,0:16:45.94,0:16:56.95,Default,,0,0,0,,O ritual aqui em Fuyuki é uma tentativa de abrir um caminho até a Raiz por meio do sacrifício das almas de sete Espíritos Heroicos.
+Dialogue: 0,0:16:57.74,0:17:03.25,Default,,0,0,0,,Ativa-se o Grande Graal matando todos os sete Servos.
+Dialogue: 0,0:17:03.75,0:17:05.58,Default,,0,0,0,,Sim, todos os sete.
+Dialogue: 0,0:17:06.54,0:17:07.54,Default,,0,0,0,,Você compreende?
+Dialogue: 0,0:17:08.09,0:17:12.88,Default,,0,0,0,,É por isso que o meu mestre se esforçou tanto para evitar usar os Selos de Comando dele.
+Dialogue: 0,0:17:12.88,0:17:19.85,Default,,0,0,0,,Ele precisa deles para forçar o próprio Servo ao suicídio após o término de todas as batalhas.
+Dialogue: 0,0:17:20.43,0:17:26.10,Default,,0,0,0,,Então você está dizendo que a lealdade que o Tokiomi demonstrou por mim era pura farsa?
+Dialogue: 0,0:17:26.10,0:17:32.03,Default,,0,0,0,,No fim das contas, o meu mestre é apenas um mago até a medula.
+Dialogue: 0,0:17:32.94,0:17:37.86,Default,,0,0,0,,Ele pode venerar um Espírito Heroico, mas não nutre ilusões sobre os seus ídolos.
+Dialogue: 0,0:17:38.78,0:17:40.33,Default,,0,0,0,,Tokiomi...
+Dialogue: 0,0:17:40.70,0:17:43.79,Default,,0,0,0,,Você finalmente provou o seu valor.
+Dialogue: 0,0:17:43.79,0:17:49.13,Default,,0,0,0,,Por fim, aquele homenzinho tedioso será capaz de me divertir.
+Dialogue: 0,0:17:49.13,0:17:51.75,Default,,0,0,0,,O que fará agora, Rei dos Heróis?
+Dialogue: 0,0:17:52.21,0:17:58.51,Default,,0,0,0,,Continuará leal ao meu mestre e me punirá por esta rebelião?
+Dialogue: 0,0:17:58.51,0:18:01.22,Default,,0,0,0,,Disso eu não sei.
+Dialogue: 0,0:18:01.22,0:18:06.98,Default,,0,0,0,,Desleal ou não, o Tokiomi ainda me fornece mana.
+Dialogue: 0,0:18:06.98,0:18:11.52,Default,,0,0,0,,Abandonar o meu Mestre comprometeria a minha capacidade de permanecer materializado.
+Dialogue: 0,0:18:12.40,0:18:14.82,Default,,0,0,0,,Ah, isso me faz lembrar.
+Dialogue: 0,0:18:14.82,0:18:21.99,Default,,0,0,0,,Existe por acaso um Mestre com Selos de Comando mas sem parceiro, buscando por um Servo livre de contrato.
+Dialogue: 0,0:18:22.99,0:18:24.95,Default,,0,0,0,,Pensando bem, você tem razão.
+Dialogue: 0,0:18:25.79,0:18:32.00,Default,,0,0,0,,Mas esse homem seria um Mestre digno aos olhos do Rei dos Heróis?
+Dialogue: 0,0:18:32.00,0:18:34.00,Default,,0,0,0,,Ele servirá.
+Dialogue: 0,0:18:34.80,0:18:39.59,Default,,0,0,0,,Ele tem um ligeiro defeito por ser rígido demais, mas possui imenso potencial de crescimento.
+Dialogue: 0,0:18:40.18,0:18:44.31,Default,,0,0,0,,Pode ser que um dia ele se torne uma excelente fonte de diversão para mim.
+Dialogue: 0,0:18:49.56,0:18:51.10,Default,,0,0,0,,Eu estava à sua espera, Kirei.
+Dialogue: 0,0:18:51.10,0:18:55.15,Default,,0,0,0,,Vim para trocar algumas palavras antes de deixar Fuyuki.
+Dialogue: 0,0:18:58.07,0:19:02.95,Default,,0,0,0,,Ainda me orgulho de ter tido você como meu discípulo.
+Dialogue: 0,0:19:03.95,0:19:11.17,Default,,0,0,0,,Espero que mantenha boas relações com os Tohsaka, assim como o seu falecido pai fez em vida.
+Dialogue: 0,0:19:11.54,0:19:12.33,Default,,0,0,0,,O que me diz?
+Dialogue: 0,0:19:12.92,0:19:15.42,Default,,0,0,0,,Não poderia pedir por mais nada.
+Dialogue: 0,0:19:15.42,0:19:22.89,Default,,0,0,0,,Assim que esta Guerra do Graal terminar, gostaria que me ajudasse a treinar a Rin como veterano dela.
+Dialogue: 0,0:19:25.72,0:19:29.35,Default,,0,0,0,,É algo simples, mas é uma espécie de testamento.
+Dialogue: 0,0:19:30.14,0:19:34.19,Default,,0,0,0,,Achei prudente me preparar para o pior cenário.
+Dialogue: 0,0:19:34.86,0:19:43.62,Default,,0,0,0,,Deixa a liderança da família Tohsaka para a Rin e o nomeia como tutor dela até a maioridade.
+Dialogue: 0,0:19:45.16,0:19:46.24,Default,,0,0,0,,Deixe comigo.
+Dialogue: 0,0:19:46.70,0:19:51.75,Default,,0,0,0,,Farei tudo o que estiver ao meu alcance para cuidar da sua filha.
+Dialogue: 0,0:19:52.37,0:19:55.25,Default,,0,0,0,,Obrigado, Kirei.
+Dialogue: 0,0:19:55.25,0:19:56.75,Default,,0,0,0,,O que é isto?
+Dialogue: 0,0:19:56.75,0:20:01.05,Default,,0,0,0,,É o meu presente para você.
+Dialogue: 0,0:20:01.05,0:20:02.30,Default,,0,0,0,,Abra-o.
+Dialogue: 0,0:20:06.18,0:20:07.47,Default,,0,0,0,,É uma adaga Azoth.
+Dialogue: 0,0:20:08.01,0:20:14.02,Default,,0,0,0,,Simboliza o seu domínio sobre a feitiçaria da família Tohsaka e marca o fim do seu aprendizado.
+Dialogue: 0,0:20:14.98,0:20:18.57,Default,,0,0,0,,O senhor é generoso demais para comigo.
+Dialogue: 0,0:20:18.57,0:20:22.53,Default,,0,0,0,,Não sou capaz nem de expressar a minha gratidão, meu mestre.
+Dialogue: 0,0:20:22.53,0:20:25.91,Default,,0,0,0,,Sou eu quem deve agradecer, Kotomine Kirei.
+Dialogue: 0,0:20:26.78,0:20:30.50,Default,,0,0,0,,Agora posso me preparar para a batalha final.
+Dialogue: 0,0:20:32.79,0:20:34.33,Default,,0,0,0,,Vejam só a hora.
+Dialogue: 0,0:20:35.67,0:20:38.17,Default,,0,0,0,,Perdoe-me por retê-lo.
+Dialogue: 0,0:20:40.76,0:20:43.43,Default,,0,0,0,,Espero que chegue a tempo para o seu voo.
+Dialogue: 0,0:20:50.56,0:20:51.56,Default,,0,0,0,,Não.
+Dialogue: 0,0:20:53.19,0:20:56.73,Default,,0,0,0,,Não precisa se preocupar, meu mestre.
+Dialogue: 0,0:21:05.32,0:21:09.12,Default,,0,0,0,,Eu nunca comprei a passagem.
+Dialogue: 0,0:21:24.42,0:21:25.26,Default,,0,0,0,,Mestre...
+Dialogue: 0,0:21:26.51,0:21:28.85,Default,,0,0,0,,Você era exatamente como o meu pai.
+Dialogue: 0,0:21:28.85,0:21:34.23,Default,,0,0,0,,Jamais me compreendeu, nem mesmo até o derradeiro instante.
+Dialogue: 0,0:21:40.65,0:21:42.40,Default,,0,0,0,,Que desfecho enfadonho.
+Dialogue: 0,0:21:42.94,0:21:46.40,Default,,0,0,0,,Veja que expressão estúpida a face dele tem na morte.
+Dialogue: 0,0:21:46.40,0:21:50.70,Default,,0,0,0,,Ele tinha um Servo em forma espiritual bem ao lado.
+Dialogue: 0,0:21:51.16,0:21:53.41,Default,,0,0,0,,Não o culpo por ter baixado a guarda.
+Dialogue: 0,0:21:53.41,0:21:56.71,Default,,0,0,0,,Então já aprendeu a gracejar.
+Dialogue: 0,0:21:56.71,0:21:59.46,Default,,0,0,0,,Tal progresso é digno de elogio.
+Dialogue: 0,0:22:00.59,0:22:02.05,Default,,0,0,0,,E então, Kirei?
+Dialogue: 0,0:22:02.05,0:22:05.92,Default,,0,0,0,,Sente-se um pouco melhor após ter perdido a chance de matar o seu pai?
+Dialogue: 0,0:22:06.88,0:22:11.68,Default,,0,0,0,,Você realmente não vê problema nisso, Gilgamesh, Rei dos Heróis?
+Dialogue: 0,0:22:12.42,0:22:15.81,Default,,0,0,0,,Contanto que continue a me entreter.
+Dialogue: 0,0:22:16.56,0:22:18.19,Default,,0,0,0,,Do contrário, Kirei...
+Dialogue: 0,0:22:19.10,0:22:22.82,Default,,0,0,0,,você é quem deveria questionar a sua própria determinação.
+Dialogue: 0,0:22:25.49,0:22:27.61,Default,,0,0,0,,Que o teu corpo se submeta às minhas ordens,
+Dialogue: 0,0:22:27.61,0:22:29.87,Default,,0,0,0,,e que o meu destino seja a tua espada.
+Dialogue: 0,0:22:29.87,0:22:31.78,Default,,0,0,0,,Atendendo ao chamado do Santo Graal,
+Dialogue: 0,0:22:31.78,0:22:34.70,Default,,0,0,0,,se acatas a esta vontade e razão...
+Dialogue: 0,0:22:35.25,0:22:36.33,Default,,0,0,0,,Por meio desta, eu juro.
+Dialogue: 0,0:22:36.33,0:22:40.46,Default,,0,0,0,,A tua oferenda será a minha carne, Kotomine Kirei...
+Dialogue: 0,0:22:40.46,0:22:42.84,Default,,0,0,0,,meu novo Mestre.
+Dialogue: 0,0:22:46.01,0:22:47.47,Default,,0,0,0,,Agora, Kirei.
+Dialogue: 0,0:22:47.47,0:22:49.18,Default,,0,0,0,,Comecemos.
+Dialogue: 0,0:22:49.68,0:22:54.72,Default,,0,0,0,,Ponha um fim a esta farsa da forma que achar melhor.
+Dialogue: 0,0:22:54.72,0:22:56.85,Default,,0,0,0,,Eu o recompensarei com o Graal.
+Dialogue: 0,0:22:56.85,0:23:00.06,Default,,0,0,0,,Considere feito, Rei dos Heróis.
+Dialogue: 0,0:23:00.06,0:23:02.48,Default,,0,0,0,,Que tenha todo o entretenimento que desejar.
+Dialogue: 0,0:23:02.48,0:23:05.86,Default,,0,0,0,,Até o momento em que encontrar a resposta que busco,
+Dialogue: 0,0:23:05.86,0:23:08.74,Default,,0,0,0,,desempenharei o papel de tolo com prazer.
+Dialogue: 0,0:24:43.58,0:24:46.50,Default,,0,0,0,,Kerry, o que você quer ser quando crescer?
+Dialogue: 0,0:24:46.50,0:24:48.63,Default,,0,0,0,,Não vá até aquela mansão.
+Dialogue: 0,0:24:48.63,0:24:49.96,Default,,0,0,0,,O que é isto?
+Dialogue: 0,0:24:49.96,0:24:51.84,Default,,0,0,0,,Decida o resto por conta própria.
+Dialogue: 0,0:24:51.84,0:24:53.47,Default,,0,0,0,,Ainda é cedo demais para você.
+Dialogue: 0,0:24:53.47,0:24:57.89,Default,,0,0,0,,Um dia, você terá o poder de mudar o mundo.
+Dialogue: 0,0:23:09.86,0:23:12.86,Signs,,0,0,0,,{\an8}Episódio 17: O Oitavo Contrato
+Dialogue: 0,0:24:55.38,0:24:57.89,Signs,,0,0,0,,{\an8}Próximo Episódio: Memórias Distantes

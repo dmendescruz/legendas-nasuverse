@@ -1,0 +1,354 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E11 - Discussing the Grail (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E11 - Discussing the Grail (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:33.26,0:00:34.43,Default,,0,0,0,,Irisviel.
+Dialogue: 0,0:00:37.64,0:00:39.01,Default,,0,0,0,,Você está bem?
+Dialogue: 0,0:00:39.43,0:00:43.77,Default,,0,0,0,,Então eles esperaram o Kiritsugu sair para atacar de frente...
+Dialogue: 0,0:00:44.19,0:00:48.56,Default,,0,0,0,,Aquele relâmpago, e este método descarado de assalto...
+Dialogue: 0,0:00:49.11,0:00:52.61,Default,,0,0,0,,O inimigo é muito provavelmente o Rider.
+Dialogue: 0,0:02:26.54,0:02:28.96,Default,,0,0,0,,Uau!
+Dialogue: 0,0:02:35.59,0:02:37.01,Default,,0,0,0,,Ei, Saber!
+Dialogue: 0,0:02:40.22,0:02:41.39,Default,,0,0,0,,Rider...
+Dialogue: 0,0:02:41.84,0:02:44.89,Default,,0,0,0,,Ouvi dizer que vocês tinham um castelo, então vim dar uma olhada...
+Dialogue: 0,0:02:45.43,0:02:47.73,Default,,0,0,0,,Mas o lugar é meio sombrio.
+Dialogue: 0,0:02:49.52,0:02:53.27,Default,,0,0,0,,E o que é essa roupa de combate?
+Dialogue: 0,0:02:54.32,0:02:57.53,Default,,0,0,0,,Você não está usando aquele seu terno moderno esta noite?
+Dialogue: 0,0:02:57.90,0:03:00.57,Default,,0,0,0,,Rider, o que você veio fazer aqui?
+Dialogue: 0,0:03:01.36,0:03:02.78,Default,,0,0,0,,Não dá para perceber?
+Dialogue: 0,0:03:05.16,0:03:08.33,Default,,0,0,0,,Vim tomar um drink. O que mais seria?
+Dialogue: 0,0:03:08.33,0:03:12.04,Default,,0,0,0,,Vamos lá, pare de ficar parada aí e me mostre o lugar.
+Dialogue: 0,0:03:12.88,0:03:16.21,Default,,0,0,0,,Certamente vocês têm um jardim digno de um banquete.
+Dialogue: 0,0:03:16.80,0:03:20.09,Default,,0,0,0,,Não suporto este castelo. É empoeirado demais!
+Dialogue: 0,0:03:36.57,0:03:41.07,Default,,0,0,0,,O Graal está destinado a parar nas mãos de quem for mais digno dele.
+Dialogue: 0,0:03:41.74,0:03:47.37,Default,,0,0,0,,E a batalha aqui na cidade de Fuyuki determinará quem é essa pessoa.
+Dialogue: 0,0:03:47.79,0:03:52.75,Default,,0,0,0,,Mas se é apenas um meio para decidir, então não há necessidade de derramamento de sangue.
+Dialogue: 0,0:03:52.75,0:03:57.34,Default,,0,0,0,,Se todos os Espíritos Heroicos puderem reconhecer as posições uns dos outros...
+Dialogue: 0,0:03:58.05,0:04:00.42,Default,,0,0,0,,...então a questão se resolverá por si mesma.
+Dialogue: 0,0:04:09.64,0:04:10.73,Default,,0,0,0,,Ora?
+Dialogue: 0,0:04:12.35,0:04:16.81,Default,,0,0,0,,Então você deseja começar comparando a sua posição com a minha, Rider?
+Dialogue: 0,0:04:17.86,0:04:19.23,Default,,0,0,0,,De fato.
+Dialogue: 0,0:04:19.23,0:04:23.40,Default,,0,0,0,,Como nós dois nos proclamamos reis, isto não é algo que possamos evitar.
+Dialogue: 0,0:04:23.82,0:04:27.74,Default,,0,0,0,,Pode considerar isto um Diálogo do Graal em vez de uma Guerra do Graal.
+Dialogue: 0,0:04:27.74,0:04:32.00,Default,,0,0,0,,Qual de nós é mais adequado para ser o rei do Graal?
+Dialogue: 0,0:04:33.75,0:04:37.75,Default,,0,0,0,,A questão se esclarecerá conforme bebermos.
+Dialogue: 0,0:04:40.67,0:04:43.63,Default,,0,0,0,,Já chega desse absurdo...
+Dialogue: 0,0:04:45.01,0:04:46.76,Default,,0,0,0,,...vira-lata.
+Dialogue: 0,0:04:48.51,0:04:50.85,Default,,0,0,0,,Archer, o que você faz aqui?
+Dialogue: 0,0:04:50.85,0:04:57.02,Default,,0,0,0,,Ah, eu o vi na cidade, então achei que não custava nada convidá-lo.
+Dialogue: 0,0:04:57.73,0:04:59.90,Default,,0,0,0,,Você está atrasado, Douradinho.
+Dialogue: 0,0:04:59.90,0:05:03.57,Default,,0,0,0,,Bem, você veio a pé, ao contrário de mim. Faz sentido.
+Dialogue: 0,0:05:03.99,0:05:08.66,Default,,0,0,0,,Então você escolheu realizar o Banquete dos Reis neste lugar deprimente?
+Dialogue: 0,0:05:08.66,0:05:12.91,Default,,0,0,0,,Como você compensará a grosseria de me fazer caminhar até aqui?
+Dialogue: 0,0:05:12.91,0:05:15.12,Default,,0,0,0,,Ah, não fale assim.
+Dialogue: 0,0:05:15.92,0:05:18.29,Default,,0,0,0,,Tome, comece com uma bebida.
+Dialogue: 0,0:05:27.26,0:05:29.26,Default,,0,0,0,,O que é essa zurrapa barata?
+Dialogue: 0,0:05:29.26,0:05:33.43,Default,,0,0,0,,Você realmente achou que poderíamos discernir a hierarquia dos Espíritos Heroicos com isso?
+Dialogue: 0,0:05:33.43,0:05:35.10,Default,,0,0,0,,É mesmo?
+Dialogue: 0,0:05:35.10,0:05:39.65,Default,,0,0,0,,Este estava entre os melhores que encontrei no mercado da cidade.
+Dialogue: 0,0:05:39.65,0:05:45.74,Default,,0,0,0,,Isso é porque você ignora o que é uma verdadeira bebida, vira-lata tolo.
+Dialogue: 0,0:05:55.33,0:05:58.46,Default,,0,0,0,,Contemplem, e reconheçam a sua insensatez.
+Dialogue: 0,0:05:58.46,0:06:01.13,Default,,0,0,0,,Esta é a bebida de um rei.
+Dialogue: 0,0:06:01.96,0:06:03.67,Default,,0,0,0,,Esplêndido, de fato.
+Dialogue: 0,0:06:15.56,0:06:17.69,Default,,0,0,0,,Isto é bom demais!
+Dialogue: 0,0:06:19.19,0:06:24.15,Default,,0,0,0,,O meu tesouro abriga apenas o que há de melhor, sejam bebidas ou armas.
+Dialogue: 0,0:06:28.65,0:06:32.45,Default,,0,0,0,,Isto por si só já deveria indicar qual de nós é o maior dos reis.
+Dialogue: 0,0:06:33.37,0:06:34.45,Default,,0,0,0,,Archer.
+Dialogue: 0,0:06:34.45,0:06:39.37,Default,,0,0,0,,Sua melhor bebida é realmente digna do melhor cálice.
+Dialogue: 0,0:06:39.37,0:06:42.67,Default,,0,0,0,,Infelizmente, o Graal não é uma taça de beber.
+Dialogue: 0,0:06:42.67,0:06:49.34,Default,,0,0,0,,Primeiro, você terá que nos contar a magnitude do desejo que tem para o Graal.
+Dialogue: 0,0:06:49.34,0:06:51.22,Default,,0,0,0,,Pare de criar distinções, vira-lata.
+Dialogue: 0,0:06:51.22,0:06:56.85,Default,,0,0,0,,A premissa de ter que lutar pelo Graal já não faz sentido para início de conversa.
+Dialogue: 0,0:06:58.60,0:07:02.65,Default,,0,0,0,,O Graal já me pertence.
+Dialogue: 0,0:07:02.65,0:07:07.15,Default,,0,0,0,,Cada um dos tesouros do mundo traça sua origem de volta ao meu tesouro.
+Dialogue: 0,0:07:07.15,0:07:11.28,Default,,0,0,0,,Então você está dizendo que já possuiu o Graal antes?
+Dialogue: 0,0:07:11.28,0:07:13.62,Default,,0,0,0,,Você saberia exatamente o que ele é?
+Dialogue: 0,0:07:13.62,0:07:14.70,Default,,0,0,0,,Não.
+Dialogue: 0,0:07:14.70,0:07:17.20,Default,,0,0,0,,Não enxergue isso sob os seus padrões de vira-lata.
+Dialogue: 0,0:07:17.20,0:07:21.75,Default,,0,0,0,,A riqueza no meu tesouro há muito superou o meu próprio conhecimento.
+Dialogue: 0,0:07:21.75,0:07:26.25,Default,,0,0,0,,Mas o simples fato de ser um tesouro basta para torná-lo meu.
+Dialogue: 0,0:07:26.25,0:07:28.96,Default,,0,0,0,,E qualquer um que queira tomá-lo para si...
+Dialogue: 0,0:07:29.59,0:07:32.72,Default,,0,0,0,,...não passa de um ladrão descarado.
+Dialogue: 0,0:07:32.72,0:07:37.06,Default,,0,0,0,,Suas palavras não são diferentes dos delírios insanos do Caster.
+Dialogue: 0,0:07:37.56,0:07:41.14,Default,,0,0,0,,Parece que ele não foi o único Servo a enlouquecer.
+Dialogue: 0,0:07:41.14,0:07:43.98,Default,,0,0,0,,Bem, eu não sei...
+Dialogue: 0,0:07:45.52,0:07:50.24,Default,,0,0,0,,Acho que tenho uma ideia de qual é o verdadeiro nome do Douradinho.
+Dialogue: 0,0:07:50.99,0:07:52.61,Default,,0,0,0,,E então, Archer?
+Dialogue: 0,0:07:52.61,0:07:57.12,Default,,0,0,0,,Você está dizendo que só precisamos do seu consentimento se quisermos o Graal?
+Dialogue: 0,0:07:57.12,0:07:58.33,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:07:58.33,0:08:04.00,Default,,0,0,0,,No entanto, não tenho absolutamente razão alguma para conceder tal dádiva a vira-latas como vocês dois.
+Dialogue: 0,0:08:04.42,0:08:07.42,Default,,0,0,0,,Egoísta, não é?
+Dialogue: 0,0:08:07.42,0:08:08.25,Default,,0,0,0,,Tolo.
+Dialogue: 0,0:08:08.25,0:08:12.51,Default,,0,0,0,,Apenas os meus súditos e o meu povo são dignos da minha compaixão.
+Dialogue: 0,0:08:12.51,0:08:17.14,Default,,0,0,0,,Em outras palavras, Rider, se você se curvar a mim...
+Dialogue: 0,0:08:17.93,0:08:22.14,Default,,0,0,0,,posso lhe dar uma taça ou duas para beber a qualquer momento.
+Dialogue: 0,0:08:22.14,0:08:25.44,Default,,0,0,0,,Isso está fora de cogitação.
+Dialogue: 0,0:08:25.44,0:08:30.82,Default,,0,0,0,,Mas, Archer, não é como se você realmente quisesse o Graal, quer?
+Dialogue: 0,0:08:30.82,0:08:31.90,Default,,0,0,0,,Claro que não.
+Dialogue: 0,0:08:31.90,0:08:37.07,Default,,0,0,0,,Mas preciso aplicar o meu julgamento aos ladrões que cobiçam os meus tesouros.
+Dialogue: 0,0:08:37.07,0:08:39.33,Default,,0,0,0,,É uma questão de princípio.
+Dialogue: 0,0:08:40.54,0:08:42.83,Default,,0,0,0,,Sendo assim, Archer...
+Dialogue: 0,0:08:43.29,0:08:47.08,Default,,0,0,0,,De que justiça e razão você está falando?
+Dialogue: 0,0:08:47.08,0:08:48.04,Default,,0,0,0,,Da lei.
+Dialogue: 0,0:08:48.50,0:08:51.80,Default,,0,0,0,,A minha lei, que eu mesmo estabeleci como rei.
+Dialogue: 0,0:08:51.80,0:08:53.80,Default,,0,0,0,,Perfeito, de fato.
+Dialogue: 0,0:08:54.34,0:08:57.26,Default,,0,0,0,,Você é o rei porque leva a sua própria lei até o fim.
+Dialogue: 0,0:09:00.51,0:09:02.31,Default,,0,0,0,,Mas você sabe...
+Dialogue: 0,0:09:02.31,0:09:05.85,Default,,0,0,0,,Eu quero tanto o Graal que não consigo me conter.
+Dialogue: 0,0:09:05.85,0:09:09.36,Default,,0,0,0,,É o meu estilo simplesmente tomar o que desejo.
+Dialogue: 0,0:09:09.90,0:09:11.90,Default,,0,0,0,,Afinal, eu sou Iskandar...
+Dialogue: 0,0:09:12.69,0:09:14.95,Default,,0,0,0,,...o Rei dos Conquistadores.
+Dialogue: 0,0:09:15.61,0:09:17.41,Default,,0,0,0,,Não importa.
+Dialogue: 0,0:09:17.41,0:09:20.28,Default,,0,0,0,,Você quebra a lei, e eu o puno.
+Dialogue: 0,0:09:20.28,0:09:22.62,Default,,0,0,0,,Não há espaço para discussão.
+Dialogue: 0,0:09:24.41,0:09:26.96,Default,,0,0,0,,O que significa que...
+Dialogue: 0,0:09:26.96,0:09:29.54,Default,,0,0,0,,...tudo o que nos resta é cruzar espadas.
+Dialogue: 0,0:09:31.59,0:09:33.13,Default,,0,0,0,,De qualquer forma, Archer.
+Dialogue: 0,0:09:33.13,0:09:36.26,Default,,0,0,0,,Por que não terminamos de beber este vinho?
+Dialogue: 0,0:09:36.26,0:09:38.76,Default,,0,0,0,,Podemos lutar até a morte depois disso.
+Dialogue: 0,0:09:38.76,0:09:40.01,Default,,0,0,0,,Mas é claro.
+Dialogue: 0,0:09:40.01,0:09:45.35,Default,,0,0,0,,Ou você desdenharia deste vinho que permiti que tomasse?
+Dialogue: 0,0:09:45.35,0:09:46.94,Default,,0,0,0,,Absolutamente não!
+Dialogue: 0,0:09:46.94,0:09:49.61,Default,,0,0,0,,Como eu não me serviria de um vinho tão delicioso?
+Dialogue: 0,0:09:53.07,0:09:54.32,Default,,0,0,0,,Rei dos Conquistadores.
+Dialogue: 0,0:09:55.49,0:10:02.99,Default,,0,0,0,,Você reconhece a legítima posse de outra pessoa sobre o Graal e, mesmo assim, o tomará pela força?
+Dialogue: 0,0:10:03.66,0:10:07.12,Default,,0,0,0,,Por que você iria tão longe pelo Graal?
+Dialogue: 0,0:10:18.26,0:10:19.59,Default,,0,0,0,,Pela verdadeira encarnação.
+Dialogue: 0,0:10:19.59,0:10:20.59,Default,,0,0,0,,Hã?
+Dialogue: 0,0:10:20.59,0:10:21.47,Default,,0,0,0,,Hã?!
+Dialogue: 0,0:10:21.89,0:10:25.81,Default,,0,0,0,,Ei, seu objetivo não era a conquista do mundo--
+Dialogue: 0,0:10:27.60,0:10:28.77,Default,,0,0,0,,Idiota.
+Dialogue: 0,0:10:29.27,0:10:32.61,Default,,0,0,0,,Qual seria a graça em deixar um cálice qualquer conquistar o mundo por mim?
+Dialogue: 0,0:10:32.61,0:10:35.36,Default,,0,0,0,,A conquista é um sonho que confiarei a mim mesmo.
+Dialogue: 0,0:10:35.36,0:10:37.99,Default,,0,0,0,,Tudo o que quero do Graal...
+Dialogue: 0,0:10:38.45,0:10:40.86,Default,,0,0,0,,...é o primeiro passo desse processo.
+Dialogue: 0,0:10:40.86,0:10:42.24,Default,,0,0,0,,Vira-lata.
+Dialogue: 0,0:10:42.24,0:10:47.08,Default,,0,0,0,,Você me desafiaria por algo tão insignificante?
+Dialogue: 0,0:10:48.00,0:10:52.58,Default,,0,0,0,,Mesmo que o mana nos dê forma neste mundo, no fim ainda permanecemos Servos.
+Dialogue: 0,0:10:54.50,0:11:00.84,Default,,0,0,0,,Eu quero estar firmemente enraizado neste mundo como um ser humano vivo.
+Dialogue: 0,0:11:01.26,0:11:05.43,Default,,0,0,0,,E com um corpo só meu, desafiarei tanto os céus quanto a terra.
+Dialogue: 0,0:11:05.43,0:11:09.10,Default,,0,0,0,,É disso que se trata o ato da conquista.
+Dialogue: 0,0:11:09.56,0:11:14.61,Default,,0,0,0,,É assim que ele começa, prossegue e se conclui.
+Dialogue: 0,0:11:17.44,0:11:19.61,Default,,0,0,0,,Tal é o meu caminho de conquista.
+Dialogue: 0,0:11:21.16,0:11:22.70,Default,,0,0,0,,Eu decidi, Rider.
+Dialogue: 0,0:11:23.45,0:11:26.49,Default,,0,0,0,,Eu mesmo matarei você.
+Dialogue: 0,0:11:27.04,0:11:29.83,Default,,0,0,0,,Não há necessidade de ressaltar isso agora.
+Dialogue: 0,0:11:29.83,0:11:35.67,Default,,0,0,0,,Também pretendo tomar aquele seu tesouro para mim, então prepare-se.
+Dialogue: 0,0:11:36.30,0:11:40.51,Default,,0,0,0,,Não é assim que um rei deveria ser.
+Dialogue: 0,0:11:41.80,0:11:47.51,Default,,0,0,0,,Vamos ouvir qual é o seu desejo, então.
+Dialogue: 0,0:11:51.64,0:11:55.36,Default,,0,0,0,,Eu desejo a salvação da minha terra natal.
+Dialogue: 0,0:11:56.36,0:11:59.03,Default,,0,0,0,,Com o mecanismo onipotente de concessão de desejos,
+Dialogue: 0,0:11:59.94,0:12:02.49,Default,,0,0,0,,eu impedirei o destino de destruição da Grã-Bretanha.
+Dialogue: 0,0:12:07.87,0:12:10.37,Default,,0,0,0,,Eles estão bebendo, vejam só.
+Dialogue: 0,0:12:10.79,0:12:14.17,Default,,0,0,0,,Está tudo bem mesmo deixar o Archer sozinho?
+Dialogue: 0,0:12:15.33,0:12:16.67,Default,,0,0,0,,Eu não posso fazer nada.
+Dialogue: 0,0:12:17.04,0:12:23.59,Default,,0,0,0,,Como ele é o rei entre reis, jamais poderia ignorar o diálogo que lhe foi imposto.
+Dialogue: 0,0:12:24.68,0:12:26.22,Default,,0,0,0,,A propósito, Kirei.
+Dialogue: 0,0:12:26.93,0:12:30.97,Default,,0,0,0,,O que você acha da diferença de força entre o Rider e o Archer?
+Dialogue: 0,0:12:31.77,0:12:39.48,Default,,0,0,0,,Acho que a chave reside em saber se o Rider possui um trunfo mais poderoso do que a Roda de Górdio.
+Dialogue: 0,0:12:40.61,0:12:47.49,Default,,0,0,0,,Já que o Rider está desfrutando de sua bebida com seu Mestre desprotegido, não há momento melhor para um ataque surpresa.
+Dialogue: 0,0:12:47.49,0:12:50.79,Default,,0,0,0,,Não importa se temos chances de vencer ou não.
+Dialogue: 0,0:12:51.25,0:12:58.00,Default,,0,0,0,,Mesmo se o Assassin for derrotado, teremos alcançado nosso objetivo se pudermos discernir a diferença de forças.
+Dialogue: 0,0:12:58.79,0:13:03.09,Default,,0,0,0,,Há algo que provavelmente podemos tentar a esta altura, Kirei.
+Dialogue: 0,0:13:03.67,0:13:05.05,Default,,0,0,0,,Não tenho objeções.
+Dialogue: 0,0:13:05.05,0:13:09.76,Default,,0,0,0,,Provavelmente levará cerca de dez minutos para reunir todos os Assassins.
+Dialogue: 0,0:13:11.43,0:13:14.27,Default,,0,0,0,,Bom. Dê a ordem.
+Dialogue: 0,0:13:14.27,0:13:18.69,Default,,0,0,0,,Embora seja uma aposta arriscada, por sorte não temos nada a perder.
+Dialogue: 0,0:13:18.69,0:13:22.19,Default,,0,0,0,,Kirei, use um Feitiço de Comando para dar esta ordem ao Assassin:
+Dialogue: 0,0:13:22.86,0:13:26.15,Default,,0,0,0,,Alcance a vitória, custe o que custar.
+Dialogue: 0,0:13:30.87,0:13:32.58,Default,,0,0,0,,Ei, Rei dos Cavaleiros.
+Dialogue: 0,0:13:33.08,0:13:36.29,Default,,0,0,0,,Você acabou de dizer que mudaria o destino?
+Dialogue: 0,0:13:36.29,0:13:39.67,Default,,0,0,0,,Isso quer dizer que você deseja alterar o passado?
+Dialogue: 0,0:13:39.67,0:13:40.92,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:13:40.92,0:13:48.34,Default,,0,0,0,,Mesmo que seja um desejo que um milagre comum não possa realizar, se o Santo Graal for realmente onipotente, tenho certeza...
+Dialogue: 0,0:13:51.05,0:13:52.97,Default,,0,0,0,,É... Saber...
+Dialogue: 0,0:13:52.97,0:14:03.03,Default,,0,0,0,,Só para ter certeza, mas aquela Grã-Bretanha ruiu durante a sua época, durante o seu reinado, não foi?
+Dialogue: 0,0:14:03.03,0:14:04.23,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:14:04.23,0:14:06.49,Default,,0,0,0,,É por isso que não posso aceitar.
+Dialogue: 0,0:14:06.49,0:14:08.16,Default,,0,0,0,,É por isso que eu lamento.
+Dialogue: 0,0:14:08.74,0:14:10.57,Default,,0,0,0,,Eu quero mudar como tudo terminou.
+Dialogue: 0,0:14:11.12,0:14:14.20,Default,,0,0,0,,Porque essa foi a minha responsabilidade e de mais ninguém...
+Dialogue: 0,0:14:16.96,0:14:19.25,Default,,0,0,0,,Archer, o que é tão engraçado?
+Dialogue: 0,0:14:20.04,0:14:24.55,Default,,0,0,0,,Ela se proclama um rei e é louvada por todos como tal...
+Dialogue: 0,0:14:24.55,0:14:26.84,Default,,0,0,0,,E ainda assim diz que "lamenta" isso?
+Dialogue: 0,0:14:27.92,0:14:30.47,Default,,0,0,0,,Como eu poderia manter uma cara séria?!
+Dialogue: 0,0:14:31.30,0:14:32.51,Default,,0,0,0,,Saber.
+Dialogue: 0,0:14:32.97,0:14:40.23,Default,,0,0,0,,Certamente você não está dizendo que renega as próprias marcas que deixou na história?
+Dialogue: 0,0:14:40.23,0:14:41.31,Default,,0,0,0,,Estou!
+Dialogue: 0,0:14:41.31,0:14:42.56,Default,,0,0,0,,Por que você está perplexo?
+Dialogue: 0,0:14:42.56,0:14:43.90,Default,,0,0,0,,Por que você ri?
+Dialogue: 0,0:14:43.90,0:14:47.86,Default,,0,0,0,,O país que me concedeu a minha espada, o país ao qual dediquei a minha vida, foi destruído.
+Dialogue: 0,0:14:47.86,0:14:49.99,Default,,0,0,0,,Por que seria estranho eu lamentar isso?
+Dialogue: 0,0:14:49.99,0:14:52.12,Default,,0,0,0,,Você ouviu isso, Rider?
+Dialogue: 0,0:14:52.12,0:14:55.70,Default,,0,0,0,,As coisas que esta garotinha que se chama de Rei dos Cavaleiros está dizendo?!
+Dialogue: 0,0:14:55.70,0:14:59.12,Default,,0,0,0,,"O país ao qual dediquei a minha vida", ela diz!
+Dialogue: 0,0:14:59.12,0:15:01.38,Default,,0,0,0,,O que isso tem de engraçado afinal?!
+Dialogue: 0,0:15:02.83,0:15:07.63,Default,,0,0,0,,Um rei deveria fazer qualquer sacrifício para assegurar a prosperidade do seu país.
+Dialogue: 0,0:15:07.96,0:15:09.38,Default,,0,0,0,,Não.
+Dialogue: 0,0:15:10.59,0:15:12.59,Default,,0,0,0,,O rei não sacrifica nada.
+Dialogue: 0,0:15:12.59,0:15:16.64,Default,,0,0,0,,São o país e as pessoas que se sacrificam pelo rei.
+Dialogue: 0,0:15:16.64,0:15:18.31,Default,,0,0,0,,Jamais o contrário.
+Dialogue: 0,0:15:18.77,0:15:19.89,Default,,0,0,0,,O quê?
+Dialogue: 0,0:15:19.89,0:15:22.27,Default,,0,0,0,,Essas são as palavras de um tirano!
+Dialogue: 0,0:15:22.27,0:15:23.40,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:15:23.40,0:15:26.98,Default,,0,0,0,,Nós somos heróis porque somos tiranos.
+Dialogue: 0,0:15:26.98,0:15:28.40,Default,,0,0,0,,No entanto, Saber.
+Dialogue: 0,0:15:28.40,0:15:35.03,Default,,0,0,0,,Se um rei se arrepende do seu governo ou do seu desfecho, esse rei não passa de um tolo.
+Dialogue: 0,0:15:35.03,0:15:37.29,Default,,0,0,0,,Pior do que um tirano.
+Dialogue: 0,0:15:37.29,0:15:44.29,Default,,0,0,0,,Iskandar, o seu reinado terminou com os seus herdeiros assassinados e o seu império fragmentado em três partes.
+Dialogue: 0,0:15:44.29,0:15:48.30,Default,,0,0,0,,Você não tem nenhum arrependimento de como tudo terminou?
+Dialogue: 0,0:15:48.30,0:15:49.30,Default,,0,0,0,,Nenhum.
+Dialogue: 0,0:15:50.92,0:15:59.81,Default,,0,0,0,,Se o fim foi provocado pelas minhas decisões e pelo modo como os meus súditos viveram, então aceitarei a sua destruição como inevitável.
+Dialogue: 0,0:15:59.81,0:16:02.69,Default,,0,0,0,,Eu sofrerei. E chorarei.
+Dialogue: 0,0:16:02.69,0:16:04.94,Default,,0,0,0,,Mas jamais me arrependerei.
+Dialogue: 0,0:16:04.94,0:16:06.15,Default,,0,0,0,,Você...
+Dialogue: 0,0:16:06.15,0:16:08.23,Default,,0,0,0,,Muito menos desfaria o passado!
+Dialogue: 0,0:16:08.23,0:16:14.16,Default,,0,0,0,,Tal ato tolo apenas zombaria de todos aqueles que lutaram ao meu lado para erguer o meu império!
+Dialogue: 0,0:16:14.16,0:16:17.20,Default,,0,0,0,,Apenas guerreiros brutos encontram glória na destruição!
+Dialogue: 0,0:16:17.20,0:16:19.70,Default,,0,0,0,,De que vale um rei que falha em proteger os desamparados?
+Dialogue: 0,0:16:20.12,0:16:23.08,Default,,0,0,0,,Um governo justo, com leis justas...
+Dialogue: 0,0:16:23.08,0:16:25.17,Default,,0,0,0,,Esses são os verdadeiros deveres de um rei!
+Dialogue: 0,0:16:26.29,0:16:31.26,Default,,0,0,0,,Então você, o rei, é uma escrava daquilo que é justo?
+Dialogue: 0,0:16:31.26,0:16:32.42,Default,,0,0,0,,Não me importo.
+Dialogue: 0,0:16:32.88,0:16:35.01,Default,,0,0,0,,Um rei morreria de bom grado pelos seus ideais.
+Dialogue: 0,0:16:36.51,0:16:38.89,Default,,0,0,0,,Não é assim que uma pessoa deveria viver.
+Dialogue: 0,0:16:39.93,0:16:44.44,Default,,0,0,0,,Se governo um país como seu rei, não posso esperar viver como uma pessoa comum.
+Dialogue: 0,0:16:45.15,0:16:46.31,Default,,0,0,0,,Rei dos Conquistadores.
+Dialogue: 0,0:16:46.81,0:16:52.19,Default,,0,0,0,,Você jamais entenderia, já que busca o Graal meramente para o seu próprio benefício.
+Dialogue: 0,0:16:53.11,0:16:57.37,Default,,0,0,0,,Você, que se tornou um soberano apenas para saciar a sua ganância infinita!
+Dialogue: 0,0:16:57.37,0:17:00.20,Default,,0,0,0,,Um rei sem ganância é ainda pior do que uma figura decorativa!
+Dialogue: 0,0:17:01.45,0:17:02.58,Default,,0,0,0,,Saber.
+Dialogue: 0,0:17:03.08,0:17:05.75,Default,,0,0,0,,Você disse que morreria pelos seus ideais.
+Dialogue: 0,0:17:05.75,0:17:10.63,Default,,0,0,0,,Em vida, você deve ter sido uma santa pura e honesta.
+Dialogue: 0,0:17:10.63,0:17:14.30,Default,,0,0,0,,Uma figura nobre e inviolável, certamente.
+Dialogue: 0,0:17:14.30,0:17:19.85,Default,,0,0,0,,Mas quem na Terra admira a trilha espinhosa de um mártir?
+Dialogue: 0,0:17:19.85,0:17:22.60,Default,,0,0,0,,Quem sonha com uma vida dessas?
+Dialogue: 0,0:17:24.60,0:17:25.85,Default,,0,0,0,,Veja bem...
+Dialogue: 0,0:17:26.31,0:17:32.07,Default,,0,0,0,,Um rei deve ser mais ganancioso, rir mais alto e ser mais furioso do que qualquer outro.
+Dialogue: 0,0:17:32.07,0:17:36.03,Default,,0,0,0,,Ele deve exemplificar o extremo de todas as coisas, incluindo o bem e o mal.
+Dialogue: 0,0:17:36.03,0:17:41.33,Default,,0,0,0,,É exatamente por isso que os seus súditos o invejam e o adoram.
+Dialogue: 0,0:17:41.33,0:17:47.96,Default,,0,0,0,,E por isso que a chama de querer ser como o rei pode arder no coração de cada cidadão.
+Dialogue: 0,0:17:52.25,0:17:54.84,Default,,0,0,0,,Orgulhoso Rei dos Cavaleiros.
+Dialogue: 0,0:17:54.84,0:18:02.35,Default,,0,0,0,,A retidão e os ideais que você carregou podem ter salvado o seu país uma vez.
+Dialogue: 0,0:18:03.68,0:18:04.85,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:18:04.85,0:18:12.23,Default,,0,0,0,,Tenho certeza de que você sabe o que aconteceu àqueles que foram constante e unicamente salvos.
+Dialogue: 0,0:18:13.44,0:18:14.61,Default,,0,0,0,,O quê?
+Dialogue: 0,0:18:25.33,0:18:30.13,Default,,0,0,0,,Você salvou os seus súditos, mas nunca os liderou.
+Dialogue: 0,0:18:31.38,0:18:34.38,Default,,0,0,0,,Você nunca mostrou a eles o que um rei deveria ser.
+Dialogue: 0,0:18:34.38,0:18:37.38,Default,,0,0,0,,Você abandonou os seus homens quando eles perderam o rumo.
+Dialogue: 0,0:18:37.38,0:18:40.14,Default,,0,0,0,,Sozinha e inabalável,
+Dialogue: 0,0:18:40.14,0:18:44.22,Default,,0,0,0,,você seguiu os seus próprios ideais perfeitinhos.
+Dialogue: 0,0:18:46.35,0:18:49.44,Default,,0,0,0,,Portanto, você não é um verdadeiro rei.
+Dialogue: 0,0:18:49.44,0:18:58.28,Default,,0,0,0,,Você não passa de uma garotinha, aprisionada pelo falso ídolo de um rei que serve aos outros, mas nunca a si mesmo.
+Dialogue: 0,0:19:02.32,0:19:03.28,Default,,0,0,0,,Eu...
+Dialogue: 0,0:19:05.79,0:19:07.41,Default,,0,0,0,,Eu...
+Dialogue: 0,0:19:18.59,0:19:20.63,Default,,0,0,0,,Do que você está rindo, Archer?
+Dialogue: 0,0:19:20.63,0:19:25.89,Default,,0,0,0,,Ora, é apenas que esse seu semblante angustiado foi um espetáculo e tanto de se ver.
+Dialogue: 0,0:19:26.64,0:19:31.27,Default,,0,0,0,,É exatamente como o rosto de uma virgem desvirginada na cama.
+Dialogue: 0,0:19:31.27,0:19:33.52,Default,,0,0,0,,Exatamente do jeito que eu aprecio.
+Dialogue: 0,0:19:33.52,0:19:35.15,Default,,0,0,0,,Maldito...!
+Dialogue: 0,0:19:50.91,0:19:52.08,Default,,0,0,0,,Assassin...
+Dialogue: 0,0:20:00.84,0:20:03.76,Default,,0,0,0,,Isto é obra sua, Douradinho?
+Dialogue: 0,0:20:04.26,0:20:07.18,Default,,0,0,0,,Tokiomi apenas se humilha.
+Dialogue: 0,0:20:08.22,0:20:09.52,Default,,0,0,0,,Isso é ridículo!
+Dialogue: 0,0:20:09.52,0:20:11.85,Default,,0,0,0,,Por que há tantos Assassins?!
+Dialogue: 0,0:20:12.52,0:20:14.98,Default,,0,0,0,,Nós somos um só, divididos em muitos.
+Dialogue: 0,0:20:14.98,0:20:17.61,Default,,0,0,0,,Um Servo que é muitos e também um só.
+Dialogue: 0,0:20:17.61,0:20:21.11,Default,,0,0,0,,Contudo, somos um com muitas sombras.
+Dialogue: 0,0:20:24.36,0:20:28.91,Default,,0,0,0,,Um Servo com múltiplas personalidades que se materializam em entidades separadas para cada uma?
+Dialogue: 0,0:20:31.20,0:20:33.79,Default,,0,0,0,,R-Rider, eh...
+Dialogue: 0,0:20:33.79,0:20:37.09,Default,,0,0,0,,Vamos, garoto. Acalme-se.
+Dialogue: 0,0:20:37.59,0:20:43.22,Default,,0,0,0,,Independentemente de você tratá-los como convidados, eles ainda podem julgar quem é o maior rei.
+Dialogue: 0,0:20:43.22,0:20:47.89,Default,,0,0,0,,Você os convidará para o banquete também, Rei dos Conquistadores?
+Dialogue: 0,0:20:47.89,0:20:49.31,Default,,0,0,0,,Claro.
+Dialogue: 0,0:20:49.31,0:20:52.52,Default,,0,0,0,,As palavras de um rei são para todos ouvirem.
+Dialogue: 0,0:20:52.52,0:20:57.31,Default,,0,0,0,,Se eles vieram para escutar, não importa se são amigos ou inimigos.
+Dialogue: 0,0:20:59.82,0:21:01.36,Default,,0,0,0,,Agora, não se acanhem!
+Dialogue: 0,0:21:01.36,0:21:05.36,Default,,0,0,0,,Aqueles que desejam falar conosco, cheguem à frente e peguem uma taça.
+Dialogue: 0,0:21:05.36,0:21:09.12,Default,,0,0,0,,Esta bebida é como o sangue de vocês!
+Dialogue: 0,0:21:16.37,0:21:17.54,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:21:17.96,0:21:21.46,Default,,0,0,0,,Eu avisei que esta bebida é como o sangue de vocês.
+Dialogue: 0,0:21:21.88,0:21:24.76,Default,,0,0,0,,Se vocês insistem em derramá-lo...
+Dialogue: 0,0:21:25.30,0:21:26.59,Default,,0,0,0,,Que assim seja.
+Dialogue: 0,0:21:40.48,0:21:43.03,Default,,0,0,0,,Saber! Archer!
+Dialogue: 0,0:21:43.03,0:21:45.03,Default,,0,0,0,,Eis a pergunta final do nosso banquete.
+Dialogue: 0,0:21:45.53,0:21:48.78,Default,,0,0,0,,O rei deve ser solitário em sua superioridade?
+Dialogue: 0,0:21:49.57,0:21:54.33,Default,,0,0,0,,O rei não tem escolha senão ser solitário!
+Dialogue: 0,0:21:54.33,0:21:57.75,Default,,0,0,0,,Não, você não entende absolutamente nada.
+Dialogue: 0,0:21:58.12,0:22:05.30,Default,,0,0,0,,Parece que terei que mostrar a vocês exatamente o que é um verdadeiro rei.
+Dialogue: 0,0:22:28.15,0:22:29.24,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:22:29.70,0:22:31.66,Default,,0,0,0,,Uma Esfera de Realidade?!
+Dialogue: 0,0:22:31.66,0:22:32.74,Default,,0,0,0,,Ridículo...
+Dialogue: 0,0:22:33.49,0:22:35.95,Default,,0,0,0,,Tornar a terra imaginada em realidade...
+Dialogue: 0,0:22:38.25,0:22:42.38,Default,,0,0,0,,Aqui, meus exércitos outrora cavalgaram sobre a terra.
+Dialogue: 0,0:22:42.38,0:22:47.84,Default,,0,0,0,,Um cenário que cada um dos meus heróis, que compartilharam minhas alegrias e dores, jamais esquecerá.
+Dialogue: 0,0:22:54.43,0:23:01.40,Default,,0,0,0,,Eu posso tornar este mundo real porque ele ainda existe dentro do coração de todos nós!
+Dialogue: 0,0:23:04.15,0:23:06.65,Default,,0,0,0,,Contemplem o meu exército inigualável!
+Dialogue: 0,0:23:06.65,0:23:12.91,Default,,0,0,0,,Seus corpos foram destruídos e suas almas foram oferecidas ao mundo como Espíritos Heroicos.
+Dialogue: 0,0:23:12.91,0:23:17.37,Default,,0,0,0,,E ainda assim, esses heróis lendários permanecem leais a mim!
+Dialogue: 0,0:23:18.41,0:23:23.08,Default,,0,0,0,,O meu laço com eles é o meu maior tesouro, o meu caminho de realeza!
+Dialogue: 0,0:23:23.08,0:23:26.00,Default,,0,0,0,,O Fantasma Nobre supremo que eu, Iskandar, possuo:
+Dialogue: 0,0:23:26.00,0:23:29.17,Default,,0,0,0,,Ionian Hetairoi!
+Dialogue: 0,0:23:34.43,0:23:37.81,Default,,0,0,0,,Cada um deles é um Servo!
+Dialogue: 0,0:23:39.18,0:23:41.06,Default,,0,0,0,,Faz muito tempo, companheiro.
+Dialogue: 0,0:23:44.23,0:23:50.36,Default,,0,0,0,,Um rei deve viver uma vida mais vibrante do que qualquer outro e ser uma figura para todos admirarem!
+Dialogue: 0,0:23:50.36,0:23:51.24,Default,,0,0,0,,Sim!
+Dialogue: 0,0:23:51.24,0:23:52.11,Default,,0,0,0,,Sim!
+Dialogue: 0,0:23:52.11,0:23:53.36,Default,,0,0,0,,Sim!
+Dialogue: 0,0:23:55.49,0:24:01.12,Default,,0,0,0,,O rei é aquele que reúne a admiração de todos os seus heróis e se ergue como seu guia!
+Dialogue: 0,0:24:01.12,0:24:04.63,Default,,0,0,0,,Portanto, o rei não está sozinho.
+Dialogue: 0,0:24:04.63,0:24:10.13,Default,,0,0,0,,Pois a sua vontade equivale à de todos os seus seguidores combinados!
+Dialogue: 0,0:24:10.13,0:24:11.51,Default,,0,0,0,,Sim!
+Dialogue: 0,0:24:11.51,0:24:12.43,Default,,0,0,0,,Sim!
+Dialogue: 0,0:24:12.43,0:24:13.64,Default,,0,0,0,,Sim!
+Dialogue: 0,0:24:13.64,0:24:15.14,Default,,0,0,0,,E agora...
+Dialogue: 0,0:24:15.60,0:24:17.89,Default,,0,0,0,,Podemos começar, Assassin?
+Dialogue: 0,0:24:18.97,0:24:22.52,Default,,0,0,0,,Como vocês podem ver, o campo de batalha que criamos é uma planície aberta.
+Dialogue: 0,0:24:22.52,0:24:25.94,Default,,0,0,0,,Receio que tenhamos a vantagem com os nossos números superiores.
+Dialogue: 0,0:24:27.02,0:24:28.90,Default,,0,0,0,,Aniquilem-nos!
+Dialogue: 0,0:25:39.89,0:25:42.64,Default,,0,0,0,,Esse desfecho foi decepcionante.
+Dialogue: 0,0:25:44.18,0:25:46.94,Default,,0,0,0,,Nós já dissemos tudo o que havia para dizer.
+Dialogue: 0,0:25:46.94,0:25:49.81,Default,,0,0,0,,Acho que isto baste por hoje.
+Dialogue: 0,0:25:50.61,0:25:51.77,Default,,0,0,0,,Espere, Rider.
+Dialogue: 0,0:25:51.77,0:25:53.03,Default,,0,0,0,,Eu ainda não terminei...
+Dialogue: 0,0:25:53.03,0:25:54.82,Default,,0,0,0,,Pode calar a boca.
+Dialogue: 0,0:25:54.82,0:25:57.66,Default,,0,0,0,,Esta noite os reis deveriam conversar neste banquete.
+Dialogue: 0,0:25:58.49,0:26:02.74,Default,,0,0,0,,Mas eu não reconheço mais você como um rei, Saber.
+Dialogue: 0,0:26:08.79,0:26:13.34,Default,,0,0,0,,Garotinha, acorde desse seu sonho triste.
+Dialogue: 0,0:26:13.34,0:26:19.34,Default,,0,0,0,,Se não acordar, algum dia perderá até esse resquício de orgulho que tem como Espírito Heroico.
+Dialogue: 0,0:26:19.80,0:26:25.31,Default,,0,0,0,,O sonho da realeza de que você falou é uma maldição.
+Dialogue: 0,0:26:25.31,0:26:25.85,Default,,0,0,0,,O quê?!
+Dialogue: 0,0:26:35.61,0:26:38.65,Default,,0,0,0,,Você não precisa ouvi-lo, Saber.
+Dialogue: 0,0:26:39.11,0:26:40.82,Default,,0,0,0,,Você está correta.
+Dialogue: 0,0:26:40.82,0:26:43.12,Default,,0,0,0,,Siga o caminho no qual você acredita.
+Dialogue: 0,0:26:43.99,0:26:50.83,Default,,0,0,0,,A agonia e o conflito em que você se afoga enquanto carrega o fardo de uma realeza pesada demais para qualquer um...
+Dialogue: 0,0:26:51.79,0:26:55.13,Default,,0,0,0,,É realmente muito prazeroso de se ver.
+Dialogue: 0,0:26:55.59,0:26:58.38,Default,,0,0,0,,Continue assim, Rei dos Cavaleiros.
+Dialogue: 0,0:26:58.38,0:27:03.68,Default,,0,0,0,,Você pode realmente se provar digna de ainda mais do meu amor.
+Dialogue: 0,0:27:13.15,0:27:14.32,Default,,0,0,0,,Saber...
+Dialogue: 0,0:27:15.07,0:27:16.53,Default,,0,0,0,,Eu me lembro.
+Dialogue: 0,0:27:17.15,0:27:23.37,Default,,0,0,0,,Houve uma vez um cavaleiro que partiu de Camelot, afirmando que o Rei Arthur não entendia o que os outros sentiam.
+Dialogue: 0,0:27:25.12,0:27:26.41,Default,,0,0,0,,Talvez...
+Dialogue: 0,0:27:27.04,0:27:33.25,Default,,0,0,0,,...esses sentimentos fossem compartilhados por todos na Távola Redonda.
+Dialogue: 0,0:29:16.48,0:29:18.40,Default,,0,0,0,,Isto inicia o segundo estágio.
+Dialogue: 0,0:29:18.40,0:29:20.69,Default,,0,0,0,,Eu não sou um humano normal.
+Dialogue: 0,0:29:20.69,0:29:23.65,Default,,0,0,0,,Não pode ser tão simples!
+Dialogue: 0,0:29:23.65,0:29:25.70,Default,,0,0,0,,Faça como desejar.
+Dialogue: 0,0:29:25.70,0:29:27.62,Default,,0,0,0,,O seu caminho agora está claro.
+Dialogue: 0,0:29:27.62,0:29:30.62,Default,,0,0,0,,Mas isso é um mal que deve ser punido!
+Dialogue: 0,0:02:18.50,0:02:22.00,Signs,,0,0,0,,{\an8}Episódio 11: O Banquete dos Reis

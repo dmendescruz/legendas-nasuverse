@@ -1,0 +1,203 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E23 - The Ocean at the End of the World (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E23 - The Ocean at the End of the World (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.41,0:00:25.33,Default,,0,0,0,,Rider, olhe.
+Dialogue: 0,0:00:36.01,0:00:38.01,Default,,0,0,0,,Está com medo, garoto?
+Dialogue: 0,0:00:38.72,0:00:40.47,Default,,0,0,0,,Sim. Estou com medo.
+Dialogue: 0,0:00:41.06,0:00:47.02,Default,,0,0,0,,Ou devo pegar emprestadas as suas palavras e dizer que isso é empolgante?
+Dialogue: 0,0:00:49.36,0:00:51.86,Default,,0,0,0,,Parece que você está começando a entender.
+Dialogue: 0,0:01:01.04,0:01:02.29,Default,,0,0,0,,O inimigo está lá dentro?
+Dialogue: 0,0:01:24.02,0:01:25.27,Default,,0,0,0,,Berserker?!
+Dialogue: 0,0:03:01.53,0:03:04.16,Default,,0,0,0,,Eles pretendem beber aqui?
+Dialogue: 0,0:03:05.08,0:03:07.33,Default,,0,0,0,,O que aconteceu com a sua amada carruagem?
+Dialogue: 0,0:03:07.33,0:03:09.66,Default,,0,0,0,,Bem...
+Dialogue: 0,0:03:10.50,0:03:15.04,Default,,0,0,0,,Custa-me admitir, mas a perdi para a Saber.
+Dialogue: 0,0:03:15.04,0:03:17.71,Default,,0,0,0,,Esqueceu-se do que eu havia decidido?
+Dialogue: 0,0:03:17.71,0:03:22.43,Default,,0,0,0,,Creio ter dito que o derrotaria com você em seu poder máximo.
+Dialogue: 0,0:03:22.43,0:03:25.64,Default,,0,0,0,,É verdade, minhas armas foram um tanto reduzidas.
+Dialogue: 0,0:03:25.64,0:03:26.39,Default,,0,0,0,,Contudo...
+Dialogue: 0,0:03:27.22,0:03:32.56,Default,,0,0,0,,É por não estar em perfeitas condições que estou mais do que perfeito esta noite.
+Dialogue: 0,0:03:33.94,0:03:35.36,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:03:35.82,0:03:38.78,Default,,0,0,0,,De fato, a aura que você emana...
+Dialogue: 0,0:03:38.78,0:03:40.70,Default,,0,0,0,,Está mais potente do que o normal.
+Dialogue: 0,0:03:42.99,0:03:47.74,Default,,0,0,0,,Parece que você veio até aqui com alguma chance de vitória.
+Dialogue: 0,0:03:58.67,0:04:01.92,Default,,0,0,0,,Rei da Babilônia, uma última palavra.
+Dialogue: 0,0:04:01.92,0:04:04.22,Default,,0,0,0,,A última pergunta do nosso banquete.
+Dialogue: 0,0:04:04.22,0:04:06.30,Default,,0,0,0,,Eu permitirei. Fale.
+Dialogue: 0,0:04:07.18,0:04:13.90,Default,,0,0,0,,Veja bem, se o meu Ionian Hetairoi fosse armado usando o seu Gate of Babylon,
+Dialogue: 0,0:04:13.90,0:04:16.69,Default,,0,0,0,,certamente criaria o exército mais poderoso que se possa imaginar.
+Dialogue: 0,0:04:17.98,0:04:19.19,Default,,0,0,0,,E daí?
+Dialogue: 0,0:04:19.69,0:04:23.07,Default,,0,0,0,,Por que não nos tornamos aliados?
+Dialogue: 0,0:04:23.07,0:04:27.99,Default,,0,0,0,,Juntos, nós dois poderíamos conquistar as próprias estrelas.
+Dialogue: 0,0:04:31.58,0:04:34.54,Default,,0,0,0,,Você nunca deixa de me divertir.
+Dialogue: 0,0:04:35.04,0:04:40.13,Default,,0,0,0,,Fazia tanto tempo que eu não ria tanto dos delírios de alguém que não fosse um tolo.
+Dialogue: 0,0:04:41.71,0:04:47.35,Default,,0,0,0,,Infelizmente, só existe um amigo que tive e algum dia terei.
+Dialogue: 0,0:04:47.35,0:04:51.27,Default,,0,0,0,,Além disso, não há necessidade de dois reis.
+Dialogue: 0,0:04:51.81,0:04:54.27,Default,,0,0,0,,O caminho solitário da realeza.
+Dialogue: 0,0:04:54.27,0:04:59.73,Default,,0,0,0,,Desafiarei o seu espírito inabalável com respeito.
+Dialogue: 0,0:04:59.73,0:05:01.36,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:05:01.36,0:05:04.53,Default,,0,0,0,,Mostre-me do que é capaz, Rei dos Conquistadores.
+Dialogue: 0,0:05:05.24,0:05:08.62,Default,,0,0,0,,Você é um rebelde digno do meu julgamento.
+Dialogue: 0,0:05:22.55,0:05:25.17,Default,,0,0,0,,Vocês dois parecem tão amigáveis um com o outro.
+Dialogue: 0,0:05:25.88,0:05:28.51,Default,,0,0,0,,Eu mal poderia ser hostil com ele.
+Dialogue: 0,0:05:29.26,0:05:33.77,Default,,0,0,0,,Ele pode muito bem ser o último oponente que enfrentarei.
+Dialogue: 0,0:05:36.02,0:05:37.40,Default,,0,0,0,,Não seja idiota.
+Dialogue: 0,0:05:37.77,0:05:39.81,Default,,0,0,0,,Você não pode ser morto de jeito nenhum.
+Dialogue: 0,0:05:39.81,0:05:41.32,Default,,0,0,0,,Eu não vou permitir.
+Dialogue: 0,0:05:41.32,0:05:43.03,Default,,0,0,0,,Esqueceu-se dos meus Feitiços de Comando?!
+Dialogue: 0,0:05:45.36,0:05:46.36,Default,,0,0,0,,Você tem razão.
+Dialogue: 0,0:05:47.32,0:05:49.91,Default,,0,0,0,,Você tem toda a razão!
+Dialogue: 0,0:05:53.83,0:05:56.25,Default,,0,0,0,,Reúnam-se, meus camaradas!
+Dialogue: 0,0:05:57.12,0:06:01.79,Default,,0,0,0,,Esta noite, entraremos para a história como a maior das lendas!
+Dialogue: 0,0:06:17.31,0:06:20.19,Default,,0,0,0,,Nosso inimigo é o poderoso Rei dos Heróis.
+Dialogue: 0,0:06:20.56,0:06:22.61,Default,,0,0,0,,Um oponente à altura!
+Dialogue: 0,0:06:22.61,0:06:30.07,Default,,0,0,0,,Meus guerreiros, vamos mostrar ao Espírito Heroico mais antigo o nosso caminho de conquista!
+Dialogue: 0,0:06:44.09,0:06:47.09,Default,,0,0,0,,Venha a mim, líder dos exércitos conquistadores.
+Dialogue: 0,0:06:47.63,0:06:51.59,Default,,0,0,0,,Agora você contemplará a forma de um verdadeiro rei.
+Dialogue: 0,0:07:43.15,0:07:45.52,Default,,0,0,0,,Por que você está sofrendo tanto?
+Dialogue: 0,0:07:47.98,0:07:53.36,Default,,0,0,0,,Porque o Berserker... precisa lutar...
+Dialogue: 0,0:07:54.07,0:07:55.07,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:07:56.99,0:08:00.37,Default,,0,0,0,,Porque o padre disse.
+Dialogue: 0,0:08:01.00,0:08:02.50,Default,,0,0,0,,O padre?
+Dialogue: 0,0:08:03.29,0:08:04.17,Default,,0,0,0,,Sim.
+Dialogue: 0,0:08:04.17,0:08:08.55,Default,,0,0,0,,Ele me prometeu que me daria o Graal.
+Dialogue: 0,0:08:10.55,0:08:14.39,Default,,0,0,0,,Assim que eu tiver o Graal, poderei salvá-la.
+Dialogue: 0,0:08:15.09,0:08:16.64,Default,,0,0,0,,Você vai me salvar?
+Dialogue: 0,0:08:18.81,0:08:21.56,Default,,0,0,0,,Sim, eu lhe prometi...
+Dialogue: 0,0:08:21.56,0:08:26.90,Default,,0,0,0,,Que todos nós brincaríamos juntos... como antigamente.
+Dialogue: 0,0:08:27.77,0:08:28.65,Default,,0,0,0,,Então...
+Dialogue: 0,0:08:29.19,0:08:31.65,Default,,0,0,0,,Eu poderei ver a mamãe de novo, certo?
+Dialogue: 0,0:08:32.99,0:08:34.24,Default,,0,0,0,,Mamãe...?
+Dialogue: 0,0:09:16.45,0:09:17.20,Default,,0,0,0,,Agora!
+Dialogue: 0,0:09:21.45,0:09:22.87,Default,,0,0,0,,Mal o arranhou?!
+Dialogue: 0,0:09:36.26,0:09:37.47,Default,,0,0,0,,Ele consegue enxergar?
+Dialogue: 0,0:09:50.11,0:09:52.61,Default,,0,0,0,,Ele sabe o comprimento desta lâmina.
+Dialogue: 0,0:09:53.94,0:09:56.32,Default,,0,0,0,,Será ele um cavaleiro que já conheci?
+Dialogue: 0,0:09:59.03,0:10:03.20,Default,,0,0,0,,Deduzo por sua habilidade que você é um cavaleiro renomado, e por isso pergunto:
+Dialogue: 0,0:10:03.95,0:10:09.13,Default,,0,0,0,,Se você sabe que sou Arturia Pendragon, Rei da Bretanha,
+Dialogue: 0,0:10:10.04,0:10:13.63,Default,,0,0,0,,revele quem você é, como exige o orgulho de um cavaleiro!
+Dialogue: 0,0:10:13.63,0:10:17.80,Default,,0,0,0,,Atacar ocultando sua identidade equivale a jogo sujo!
+Dialogue: 0,0:10:26.18,0:10:27.39,Default,,0,0,0,,Você...
+Dialogue: 0,0:10:38.61,0:10:40.41,Default,,0,0,0,,N-Não...
+Dialogue: 0,0:10:43.87,0:10:46.16,Default,,0,0,0,,A-Arondight?
+Dialogue: 0,0:10:47.16,0:10:48.50,Default,,0,0,0,,Você não pode ser...
+Dialogue: 0,0:10:49.17,0:10:53.13,Default,,0,0,0,,Arthur...
+Dialogue: 0,0:11:06.43,0:11:09.52,Default,,0,0,0,,Sir Lancelot...
+Dialogue: 0,0:11:20.36,0:11:22.28,Default,,0,0,0,,Por que, meu amigo?
+Dialogue: 0,0:11:23.41,0:11:27.58,Default,,0,0,0,,Você foi o primeiro entre os Cavaleiros da Távola Redonda!
+Dialogue: 0,0:11:28.66,0:11:31.04,Default,,0,0,0,,Por que você decairia tanto a ponto de se tornar Berserker—
+Dialogue: 0,0:11:33.75,0:11:35.38,Default,,0,0,0,,Lancelot!
+Dialogue: 0,0:11:40.72,0:11:41.76,Default,,0,0,0,,Lancelot...
+Dialogue: 0,0:11:50.31,0:11:54.81,Default,,0,0,0,,Você salvou seus súditos, mas nunca os liderou.
+Dialogue: 0,0:11:56.02,0:11:58.03,Default,,0,0,0,,Porque eu nunca os liderei...
+Dialogue: 0,0:11:58.03,0:12:02.40,Default,,0,0,0,,Você está presa ao falso ídolo de um rei que serve aos outros, mas não a si mesmo...
+Dialogue: 0,0:12:02.40,0:12:04.28,Default,,0,0,0,,Meus ideais...
+Dialogue: 0,0:12:04.74,0:12:05.99,Default,,0,0,0,,Meu reinado...
+Dialogue: 0,0:12:05.99,0:12:07.53,Default,,0,0,0,,Você é apenas uma garotinha.
+Dialogue: 0,0:12:07.53,0:12:10.54,Default,,0,0,0,,Eles a levaram a este estado?!
+Dialogue: 0,0:12:15.33,0:12:18.30,Default,,0,0,0,,Arthur!
+Dialogue: 0,0:12:19.13,0:12:20.76,Default,,0,0,0,,Lancelot...
+Dialogue: 0,0:12:29.97,0:12:33.10,Default,,0,0,0,,Unir sonhos sob um estandarte de conquista.
+Dialogue: 0,0:12:33.10,0:12:35.44,Default,,0,0,0,,Elogio os seus esforços.
+Dialogue: 0,0:12:37.15,0:12:39.32,Default,,0,0,0,,Mas, guerreiros...
+Dialogue: 0,0:12:39.32,0:12:41.19,Default,,0,0,0,,Vocês não compreenderam?
+Dialogue: 0,0:12:43.70,0:12:49.29,Default,,0,0,0,,Que todos os sonhos eventualmente desaparecem quando o sonhador desperta.
+Dialogue: 0,0:13:10.51,0:13:12.39,Default,,0,0,0,,Portanto...
+Dialogue: 0,0:13:13.10,0:13:16.65,Default,,0,0,0,,Era inevitável que eu ficasse em seu caminho.
+Dialogue: 0,0:13:17.52,0:13:19.19,Default,,0,0,0,,Rei dos Conquistadores.
+Dialogue: 0,0:13:19.52,0:13:23.24,Default,,0,0,0,,Você conhecerá o desfecho do seu sonho infindo.
+Dialogue: 0,0:13:23.74,0:13:26.49,Default,,0,0,0,,Eu mesmo lhe mostrarei a realidade.
+Dialogue: 0,0:13:27.91,0:13:29.20,Default,,0,0,0,,Lá vem ele!
+Dialogue: 0,0:13:31.04,0:13:33.83,Default,,0,0,0,,Desperte, Ea!
+Dialogue: 0,0:13:33.83,0:13:36.83,Default,,0,0,0,,Um palco digno de você foi preparado!
+Dialogue: 0,0:13:38.42,0:13:39.79,Default,,0,0,0,,Olhem para cima e contemplem!
+Dialogue: 0,0:13:39.79,0:13:42.34,Default,,0,0,0,,Enuma Elish!
+Dialogue: 0,0:13:46.30,0:13:48.01,Default,,0,0,0,,Segure-se firme, garoto!
+Dialogue: 0,0:13:59.44,0:14:00.48,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:14:07.70,0:14:12.79,Default,,0,0,0,,Aquela espada é um Fantasma Nobre anti-mundo, capaz de destruir toda a criação?
+Dialogue: 0,0:14:59.25,0:15:00.33,Default,,0,0,0,,Rider...
+Dialogue: 0,0:15:05.63,0:15:10.43,Default,,0,0,0,,Pensando bem, havia algo que eu queria lhe perguntar.
+Dialogue: 0,0:15:13.89,0:15:15.93,Default,,0,0,0,,Waver Velvet.
+Dialogue: 0,0:15:15.93,0:15:18.64,Default,,0,0,0,,Gostaria de servir como um de meus súditos?
+Dialogue: 0,0:15:27.23,0:15:28.28,Default,,0,0,0,,Você...
+Dialogue: 0,0:15:30.24,0:15:32.82,Default,,0,0,0,,Você é o meu rei.
+Dialogue: 0,0:15:32.82,0:15:36.33,Default,,0,0,0,,Eu o servirei com tudo o que tenho.
+Dialogue: 0,0:15:36.33,0:15:38.29,Default,,0,0,0,,Por favor, mostre-me o caminho...
+Dialogue: 0,0:15:39.71,0:15:42.33,Default,,0,0,0,,Deixe-me ver o seu sonho!
+Dialogue: 0,0:15:44.00,0:15:45.96,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:15:53.89,0:15:56.89,Default,,0,0,0,,Como rei, é meu dever apresentar um sonho.
+Dialogue: 0,0:15:57.72,0:16:05.06,Default,,0,0,0,,E como um de meus súditos, sua tarefa é testemunhar o sonho até o fim e narrá-lo às gerações futuras.
+Dialogue: 0,0:16:11.07,0:16:12.49,Default,,0,0,0,,Continue vivo, Waver.
+Dialogue: 0,0:16:13.20,0:16:14.91,Default,,0,0,0,,Testemunhe tudo até o fim.
+Dialogue: 0,0:16:14.91,0:16:17.33,Default,,0,0,0,,Tenha uma vida longa e conte sobre isso.
+Dialogue: 0,0:16:17.99,0:16:19.87,Default,,0,0,0,,Sobre o seu rei...
+Dialogue: 0,0:16:20.50,0:16:22.79,Default,,0,0,0,,Sobre como Iskandar marchou adiante!
+Dialogue: 0,0:16:30.96,0:16:32.17,Default,,0,0,0,,Agora...
+Dialogue: 0,0:16:32.17,0:16:34.22,Default,,0,0,0,,Vamos lá, Bucéfalo!
+Dialogue: 0,0:16:37.97,0:16:38.97,Default,,0,0,0,,Rider!
+Dialogue: 0,0:16:39.47,0:16:41.81,Default,,0,0,0,,A glória jaz além do horizonte.
+Dialogue: 0,0:16:41.81,0:16:43.98,Default,,0,0,0,,Desafie-a porque ela é inalcançável.
+Dialogue: 0,0:16:44.65,0:16:47.40,Default,,0,0,0,,Fale sobre a conquista e demonstre-a.
+Dialogue: 0,0:16:47.40,0:16:50.48,Default,,0,0,0,,Pelos meus súditos que observam às minhas costas!
+Dialogue: 0,0:17:55.13,0:18:01.26,Default,,0,0,0,,Pelos deuses, você continua sacando uma raridade após a outra...
+Dialogue: 0,0:18:07.14,0:18:10.69,Default,,0,0,0,,Despertou do seu sonho, Rei dos Conquistadores?
+Dialogue: 0,0:18:17.65,0:18:19.03,Default,,0,0,0,,Sim, despertei...
+Dialogue: 0,0:18:20.91,0:18:25.16,Default,,0,0,0,,Esta campanha foi...
+Dialogue: 0,0:18:26.79,0:18:29.96,Default,,0,0,0,,...muito emocionante...
+Dialogue: 0,0:18:34.05,0:18:38.18,Default,,0,0,0,,Sinta-se livre para me desafiar quantas vezes quiser, Rei dos Conquistadores.
+Dialogue: 0,0:18:41.89,0:18:46.22,Default,,0,0,0,,Este mundo inteiro é meu jardim até o fim dos tempos.
+Dialogue: 0,0:18:46.73,0:18:48.73,Default,,0,0,0,,Portanto, posso lhe garantir isto.
+Dialogue: 0,0:18:49.39,0:18:53.32,Default,,0,0,0,,Você nunca se cansará dele.
+Dialogue: 0,0:19:01.03,0:19:04.58,Default,,0,0,0,,É bom ouvir isso...
+Dialogue: 0,0:19:12.58,0:19:14.71,Default,,0,0,0,,Ah, compreendo...
+Dialogue: 0,0:19:15.38,0:19:17.88,Default,,0,0,0,,O bater do meu coração...
+Dialogue: 0,0:19:18.59,0:19:22.09,Default,,0,0,0,,...era o som das ondas de Ôkeanos...
+Dialogue: 0,0:19:54.96,0:19:56.34,Default,,0,0,0,,Garoto.
+Dialogue: 0,0:19:56.75,0:19:58.96,Default,,0,0,0,,Você é o Mestre do Rider?
+Dialogue: 0,0:19:58.96,0:20:00.55,Default,,0,0,0,,Não.
+Dialogue: 0,0:20:00.55,0:20:03.51,Default,,0,0,0,,Eu sou seu súdito.
+Dialogue: 0,0:20:07.39,0:20:08.56,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:20:10.85,0:20:17.90,Default,,0,0,0,,Contudo, garoto, se você realmente é seu leal súdito, tem o dever de vingar o seu rei caído.
+Dialogue: 0,0:20:19.99,0:20:22.24,Default,,0,0,0,,Se eu o desafiar, morrerei.
+Dialogue: 0,0:20:23.20,0:20:24.61,Default,,0,0,0,,Certamente.
+Dialogue: 0,0:20:25.41,0:20:26.87,Default,,0,0,0,,Eu não posso fazer isso.
+Dialogue: 0,0:20:28.08,0:20:30.20,Default,,0,0,0,,Recebi a ordem de continuar vivo.
+Dialogue: 0,0:20:42.51,0:20:44.59,Default,,0,0,0,,Sua lealdade é esplêndida.
+Dialogue: 0,0:20:44.59,0:20:47.60,Default,,0,0,0,,Jamais a manche.
+Dialogue: 0,0:21:04.03,0:21:06.82,Default,,0,0,0,,Ele refrigera a minha alma.
+Dialogue: 0,0:21:07.24,0:21:10.49,Default,,0,0,0,,Guia-me pelas veredas da justiça por amor do Seu nome.
+Dialogue: 0,0:21:11.41,0:21:14.16,Default,,0,0,0,,Ainda que eu ande pelo vale da sombra da morte,
+Dialogue: 0,0:21:14.79,0:21:16.71,Default,,0,0,0,,não temerei mal algum,
+Dialogue: 0,0:21:17.83,0:21:21.25,Default,,0,0,0,,porque Tu estás comigo.
+Dialogue: 0,0:21:22.13,0:21:27.05,Default,,0,0,0,,A Tua vara e o Teu cajado me consolam.
+Dialogue: 0,0:21:27.05,0:21:30.43,Default,,0,0,0,,Preparas uma mesa perante mim na presença dos meus inimigos.
+Dialogue: 0,0:21:30.43,0:21:33.23,Default,,0,0,0,,Unges a minha cabeça com óleo.
+Dialogue: 0,0:21:34.23,0:21:35.98,Default,,0,0,0,,O meu cálice transborda.
+Dialogue: 0,0:21:35.98,0:21:39.31,Default,,0,0,0,,Certamente a bondade e a misericórdia me seguirão todos os dias da minha vida.
+Dialogue: 0,0:21:39.31,0:21:41.82,Default,,0,0,0,,O meu cálice transborda.
+Dialogue: 0,0:21:41.82,0:21:46.24,Default,,0,0,0,,Certamente a bondade e a misericórdia me seguirão todos os dias da minha vida.
+Dialogue: 0,0:23:25.63,0:23:27.46,Default,,0,0,0,,Você tiraria o Graal de mim?!
+Dialogue: 0,0:23:27.46,0:23:28.72,Default,,0,0,0,,O que você está fazendo, Saber?!
+Dialogue: 0,0:23:28.72,0:23:30.59,Default,,0,0,0,,Quão indefesa você é...
+Dialogue: 0,0:23:30.59,0:23:31.51,Default,,0,0,0,,Isso é absurdo!
+Dialogue: 0,0:23:31.51,0:23:34.98,Default,,0,0,0,,Ele anseia por sua própria vida, seu próprio nascimento!
+Dialogue: 0,0:23:34.98,0:23:37.21,Default,,0,0,0,,Bem-vindo de volta, Kiritsugu!
+Dialogue: 0,0:23:37.52,0:23:40.02,Default,,0,0,0,,Eu sabia que você viria.
+Dialogue: 0,0:21:51.99,0:21:54.99,Signs,,0,0,0,,{\an8}Episódio 23: O Oceano no Fim do Mundo
+Dialogue: 0,0:23:37.52,0:23:40.02,Signs,,0,0,0,,{\an8}Próximo Episódio: O Último Feitiço de Comando

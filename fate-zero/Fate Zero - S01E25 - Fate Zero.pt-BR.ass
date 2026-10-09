@@ -1,0 +1,292 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E25 - Fate Zero (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E25 - Fate Zero (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.98,0:00:04.11,Default,,0,0,0,,Pelo meu terceiro Feitiço de Comando, ordeno-lhe novamente.
+Dialogue: 0,0:00:04.54,0:00:06.86,Default,,0,0,0,,Não!
+Dialogue: 0,0:00:06.86,0:00:10.99,Default,,0,0,0,,Saber, destrua o Graal.
+Dialogue: 0,0:00:16.95,0:00:22.16,Default,,0,0,0,,Como eu poderia tê-lo compreendido se três comandos eram tudo o que existia entre nós?
+Dialogue: 0,0:00:23.50,0:00:30.51,Default,,0,0,0,,Eu não conseguia sequer compreender o coração daqueles que serviam bem ao meu lado.
+Dialogue: 0,0:00:34.30,0:00:41.39,Default,,0,0,0,,Talvez tudo isso seja um castigo para um rei incapaz de entender os outros...
+Dialogue: 0,0:01:20.01,0:01:22.47,Default,,0,0,0,,I-Isso é...
+Dialogue: 0,0:01:41.83,0:01:43.04,Default,,0,0,0,,Ridículo...
+Dialogue: 0,0:01:44.16,0:01:45.71,Default,,0,0,0,,Isso é um absurdo!
+Dialogue: 0,0:02:14.03,0:02:15.53,Default,,0,0,0,,Kiritsugu...
+Dialogue: 0,0:02:16.28,0:02:18.78,Default,,0,0,0,,O que foi, Ilyasviel?
+Dialogue: 0,0:02:19.99,0:02:23.24,Default,,0,0,0,,Hum, tive um sonho muito assustador.
+Dialogue: 0,0:02:23.66,0:02:29.29,Default,,0,0,0,,Sonhei que havia me tornado uma taça...
+Dialogue: 0,0:02:30.08,0:02:36.80,Default,,0,0,0,,...e sete pedregulhos enormes surgiram dentro de mim...
+Dialogue: 0,0:02:36.80,0:02:40.05,Default,,0,0,0,,Parecia que iriam me despedaçar.
+Dialogue: 0,0:02:40.51,0:02:45.52,Default,,0,0,0,,Foi muito assustador, mas eu não conseguia fugir...
+Dialogue: 0,0:02:46.81,0:02:51.27,Default,,0,0,0,,Então ouvi a voz da Senhora Justeaze.
+Dialogue: 0,0:02:51.98,0:02:56.65,Default,,0,0,0,,Um grande buraco negro se abriu sobre a minha cabeça.
+Dialogue: 0,0:02:57.40,0:03:01.20,Default,,0,0,0,,E então, o mundo ardeu em chamas.
+Dialogue: 0,0:03:02.37,0:03:06.83,Default,,0,0,0,,Kiritsugu viu aquilo acontecer e chorou.
+Dialogue: 0,0:03:10.58,0:03:14.25,Default,,0,0,0,,Mamãe, o Kiritsugu está bem?
+Dialogue: 0,0:03:14.25,0:03:17.96,Default,,0,0,0,,Ele está sozinho e com muito medo?
+Dialogue: 0,0:03:18.63,0:03:20.17,Default,,0,0,0,,Está tudo bem.
+Dialogue: 0,0:03:20.17,0:03:22.89,Default,,0,0,0,,Ele está dando o melhor de si por você.
+Dialogue: 0,0:03:23.85,0:03:26.85,Default,,0,0,0,,Ele garantirá que as nossas preces sejam realizadas,
+Dialogue: 0,0:03:27.68,0:03:32.31,Default,,0,0,0,,para que você nunca mais precise ter medo.
+Dialogue: 0,0:03:33.81,0:03:36.23,Default,,0,0,0,,Sim, você tem razão.
+Dialogue: 0,0:03:36.90,0:03:38.32,Default,,0,0,0,,Você deve ter razão.
+Dialogue: 0,0:03:40.07,0:03:42.49,Default,,0,0,0,,O Kiritsugu sempre se esforça tanto.
+Dialogue: 0,0:03:42.91,0:03:48.95,Default,,0,0,0,,Tenho certeza de que ele voltará para casa logo após terminar seu trabalho importante.
+Dialogue: 0,0:03:55.25,0:03:59.21,Default,,0,0,0,,Ei, Sakura-chan...
+Dialogue: 0,0:03:59.92,0:04:01.26,Default,,0,0,0,,Tio?
+Dialogue: 0,0:04:01.63,0:04:02.93,Default,,0,0,0,,Eu vim te salvar.
+Dialogue: 0,0:04:03.59,0:04:04.93,Default,,0,0,0,,Está tudo bem agora.
+Dialogue: 0,0:04:06.97,0:04:07.89,Default,,0,0,0,,Vamos embora.
+Dialogue: 0,0:04:09.93,0:04:10.98,Default,,0,0,0,,Sakura!
+Dialogue: 0,0:04:10.98,0:04:13.23,Default,,0,0,0,,Sakura! Sakura!
+Dialogue: 0,0:04:13.23,0:04:14.48,Default,,0,0,0,,Sakura!
+Dialogue: 0,0:04:20.82,0:04:22.03,Default,,0,0,0,,Kariya-kun.
+Dialogue: 0,0:04:27.07,0:04:28.33,Default,,0,0,0,,Aoi-san.
+Dialogue: 0,0:04:28.79,0:04:31.08,Default,,0,0,0,,Obrigada, Tio Kariya.
+Dialogue: 0,0:04:32.54,0:04:34.12,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:04:37.79,0:04:39.42,Default,,0,0,0,,Papai Kariya!
+Dialogue: 0,0:04:54.48,0:04:56.15,Default,,0,0,0,,Ele é tão idiota.
+Dialogue: 0,0:04:57.10,0:05:00.53,Default,,0,0,0,,É isso o que acontece quando você desobedece o Vovô.
+Dialogue: 0,0:05:06.03,0:05:07.07,Default,,0,0,0,,Onde estou?
+Dialogue: 0,0:05:07.95,0:05:10.41,Default,,0,0,0,,Você é um homem difícil de cuidar.
+Dialogue: 0,0:05:12.25,0:05:16.79,Default,,0,0,0,,Cavar os escombros para tirá-lo dali foi bastante problemático.
+Dialogue: 0,0:05:16.79,0:05:20.46,Default,,0,0,0,,Gilgamesh, o que aconteceu?
+Dialogue: 0,0:05:21.05,0:05:22.26,Default,,0,0,0,,Quem pode dizer?
+Dialogue: 0,0:05:22.67,0:05:25.42,Default,,0,0,0,,A lama me cuspiu de volta.
+Dialogue: 0,0:05:25.42,0:05:31.60,Default,,0,0,0,,Parece ser a vontade dos deuses que eu retorne a esta era para governar o mundo.
+Dialogue: 0,0:05:33.14,0:05:35.56,Default,,0,0,0,,Então você obteve a verdadeira encarnação?
+Dialogue: 0,0:05:36.81,0:05:38.23,Default,,0,0,0,,Por mais enfurecedor que isso seja.
+Dialogue: 0,0:05:38.77,0:05:44.53,Default,,0,0,0,,Não posso acreditar que lutamos por aquela coisa achando que realizaria desejos.
+Dialogue: 0,0:05:45.03,0:05:50.91,Default,,0,0,0,,Esta peça permaneceu uma farsa até o final.
+Dialogue: 0,0:05:52.45,0:05:55.37,Default,,0,0,0,,Eu levei um tiro...
+Dialogue: 0,0:05:58.92,0:06:02.42,Default,,0,0,0,,Não sinto meus batimentos cardíacos...
+Dialogue: 0,0:06:03.00,0:06:08.26,Default,,0,0,0,,Você me curou de alguma forma, Gilgamesh?
+Dialogue: 0,0:06:08.80,0:06:11.30,Default,,0,0,0,,Quem pode dizer?
+Dialogue: 0,0:06:11.68,0:06:14.06,Default,,0,0,0,,Você parecia mesmo morto.
+Dialogue: 0,0:06:14.85,0:06:17.85,Default,,0,0,0,,Você e eu estamos conectados pelo pacto.
+Dialogue: 0,0:06:18.52,0:06:21.23,Default,,0,0,0,,No momento em que obtive a verdadeira encarnação dentro daquela lama,
+Dialogue: 0,0:06:21.23,0:06:25.99,Default,,0,0,0,,talvez você também tenha sido apanhado em algum tipo de absurdo.
+Dialogue: 0,0:06:27.78,0:06:31.57,Default,,0,0,0,,Está dizendo que ela me deu a vida?
+Dialogue: 0,0:06:32.20,0:06:37.33,Default,,0,0,0,,Todos os outros Servos se foram, o que significa que vencemos a disputa pelo Graal.
+Dialogue: 0,0:06:37.96,0:06:41.92,Default,,0,0,0,,Kirei, contemple os resultados.
+Dialogue: 0,0:06:42.88,0:06:47.09,Default,,0,0,0,,Se o Graal realmente concede o desejo do vencedor...
+Dialogue: 0,0:06:47.09,0:06:53.89,Default,,0,0,0,,Kotomine Kirei, esta paisagem é o que você mais desejava.
+Dialogue: 0,0:07:08.82,0:07:10.03,Default,,0,0,0,,O quê?
+Dialogue: 0,0:07:10.03,0:07:11.82,Default,,0,0,0,,O que sou eu?
+Dialogue: 0,0:07:11.82,0:07:14.16,Default,,0,0,0,,Quanta maldade.
+Dialogue: 0,0:07:14.16,0:07:16.20,Default,,0,0,0,,Quanta crueldade.
+Dialogue: 0,0:07:16.20,0:07:18.96,Default,,0,0,0,,Este é o meu desejo?
+Dialogue: 0,0:07:18.96,0:07:22.21,Default,,0,0,0,,Esta destruição e tragédia?
+Dialogue: 0,0:07:22.21,0:07:24.71,Default,,0,0,0,,Este é o meu prazer?
+Dialogue: 0,0:07:24.71,0:07:31.93,Default,,0,0,0,,Será que a semente de Kotomine Risei realmente gerou algo tão distorcido e corrompido?
+Dialogue: 0,0:07:35.39,0:07:36.51,Default,,0,0,0,,Impossível.
+Dialogue: 0,0:07:36.51,0:07:38.02,Default,,0,0,0,,É impossível!
+Dialogue: 0,0:07:38.02,0:07:39.48,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:07:39.48,0:07:42.35,Default,,0,0,0,,Será que meu pai realmente gerou um cão?
+Dialogue: 0,0:07:47.23,0:07:50.03,Default,,0,0,0,,Está satisfeito, Kirei?
+Dialogue: 0,0:07:51.03,0:07:53.74,Default,,0,0,0,,Não, ainda não.
+Dialogue: 0,0:07:54.62,0:07:56.33,Default,,0,0,0,,Isto não é o bastante.
+Dialogue: 0,0:07:58.37,0:08:05.08,Default,,0,0,0,,Sim, é verdade que finalmente encontrei a resposta para a minha vida de questionamentos.
+Dialogue: 0,0:08:05.08,0:08:12.22,Default,,0,0,0,,Mas o processo de resolução do problema em si foi ignorado, e a solução simplesmente me foi entregue.
+Dialogue: 0,0:08:12.22,0:08:16.30,Default,,0,0,0,,O que exatamente posso aceitar sobre tudo isso?
+Dialogue: 0,0:08:19.14,0:08:27.57,Default,,0,0,0,,A fórmula que produziu esta resposta estranha deveria existir em algum lugar como um princípio límpido.
+Dialogue: 0,0:08:28.36,0:08:29.36,Default,,0,0,0,,Não...
+Dialogue: 0,0:08:30.40,0:08:31.99,Default,,0,0,0,,Ela tem que existir.
+Dialogue: 0,0:08:33.24,0:08:34.66,Default,,0,0,0,,Eu preciso questionar.
+Dialogue: 0,0:08:34.66,0:08:36.28,Default,,0,0,0,,Eu preciso procurar.
+Dialogue: 0,0:08:36.82,0:08:43.37,Default,,0,0,0,,Devo usar o resto da minha vida para compreender isso.
+Dialogue: 0,0:08:43.37,0:08:46.42,Default,,0,0,0,,Você nunca deixa de me divertir.
+Dialogue: 0,0:08:47.17,0:08:48.34,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:08:49.05,0:08:51.80,Default,,0,0,0,,Suas perguntas matariam os próprios deuses.
+Dialogue: 0,0:08:52.47,0:08:55.01,Default,,0,0,0,,Eu, Gilgamesh, o observarei em sua busca pela verdade.
+Dialogue: 0,0:08:58.51,0:09:00.22,Default,,0,0,0,,Angra Mainyu...
+Dialogue: 0,0:09:02.31,0:09:06.81,Default,,0,0,0,,Alcançarei você novamente e assistirei até o fim da próxima vez.
+Dialogue: 0,0:09:07.44,0:09:08.81,Default,,0,0,0,,O seu nascimento.
+Dialogue: 0,0:09:09.44,0:09:11.78,Default,,0,0,0,,A sua prova de existência.
+Dialogue: 0,0:09:21.66,0:09:24.87,Default,,0,0,0,,Emiya... Kiritsugu?
+Dialogue: 0,0:09:27.71,0:09:29.75,Default,,0,0,0,,Eu aceito o seu desafio.
+Dialogue: 0,0:09:45.68,0:09:48.31,Default,,0,0,0,,O que foi, Kirei?
+Dialogue: 0,0:09:49.81,0:09:50.82,Default,,0,0,0,,Nada.
+Dialogue: 0,0:10:04.45,0:10:06.33,Default,,0,0,0,,Eu me lembro daquele rosto.
+Dialogue: 0,0:10:08.75,0:10:13.42,Default,,0,0,0,,Ele tinha lágrimas nos olhos por encontrar alguém ainda vivo.
+Dialogue: 0,0:10:14.21,0:10:18.05,Default,,0,0,0,,Um homem que estava feliz do fundo do seu coração.
+Dialogue: 0,0:10:18.93,0:10:28.85,Default,,0,0,0,,Ele parecia tão feliz que dava a impressão de que era ele, e não eu, quem havia sido salvo.
+Dialogue: 0,0:10:31.36,0:10:32.15,Default,,0,0,0,,Você está vivo...
+Dialogue: 0,0:10:33.02,0:10:35.36,Default,,0,0,0,,Você está vivo! Está vivo!
+Dialogue: 0,0:10:36.82,0:10:37.95,Default,,0,0,0,,E então...
+Dialogue: 0,0:10:38.78,0:10:45.62,Default,,0,0,0,,Mesmo à beira da morte, aquele homem estava tão grato que senti inveja.
+Dialogue: 0,0:10:46.29,0:10:48.37,Default,,0,0,0,,"Obrigado", ele disse.
+Dialogue: 0,0:10:49.50,0:10:52.25,Default,,0,0,0,,Ele disse que estava feliz por ter encontrado alguém,
+Dialogue: 0,0:10:52.25,0:10:53.96,Default,,0,0,0,,e que ao salvar sequer uma pessoa,
+Dialogue: 0,0:10:56.38,0:10:57.84,Default,,0,0,0,,havia salvado a si mesmo.
+Dialogue: 0,0:11:07.68,0:11:09.19,Default,,0,0,0,,E agora, a nossa próxima notícia.
+Dialogue: 0,0:11:09.81,0:11:11.40,Default,,0,0,0,,Na Cidade Nova de Fuyuki...
+Dialogue: 0,0:11:11.40,0:11:15.86,Default,,0,0,0,,Alexei-san conseguiu voltar em segurança para a Inglaterra?
+Dialogue: 0,0:11:15.86,0:11:18.78,Default,,0,0,0,,Ele me ligou esta manhã de Heathrow.
+Dialogue: 0,0:11:18.78,0:11:21.82,Default,,0,0,0,,Eu disse àquele tolo para pensar no fuso horário.
+Dialogue: 0,0:11:21.82,0:11:23.32,Default,,0,0,0,,Ah, ele ligou?
+Dialogue: 0,0:11:23.32,0:11:24.78,Default,,0,0,0,,Eu não reparei.
+Dialogue: 0,0:11:25.37,0:11:28.50,Default,,0,0,0,,Mas é bem típico dele fazer isso.
+Dialogue: 0,0:11:34.13,0:11:36.30,Default,,0,0,0,,Ei, Vovô e Vovó.
+Dialogue: 0,0:11:36.96,0:11:39.63,Default,,0,0,0,,Há algo sobre o qual eu gostaria de falar com vocês.
+Dialogue: 0,0:11:39.63,0:11:42.09,Default,,0,0,0,,O que é?
+Dialogue: 0,0:11:43.30,0:11:44.47,Default,,0,0,0,,Bem...
+Dialogue: 0,0:11:45.43,0:11:48.04,Default,,0,0,0,,Estou pensando em trancar a faculdade por um tempo.
+Dialogue: 0,0:11:48.04,0:11:51.23,Default,,0,0,0,,Claro, falarei com o papai em Toronto sobre isso primeiro.
+Dialogue: 0,0:11:51.64,0:11:55.52,Default,,0,0,0,,Quero dedicar o meu tempo a algo além dos meus estudos acadêmicos.
+Dialogue: 0,0:11:55.52,0:11:56.83,Default,,0,0,0,,Ora?
+Dialogue: 0,0:11:56.83,0:11:58.01,Default,,0,0,0,,Puxa vida!
+Dialogue: 0,0:11:58.72,0:12:01.08,Default,,0,0,0,,Mas o que te levou a isso?
+Dialogue: 0,0:12:01.51,0:12:04.34,Default,,0,0,0,,Você não se cansou dos estudos, não é?
+Dialogue: 0,0:12:04.34,0:12:06.41,Default,,0,0,0,,Não, não é isso.
+Dialogue: 0,0:12:07.27,0:12:13.20,Default,,0,0,0,,É só que não tive interesse em nada além de estudar em toda a minha vida até agora.
+Dialogue: 0,0:12:13.20,0:12:14.80,Default,,0,0,0,,Estou me arrependendo um pouco disso.
+Dialogue: 0,0:12:17.38,0:12:18.49,Default,,0,0,0,,E assim...
+Dialogue: 0,0:12:21.01,0:12:22.80,Default,,0,0,0,,Eu estava pensando em fazer algumas viagens.
+Dialogue: 0,0:12:23.38,0:12:24.68,Default,,0,0,0,,Ora, veja só!
+Dialogue: 0,0:12:25.14,0:12:26.89,Default,,0,0,0,,Você ouviu isso, Glen?
+Dialogue: 0,0:12:26.89,0:12:32.23,Default,,0,0,0,,O Waver-chan acabou de falar algo que o Alexei-san diria.
+Dialogue: 0,0:12:32.77,0:12:38.40,Default,,0,0,0,,De qualquer forma, terei muitos preparativos pela frente e precisarei de algum dinheiro.
+Dialogue: 0,0:12:38.40,0:12:41.32,Default,,0,0,0,,Então imaginei que começaria encontrando um trabalho de meio período.
+Dialogue: 0,0:12:42.61,0:12:44.20,Default,,0,0,0,,E assim...
+Dialogue: 0,0:12:45.03,0:12:47.20,Default,,0,0,0,,Esta é a questão de verdade.
+Dialogue: 0,0:12:48.62,0:12:51.45,Default,,0,0,0,,Se vocês não se importarem...
+Dialogue: 0,0:12:52.29,0:12:55.75,Default,,0,0,0,,Eu poderia ficar aqui até resolver tudo?
+Dialogue: 0,0:12:58.00,0:13:00.34,Default,,0,0,0,,Mas é claro que pode!
+Dialogue: 0,0:13:00.96,0:13:05.18,Default,,0,0,0,,Será maravilhoso continuar tendo você aqui conosco.
+Dialogue: 0,0:13:05.18,0:13:07.34,Default,,0,0,0,,Sim, teremos que comemorar hoje!
+Dialogue: 0,0:13:15.10,0:13:16.60,Default,,0,0,0,,Caramba...
+Dialogue: 0,0:13:16.60,0:13:23.19,Default,,0,0,0,,Ele é apenas um espírito, então como consegue deixar uma bagunça dessas para trás?
+Dialogue: 0,0:13:31.16,0:13:33.70,Default,,0,0,0,,Na verdade, eu queria que ele tivesse me levado junto...
+Dialogue: 0,0:13:35.54,0:13:41.59,Default,,0,0,0,,Acho que isso significa que ainda não cheguei lá.
+Dialogue: 0,0:13:48.43,0:13:51.76,Default,,0,0,0,,Então ele acabou nunca abrindo isto...
+Dialogue: 0,0:13:51.76,0:13:53.31,Default,,0,0,0,,Nossa.
+Dialogue: 0,0:14:06.61,0:14:10.12,Default,,0,0,0,,Uma camiseta de brinde exclusivo da pré-venda.
+Dialogue: 0,0:14:11.03,0:14:13.58,Default,,0,0,0,,Quem iria querer algo assim?
+Dialogue: 0,0:14:15.62,0:14:17.16,Default,,0,0,0,,Francamente...
+Dialogue: 0,0:14:27.42,0:14:31.05,Default,,0,0,0,,Eu sei que o meu Redentor vive.
+Dialogue: 0,0:14:31.05,0:14:36.06,Default,,0,0,0,,E que, por fim, Ele se levantará sobre a Terra.
+Dialogue: 0,0:14:36.60,0:14:41.56,Default,,0,0,0,,E depois que a minha pele for destruída, ainda em minha carne,
+Dialogue: 0,0:14:42.27,0:14:44.32,Default,,0,0,0,,eu verei a Deus.
+Dialogue: 0,0:14:44.32,0:14:49.66,Default,,0,0,0,,Eu mesmo O verei, com meus próprios olhos.
+Dialogue: 0,0:14:49.66,0:14:51.87,Default,,0,0,0,,Eu, e não outro.
+Dialogue: 0,0:14:52.53,0:14:55.58,Default,,0,0,0,,Como o meu coração desfalece dentro de mim.
+Dialogue: 0,0:14:56.41,0:14:57.37,Default,,0,0,0,,Amém.
+Dialogue: 0,0:15:00.58,0:15:01.58,Default,,0,0,0,,Rin.
+Dialogue: 0,0:15:02.58,0:15:07.26,Default,,0,0,0,,Aquela foi uma excelente estreia como nova chefe de família.
+Dialogue: 0,0:15:07.97,0:15:11.09,Default,,0,0,0,,Seu pai teria ficado orgulhoso.
+Dialogue: 0,0:15:11.09,0:15:12.89,Default,,0,0,0,,Muito bem feito.
+Dialogue: 0,0:15:14.10,0:15:17.98,Default,,0,0,0,,Tenho certeza de que você ainda não está totalmente acostumada com o seu Brasão.
+Dialogue: 0,0:15:18.57,0:15:19.92,Default,,0,0,0,,Dói?
+Dialogue: 0,0:15:20.81,0:15:23.61,Default,,0,0,0,,Isto não é nada. Estou bem.
+Dialogue: 0,0:15:23.61,0:15:27.57,Default,,0,0,0,,Os preparativos de Tokiomi foram verdadeiramente impecáveis.
+Dialogue: 0,0:15:27.57,0:15:34.66,Default,,0,0,0,,Você herdará a magia da família Tohsaka, Rin, sem nenhum problema.
+Dialogue: 0,0:15:36.12,0:15:39.46,Default,,0,0,0,,Não está na hora de levarmos sua mãe conosco?
+Dialogue: 0,0:15:39.96,0:15:42.12,Default,,0,0,0,,Sim, vou fazer isso.
+Dialogue: 0,0:15:45.75,0:15:47.42,Default,,0,0,0,,Venha, mamãe.
+Dialogue: 0,0:15:47.42,0:15:49.97,Default,,0,0,0,,Vamos nos despedir pela última vez do papai.
+Dialogue: 0,0:15:51.38,0:15:53.39,Default,,0,0,0,,Ah, Rin?
+Dialogue: 0,0:15:53.84,0:15:56.22,Default,,0,0,0,,É o funeral de alguém hoje?
+Dialogue: 0,0:15:56.22,0:15:57.68,Default,,0,0,0,,Sim.
+Dialogue: 0,0:15:57.68,0:15:59.48,Default,,0,0,0,,O papai faleceu.
+Dialogue: 0,0:16:00.06,0:16:01.48,Default,,0,0,0,,Ora, veja só...
+Dialogue: 0,0:16:02.73,0:16:05.94,Default,,0,0,0,,Preciso me apressar e pegar o terno preto do Tokiomi-san.
+Dialogue: 0,0:16:06.57,0:16:07.86,Default,,0,0,0,,Ah, é verdade, Rin.
+Dialogue: 0,0:16:07.86,0:16:10.36,Default,,0,0,0,,Ajude a Sakura a se trocar.
+Dialogue: 0,0:16:10.36,0:16:13.16,Default,,0,0,0,,Ai, o que devo fazer?
+Dialogue: 0,0:16:13.16,0:16:15.87,Default,,0,0,0,,Eu preciso me arrumar também.
+Dialogue: 0,0:16:15.87,0:16:19.87,Default,,0,0,0,,Querido, a sua gravata está torta.
+Dialogue: 0,0:16:21.79,0:16:23.79,Default,,0,0,0,,Você precisa estar elegante.
+Dialogue: 0,0:16:23.79,0:16:28.05,Default,,0,0,0,,Afinal, você é o pai orgulhoso da Rin e da Sakura.
+Dialogue: 0,0:16:29.42,0:16:33.38,Default,,0,0,0,,Eu partirei do Japão novamente por um tempo.
+Dialogue: 0,0:16:34.14,0:16:37.01,Default,,0,0,0,,Você tem alguma preocupação quanto ao futuro?
+Dialogue: 0,0:16:37.01,0:16:38.35,Default,,0,0,0,,Não!
+Dialogue: 0,0:16:38.35,0:16:40.52,Default,,0,0,0,,Não há nada em que eu vá precisar da sua ajuda.
+Dialogue: 0,0:16:40.52,0:16:43.29,Default,,0,0,0,,Nos encontraremos novamente em seis meses.
+Dialogue: 0,0:16:43.29,0:16:47.25,Default,,0,0,0,,Realizarei o segundo transplante do Brasão nessa época.
+Dialogue: 0,0:16:47.25,0:16:50.96,Default,,0,0,0,,Certifique-se de monitorar a sua condição física bem de perto.
+Dialogue: 0,0:16:50.96,0:16:53.04,Default,,0,0,0,,Eu faria isso mesmo que você não me dissesse!
+Dialogue: 0,0:16:53.57,0:16:54.28,Default,,0,0,0,,Rin.
+Dialogue: 0,0:16:54.82,0:16:58.66,Default,,0,0,0,,A partir de agora, você é oficialmente a chefe da família Tohsaka.
+Dialogue: 0,0:16:58.66,0:17:03.87,Default,,0,0,0,,Para comemorar este dia, gostaria de lhe dar um presente.
+Dialogue: 0,0:17:06.42,0:17:08.09,Default,,0,0,0,,Uma adaga Azoth.
+Dialogue: 0,0:17:08.75,0:17:15.22,Default,,0,0,0,,Quando o meu mestre reconheceu os resultados do meu treinamento, ele a deu para mim.
+Dialogue: 0,0:17:15.55,0:17:18.80,Default,,0,0,0,,Pode ficar com ela.
+Dialogue: 0,0:17:20.85,0:17:23.98,Default,,0,0,0,,Esta era a do papai...
+Dialogue: 0,0:17:51.67,0:17:55.30,Default,,0,0,0,,Estou aqui de novo...
+Dialogue: 0,0:18:00.39,0:18:01.31,Default,,0,0,0,,Todos vocês...
+Dialogue: 0,0:18:03.14,0:18:06.85,Default,,0,0,0,,Lancelot...
+Dialogue: 0,0:18:13.61,0:18:21.87,Default,,0,0,0,,Eu não consegui evitar amar Guinevere, e por isso jamais fui capaz de me perdoar.
+Dialogue: 0,0:18:24.87,0:18:26.75,Default,,0,0,0,,No entanto, Rei Arthur...
+Dialogue: 0,0:18:27.62,0:18:30.79,Default,,0,0,0,,Você nunca me questionou por meus crimes.
+Dialogue: 0,0:18:30.79,0:18:33.84,Default,,0,0,0,,Você nunca buscou reparação.
+Dialogue: 0,0:18:34.46,0:18:38.76,Default,,0,0,0,,Você simplesmente continuou de pé diante de nós em sua retidão.
+Dialogue: 0,0:18:39.43,0:18:44.10,Default,,0,0,0,,Mas eu ansiava pelo julgamento das suas mãos.
+Dialogue: 0,0:18:44.51,0:18:56.03,Default,,0,0,0,,Se a sua ira tivesse me julgado, talvez eu não tivesse caído no caminho da loucura em busca de expiação.
+Dialogue: 0,0:18:56.03,0:18:58.49,Default,,0,0,0,,Sinto muito. Sinto muito.
+Dialogue: 0,0:18:59.07,0:19:00.32,Default,,0,0,0,,Eu...
+Dialogue: 0,0:19:01.66,0:19:03.24,Default,,0,0,0,,Eu não sou digna...
+Dialogue: 0,0:19:04.20,0:19:09.08,Default,,0,0,0,,Mas posso dizer com certeza isto, Rei Arthur.
+Dialogue: 0,0:19:09.41,0:19:13.63,Default,,0,0,0,,Algum dia, conquistarei o Santo Graal.
+Dialogue: 0,0:19:14.75,0:19:18.42,Default,,0,0,0,,Você foi a maior entre todos os reis.
+Dialogue: 0,0:19:19.84,0:19:23.68,Default,,0,0,0,,Todos os que serviram a você...
+Dialogue: 0,0:19:23.68,0:19:25.68,Default,,0,0,0,,Eu não deveria ter...
+Dialogue: 0,0:19:26.39,0:19:30.56,Default,,0,0,0,,...sentiam o mesmo.
+Dialogue: 0,0:19:31.48,0:19:35.32,Default,,0,0,0,,...me tornado rei.
+Dialogue: 0,0:19:42.99,0:19:46.95,Default,,0,0,0,,Depois disso, visitei os Einzbern muitas vezes.
+Dialogue: 0,0:19:47.45,0:19:54.21,Default,,0,0,0,,Mas como eu não havia retornado com o Graal, Jubstacheit nunca abriu o campo mágico da floresta.
+Dialogue: 0,0:19:55.25,0:19:58.59,Default,,0,0,0,,Nunca mais vi a Illya.
+Dialogue: 0,0:20:02.13,0:20:03.22,Default,,0,0,0,,Contudo...
+Dialogue: 0,0:20:04.72,0:20:10.77,Default,,0,0,0,,A Illya foi a última pessoa que eu perderia.
+Dialogue: 0,0:20:12.56,0:20:14.98,Default,,0,0,0,,Minha vida foi destinada a ser cheia de perdas.
+Dialogue: 0,0:20:17.07,0:20:21.03,Default,,0,0,0,,Mas todos ainda continuam aqui, assim como quando nos conhecemos.
+Dialogue: 0,0:20:25.28,0:20:31.87,Default,,0,0,0,,Adotei o garoto, Shirou, que salvei naquele dia.
+Dialogue: 0,0:20:34.33,0:20:34.96,Default,,0,0,0,,Ei.
+Dialogue: 0,0:20:36.79,0:20:38.59,Default,,0,0,0,,Ei, velhote.
+Dialogue: 0,0:20:40.01,0:20:43.13,Default,,0,0,0,,Se vai dormir, faça isso na sua cama.
+Dialogue: 0,0:20:43.84,0:20:44.89,Default,,0,0,0,,Certo...
+Dialogue: 0,0:20:45.55,0:20:48.68,Default,,0,0,0,,Não, estou bem.
+Dialogue: 0,0:20:52.27,0:20:56.65,Default,,0,0,0,,Quando eu era pequeno, queria ser um herói da justiça.
+Dialogue: 0,0:20:57.65,0:20:58.82,Default,,0,0,0,,O quê?
+Dialogue: 0,0:20:59.40,0:21:01.07,Default,,0,0,0,,Você queria ser um?
+Dialogue: 0,0:21:01.44,0:21:03.07,Default,,0,0,0,,Você desistiu?
+Dialogue: 0,0:21:03.78,0:21:04.53,Default,,0,0,0,,Sim.
+Dialogue: 0,0:21:05.49,0:21:06.74,Default,,0,0,0,,É lamentável, mas...
+Dialogue: 0,0:21:08.33,0:21:10.62,Default,,0,0,0,,Ser um herói é algo por tempo limitado.
+Dialogue: 0,0:21:10.62,0:21:14.25,Default,,0,0,0,,Quando você cresce, fica difícil se autodenominar um.
+Dialogue: 0,0:21:15.12,0:21:19.17,Default,,0,0,0,,Eu deveria ter percebido isso antes.
+Dialogue: 0,0:21:19.71,0:21:20.88,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:21:21.92,0:21:23.76,Default,,0,0,0,,Uma pena, então.
+Dialogue: 0,0:21:24.34,0:21:25.34,Default,,0,0,0,,De fato.
+Dialogue: 0,0:21:26.43,0:21:28.22,Default,,0,0,0,,Você tem toda a razão.
+Dialogue: 0,0:21:35.48,0:21:38.44,Default,,0,0,0,,A lua está muito bonita esta noite.
+Dialogue: 0,0:21:39.48,0:21:40.65,Default,,0,0,0,,É.
+Dialogue: 0,0:21:40.65,0:21:45.61,Default,,0,0,0,,Já que você não pôde fazer isso, eu farei por você.
+Dialogue: 0,0:21:46.91,0:21:49.70,Default,,0,0,0,,Você é um adulto agora, então não pode fazer.
+Dialogue: 0,0:21:49.70,0:21:51.37,Default,,0,0,0,,Mas eu posso.
+Dialogue: 0,0:21:51.37,0:21:52.87,Default,,0,0,0,,Deixe comigo...
+Dialogue: 0,0:21:54.87,0:21:57.00,Default,,0,0,0,,O seu sonho.
+Dialogue: 0,0:22:06.34,0:22:07.30,Default,,0,0,0,,Certo.
+Dialogue: 0,0:22:13.81,0:22:14.52,Default,,0,0,0,,É.
+Dialogue: 0,0:22:16.69,0:22:17.94,Default,,0,0,0,,Agora posso descansar em paz.
+Dialogue: 0,0:22:22.44,0:22:23.94,Default,,0,0,0,,Ei, Kerry.
+Dialogue: 0,0:22:23.94,0:22:25.82,Default,,0,0,0,,O que você quer ser quando crescer?
+Dialogue: 0,0:22:27.74,0:22:28.61,Default,,0,0,0,,Bem...
+Dialogue: 0,0:22:31.20,0:22:34.83,Default,,0,0,0,,Eu quero ser um herói da justiça.
+Dialogue: 0,0:10:59.97,0:11:04.97,Signs,,0,0,0,,{\an8}Episódio 25: Fate/Zero
+Dialogue: 0,0:20:32.83,0:20:35.58,Signs,,0,0,0,,{\an8}— Cinco Anos Depois —

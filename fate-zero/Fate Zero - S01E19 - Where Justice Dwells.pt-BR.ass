@@ -1,0 +1,239 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E19 - Where Justice Dwells (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E19 - Where Justice Dwells (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.79,0:00:23.16,Default,,0,0,0,,Dói, não dói?
+Dialogue: 0,0:00:23.62,0:00:27.75,Default,,0,0,0,,Os magos carregam a dor desse Brasão por toda a vida.
+Dialogue: 0,0:00:30.21,0:00:34.51,Default,,0,0,0,,O seu pai realmente lhe deu o nome perfeito.
+Dialogue: 0,0:00:38.01,0:00:42.06,Default,,0,0,0,,A sua Origem reside em cortar e atar, garoto.
+Dialogue: 0,0:00:42.06,0:00:45.65,Default,,0,0,0,,É um pouco diferente de destruir e regenerar.
+Dialogue: 0,0:00:46.19,0:00:52.53,Default,,0,0,0,,Se você cortar um fio e amarrá-lo de volta, a espessura no local do nó ficará diferente, certo?
+Dialogue: 0,0:00:52.53,0:00:56.61,Default,,0,0,0,,Nesse sentido, carrega o significado de uma transformação irreversível.
+Dialogue: 0,0:00:59.37,0:01:02.33,Default,,0,0,0,,"Kiritsugu", escrito com os ideogramas de "cortar" e "atar".
+Dialogue: 0,0:01:03.83,0:01:06.17,Default,,0,0,0,,Eu tenho o Código Místico perfeito para você.
+Dialogue: 0,0:01:12.05,0:01:15.63,Default,,0,0,0,,Triturei parte de suas costelas em pó e coloquei um pouco em cada um destes projéteis.
+Dialogue: 0,0:01:16.43,0:01:20.64,Default,,0,0,0,,A sua Origem se materializará em tudo o que isto atingir.
+Dialogue: 0,0:01:21.43,0:01:28.27,Default,,0,0,0,,Se disparar contra o alvo com os Circuitos Mágicos ativos, ele cortará e atará os circuitos de forma defeituosa.
+Dialogue: 0,0:01:29.27,0:01:31.57,Default,,0,0,0,,Um único disparo incapacitará quase qualquer mago.
+Dialogue: 0,0:01:32.28,0:01:34.82,Default,,0,0,0,,Você tem sessenta e seis deles no total.
+Dialogue: 0,0:01:34.82,0:01:36.15,Default,,0,0,0,,Use-os com moderação.
+Dialogue: 0,0:02:00.85,0:02:03.10,Default,,0,0,0,,Natalia, está me ouvindo?
+Dialogue: 0,0:02:03.10,0:02:04.27,Default,,0,0,0,,Só mais um instante.
+Dialogue: 0,0:02:04.72,0:02:05.48,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:02:15.82,0:02:17.61,Default,,0,0,0,,Natalia, agora!
+Dialogue: 0,0:03:00.82,0:03:02.28,Default,,0,0,0,,No final das contas...
+Dialogue: 0,0:03:03.07,0:03:11.21,Default,,0,0,0,,Após deixar a ilha, passei os anos seguintes ao lado de Natalia Kaminski, a mulher que me resgatou de lá.
+Dialogue: 0,0:03:12.67,0:03:16.17,Default,,0,0,0,,Isso significava escolher o mesmo caminho de Natalia.
+Dialogue: 0,0:03:16.17,0:03:20.17,Default,,0,0,0,,Ou seja, o caminho de um caçador.
+Dialogue: 0,0:03:25.35,0:03:27.64,Default,,0,0,0,,Natalia não pertencia a organização alguma.
+Dialogue: 0,0:03:27.64,0:03:31.98,Default,,0,0,0,,Ela era uma mercenária totalmente autônoma, movida apenas pelo dinheiro.
+Dialogue: 0,0:03:33.81,0:03:36.32,Default,,0,0,0,,A Associação dos Magos e a Santa Igreja.
+Dialogue: 0,0:03:36.82,0:03:42.70,Default,,0,0,0,,O conflito entre essas duas grandes organizações mantinha os negócios dela sempre prósperos.
+Dialogue: 0,0:04:39.13,0:04:44.97,Default,,0,0,0,,Desde aquele dia, presenciei inúmeras tragédias semelhantes à da Ilha Alimango.
+Dialogue: 0,0:04:46.43,0:04:54.06,Default,,0,0,0,,Descobri que tragédias parecidas aconteciam no mundo inteiro, todos os dias.
+Dialogue: 0,0:05:34.27,0:05:37.65,Default,,0,0,0,,Você está tentando se tornar um herói da justiça?
+Dialogue: 0,0:05:44.90,0:05:46.57,Default,,0,0,0,,Então não houve significado algum?
+Dialogue: 0,0:05:47.91,0:05:54.20,Default,,0,0,0,,Eu achei que tinha matado o meu pai para evitar que mais mortes como esta acontecessem.
+Dialogue: 0,0:05:56.46,0:06:00.17,Default,,0,0,0,,Matar um único homem não muda absolutamente nada.
+Dialogue: 0,0:06:01.17,0:06:05.51,Default,,0,0,0,,Mate até a última pessoa dessa laia existente no mundo.
+Dialogue: 0,0:06:06.34,0:06:11.18,Default,,0,0,0,,Se você conseguisse fazer isso, talvez fosse possível.
+Dialogue: 0,0:06:13.47,0:06:15.89,Default,,0,0,0,,Eu estava brincando. Não leve isso a sério.
+Dialogue: 0,0:06:23.65,0:06:27.03,Default,,0,0,0,,Não importa o que aconteça, faça o que for necessário para sobreviver.
+Dialogue: 0,0:06:27.03,0:06:30.36,Default,,0,0,0,,Essa é a regra que impus a mim mesma neste ramo.
+Dialogue: 0,0:06:31.07,0:06:35.08,Default,,0,0,0,,Não importa o que ocorra, priorize a sua própria vida acima de tudo.
+Dialogue: 0,0:06:39.00,0:06:43.75,Default,,0,0,0,,Se tentar salvar outros e acabar morrendo, tudo terá sido em vão.
+Dialogue: 0,0:06:45.05,0:06:48.84,Default,,0,0,0,,Eu sei que não é possível salvar a todos.
+Dialogue: 0,0:06:50.97,0:06:54.76,Default,,0,0,0,,Eu só quero salvar o máximo de pessoas que puder.
+Dialogue: 0,0:06:55.68,0:06:57.31,Default,,0,0,0,,Faça o que quiser.
+Dialogue: 0,0:07:14.74,0:07:17.45,Default,,0,0,0,,Mais um alvo problemático.
+Dialogue: 0,0:07:18.12,0:07:19.25,Default,,0,0,0,,Você o conhece?
+Dialogue: 0,0:07:19.62,0:07:22.04,Default,,0,0,0,,Odd Borzak, um mago.
+Dialogue: 0,0:07:22.46,0:07:26.38,Default,,0,0,0,,Ele é um Apóstolo Morto que utiliza suas abelhas familiares para multiplicar seus carniçais.
+Dialogue: 0,0:07:27.25,0:07:30.63,Default,,0,0,0,,A Associação dos Magos está oferecendo uma recompensa enorme pela cabeça dele.
+Dialogue: 0,0:07:30.63,0:07:32.01,Default,,0,0,0,,Você sabe bastante sobre ele.
+Dialogue: 0,0:07:34.85,0:07:37.56,Default,,0,0,0,,Ele causa muita destruição.
+Dialogue: 0,0:07:38.22,0:07:42.65,Default,,0,0,0,,Ele virou completamente do avesso a última cidade pela qual passou.
+Dialogue: 0,0:07:42.65,0:07:43.65,Default,,0,0,0,,Uma cidade inteira...
+Dialogue: 0,0:07:54.03,0:07:56.78,Default,,0,0,0,,Natalia, posso pegar um?
+Dialogue: 0,0:07:58.54,0:08:01.54,Default,,0,0,0,,Qual era mesmo a idade legal para fumar no seu país?
+Dialogue: 0,0:08:01.96,0:08:04.88,Default,,0,0,0,,Não vou impedi-lo, mas isso não faz bem para você.
+Dialogue: 0,0:08:19.18,0:08:20.60,Default,,0,0,0,,Para onde ele está indo?
+Dialogue: 0,0:08:21.89,0:08:24.52,Default,,0,0,0,,Um voo de Paris para Nova York que decola em quatro dias.
+Dialogue: 0,0:08:24.52,0:08:26.44,Default,,0,0,0,,Borzak estará a bordo.
+Dialogue: 0,0:08:26.94,0:08:29.32,Default,,0,0,0,,Eu pegarei esse voo.
+Dialogue: 0,0:08:29.32,0:08:33.32,Default,,0,0,0,,Deixei o Borzak escapar uma vez.
+Dialogue: 0,0:08:34.07,0:08:36.45,Default,,0,0,0,,Temos que limpar a nossa própria sujeira, certo?
+Dialogue: 0,0:08:36.95,0:08:39.08,Default,,0,0,0,,Então até você falha às vezes?
+Dialogue: 0,0:08:39.08,0:08:41.83,Default,,0,0,0,,É o quão perigoso ele é.
+Dialogue: 0,0:08:47.38,0:08:48.84,Default,,0,0,0,,O que eu devo fazer?
+Dialogue: 0,0:08:49.34,0:08:53.84,Default,,0,0,0,,Muito provavelmente ele tem aliados em Nova York.
+Dialogue: 0,0:08:54.38,0:08:56.97,Default,,0,0,0,,Quero que você se livre deles.
+Dialogue: 0,0:08:58.51,0:09:01.10,Default,,0,0,0,,Você vai enfrentar o Borzak sozinha?
+Dialogue: 0,0:09:01.10,0:09:05.48,Default,,0,0,0,,Ele não conseguirá levar as abelhas dele para a cabine de passageiros.
+Dialogue: 0,0:09:05.48,0:09:09.48,Default,,0,0,0,,Não há risco de perdê-lo desta vez.
+Dialogue: 0,0:09:10.86,0:09:12.94,Default,,0,0,0,,Você fala demais, garoto.
+Dialogue: 0,0:09:22.70,0:09:24.46,Default,,0,0,0,,Garoto, na escuta?
+Dialogue: 0,0:09:26.83,0:09:28.88,Default,,0,0,0,,Sim, alto e claro.
+Dialogue: 0,0:09:30.21,0:09:33.13,Default,,0,0,0,,Boa sorte para nós dois.
+Dialogue: 0,0:10:37.19,0:10:39.95,Default,,0,0,0,,Foi mais fácil do que eu imaginava.
+Dialogue: 0,0:10:39.95,0:10:44.66,Default,,0,0,0,,Quanto menos for exigido para neutralizá-lo, melhor, Natalia.
+Dialogue: 0,0:10:54.63,0:10:56.13,Default,,0,0,0,,Muito bem, Kiritsugu.
+Dialogue: 0,0:10:56.13,0:10:59.97,Default,,0,0,0,,E os preparativos para retirar o corpo dele da cabine de passageiros?
+Dialogue: 0,0:11:00.72,0:11:02.85,Default,,0,0,0,,Providenciei um veículo.
+Dialogue: 0,0:11:03.47,0:11:08.48,Default,,0,0,0,,Agora só precisamos de um médico para transportar o suposto enfermo.
+Dialogue: 0,0:11:09.73,0:11:11.65,Default,,0,0,0,,Contanto que não se importe por eu não ter licença médica.
+Dialogue: 0,0:11:28.16,0:11:28.87,Default,,0,0,0,,Ei!
+Dialogue: 0,0:11:29.75,0:11:31.42,Default,,0,0,0,,Natalia, o que houve?!
+Dialogue: 0,0:11:32.12,0:11:33.50,Default,,0,0,0,,Carniçais!
+Dialogue: 0,0:11:38.26,0:11:40.13,Default,,0,0,0,,Temos um problema.
+Dialogue: 0,0:11:42.30,0:11:46.10,Default,,0,0,0,,Ele mantinha as abelhas dentro do próprio corpo?!
+Dialogue: 0,0:11:47.39,0:11:49.77,Default,,0,0,0,,Natalia, saia daí!
+Dialogue: 0,0:11:49.77,0:11:52.27,Default,,0,0,0,,A quantos pés de altitude estou?
+Dialogue: 0,0:11:52.94,0:11:55.36,Default,,0,0,0,,Infelizmente, não me preparei para paraquedismo...
+Dialogue: 0,0:11:59.57,0:12:01.03,Default,,0,0,0,,Isto não é nada bom.
+Dialogue: 0,0:12:01.03,0:12:03.28,Default,,0,0,0,,Parece que a cabine de comando foi invadida.
+Dialogue: 0,0:12:11.16,0:12:12.54,Default,,0,0,0,,Não há outra saída.
+Dialogue: 0,0:12:15.17,0:12:17.38,Default,,0,0,0,,Natalia, você não pode...
+Dialogue: 0,0:12:19.17,0:12:20.71,Default,,0,0,0,,Eu vou voltar para casa.
+Dialogue: 0,0:12:20.71,0:12:25.05,Default,,0,0,0,,Voltarei para casa com vida, levando o corpo do Borzak.
+Dialogue: 0,0:12:25.05,0:12:28.06,Default,,0,0,0,,Para isso, preciso tomar o controle deste avião.
+Dialogue: 0,0:12:30.72,0:12:32.14,Default,,0,0,0,,Algo que queira dizer?
+Dialogue: 0,0:12:32.89,0:12:34.14,Default,,0,0,0,,Sim...
+Dialogue: 0,0:12:34.14,0:12:35.73,Default,,0,0,0,,Natalia, você consegue.
+Dialogue: 0,0:12:36.81,0:12:38.40,Default,,0,0,0,,Isso basta.
+Dialogue: 0,0:12:38.40,0:12:40.65,Default,,0,0,0,,Prepare uma cama bem aconchegante para mim e espere.
+Dialogue: 0,0:13:01.38,0:13:03.17,Default,,0,0,0,,Consegue me ouvir, garoto?
+Dialogue: 0,0:13:03.17,0:13:05.05,Default,,0,0,0,,Você não dormiu, né?
+Dialogue: 0,0:13:05.59,0:13:07.68,Default,,0,0,0,,Alto e claro, Natalia.
+Dialogue: 0,0:13:08.64,0:13:11.39,Default,,0,0,0,,É uma manhã dura, já que nós dois passamos a noite em claro.
+Dialogue: 0,0:13:11.39,0:13:17.27,Default,,0,0,0,,Se você tivesse dormido confortavelmente numa cama ontem à noite, eu estrangularia você até a morte.
+Dialogue: 0,0:13:18.02,0:13:20.23,Default,,0,0,0,,Agora, tenho uma notícia boa e uma ruim.
+Dialogue: 0,0:13:20.23,0:13:21.65,Default,,0,0,0,,Qual quer ouvir primeiro?
+Dialogue: 0,0:13:22.19,0:13:25.11,Default,,0,0,0,,Você não começa sempre pela notícia boa?
+Dialogue: 0,0:13:25.65,0:13:26.82,Default,,0,0,0,,Está bem.
+Dialogue: 0,0:13:27.28,0:13:29.41,Default,,0,0,0,,Primeiro, a boa notícia.
+Dialogue: 0,0:13:30.20,0:13:32.29,Default,,0,0,0,,Por enquanto, estou viva.
+Dialogue: 0,0:13:32.83,0:13:34.54,Default,,0,0,0,,O avião também está intacto.
+Dialogue: 0,0:13:35.83,0:13:41.38,Default,,0,0,0,,Consegui chegar à cabine de comando com relativa facilidade, embora consertar o rádio não tenha sido tão simples.
+Dialogue: 0,0:13:42.46,0:13:47.05,Default,,0,0,0,,Acho que consigo pilotar isto, supondo que funcione de modo similar a um Cessna.
+Dialogue: 0,0:13:47.47,0:13:49.18,Default,,0,0,0,,Você entrou em contato com a torre de controle?
+Dialogue: 0,0:13:49.60,0:13:50.60,Default,,0,0,0,,Sim.
+Dialogue: 0,0:13:50.60,0:13:53.39,Default,,0,0,0,,A princípio, pensaram que fosse alguma piada.
+Dialogue: 0,0:13:54.48,0:13:56.89,Default,,0,0,0,,Disseram que vão me escoltar gentilmente.
+Dialogue: 0,0:13:58.35,0:14:00.56,Default,,0,0,0,,E a má notícia?
+Dialogue: 0,0:14:02.44,0:14:05.19,Default,,0,0,0,,Eu sou a única pessoa a bordo que não foi mordida.
+Dialogue: 0,0:14:05.78,0:14:07.82,Default,,0,0,0,,Trezentos passageiros e tripulantes.
+Dialogue: 0,0:14:08.24,0:14:10.16,Default,,0,0,0,,Todos eles se transformaram em carniçais agora.
+Dialogue: 0,0:14:11.03,0:14:17.12,Default,,0,0,0,,A porta da cabine é tudo o que me separa de uma horda aérea de mortos-vivos.
+Dialogue: 0,0:14:17.12,0:14:18.79,Default,,0,0,0,,Assustador, não?
+Dialogue: 0,0:14:20.38,0:14:24.88,Default,,0,0,0,,Diante de tudo isso, você acha que consegue voltar com vida?
+Dialogue: 0,0:14:25.51,0:14:28.38,Default,,0,0,0,,Bem, a porta é bem resistente.
+Dialogue: 0,0:14:28.38,0:14:31.30,Default,,0,0,0,,Eles estão arranhando a porta neste exato momento,
+Dialogue: 0,0:14:31.30,0:14:33.56,Default,,0,0,0,,mas não vão conseguir passar.
+Dialogue: 0,0:14:33.97,0:14:36.35,Default,,0,0,0,,O que me preocupa é a aterrissagem.
+Dialogue: 0,0:14:36.60,0:14:40.06,Default,,0,0,0,,Não sei se consigo controlar algo deste tamanho.
+Dialogue: 0,0:14:40.85,0:14:44.57,Default,,0,0,0,,Tenho certeza de que você conseguirá dar um jeito.
+Dialogue: 0,0:14:46.36,0:14:48.74,Default,,0,0,0,,Isso foram palavras de incentivo?
+Dialogue: 0,0:14:48.74,0:14:50.32,Default,,0,0,0,,É bom ouvir isso.
+Dialogue: 0,0:14:52.53,0:14:57.79,Default,,0,0,0,,Eu dou conta do pouso, mas o que faço com estes monstros?
+Dialogue: 0,0:14:59.96,0:15:01.88,Default,,0,0,0,,Não precisa se preocupar com isso.
+Dialogue: 0,0:15:01.88,0:15:04.46,Default,,0,0,0,,Eu já resolvi tudo, Natalia.
+Dialogue: 0,0:15:07.92,0:15:09.88,Default,,0,0,0,,Bom saber.
+Dialogue: 0,0:15:09.88,0:15:12.09,Default,,0,0,0,,Cinquenta minutos até o aeroporto.
+Dialogue: 0,0:15:12.09,0:15:15.01,Default,,0,0,0,,Tempo demais para ficar apenas rezando.
+Dialogue: 0,0:15:15.01,0:15:17.98,Default,,0,0,0,,Garoto, converse comigo um pouco.
+Dialogue: 0,0:15:17.98,0:15:19.27,Default,,0,0,0,,Sem problemas.
+Dialogue: 0,0:15:47.88,0:15:54.05,Default,,0,0,0,,Você me colocou num baita dilema quando disse que queria me ajudar no meu trabalho.
+Dialogue: 0,0:15:54.85,0:15:58.14,Default,,0,0,0,,Não parecia haver nada que eu pudesse dizer para fazer você mudar de ideia.
+Dialogue: 0,0:15:58.85,0:16:02.06,Default,,0,0,0,,Eu demonstrei tão pouco potencial assim como aluno?
+Dialogue: 0,0:16:02.52,0:16:04.40,Default,,0,0,0,,Não, de forma alguma.
+Dialogue: 0,0:16:04.81,0:16:06.52,Default,,0,0,0,,Você tinha potencial demais.
+Dialogue: 0,0:16:06.98,0:16:08.40,Default,,0,0,0,,Muito além da conta...
+Dialogue: 0,0:16:08.40,0:16:10.03,Default,,0,0,0,,O que você quer dizer?
+Dialogue: 0,0:16:10.69,0:16:19.04,Default,,0,0,0,,A capacidade de desligar os sentimentos ao puxar o gatilho leva anos para a maioria dos assassinos desenvolver.
+Dialogue: 0,0:16:19.83,0:16:22.96,Default,,0,0,0,,Você já tinha isso desde o início.
+Dialogue: 0,0:16:22.96,0:16:24.42,Default,,0,0,0,,É um talento e tanto.
+Dialogue: 0,0:16:25.13,0:16:31.92,Default,,0,0,0,,Mas escolher a sua vocação com base apenas nos seus talentos nem sempre garantirá a sua felicidade.
+Dialogue: 0,0:16:32.59,0:16:38.01,Default,,0,0,0,,Se você agir apenas pelo que deve fazer, sem dar atenção ao que realmente quer fazer,
+Dialogue: 0,0:16:38.43,0:16:41.81,Default,,0,0,0,,você não passará de uma máquina, de um mero fenômeno.
+Dialogue: 0,0:16:42.68,0:16:44.77,Default,,0,0,0,,Não é assim que um ser humano deveria viver.
+Dialogue: 0,0:16:46.98,0:16:51.82,Default,,0,0,0,,Eu sempre achei que você fosse uma pessoa muito mais fria.
+Dialogue: 0,0:16:51.82,0:16:54.78,Default,,0,0,0,,Do que você está falando? Por acaso eu não sou?
+Dialogue: 0,0:16:55.24,0:16:58.91,Default,,0,0,0,,Eu já mimei você alguma vez na vida?
+Dialogue: 0,0:16:58.91,0:16:59.99,Default,,0,0,0,,Tem razão.
+Dialogue: 0,0:16:59.99,0:17:03.04,Default,,0,0,0,,Você sempre foi rigorosa comigo e nunca pegou leve.
+Dialogue: 0,0:17:03.04,0:17:07.50,Default,,0,0,0,,Fez tudo o que pôde para me ensinar.
+Dialogue: 0,0:17:10.17,0:17:14.93,Default,,0,0,0,,Normalmente, é papel de um pai instruir um garoto.
+Dialogue: 0,0:17:16.05,0:17:18.68,Default,,0,0,0,,Bem, você sabe...
+Dialogue: 0,0:17:21.64,0:17:26.98,Default,,0,0,0,,No seu caso, de certa forma fui eu quem tirou a sua chance de ter isso.
+Dialogue: 0,0:17:27.60,0:17:31.90,Default,,0,0,0,,Bem, seja como for, eu me sentia meio mal por causa disso.
+Dialogue: 0,0:17:33.19,0:17:37.24,Default,,0,0,0,,Este era o único modo de vida que eu podia lhe ensinar.
+Dialogue: 0,0:17:37.70,0:17:40.91,Default,,0,0,0,,Então você se considera meu pai?
+Dialogue: 0,0:17:41.45,0:17:44.45,Default,,0,0,0,,Não confunda meu gênero, seu pivete.
+Dialogue: 0,0:17:44.45,0:17:46.71,Default,,0,0,0,,Ao menos me chame de "mãe".
+Dialogue: 0,0:17:47.37,0:17:48.54,Default,,0,0,0,,Tem razão.
+Dialogue: 0,0:17:48.54,0:17:49.21,Default,,0,0,0,,Desculpe.
+Dialogue: 0,0:17:50.59,0:17:54.88,Default,,0,0,0,,Passei muito tempo sozinha neste negócio manchado de sangue.
+Dialogue: 0,0:17:55.42,0:17:58.97,Default,,0,0,0,,Tanto tempo que até esqueci que estava completamente só.
+Dialogue: 0,0:17:58.97,0:18:00.01,Default,,0,0,0,,Bem...
+Dialogue: 0,0:18:01.10,0:18:03.68,Default,,0,0,0,,Foi bastante divertido, à sua maneira.
+Dialogue: 0,0:18:03.68,0:18:05.98,Default,,0,0,0,,Ter algo parecido com uma família, quero dizer.
+Dialogue: 0,0:18:07.14,0:18:07.73,Default,,0,0,0,,Para mim também.
+Dialogue: 0,0:18:08.69,0:18:12.57,Default,,0,0,0,,Eu realmente pensava em você como uma mãe.
+Dialogue: 0,0:18:13.44,0:18:16.11,Default,,0,0,0,,Eu era feliz por não estar sozinho.
+Dialogue: 0,0:18:16.61,0:18:18.66,Default,,0,0,0,,Qual é, Kiritsugu.
+Dialogue: 0,0:18:18.66,0:18:23.74,Default,,0,0,0,,Pare de dizer coisas que vão nos deixar constrangidos na próxima vez que nos vermos.
+Dialogue: 0,0:18:24.58,0:18:25.95,Default,,0,0,0,,Puxa...
+Dialogue: 0,0:18:25.95,0:18:27.66,Default,,0,0,0,,Você está tirando a minha concentração.
+Dialogue: 0,0:18:27.66,0:18:30.42,Default,,0,0,0,,Eu pouso em cerca de vinte minutos.
+Dialogue: 0,0:18:30.42,0:18:34.50,Default,,0,0,0,,Se eu fizer besteira na hora H porque fiquei rindo de velhas lembranças, vou acabar morrendo.
+Dialogue: 0,0:18:36.21,0:18:38.63,Default,,0,0,0,,Desculpe.
+Dialogue: 0,0:18:41.89,0:18:46.14,Default,,0,0,0,,Talvez eu esteja ficando velha demais para isso.
+Dialogue: 0,0:18:46.14,0:18:53.07,Default,,0,0,0,,Talvez eu tenha pisado tanto na bola porque brincar de família me fez baixar a guarda.
+Dialogue: 0,0:18:53.94,0:18:56.15,Default,,0,0,0,,Se for isso, provavelmente já passou da hora.
+Dialogue: 0,0:18:56.69,0:18:58.61,Default,,0,0,0,,Talvez eu me aposente.
+Dialogue: 0,0:18:59.66,0:19:03.49,Default,,0,0,0,,Se você largar o trabalho, o que fará então?
+Dialogue: 0,0:19:03.91,0:19:05.99,Default,,0,0,0,,Se eu ficar sem trabalho...
+Dialogue: 0,0:19:07.66,0:19:12.08,Default,,0,0,0,,A única coisa que me restaria seria desempenhar o papel de mãe.
+Dialogue: 0,0:19:27.68,0:19:29.06,Default,,0,0,0,,Você é de verdade...
+Dialogue: 0,0:19:32.02,0:19:34.36,Default,,0,0,0,,...uma família para mim.
+Dialogue: 0,0:20:19.15,0:20:21.65,Default,,0,0,0,,Você viu isso, Shirley?
+Dialogue: 0,0:20:26.53,0:20:28.16,Default,,0,0,0,,Eu matei de novo.
+Dialogue: 0,0:20:28.91,0:20:30.91,Default,,0,0,0,,Eu a matei, assim como matei meu pai.
+Dialogue: 0,0:20:31.62,0:20:33.96,Default,,0,0,0,,Eu não hesitei, como fiz com você.
+Dialogue: 0,0:20:34.42,0:20:37.09,Default,,0,0,0,,Eu salvei muitas pessoas.
+Dialogue: 0,0:20:38.34,0:20:46.97,Default,,0,0,0,,Se a Natalia tivesse pousado com sucesso, não há como saber quantas pessoas teriam morrido.
+Dialogue: 0,0:20:51.85,0:20:55.10,Default,,0,0,0,,O sacrifício dela evitou isso...
+Dialogue: 0,0:20:56.61,0:20:57.44,Default,,0,0,0,,É por isso...
+Dialogue: 0,0:20:57.98,0:21:00.32,Default,,0,0,0,,É por isso, Shirley...
+Dialogue: 0,0:21:02.11,0:21:02.94,Default,,0,0,0,,Eu...
+Dialogue: 0,0:21:11.75,0:21:14.00,Default,,0,0,0,,Cale a boca! Cale a boca!
+Dialogue: 0,0:21:14.00,0:21:15.87,Default,,0,0,0,,Maldito!
+Dialogue: 0,0:21:26.55,0:21:27.76,Default,,0,0,0,,Ei, Kerry.
+Dialogue: 0,0:21:28.14,0:21:30.64,Default,,0,0,0,,O que você quer ser quando crescer?
+Dialogue: 0,0:21:32.35,0:21:33.31,Default,,0,0,0,,Eu...
+Dialogue: 0,0:21:41.19,0:21:42.19,Default,,0,0,0,,Eu...
+Dialogue: 0,0:23:25.63,0:23:26.63,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:23:26.63,0:23:28.42,Default,,0,0,0,,Que piada sem graça.
+Dialogue: 0,0:23:28.42,0:23:31.01,Default,,0,0,0,,Qual é a sensação de viver a vida que você roubou da Sakura?
+Dialogue: 0,0:23:31.01,0:23:32.97,Default,,0,0,0,,Pelo meu Selo de Comando, ordeno ao meu fantoche...
+Dialogue: 0,0:23:32.97,0:23:35.22,Default,,0,0,0,,Você parece o seu antigo eu.
+Dialogue: 0,0:23:35.22,0:23:37.47,Default,,0,0,0,,Esta é uma batalha que escolhi travar.
+Dialogue: 0,0:23:37.47,0:23:39.98,Default,,0,0,0,,Sabe, eu realmente estou feliz.
+Dialogue: 0,0:21:51.95,0:21:54.96,Signs,,0,0,0,,{\an8}Episódio 19: Onde a Justiça Habita
+Dialogue: 0,0:23:37.47,0:23:39.98,Signs,,0,0,0,,{\an8}Próximo Episódio: O Retorno do Assassino

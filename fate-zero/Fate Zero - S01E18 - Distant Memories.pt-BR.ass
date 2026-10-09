@@ -1,0 +1,280 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E18 - Distant Memories (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E18 - Distant Memories (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.03,0:00:09.74,Default,,0,0,0,,Kerry!
+Dialogue: 0,0:00:09.74,0:00:11.92,Default,,0,0,0,,Depressa! Depressa!
+Dialogue: 0,0:00:11.92,0:00:12.90,Default,,0,0,0,,Kerry!
+Dialogue: 0,0:00:12.90,0:00:13.56,Default,,0,0,0,,Depressa!
+Dialogue: 0,0:00:13.56,0:00:15.05,Default,,0,0,0,,Kerry!
+Dialogue: 0,0:00:37.89,0:00:40.89,Default,,0,0,0,,Uau! Incrível!
+Dialogue: 0,0:00:40.89,0:00:43.59,Default,,0,0,0,,Não foi nada demais!
+Dialogue: 0,0:00:44.89,0:00:46.33,Default,,0,0,0,,Shirley.
+Dialogue: 0,0:00:46.33,0:00:47.40,Default,,0,0,0,,Shirley!
+Dialogue: 0,0:00:47.40,0:00:48.65,Default,,0,0,0,,Kerry!
+Dialogue: 0,0:00:49.26,0:00:50.43,Default,,0,0,0,,Estou aqui.
+Dialogue: 0,0:00:55.15,0:00:56.70,Default,,0,0,0,,Ei, Kerry.
+Dialogue: 0,0:00:56.70,0:00:59.53,Default,,0,0,0,,Você sabe de onde vem o nome desta ilha?
+Dialogue: 0,0:00:59.53,0:01:00.83,Default,,0,0,0,,Não.
+Dialogue: 0,0:01:00.83,0:01:04.37,Default,,0,0,0,,Ah, Alimango não é a palavra para caranguejo?
+Dialogue: 0,0:01:04.37,0:01:05.42,Default,,0,0,0,,Isso.
+Dialogue: 0,0:01:05.42,0:01:10.30,Default,,0,0,0,,Há muito tempo, este era um lugar onde as pessoas faziam oferendas aos deuses do mar.
+Dialogue: 0,0:01:10.30,0:01:15.80,Default,,0,0,0,,Mas um dia, uma garota, sem nada para alimentar a mãe doente,
+Dialogue: 0,0:01:15.80,0:01:19.18,Default,,0,0,0,,pegou um pouco da comida que havia sido ofertada.
+Dialogue: 0,0:01:19.85,0:01:24.68,Default,,0,0,0,,Por isso, a garota foi amaldiçoada e transformada em um caranguejo.
+Dialogue: 0,0:01:25.22,0:01:26.69,Default,,0,0,0,,É daí que vem o nome?
+Dialogue: 0,0:01:26.69,0:01:28.19,Default,,0,0,0,,Que história triste.
+Dialogue: 0,0:01:28.19,0:01:32.53,Default,,0,0,0,,Além disso, o santuário consagrado àqueles deuses
+Dialogue: 0,0:01:32.53,0:01:37.20,Default,,0,0,0,,fica no alto desta montanha, bem onde fica a sua mansão.
+Dialogue: 0,0:01:37.78,0:01:41.53,Default,,0,0,0,,É por isso que nenhum dos aldeões quer subir até lá.
+Dialogue: 0,0:01:41.53,0:01:43.45,Default,,0,0,0,,Dizem que dá azar.
+Dialogue: 0,0:01:43.45,0:01:46.25,Default,,0,0,0,,Dizem que você será amaldiçoado se for até lá com muita frequência.
+Dialogue: 0,0:01:46.25,0:01:48.42,Default,,0,0,0,,Eles tentam me assustar também.
+Dialogue: 0,0:01:48.42,0:01:49.54,Default,,0,0,0,,Puxa vida...
+Dialogue: 0,0:01:49.54,0:01:52.71,Default,,0,0,0,,Mas todo mundo me trata muito bem.
+Dialogue: 0,0:01:53.46,0:01:56.72,Default,,0,0,0,,É que você não é mais considerado um forasteiro.
+Dialogue: 0,0:01:57.97,0:02:00.85,Default,,0,0,0,,No vilarejo, todos o tratam como se fosse meu irmãozinho.
+Dialogue: 0,0:02:03.60,0:02:05.14,Default,,0,0,0,,Irmãozinho, é...?
+Dialogue: 0,0:02:05.77,0:02:09.35,Default,,0,0,0,,Você realmente se acostumou por aqui.
+Dialogue: 0,0:02:09.35,0:02:10.19,Default,,0,0,0,,Você acha?
+Dialogue: 0,0:02:10.52,0:02:14.32,Default,,0,0,0,,Todos implicavam com você quando você acabou de chegar.
+Dialogue: 0,0:02:14.32,0:02:16.53,Default,,0,0,0,,Você tinha um nome estranho.
+Dialogue: 0,0:02:16.53,0:02:17.70,Default,,0,0,0,,Mas...
+Dialogue: 0,0:02:18.28,0:02:21.41,Default,,0,0,0,,Mas foi você a primeira a usá-lo!
+Dialogue: 0,0:02:21.41,0:02:24.54,Default,,0,0,0,,E me chamando de Kerry...
+Dialogue: 0,0:02:25.24,0:02:28.83,Default,,0,0,0,,É porque o seu nome de verdade é muito difícil de falar!
+Dialogue: 0,0:02:29.58,0:02:32.17,Default,,0,0,0,,Kiri... Kiri...
+Dialogue: 0,0:02:32.17,0:02:34.42,Default,,0,0,0,,É Kiritsugu.
+Dialogue: 0,0:02:34.42,0:02:35.67,Default,,0,0,0,,Kiritugu!
+Dialogue: 0,0:02:35.67,0:02:37.22,Default,,0,0,0,,Nem perto...
+Dialogue: 0,0:02:37.22,0:02:38.42,Default,,0,0,0,,Hã?
+Dialogue: 0,0:02:38.88,0:02:39.72,Default,,0,0,0,,Fala sério?
+Dialogue: 0,0:02:52.56,0:02:53.65,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:02:56.28,0:02:58.44,Default,,0,0,0,,Papai, isso é novo?
+Dialogue: 0,0:02:58.95,0:02:59.70,Default,,0,0,0,,Sim.
+Dialogue: 0,0:03:00.11,0:03:02.95,Default,,0,0,0,,Este é o meu centésimo caso de sucesso.
+Dialogue: 0,0:03:06.66,0:03:09.37,Default,,0,0,0,,Estas flores nunca murcham.
+Dialogue: 0,0:03:10.08,0:03:12.54,Default,,0,0,0,,Eu alterei o fluxo temporal delas.
+Dialogue: 0,0:03:13.08,0:03:16.96,Default,,0,0,0,,Elas não crescerão além disto, mas também jamais murcharão.
+Dialogue: 0,0:03:16.96,0:03:19.13,Default,,0,0,0,,Uau...
+Dialogue: 0,0:03:19.13,0:03:23.51,Default,,0,0,0,,A questão é saber se conseguiremos fazer essa mesma teoria funcionar em humanos.
+Dialogue: 0,0:03:27.60,0:03:29.60,Default,,0,0,0,,Finalmente terminei!
+Dialogue: 0,0:03:30.81,0:03:31.89,Default,,0,0,0,,Shirley.
+Dialogue: 0,0:03:31.89,0:03:32.85,Default,,0,0,0,,Isso...
+Dialogue: 0,0:03:33.40,0:03:34.81,Default,,0,0,0,,Olhem!
+Dialogue: 0,0:03:34.81,0:03:36.90,Default,,0,0,0,,É o meu primeiro sucesso!
+Dialogue: 0,0:03:36.90,0:03:40.40,Default,,0,0,0,,A Shirley andou me imitando nos intervalos das tarefas de assistente.
+Dialogue: 0,0:03:44.07,0:03:47.29,Default,,0,0,0,,Ela parece ter talento como maga.
+Dialogue: 0,0:03:47.29,0:03:51.00,Default,,0,0,0,,Não, quem fez a maior parte não foi o senhor, Sensei?
+Dialogue: 0,0:03:51.00,0:03:53.79,Default,,0,0,0,,Eu só fiz um pouquinho no final.
+Dialogue: 0,0:03:53.79,0:03:55.71,Default,,0,0,0,,Ainda assim é incrível!
+Dialogue: 0,0:03:55.71,0:03:57.46,Default,,0,0,0,,Ei, papai...
+Dialogue: 0,0:03:57.46,0:03:58.80,Default,,0,0,0,,Hum? O que foi?
+Dialogue: 0,0:03:58.80,0:04:02.80,Default,,0,0,0,,Eu poderia tentar fazer aquilo que a Shirley fez?
+Dialogue: 0,0:04:03.30,0:04:04.84,Default,,0,0,0,,Seria ótimo!
+Dialogue: 0,0:04:04.84,0:04:08.06,Default,,0,0,0,,Se o Kerry ajudar também, ele vai conseguir!
+Dialogue: 0,0:04:08.06,0:04:09.31,Default,,0,0,0,,Não é, Sensei?
+Dialogue: 0,0:04:09.31,0:04:10.10,Default,,0,0,0,,Não.
+Dialogue: 0,0:04:11.06,0:04:14.10,Default,,0,0,0,,Kiritsugu, ainda é cedo demais para você.
+Dialogue: 0,0:04:15.77,0:04:17.48,Default,,0,0,0,,Isto não é uma brincadeira.
+Dialogue: 0,0:04:17.48,0:04:18.69,Default,,0,0,0,,É perigoso.
+Dialogue: 0,0:04:19.28,0:04:24.70,Default,,0,0,0,,Eu só permiti que a Shirley tentasse porque considero que ela possui o conhecimento e a experiência necessários.
+Dialogue: 0,0:04:39.96,0:04:43.05,Default,,0,0,0,,Reverendo, por que não quer compreender?
+Dialogue: 0,0:04:43.05,0:04:44.26,Default,,0,0,0,,Shirley...
+Dialogue: 0,0:04:44.26,0:04:47.35,Default,,0,0,0,,Todos vocês têm uma ideia errada sobre o Sensei!
+Dialogue: 0,0:04:47.35,0:04:49.64,Default,,0,0,0,,Escute, Shirley.
+Dialogue: 0,0:04:49.64,0:04:52.31,Default,,0,0,0,,Não volte àquela mansão.
+Dialogue: 0,0:04:55.85,0:04:57.56,Default,,0,0,0,,Vamos conversar lá dentro.
+Dialogue: 0,0:05:02.74,0:05:06.57,Default,,0,0,0,,O meu pai deveria passar um tempo com os aldeões também.
+Dialogue: 0,0:05:09.41,0:05:10.66,Default,,0,0,0,,Não sei não...
+Dialogue: 0,0:05:11.20,0:05:15.25,Default,,0,0,0,,O Reverendo Simon e os outros realmente não gostam dele.
+Dialogue: 0,0:05:16.12,0:05:18.42,Default,,0,0,0,,Ele vive me passando sermão.
+Dialogue: 0,0:05:18.92,0:05:23.21,Default,,0,0,0,,Diz que um demônio vai me possuir algum dia se eu continuar trabalhando lá.
+Dialogue: 0,0:05:23.21,0:05:24.92,Default,,0,0,0,,Olhe só isto.
+Dialogue: 0,0:05:24.92,0:05:29.01,Default,,0,0,0,,Ele me mandou carregar isto comigo o tempo todo.
+Dialogue: 0,0:05:30.51,0:05:33.14,Default,,0,0,0,,Disse que é um amuleto muito poderoso.
+Dialogue: 0,0:05:34.81,0:05:38.73,Default,,0,0,0,,Shirley, o meu pai lhe dá medo?
+Dialogue: 0,0:05:38.73,0:05:39.61,Default,,0,0,0,,De jeito nenhum.
+Dialogue: 0,0:05:40.15,0:05:44.82,Default,,0,0,0,,Claro, pesquisas de magia não são exatamente normais.
+Dialogue: 0,0:05:45.32,0:05:50.87,Default,,0,0,0,,Mas o conhecimento e as descobertas do Sensei são tão incríveis que poderiam fazer história.
+Dialogue: 0,0:05:51.37,0:05:54.25,Default,,0,0,0,,Eu acho ele incrível.
+Dialogue: 0,0:05:59.71,0:06:00.92,Default,,0,0,0,,Essa...
+Dialogue: 0,0:06:02.30,0:06:04.88,Default,,0,0,0,,É afiada e bem fácil de usar.
+Dialogue: 0,0:06:07.30,0:06:08.80,Default,,0,0,0,,Até amanhã.
+Dialogue: 0,0:06:10.97,0:06:13.06,Default,,0,0,0,,Shirley, tem algo de errado?
+Dialogue: 0,0:06:15.02,0:06:17.85,Default,,0,0,0,,Fazer uma flor florescer para sempre...
+Dialogue: 0,0:06:17.85,0:06:19.81,Default,,0,0,0,,Realmente é uma magia maravilhosa.
+Dialogue: 0,0:06:20.19,0:06:22.32,Default,,0,0,0,,Você conseguiu fazer isso também.
+Dialogue: 0,0:06:22.32,0:06:24.90,Default,,0,0,0,,Trabalhar com flores é tudo o que consigo fazer.
+Dialogue: 0,0:06:25.94,0:06:28.11,Default,,0,0,0,,O Sensei foi muito além disso.
+Dialogue: 0,0:06:28.49,0:06:32.70,Default,,0,0,0,,Os remédios dele poderiam erradicar a mortalidade humana.
+Dialogue: 0,0:06:33.08,0:06:41.17,Default,,0,0,0,,Eu quero que ele use o poder dele para o bem do mundo, para que todos compreendam o quão grandioso ele é.
+Dialogue: 0,0:06:41.75,0:06:43.59,Default,,0,0,0,,Ele já desistiu disso.
+Dialogue: 0,0:06:44.59,0:06:47.97,Default,,0,0,0,,Mas, Kerry, tenho certeza de que você conseguirá.
+Dialogue: 0,0:06:48.34,0:06:49.72,Default,,0,0,0,,O quê?
+Dialogue: 0,0:06:49.72,0:06:52.22,Default,,0,0,0,,Você é o melhor aluno dele.
+Dialogue: 0,0:06:52.89,0:06:55.22,Default,,0,0,0,,Se alguém for capaz de fazer isso, esse alguém é você.
+Dialogue: 0,0:06:55.22,0:06:56.35,Default,,0,0,0,,Eu não.
+Dialogue: 0,0:06:57.02,0:06:59.19,Default,,0,0,0,,Eu não sou aluno dele.
+Dialogue: 0,0:06:59.69,0:07:01.56,Default,,0,0,0,,O máximo que posso ser é o assistente dele.
+Dialogue: 0,0:07:02.10,0:07:04.44,Default,,0,0,0,,Ajudando nas pequenas tarefas...
+Dialogue: 0,0:07:08.74,0:07:11.74,Default,,0,0,0,,Não sou o discípulo dele nem nada do tipo.
+Dialogue: 0,0:07:12.41,0:07:16.99,Default,,0,0,0,,Por isso, mesmo quando o reverendo me repreende por causa dele, não tenho o que dizer.
+Dialogue: 0,0:07:16.99,0:07:18.20,Default,,0,0,0,,Kerry.
+Dialogue: 0,0:07:19.04,0:07:21.83,Default,,0,0,0,,Você é o herdeiro do Sensei, sem sombra de dúvida.
+Dialogue: 0,0:07:22.42,0:07:27.76,Default,,0,0,0,,Ele planeja que você dê continuidade a todas as pesquisas atuais dele.
+Dialogue: 0,0:07:28.76,0:07:31.88,Default,,0,0,0,,É só que agora ainda é um pouco cedo demais.
+Dialogue: 0,0:07:34.18,0:07:35.01,Default,,0,0,0,,Ei.
+Dialogue: 0,0:07:35.01,0:07:36.22,Default,,0,0,0,,Venha comigo.
+Dialogue: 0,0:08:00.50,0:08:01.54,Default,,0,0,0,,Ei, Kerry.
+Dialogue: 0,0:08:02.92,0:08:04.79,Default,,0,0,0,,O que você quer ser quando crescer?
+Dialogue: 0,0:08:06.38,0:08:11.01,Default,,0,0,0,,Se você herdar o trabalho do seu pai, para o que vai usá-lo?
+Dialogue: 0,0:08:12.22,0:08:14.14,Default,,0,0,0,,É um poder capaz de mudar o mundo.
+Dialogue: 0,0:08:14.97,0:08:16.72,Default,,0,0,0,,E um dia, ele será seu.
+Dialogue: 0,0:08:17.93,0:08:20.31,Default,,0,0,0,,Sim, mudar o mundo.
+Dialogue: 0,0:08:20.77,0:08:22.56,Default,,0,0,0,,Você consegue.
+Dialogue: 0,0:08:22.56,0:08:24.19,Default,,0,0,0,,Eu garanto.
+Dialogue: 0,0:08:25.40,0:08:26.94,Default,,0,0,0,,Isso...
+Dialogue: 0,0:08:28.15,0:08:29.94,Default,,0,0,0,,Isso é segredo.
+Dialogue: 0,0:08:35.49,0:08:41.70,Default,,0,0,0,,Então deixe-me ver o que você fará quando crescer.
+Dialogue: 0,0:08:42.46,0:08:45.50,Default,,0,0,0,,Eu ficarei ao seu lado até lá.
+Dialogue: 0,0:08:46.88,0:08:47.59,Default,,0,0,0,,Está bem?
+Dialogue: 0,0:08:53.01,0:08:53.97,Default,,0,0,0,,O...
+Dialogue: 0,0:08:54.76,0:08:55.97,Default,,0,0,0,,Tanto faz!
+Dialogue: 0,0:09:02.10,0:09:03.48,Default,,0,0,0,,Parem com isso!
+Dialogue: 0,0:09:03.48,0:09:05.73,Default,,0,0,0,,Toma essa!
+Dialogue: 0,0:09:13.86,0:09:15.53,Default,,0,0,0,,Bom dia, papai.
+Dialogue: 0,0:09:15.53,0:09:20.49,Default,,0,0,0,,Kiritsugu, você não entrou no meu ateliê ontem à noite, entrou?
+Dialogue: 0,0:09:20.49,0:09:21.54,Default,,0,0,0,,Hã?
+Dialogue: 0,0:09:21.54,0:09:23.12,Default,,0,0,0,,Não, não entrei.
+Dialogue: 0,0:09:23.12,0:09:24.58,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:09:27.29,0:09:30.25,Default,,0,0,0,,Kiritsugu, não vá ao vilarejo hoje.
+Dialogue: 0,0:09:31.21,0:09:33.01,Default,,0,0,0,,Apenas não saia de casa.
+Dialogue: 0,0:09:36.18,0:09:38.22,Default,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:09:43.64,0:09:45.98,Default,,0,0,0,,A Shirley está atrasada...
+Dialogue: 0,0:09:58.24,0:09:59.03,Default,,0,0,0,,Ei.
+Dialogue: 0,0:10:00.62,0:10:01.99,Default,,0,0,0,,Vocês viram a Shirley?
+Dialogue: 0,0:10:10.92,0:10:12.04,Default,,0,0,0,,Shirley?
+Dialogue: 0,0:10:21.26,0:10:22.43,Default,,0,0,0,,Shirley?
+Dialogue: 0,0:10:44.91,0:10:47.54,Default,,0,0,0,,O que aconteceu com você?!
+Dialogue: 0,0:11:11.40,0:11:12.81,Default,,0,0,0,,Kerry...
+Dialogue: 0,0:11:13.77,0:11:14.73,Default,,0,0,0,,Shirley!
+Dialogue: 0,0:11:21.20,0:11:22.11,Default,,0,0,0,,Eu...
+Dialogue: 0,0:11:22.99,0:11:28.58,Default,,0,0,0,,Eu só queria provar a pesquisa do Sensei!
+Dialogue: 0,0:11:30.62,0:11:31.33,Default,,0,0,0,,Mas...
+Dialogue: 0,0:11:33.08,0:11:34.67,Default,,0,0,0,,Acho que...
+Dialogue: 0,0:11:35.17,0:11:36.71,Default,,0,0,0,,...não deu certo...
+Dialogue: 0,0:11:46.68,0:11:47.89,Default,,0,0,0,,Me mate.
+Dialogue: 0,0:11:50.27,0:11:51.39,Default,,0,0,0,,Use isso.
+Dialogue: 0,0:11:51.77,0:11:52.94,Default,,0,0,0,,Por favor...
+Dialogue: 0,0:11:53.48,0:11:55.44,Default,,0,0,0,,Você tem que me matar.
+Dialogue: 0,0:11:56.82,0:12:01.45,Default,,0,0,0,,Se fizer agora, ainda dá tempo...
+Dialogue: 0,0:12:03.41,0:12:04.91,Default,,0,0,0,,Por favor!
+Dialogue: 0,0:12:05.41,0:12:07.33,Default,,0,0,0,,Eu não consigo...
+Dialogue: 0,0:12:08.41,0:12:10.50,Default,,0,0,0,,Não consigo mais conter isso!
+Dialogue: 0,0:12:10.96,0:12:12.58,Default,,0,0,0,,Rápido!
+Dialogue: 0,0:12:26.30,0:12:28.97,Default,,0,0,0,,Era realmente a Shirley...?
+Dialogue: 0,0:12:36.31,0:12:39.65,Default,,0,0,0,,Kerry, fique aqui por enquanto.
+Dialogue: 0,0:12:39.65,0:12:41.78,Default,,0,0,0,,Vou avisar o vilarejo.
+Dialogue: 0,0:14:09.82,0:14:13.04,Default,,0,0,0,,O-O que é isto?!
+Dialogue: 0,0:14:31.14,0:14:33.60,Default,,0,0,0,,Reverendo Simon...?!
+Dialogue: 0,0:15:31.24,0:15:34.20,Default,,0,0,0,,Parece que cheguei tarde demais.
+Dialogue: 0,0:15:34.20,0:15:35.83,Default,,0,0,0,,E-Espere!
+Dialogue: 0,0:15:35.83,0:15:38.04,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:15:43.08,0:15:46.30,Default,,0,0,0,,Não deveria se preocupar consigo mesmo primeiro?
+Dialogue: 0,0:15:47.59,0:15:52.59,Default,,0,0,0,,Bem, se ficar apenas sentado aí, logo se juntará a eles.
+Dialogue: 0,0:16:00.60,0:16:02.69,Default,,0,0,0,,O que aconteceu?
+Dialogue: 0,0:16:02.69,0:16:04.27,Default,,0,0,0,,Quem fez isso?
+Dialogue: 0,0:16:04.69,0:16:06.82,Default,,0,0,0,,Por que incendiaram o vilarejo?!
+Dialogue: 0,0:16:06.82,0:16:11.78,Default,,0,0,0,,Tenho certeza de que você ao menos já ouviu falar de vampiros.
+Dialogue: 0,0:16:12.40,0:16:14.78,Default,,0,0,0,,Nós os chamamos de Apóstolos Mortos.
+Dialogue: 0,0:16:15.41,0:16:16.28,Default,,0,0,0,,Apóstolos Mortos?
+Dialogue: 0,0:16:16.28,0:16:19.54,Default,,0,0,0,,Eles bebem sangue para se reproduzirem.
+Dialogue: 0,0:16:19.54,0:16:23.58,Default,,0,0,0,,Quase todos nesta ilha se tornaram Apóstolos Mortos agora.
+Dialogue: 0,0:16:23.58,0:16:26.63,Default,,0,0,0,,Por isso estão fazendo uma limpeza.
+Dialogue: 0,0:16:26.63,0:16:31.47,Default,,0,0,0,,Dois grupos lá embaixo estão trabalhando duro para eliminá-los.
+Dialogue: 0,0:16:31.88,0:16:34.97,Default,,0,0,0,,Um deles são os Executores da Igreja.
+Dialogue: 0,0:16:35.34,0:16:40.60,Default,,0,0,0,,Eles acreditam piamente que não há problema em massacrar quem quer que desafie a vontade de Deus.
+Dialogue: 0,0:16:41.31,0:16:43.85,Default,,0,0,0,,Obviamente, não terão piedade de nenhum Apóstolo Morto.
+Dialogue: 0,0:16:43.85,0:16:48.11,Default,,0,0,0,,Eles matarão qualquer um que sequer suspeitarem ter tido o sangue sugado.
+Dialogue: 0,0:16:48.90,0:16:51.19,Default,,0,0,0,,Quanto à Associação dos Magos...
+Dialogue: 0,0:16:51.19,0:16:53.36,Default,,0,0,0,,eles são mais complicados de explicar,
+Dialogue: 0,0:16:53.36,0:17:01.62,Default,,0,0,0,,mas basicamente querem guardar para si o segredo de quem criou entidades tão bizarras quanto os Apóstolos Mortos.
+Dialogue: 0,0:17:01.62,0:17:05.00,Default,,0,0,0,,Naturalmente, como o lema deles é "guardar tudo para si",
+Dialogue: 0,0:17:05.00,0:17:08.38,Default,,0,0,0,,eles matam qualquer um que suspeitarem conhecer esse segredo.
+Dialogue: 0,0:17:08.38,0:17:10.92,Default,,0,0,0,,Destruirão todas as evidências do ocorrido.
+Dialogue: 0,0:17:10.92,0:17:13.38,Default,,0,0,0,,Foram eles que incendiaram o vilarejo.
+Dialogue: 0,0:17:14.72,0:17:17.64,Default,,0,0,0,,De que lado você está?
+Dialogue: 0,0:17:18.30,0:17:21.97,Default,,0,0,0,,Sou como uma prestadora de serviços autônoma para a Associação dos Magos.
+Dialogue: 0,0:17:22.56,0:17:25.02,Default,,0,0,0,,Bem, garoto.
+Dialogue: 0,0:17:25.02,0:17:27.23,Default,,0,0,0,,Responda à minha pergunta.
+Dialogue: 0,0:17:27.90,0:17:30.65,Default,,0,0,0,,Estou procurando por um mago sob Designação de Selamento.
+Dialogue: 0,0:17:31.53,0:17:32.61,Default,,0,0,0,,Um mago...
+Dialogue: 0,0:17:33.24,0:17:36.41,Default,,0,0,0,,Imagino que isso não signifique nada para você.
+Dialogue: 0,0:17:37.03,0:17:40.20,Default,,0,0,0,,Pense na primeira pessoa a se tornar um Apóstolo Morto aqui.
+Dialogue: 0,0:17:40.20,0:17:44.16,Default,,0,0,0,,Estou falando do meio que transformou essa pessoa em Apóstolo Morto.
+Dialogue: 0,0:17:44.16,0:17:46.79,Default,,0,0,0,,O catalisador que causou a mutação.
+Dialogue: 0,0:17:47.17,0:17:53.42,Default,,0,0,0,,O mago nocivo que criou isso deve estar escondido em algum lugar desta ilha.
+Dialogue: 0,0:17:53.42,0:17:56.55,Default,,0,0,0,,Você sabe de alguma coisa?
+Dialogue: 0,0:18:13.15,0:18:14.69,Default,,0,0,0,,Ah, Kiritsugu.
+Dialogue: 0,0:18:14.69,0:18:16.11,Default,,0,0,0,,Você está são e salvo.
+Dialogue: 0,0:18:16.11,0:18:17.49,Default,,0,0,0,,Fico muito aliviado.
+Dialogue: 0,0:18:18.24,0:18:20.28,Default,,0,0,0,,Eu lhe disse para não ir ao vilarejo.
+Dialogue: 0,0:18:22.41,0:18:23.45,Default,,0,0,0,,Papai...
+Dialogue: 0,0:18:23.45,0:18:25.25,Default,,0,0,0,,Por que você estava pesquisando os Apóstolos Mortos?
+Dialogue: 0,0:18:26.16,0:18:28.54,Default,,0,0,0,,Kiritsugu, como você soube...?
+Dialogue: 0,0:18:29.17,0:18:32.84,Default,,0,0,0,,A Shirley usou a magia em si mesma.
+Dialogue: 0,0:18:35.96,0:18:41.26,Default,,0,0,0,,Bem, isso é muito triste, mas não podemos mudar o passado.
+Dialogue: 0,0:18:41.26,0:18:45.06,Default,,0,0,0,,Não era a minha intenção, mas apenas significa que a Shirley me deu uma resposta antecipada.
+Dialogue: 0,0:18:47.14,0:18:51.31,Default,,0,0,0,,Você me usará algum dia, assim como fez com a Shirley?
+Dialogue: 0,0:18:51.31,0:18:52.81,Default,,0,0,0,,Não seja tolo.
+Dialogue: 0,0:18:53.23,0:18:56.82,Default,,0,0,0,,Um Apóstolo Morto que não consegue controlar a própria sede de sangue é um fracasso.
+Dialogue: 0,0:18:57.32,0:19:01.49,Default,,0,0,0,,No entanto, as pesquisas da família Emiya requerem tempo ilimitado.
+Dialogue: 0,0:19:01.95,0:19:05.79,Default,,0,0,0,,A Raiz é inalcançável com um corpo mortal.
+Dialogue: 0,0:19:05.79,0:19:11.00,Default,,0,0,0,,Foi um experimento demorado, mas parece ter falhado.
+Dialogue: 0,0:19:11.71,0:19:14.67,Default,,0,0,0,,Terei que reescrever a minha teoria do zero.
+Dialogue: 0,0:19:14.67,0:19:18.80,Default,,0,0,0,,Kiritsugu, discutiremos isso em outro momento.
+Dialogue: 0,0:19:19.26,0:19:21.13,Default,,0,0,0,,Precisamos fugir agora.
+Dialogue: 0,0:19:22.18,0:19:24.35,Default,,0,0,0,,Nós podemos fugir?
+Dialogue: 0,0:19:24.35,0:19:30.14,Default,,0,0,0,,Imaginei que isso pudesse acontecer, então escondi um barco a motor na costa sul há algum tempo.
+Dialogue: 0,0:19:32.90,0:19:36.86,Default,,0,0,0,,Sinto muito, Kiritsugu, mas não haverá tempo para recolher suas coisas.
+Dialogue: 0,0:19:37.61,0:19:38.36,Default,,0,0,0,,Vamos...
+Dialogue: 0,0:19:38.78,0:19:40.15,Default,,0,0,0,,Eu vou fazer isso.
+Dialogue: 0,0:19:40.15,0:19:42.41,Default,,0,0,0,,Há uma barreira mágica cercando a floresta.
+Dialogue: 0,0:19:42.91,0:19:44.87,Default,,0,0,0,,Muito poderosa.
+Dialogue: 0,0:19:45.24,0:19:47.74,Default,,0,0,0,,Levará tempo para dissipá-la.
+Dialogue: 0,0:19:47.74,0:19:48.62,Default,,0,0,0,,Mas...
+Dialogue: 0,0:19:49.29,0:19:50.62,Default,,0,0,0,,Eu consigo entrar.
+Dialogue: 0,0:19:51.42,0:19:53.04,Default,,0,0,0,,Eu preciso fazer isso.
+Dialogue: 0,0:20:15.44,0:20:17.07,Default,,0,0,0,,Ei, Kerry.
+Dialogue: 0,0:20:21.07,0:20:23.03,Default,,0,0,0,,O que você quer ser quando crescer?
+Dialogue: 0,0:20:50.18,0:20:54.19,Default,,0,0,0,,Aquela barreira foi bem fácil de romper.
+Dialogue: 0,0:20:55.60,0:20:57.90,Default,,0,0,0,,Você está bravo?
+Dialogue: 0,0:20:58.48,0:21:02.07,Default,,0,0,0,,Você teve sorte de eu ter chegado a tempo.
+Dialogue: 0,0:21:02.49,0:21:07.24,Default,,0,0,0,,Se ele tivesse escapado, teria continuado a pesquisa sobre os Apóstolos Mortos em outro lugar.
+Dialogue: 0,0:21:07.95,0:21:11.95,Default,,0,0,0,,Essa é uma desculpa de merda para uma criança matar o próprio pai.
+Dialogue: 0,0:21:14.66,0:21:17.38,Default,,0,0,0,,Você é uma boa pessoa, não é?
+Dialogue: 0,0:21:18.75,0:21:20.96,Default,,0,0,0,,Eu vou tirar você desta ilha.
+Dialogue: 0,0:21:21.51,0:21:23.51,Default,,0,0,0,,O resto você decide por conta própria.
+Dialogue: 0,0:21:24.42,0:21:26.01,Default,,0,0,0,,Quer levar alguma coisa com você?
+Dialogue: 0,0:21:27.76,0:21:28.97,Default,,0,0,0,,Absolutamente nada.
+Dialogue: 0,0:23:25.75,0:23:32.76,Default,,0,0,0,,Após deixar a ilha, passei os anos seguintes ao lado de Natalia Kaminski, a mulher que me resgatou de lá.
+Dialogue: 0,0:23:33.14,0:23:37.06,Default,,0,0,0,,Isso significava escolher o mesmo caminho de Natalia.
+Dialogue: 0,0:23:37.06,0:23:40.06,Default,,0,0,0,,Ou seja, o caminho de um caçador.
+Dialogue: 0,0:21:52.04,0:21:55.04,Signs,,0,0,0,,{\an8}Episódio 18: Memórias Distantes
+Dialogue: 0,0:23:37.56,0:23:40.06,Signs,,0,0,0,,{\an8}Próximo Episódio: Onde a Justiça Habita

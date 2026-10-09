@@ -1,5 +1,5 @@
 # Legendas do Nasuverse em Português Brasileiro (PT-BR)
-### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners*, *Fate/stay night [Unlimited Blade Works]* e a Trilogia *Fate/stay night [Heaven's Feel]*
+### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners*, *Fate/stay night [Unlimited Blade Works]*, a Trilogia *Fate/stay night [Heaven's Feel]* e *Fate/Zero*
 
 > **Este repositório reúne arquivos de legendas em português brasileiro (.ass estilizado e .srt limpo) prontos para download e uso em reprodutores de vídeo (VLC, MPV) e servidores de mídia (Jellyfin, Plex, Emby).**  
 > Todas as faixas foram sincronizadas e revisadas com base nos lançamentos definitivos em Blu-ray (BD-Rip), cobrindo episódios estendidos e cenas adicionais ausentes das transmissões de TV.
@@ -21,7 +21,7 @@ O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses prob
 
 ## Conteúdo do Acervo
 
-O repositório é composto por **80 arquivos de legendas** (40 pares duplos), cobrindo integralmente as seguintes sagas:
+O repositório é composto por **108 arquivos de legendas** (54 pares duplos), cobrindo integralmente as seguintes sagas:
 
 ### 1. The Garden of Sinners (*Kara no Kyoukai* / 空の境界) — Coleção Completa (10 Títulos)
 * **Filme 1:** *Vista Panorâmica (Overlooking View / 俯瞰風景)* [2007]
@@ -64,6 +64,28 @@ O repositório é composto por **80 arquivos de legendas** (40 pares duplos), co
   * 1.159 eventos auditados e sincronizados 1:1, com adaptação poética integral da canção tema de encerramento *Haru wa Yuku* (Aimer / Yuki Kajiura).
 
 > **Total em Heaven's Feel:** 3 filmes completos, somando 3.348 eventos de fala, invocações e placas milimetricamente calibrados.
+ 
+---
+ 
+### 4. Fate/Zero (2011–2012) — Quarta Guerra do Santo Graal (14 Pares Desenvolvidos)
+* **1ª Temporada:**
+  * **S01E03 — Fuyuki City (Cidade de Fuyuki):** 292 blocos de diálogos e sinais sincronizados 1:1.
+  * **S01E11 — Discussing the Grail (O Banquete dos Reis):** 334 blocos calibrados na edição estendida de Blu-ray (29m30s), com o debate sobre a natureza da realeza entre Saber, Rider e Archer.
+* **2ª Temporada (Episódios 14 a 25 — Arco Completo):**
+  * **S01E14 — Bloody Battle on the Mion River:** A batalha contra o monstro abissal de Caster no Rio Mion.
+  * **S01E15 — Golden Brilliance:** O clímax com a liberação da Excalibur e a quebra da lança de Diarmuid.
+  * **S01E16 — The End of Honor:** O Contrato de Auto-Geas, a maldição de Lancer e o debate ideológico Kiritsugu vs Saber.
+  * **S01E17 — The Eighth Contract:** A aliança entre Kotomine Kirei e Gilgamesh, e a traição de Tokiomi Tohsaka com a Adaga Azoth.
+  * **S01E18 — Distant Memories:** A infância de Kiritsugu na Ilha Alimango e a tragédia com Shirley.
+  * **S01E19 — Where Justice Dwells:** O treinamento com Natalia Kaminski e o sacrifício no Airbus 300.
+  * **S01E20 — The Assassin Returns:** O cerco à mansão Einzbern e o combate subterrâneo de Kiritsugu contra Kirei.
+  * **S01E21 — Knight on a Two-Wheeled Steed:** A perseguição de Saber sobre a Yamaha V-Max acelerada por mana contra a Carruagem de Rider.
+  * **S01E22 — All the Evil in the World:** Os três Feitiços de Comando de Waver a Iskandar e o despertar de Angra Mainyu.
+  * **S01E23 — The Ocean at the End of the World:** O duelo final de Rider contra a Ea (*Enuma Elish*) de Gilgamesh e o Salmo 23 recitado por Kirei.
+  * **S01E24 — The Final Command Spell:** A ilusão do Graal, a escolha trágica de Kiritsugu e a ordem irrevogável para a destruição do Cálice.
+  * **S01E25 — Fate/Zero:** O incêndio devastador de Fuyuki, o renascimento dos sobreviventes e a passagem do juramento do Herói da Justiça a Shirou Emiya.
+ 
+> **Total em Fate/Zero:** 14 episódios desenvolvidos sob medida em padrão duplo, somando 3.557 blocos milimetricamente alinhados aos masters de Blu-ray.
 
 ---
 

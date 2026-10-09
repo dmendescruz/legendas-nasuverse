@@ -1,0 +1,312 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E03 - Fuyuki City (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E03 - Fuyuki City (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.40,0:00:06.81,Default,,0,0,0,,Tudo correu esplendidamente.
+Dialogue: 0,0:00:07.65,0:00:13.11,Default,,0,0,0,,Foi uma ninharia patética com a qual me incomodou, Tokiomi.
+Dialogue: 0,0:00:14.07,0:00:17.12,Default,,0,0,0,,Sinto-me muito honrado, rei entre todos os reis...
+Dialogue: 0,0:00:19.20,0:00:21.95,Default,,0,0,0,,Rei dos Heróis, Gilgamesh.
+Dialogue: 0,0:00:23.79,0:00:27.84,Default,,0,0,0,,Suas ações esta noite estabelecerão a sua glória como o Rei dos Heróis.
+Dialogue: 0,0:00:28.25,0:00:34.93,Default,,0,0,0,,E também revelarão qual dos nossos inimigos devemos abater primeiro.
+Dialogue: 0,0:00:35.26,0:00:37.18,Default,,0,0,0,,Por favor, contenha a sua mão por mais um momento.
+Dialogue: 0,0:00:39.14,0:00:40.10,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:00:40.68,0:00:45.65,Default,,0,0,0,,Por enquanto, vou me divertir explorando este lugar.
+Dialogue: 0,0:00:45.65,0:00:49.23,Default,,0,0,0,,Esta época é bastante fascinante para mim.
+Dialogue: 0,0:00:49.23,0:00:52.69,Default,,0,0,0,,O mundo moderno agrada a Vossa Majestade?
+Dialogue: 0,0:00:52.69,0:00:55.24,Default,,0,0,0,,É indescritivelmente repugnante.
+Dialogue: 0,0:00:55.24,0:00:58.53,Default,,0,0,0,,Mas há maneiras de me entreter com ele.
+Dialogue: 0,0:00:58.53,0:01:04.83,Default,,0,0,0,,O que importa é se há tesouros aqui dignos de serem adicionados à minha coleção.
+Dialogue: 0,0:01:05.83,0:01:10.71,Default,,0,0,0,,Se nada neste mundo for digno da minha admiração,
+Dialogue: 0,0:01:10.71,0:01:16.30,Default,,0,0,0,,você pagará caro por me invocar e desperdiçar o meu tempo, Tokiomi.
+Dialogue: 0,0:01:16.30,0:01:17.64,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:01:18.09,0:01:21.85,Default,,0,0,0,,O Santo Graal certamente agradará ao Rei dos Heróis.
+Dialogue: 0,0:01:22.60,0:01:25.81,Default,,0,0,0,,Isso é algo que caberá a mim determinar.
+Dialogue: 0,0:01:25.81,0:01:29.65,Default,,0,0,0,,Bem, entrarei no seu jogo de bajulações por enquanto.
+Dialogue: 0,0:01:30.69,0:01:33.86,Default,,0,0,0,,Tudo de valor neste mundo me pertence.
+Dialogue: 0,0:01:34.53,0:01:42.24,Default,,0,0,0,,Não importa quão precioso seja esse seu Graal, não permitirei que aqueles vira-latas disputem por ele sem a minha permissão.
+Dialogue: 0,0:01:42.87,0:01:46.33,Default,,0,0,0,,Deixo os detalhes com você, Tokiomi.
+Dialogue: 0,0:01:55.51,0:01:56.34,Default,,0,0,0,,Ora, ora.
+Dialogue: 0,0:01:57.17,0:01:58.34,Default,,0,0,0,,Sinceramente.
+Dialogue: 0,0:01:58.76,0:02:05.22,Default,,0,0,0,,Gilgamesh tinha mesmo que se materializar sob a classe Archer, que conta com a habilidade Ação Independente.
+Dialogue: 0,0:02:07.56,0:02:11.56,Default,,0,0,0,,Bem, posso apenas deixar o Kirei assumir as coisas a partir daqui.
+Dialogue: 0,0:02:12.61,0:02:15.57,Default,,0,0,0,,Por enquanto, tudo avança conforme o planejado.
+Dialogue: 0,0:03:52.12,0:03:54.08,Default,,0,0,0,,O Assassin foi morto?!
+Dialogue: 0,0:03:54.54,0:03:57.00,Default,,0,0,0,,Ei, Rider! Isso é coisa séria!
+Dialogue: 0,0:03:57.00,0:03:59.63,Default,,0,0,0,,Um dos sete já foi eliminado.
+Dialogue: 0,0:04:03.30,0:04:04.05,Default,,0,0,0,,Ei.
+Dialogue: 0,0:04:10.22,0:04:12.48,Default,,0,0,0,,Ei! Você não está entendendo?!
+Dialogue: 0,0:04:12.48,0:04:14.40,Default,,0,0,0,,O Assassin foi morto!
+Dialogue: 0,0:04:16.56,0:04:19.15,Default,,0,0,0,,A Guerra do Santo Graal começou!
+Dialogue: 0,0:04:19.15,0:04:21.44,Default,,0,0,0,,Eu tenho trabalhado tão duro para coletar informações,
+Dialogue: 0,0:04:21.44,0:04:24.66,Default,,0,0,0,,mas dia após dia após dia,
+Dialogue: 0,0:04:24.66,0:04:27.75,Default,,0,0,0,,você só fica sentado comendo biscoitos de arroz e assistindo vídeos!
+Dialogue: 0,0:04:27.75,0:04:30.41,Default,,0,0,0,,Você é pior do que um familiar! Pior do que um rato!
+Dialogue: 0,0:04:30.83,0:04:34.67,Default,,0,0,0,,Além disso, eu não mandei você assumir a forma espiritual quando eu não precisasse de você?
+Dialogue: 0,0:04:34.67,0:04:37.79,Default,,0,0,0,,Preciso te fornecer mais mana de outra forma, sabia?!
+Dialogue: 0,0:04:37.79,0:04:42.30,Default,,0,0,0,,Olha, ninguém liga para o Assassin.
+Dialogue: 0,0:04:42.30,0:04:45.38,Default,,0,0,0,,Ele só presta para rastejar nas sombras.
+Dialogue: 0,0:04:45.38,0:04:47.64,Default,,0,0,0,,Ele jamais seria uma ameaça para mim.
+Dialogue: 0,0:04:47.64,0:04:49.18,Default,,0,0,0,,Mais importante, garoto...
+Dialogue: 0,0:04:49.18,0:04:51.39,Default,,0,0,0,,Isto aqui é muito mais incrível!
+Dialogue: 0,0:04:51.39,0:04:55.10,Default,,0,0,0,,Esta coisa preta gigante que chamam de B-2.
+Dialogue: 0,0:04:55.10,0:04:56.27,Default,,0,0,0,,É magnífico!
+Dialogue: 0,0:04:56.27,0:04:59.48,Default,,0,0,0,,Estou pensando em comprar uns dez desses. O que acha?
+Dialogue: 0,0:05:00.98,0:05:04.95,Default,,0,0,0,,Seria menos trabalhoso comprar países inteiros, considerando o custo.
+Dialogue: 0,0:05:06.95,0:05:08.20,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:05:08.20,0:05:10.83,Default,,0,0,0,,Então o problema é onde arranjar todo esse dinheiro.
+Dialogue: 0,0:05:11.29,0:05:17.42,Default,,0,0,0,,Se houvesse alguma capital próspera por perto, como Persépolis, poderíamos simplesmente ir e pilhá-la.
+Dialogue: 0,0:05:18.21,0:05:22.80,Default,,0,0,0,,Por enquanto, esse tal de Clinton será o nosso maior obstáculo.
+Dialogue: 0,0:05:22.80,0:05:26.55,Default,,0,0,0,,Ele se provará um oponente mais formidável do que Dario III.
+Dialogue: 0,0:05:26.55,0:05:32.77,Default,,0,0,0,,D-De qualquer forma, fico feliz que o Assassin tenha sido eliminado primeiro.
+Dialogue: 0,0:05:33.31,0:05:36.94,Default,,0,0,0,,Você é do tipo que sempre enfrenta o inimigo de frente, não é?
+Dialogue: 0,0:05:36.94,0:05:42.53,Default,,0,0,0,,Então é melhor para nós que o sujeito que usaria ataques surpresa e truques esteja fora.
+Dialogue: 0,0:05:43.28,0:05:46.11,Default,,0,0,0,,Esse tal de Tomahawk parece ser bem útil também!
+Dialogue: 0,0:05:46.49,0:05:49.91,Default,,0,0,0,,Saber, Lancer, Archer, as três grandes classes de cavaleiros,
+Dialogue: 0,0:05:49.91,0:05:52.62,Default,,0,0,0,,e o Berserker, que só sabe se debater feito louco.
+Dialogue: 0,0:05:52.62,0:05:55.87,Default,,0,0,0,,Eles não passam de peixes pequenos diante desse seu Fantasma Nobre!
+Dialogue: 0,0:05:55.87,0:05:58.50,Default,,0,0,0,,O que deixa apenas o Caster como uma ameaça em potencial.
+Dialogue: 0,0:05:58.50,0:06:00.63,Default,,0,0,0,,Se pudermos descobrir quem é o Caster, nós...
+Dialogue: 0,0:06:00.63,0:06:02.71,Default,,0,0,0,,Como o Assassin caiu?
+Dialogue: 0,0:06:03.21,0:06:06.45,Default,,0,0,0,,Tolo. Estou perguntando sobre o Servo que derrotou o Assassin.
+Dialogue: 0,0:06:07.09,0:06:08.84,Default,,0,0,0,,Você o viu, não viu?
+Dialogue: 0,0:06:08.84,0:06:13.26,Default,,0,0,0,,Acho que era o Servo do Tohsaka.
+Dialogue: 0,0:06:13.26,0:06:18.23,Default,,0,0,0,,A aparência dele, os ataques, tudo nele era dourado e chamativo.
+Dialogue: 0,0:06:18.23,0:06:20.65,Default,,0,0,0,,Aconteceu tão rápido que não consegui distinguir...
+Dialogue: 0,0:06:20.65,0:06:21.69,Default,,0,0,0,,Idiota!
+Dialogue: 0,0:06:23.90,0:06:28.90,Default,,0,0,0,,Se eu tiver que lutar contra alguém, será para sobreviver e vencer!
+Dialogue: 0,0:06:28.90,0:06:31.78,Default,,0,0,0,,Por que você não prestou atenção direito nele?
+Dialogue: 0,0:06:32.20,0:06:33.99,Default,,0,0,0,,Bem, não importa.
+Dialogue: 0,0:06:33.99,0:06:39.04,Default,,0,0,0,,Notou algo mais digno de nota sobre o cara dourado e chamativo?
+Dialogue: 0,0:06:39.04,0:06:42.96,Default,,0,0,0,,M-Mas aconteceu no meio da noite...
+Dialogue: 0,0:06:42.96,0:06:44.63,Default,,0,0,0,,Acabou em um instante...
+Dialogue: 0,0:06:45.00,0:06:49.34,Default,,0,0,0,,Ei, Rider, normalmente um Servo tem apenas um Fantasma Nobre, não é?
+Dialogue: 0,0:06:49.84,0:06:51.76,Default,,0,0,0,,Como regra geral, sim.
+Dialogue: 0,0:06:52.47,0:06:56.14,Default,,0,0,0,,No entanto, "quantos" não é a maneira correta de conceituar os Fantasmas Nobres.
+Dialogue: 0,0:06:56.89,0:07:04.57,Default,,0,0,0,,Como deve saber, Fantasmas Nobres são a manifestação física da lenda ou conto de um Herói.
+Dialogue: 0,0:07:04.57,0:07:09.40,Default,,0,0,0,,Pode ser uma habilidade específica ou um método de ataque.
+Dialogue: 0,0:07:09.40,0:07:14.83,Default,,0,0,0,,Existe algum Fantasma Nobre que consista em disparar dezenas de espadas contra o oponente?
+Dialogue: 0,0:07:14.83,0:07:18.04,Default,,0,0,0,,Uma espada que se divide em várias cópias, é?
+Dialogue: 0,0:07:19.71,0:07:20.96,Default,,0,0,0,,É possível.
+Dialogue: 0,0:07:20.96,0:07:25.04,Default,,0,0,0,,Isso ainda se qualificaria como um único Fantasma Nobre.
+Dialogue: 0,0:07:25.84,0:07:31.38,Default,,0,0,0,,Mas aquelas não eram cópias. Cada arma tinha uma forma diferente.
+Dialogue: 0,0:07:32.68,0:07:34.05,Default,,0,0,0,,Bem, esqueça.
+Dialogue: 0,0:07:34.05,0:07:38.18,Default,,0,0,0,,Descobriremos a identidade do inimigo quando o encontrarmos.
+Dialogue: 0,0:07:42.90,0:07:44.94,Default,,0,0,0,,T-Tem certeza de que tudo bem?
+Dialogue: 0,0:07:44.94,0:07:46.02,Default,,0,0,0,,Tenho!
+Dialogue: 0,0:07:46.02,0:07:47.69,Default,,0,0,0,,Na verdade, é bem mais divertido assim!
+Dialogue: 0,0:07:47.69,0:07:50.90,Default,,0,0,0,,Comida, sexo, sono e guerra.
+Dialogue: 0,0:07:51.65,0:07:54.95,Default,,0,0,0,,O que quer que você faça, desfrute ao máximo.
+Dialogue: 0,0:07:54.95,0:07:57.37,Default,,0,0,0,,Esse é o segredo da vida.
+Dialogue: 0,0:07:59.58,0:08:04.50,Default,,0,0,0,,Agora, vamos procurar algum entretenimento lá fora.
+Dialogue: 0,0:08:04.50,0:08:06.92,Default,,0,0,0,,Estamos de saída, garoto! Prepare-se!
+Dialogue: 0,0:08:06.92,0:08:09.76,Default,,0,0,0,,D-De saída? Para onde?
+Dialogue: 0,0:08:09.76,0:08:12.47,Default,,0,0,0,,Para algum lugar, qualquer lugar.
+Dialogue: 0,0:08:12.47,0:08:13.76,Default,,0,0,0,,Ah, fala sério!
+Dialogue: 0,0:08:14.34,0:08:17.60,Default,,0,0,0,,Você não foi o único vigiando a residência do Tohsaka.
+Dialogue: 0,0:08:17.60,0:08:21.39,Default,,0,0,0,,Isso significa que todos os outros também já sabem da morte do Assassin.
+Dialogue: 0,0:08:22.27,0:08:25.52,Default,,0,0,0,,Todas as outras duplas farão os seus movimentos esta noite.
+Dialogue: 0,0:08:27.23,0:08:30.28,Default,,0,0,0,,Nós os esmagaremos conforme cruzarmos com eles.
+Dialogue: 0,0:08:30.28,0:08:32.44,Default,,0,0,0,,Esmagá-los conforme cruzarmos com eles, você diz...
+Dialogue: 0,0:08:32.44,0:08:33.95,Default,,0,0,0,,Isso não será nada fácil.
+Dialogue: 0,0:08:33.95,0:08:35.70,Default,,0,0,0,,Eu sou Rider.
+Dialogue: 0,0:08:36.12,0:08:40.62,Default,,0,0,0,,Minha mobilidade supera em muito a de qualquer outro Servo.
+Dialogue: 0,0:08:44.79,0:08:48.25,Default,,0,0,0,,Espera, espera, espera! Aqui não! Você vai fazer a casa voar pelos ares!
+Dialogue: 0,0:08:49.29,0:08:51.09,Default,,0,0,0,,Perdi o meu Servo.
+Dialogue: 0,0:08:51.67,0:08:56.26,Default,,0,0,0,,Renunciei ao meu direito como Mestre e já não posso participar da Guerra do Santo Graal.
+Dialogue: 0,0:08:56.84,0:09:03.31,Default,,0,0,0,,Em conformidade com o tratado, eu, Kotomine Kirei, peço que a Igreja me acolha e proteja.
+Dialogue: 0,0:09:03.31,0:09:04.64,Default,,0,0,0,,Aceito o seu pedido.
+Dialogue: 0,0:09:05.06,0:09:11.03,Default,,0,0,0,,No meu papel como juiz, eu, Kotomine Risei, garantirei a sua segurança.
+Dialogue: 0,0:09:11.03,0:09:12.86,Default,,0,0,0,,Agora, entre.
+Dialogue: 0,0:09:14.53,0:09:18.57,Default,,0,0,0,,Padre, alguém está vigiando esta igreja?
+Dialogue: 0,0:09:18.57,0:09:23.33,Default,,0,0,0,,Não. Este local foi declarado um santuário neutro.
+Dialogue: 0,0:09:23.33,0:09:27.96,Default,,0,0,0,,A Santa Igreja punirá qualquer Mestre que desafiar o decreto.
+Dialogue: 0,0:09:27.96,0:09:30.67,Default,,0,0,0,,Então é seguro aqui.
+Dialogue: 0,0:09:31.05,0:09:31.96,Default,,0,0,0,,Sim.
+Dialogue: 0,0:09:33.30,0:09:36.05,Default,,0,0,0,,Não baixe a guarda, por via das dúvidas.
+Dialogue: 0,0:09:36.05,0:09:38.93,Default,,0,0,0,,Poste um de vocês para montar guarda aqui o tempo todo.
+Dialogue: 0,0:09:39.30,0:09:42.39,Default,,0,0,0,,Sim. Entendido.
+Dialogue: 0,0:09:43.14,0:09:45.89,Default,,0,0,0,,Quem estava observando a batalha?
+Dialogue: 0,0:09:45.89,0:09:50.11,Default,,0,0,0,,Detectei a presença de familiares de quatro Mestres diferentes.
+Dialogue: 0,0:09:50.90,0:09:55.74,Default,,0,0,0,,Há dois dias, a invocação do último Servo, Caster, foi confirmada.
+Dialogue: 0,0:09:55.74,0:10:00.66,Default,,0,0,0,,Todos os Servos da Guerra do Graal já deveriam estar presentes, mas...
+Dialogue: 0,0:10:01.66,0:10:03.58,Default,,0,0,0,,Falta um.
+Dialogue: 0,0:10:04.24,0:10:08.46,Default,,0,0,0,,Eu esperava que todos os Mestres assistissem.
+Dialogue: 0,0:10:09.33,0:10:16.47,Default,,0,0,0,,A esta altura, vigiar as propriedades das Três Famílias é o curso de ação óbvio para um Mestre.
+Dialogue: 0,0:10:16.47,0:10:26.06,Default,,0,0,0,,Se ele nem sequer pensou em fazer isso, de qualquer forma não lhe ocorreria se precaver contra nós, os Assassins.
+Dialogue: 0,0:10:27.60,0:10:32.73,Default,,0,0,0,,Os Mestres estão com a guarda aberta, acreditando que Assassin está morto.
+Dialogue: 0,0:10:33.40,0:10:40.03,Default,,0,0,0,,Nós, que já somos Espíritos Heroicos das sombras, nos tornaremos as verdadeiras sombras.
+Dialogue: 0,0:10:40.99,0:10:43.53,Default,,0,0,0,,A batalha começou.
+Dialogue: 0,0:10:44.16,0:10:47.75,Default,,0,0,0,,Finalmente, chegou a hora da Quarta Guerra do Santo Graal começar.
+Dialogue: 0,0:10:48.21,0:10:53.92,Default,,0,0,0,,Estes meus velhos olhos finalmente contemplarão um milagre encarnado.
+Dialogue: 0,0:11:10.02,0:11:13.52,Default,,0,0,0,,Então foi aqui que o Kiritsugu nasceu.
+Dialogue: 0,0:11:13.52,0:11:17.19,Default,,0,0,0,,Como foi a sua viagem pelo céu, Saber?
+Dialogue: 0,0:11:18.40,0:11:20.40,Default,,0,0,0,,Não foi nada de extraordinário.
+Dialogue: 0,0:11:20.86,0:11:23.41,Default,,0,0,0,,Bem menos emocionante do que eu havia antecipado.
+Dialogue: 0,0:11:23.41,0:11:27.91,Default,,0,0,0,,Imagino que voar não seja nada de mais para um Espírito Heroico como você.
+Dialogue: 0,0:11:27.91,0:11:29.91,Default,,0,0,0,,Não é isso.
+Dialogue: 0,0:11:30.50,0:11:34.92,Default,,0,0,0,,Servos recebem o conhecimento do mundo moderno após a materialização.
+Dialogue: 0,0:11:35.29,0:11:39.80,Default,,0,0,0,,Eu poderia até mesmo pilotar esta aeronave se fosse preciso.
+Dialogue: 0,0:11:39.80,0:11:42.80,Default,,0,0,0,,Você saberia pilotar?
+Dialogue: 0,0:11:42.80,0:11:50.89,Default,,0,0,0,,Minha habilidade Montaria me permite comandar qualquer fera ou veículo, com exceção de bestas divinas e míticas.
+Dialogue: 0,0:11:51.48,0:11:55.81,Default,,0,0,0,,Uma vez que monto na sela e seguro as rédeas, a intuição cuida do resto.
+Dialogue: 0,0:11:55.81,0:11:58.61,Default,,0,0,0,,Montar na sela e segurar as rédeas...
+Dialogue: 0,0:11:59.65,0:12:03.36,Default,,0,0,0,,Eu disse algo engraçado?
+Dialogue: 0,0:12:03.86,0:12:04.95,Default,,0,0,0,,Não.
+Dialogue: 0,0:12:05.90,0:12:10.70,Default,,0,0,0,,Ainda assim, você deve ser o único Servo que voou em um avião em forma física.
+Dialogue: 0,0:12:10.70,0:12:13.03,Default,,0,0,0,,Peço desculpas por isso.
+Dialogue: 0,0:12:13.03,0:12:15.08,Default,,0,0,0,,Se ao menos eu pudesse assumir a forma espiritual...
+Dialogue: 0,0:12:15.08,0:12:18.30,Default,,0,0,0,,Não, eu não quis dizer dessa forma. Não se preocupe com isso.
+Dialogue: 0,0:12:18.30,0:12:20.59,Default,,0,0,0,,Eu nunca me canso de olhar para você.
+Dialogue: 0,0:12:21.05,0:12:24.22,Default,,0,0,0,,Irisviel, há algo de estranho comigo?
+Dialogue: 0,0:12:24.22,0:12:26.30,Default,,0,0,0,,Não, de jeito nenhum.
+Dialogue: 0,0:12:26.30,0:12:31.25,Default,,0,0,0,,Quando você ri assim, significa que há algum sentido oculto por trás.
+Dialogue: 0,0:12:31.25,0:12:33.86,Default,,0,0,0,,O que é? Quero que seja sincera comigo.
+Dialogue: 0,0:12:34.39,0:12:38.93,Default,,0,0,0,,Significa que ficar presa na forma física não deixa de ter suas vantagens.
+Dialogue: 0,0:12:38.93,0:12:43.15,Default,,0,0,0,,Isso me proporcionou muitas horas agradáveis escolhendo roupas para você.
+Dialogue: 0,0:12:43.15,0:12:48.79,Default,,0,0,0,,Irisviel, esta maneira de se vestir é realmente comum nesta era?
+Dialogue: 0,0:12:48.79,0:12:51.73,Default,,0,0,0,,Eu a escolhi para combinar com a minha própria roupa.
+Dialogue: 0,0:12:51.73,0:12:52.67,Default,,0,0,0,,Você não gostou?
+Dialogue: 0,0:12:52.67,0:12:53.79,Default,,0,0,0,,Não, está ótimo.
+Dialogue: 0,0:12:53.79,0:12:58.37,Default,,0,0,0,,É bastante fácil de se mover e, além disso, estou acostumada a me vestir como homem.
+Dialogue: 0,0:13:03.33,0:13:05.13,Default,,0,0,0,,Que lugar tão animado!
+Dialogue: 0,0:13:05.13,0:13:09.55,Default,,0,0,0,,O Kiritsugu já deve ter chegado, não é?
+Dialogue: 0,0:13:09.55,0:13:12.05,Default,,0,0,0,,Sim. Doze horas antes de nós.
+Dialogue: 0,0:13:12.05,0:13:15.51,Default,,0,0,0,,Ele virá nos encontrar, então não se preocupe.
+Dialogue: 0,0:13:15.51,0:13:20.72,Default,,0,0,0,,Vamos ficar de olho na situação por enquanto, para podermos agir quando chegar a hora.
+Dialogue: 0,0:13:21.14,0:13:25.94,Default,,0,0,0,,É raro eu ter a chance de visitar o Japão, então gostaria de aproveitar antes que a luta comece.
+Dialogue: 0,0:13:25.94,0:13:27.27,Default,,0,0,0,,Isso é perigoso.
+Dialogue: 0,0:13:27.27,0:13:32.65,Default,,0,0,0,,Deveríamos assegurar nossa base de operações, nos encontrar com o Kiritsugu e discutir nossos planos.
+Dialogue: 0,0:13:32.65,0:13:35.70,Default,,0,0,0,,Acho que você tem razão...
+Dialogue: 0,0:13:35.70,0:13:40.12,Default,,0,0,0,,Mas não seria um desperdício? Viemos de tão longe.
+Dialogue: 0,0:13:40.74,0:13:41.66,Default,,0,0,0,,E...
+Dialogue: 0,0:13:43.41,0:13:45.92,Default,,0,0,0,,É a minha primeira vez.
+Dialogue: 0,0:13:48.00,0:13:52.76,Default,,0,0,0,,É a primeira vez que me aventuro no mundo exterior.
+Dialogue: 0,0:13:52.76,0:13:56.84,Default,,0,0,0,,Você passou a vida inteira naquele castelo?
+Dialogue: 0,0:13:59.18,0:14:03.31,Default,,0,0,0,,Eu sou uma mera marionete criada para a Guerra do Santo Graal.
+Dialogue: 0,0:14:04.14,0:14:07.27,Default,,0,0,0,,Claro, não é como se eu não soubesse nada a respeito.
+Dialogue: 0,0:14:07.27,0:14:14.57,Default,,0,0,0,,O Kiritsugu me contou tudo sobre o mundo exterior usando vídeos e fotos.
+Dialogue: 0,0:14:14.57,0:14:18.57,Default,,0,0,0,,No entanto, esta é a primeira vez que vejo tudo com os meus próprios olhos.
+Dialogue: 0,0:14:19.41,0:14:20.28,Default,,0,0,0,,Então...
+Dialogue: 0,0:14:21.03,0:14:23.83,Default,,0,0,0,,Perdoe-me. Eu me deixei levar.
+Dialogue: 0,0:14:28.00,0:14:29.33,Default,,0,0,0,,Por favor, pare o carro.
+Dialogue: 0,0:14:35.42,0:14:39.34,Default,,0,0,0,,Caminhar por esta cidade também será uma nova experiência para mim.
+Dialogue: 0,0:14:47.52,0:14:49.65,Default,,0,0,0,,É dever de um cavaleiro escoltar.
+Dialogue: 0,0:14:49.65,0:14:51.52,Default,,0,0,0,,Darei o meu melhor.
+Dialogue: 0,0:14:53.32,0:14:54.94,Default,,0,0,0,,Venha comigo.
+Dialogue: 0,0:15:15.96,0:15:19.30,Default,,0,0,0,,O equipamento que você solicitou chegou.
+Dialogue: 0,0:15:19.72,0:15:23.68,Default,,0,0,0,,A Senhora e Saber também chegaram e estão se deslocando juntas.
+Dialogue: 0,0:15:24.35,0:15:28.81,Default,,0,0,0,,Dessa forma, os outros Mestres presumirão que a Senhora é a Mestre da Saber.
+Dialogue: 0,0:15:29.19,0:15:30.27,Default,,0,0,0,,Bom.
+Dialogue: 0,0:15:30.94,0:15:33.69,Default,,0,0,0,,Houve um incidente na noite passada na mansão Tohsaka.
+Dialogue: 0,0:15:34.15,0:15:35.73,Default,,0,0,0,,Aqui estão as filmagens gravadas.
+Dialogue: 0,0:15:40.28,0:15:42.24,Default,,0,0,0,,O que você acha disso?
+Dialogue: 0,0:15:42.91,0:15:44.58,Default,,0,0,0,,Parece bom demais para ser verdade.
+Dialogue: 0,0:15:45.24,0:15:50.75,Default,,0,0,0,,O intervalo de tempo entre a invasão de Assassin e a resposta do Servo de Tohsaka é curto demais.
+Dialogue: 0,0:15:51.46,0:15:56.67,Default,,0,0,0,,Como Assassin tem uma habilidade que oculta sua presença, é difícil acreditar que foi detectado com antecedência.
+Dialogue: 0,0:15:56.67,0:16:00.26,Default,,0,0,0,,Acho que Tohsaka já estava esperando um intruso.
+Dialogue: 0,0:16:00.93,0:16:05.31,Default,,0,0,0,,Em uma batalha entre Servos, é crucial ocultar as identidades dos Espíritos Heroicos.
+Dialogue: 0,0:16:05.89,0:16:09.81,Default,,0,0,0,,Por que Tohsaka exporia seu Servo para todos verem?
+Dialogue: 0,0:16:10.31,0:16:14.15,Default,,0,0,0,,Ele tinha um motivo para isso, imagino.
+Dialogue: 0,0:16:15.32,0:16:18.40,Default,,0,0,0,,Maiya, o que aconteceu com o Mestre de Assassin?
+Dialogue: 0,0:16:18.40,0:16:20.99,Default,,0,0,0,,Ele fugiu para a igreja na noite passada.
+Dialogue: 0,0:16:20.99,0:16:24.16,Default,,0,0,0,,O juiz decretou que ele está sob sua proteção.
+Dialogue: 0,0:16:24.70,0:16:27.49,Default,,0,0,0,,O Mestre de Assassin é Kotomine Kirei.
+Dialogue: 0,0:16:29.16,0:16:32.67,Default,,0,0,0,,Maiya, envie um familiar para vigiar a igreja da cidade de Fuyuki.
+Dialogue: 0,0:16:33.42,0:16:34.79,Default,,0,0,0,,Tem certeza?
+Dialogue: 0,0:16:34.79,0:16:39.84,Default,,0,0,0,,Mestres são proibidos de agir na zona neutra ao redor da igreja.
+Dialogue: 0,0:16:39.84,0:16:45.18,Default,,0,0,0,,Mantenha-o o mais próximo possível sem que o padre perceba.
+Dialogue: 0,0:16:45.68,0:16:47.56,Default,,0,0,0,,Muito bem. Entendido.
+Dialogue: 0,0:17:04.70,0:17:07.58,Default,,0,0,0,,Onde está aquilo que deixei com você?
+Dialogue: 0,0:17:07.58,0:17:08.87,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:17:24.84,0:17:26.68,Default,,0,0,0,,Cerca de dois segundos.
+Dialogue: 0,0:17:27.05,0:17:28.14,Default,,0,0,0,,Estou surpresa.
+Dialogue: 0,0:17:28.14,0:17:29.39,Default,,0,0,0,,Sim.
+Dialogue: 0,0:17:35.98,0:17:40.82,Default,,0,0,0,,A Illya pesa menos do que esta Walther.
+Dialogue: 0,0:17:41.86,0:17:42.74,Default,,0,0,0,,E ainda assim...
+Dialogue: 0,0:17:43.99,0:17:45.41,Default,,0,0,0,,Ela já tem oito anos.
+Dialogue: 0,0:17:52.29,0:17:55.96,Default,,0,0,0,,Concentre-se apenas no que importa agora.
+Dialogue: 0,0:18:01.80,0:18:04.80,Default,,0,0,0,,Não pense em mais nada.
+Dialogue: 0,0:18:20.19,0:18:21.57,Default,,0,0,0,,É tão lindo.
+Dialogue: 0,0:18:21.57,0:18:24.57,Default,,0,0,0,,Exatamente como um espelho refletindo o céu noturno.
+Dialogue: 0,0:18:37.87,0:18:43.17,Default,,0,0,0,,É tão divertido caminhar por uma cidade nova, acompanhada por um cavalheiro.
+Dialogue: 0,0:18:43.17,0:18:46.30,Default,,0,0,0,,Fui um cavalheiro aceitável?
+Dialogue: 0,0:18:46.30,0:18:48.72,Default,,0,0,0,,Você foi perfeita.
+Dialogue: 0,0:18:48.72,0:18:51.85,Default,,0,0,0,,Você foi um cavaleiro maravilhoso hoje.
+Dialogue: 0,0:18:52.39,0:18:54.85,Default,,0,0,0,,Você me honra, minha princesa.
+Dialogue: 0,0:18:58.85,0:19:01.36,Default,,0,0,0,,Saber, você gosta do mar?
+Dialogue: 0,0:19:02.15,0:19:04.57,Default,,0,0,0,,Imagino que não saiba ao certo.
+Dialogue: 0,0:19:06.03,0:19:12.78,Default,,0,0,0,,Na minha época e no meu país, o mar era de onde vinham os meus inimigos.
+Dialogue: 0,0:19:12.78,0:19:16.88,Default,,0,0,0,,Eu o odiava, mas nunca cheguei a admirá-lo.
+Dialogue: 0,0:19:17.54,0:19:19.67,Default,,0,0,0,,Sinto muito por isso.
+Dialogue: 0,0:19:19.67,0:19:21.88,Default,,0,0,0,,Você é uma mulher assim como eu.
+Dialogue: 0,0:19:22.54,0:19:28.42,Default,,0,0,0,,E ainda assim, quando era o Rei Arthur, não pôde se dar ao luxo de desfrutar de nada disso.
+Dialogue: 0,0:19:30.09,0:19:31.72,Default,,0,0,0,,E você, Irisviel?
+Dialogue: 0,0:19:31.72,0:19:36.39,Default,,0,0,0,,Não teria preferido caminhar pela cidade com o Kiritsugu?
+Dialogue: 0,0:19:37.18,0:19:40.02,Default,,0,0,0,,Eu não poderia fazê-lo passar por isso.
+Dialogue: 0,0:19:40.69,0:19:42.90,Default,,0,0,0,,Isso só machucaria os sentimentos dele.
+Dialogue: 0,0:19:44.32,0:19:48.32,Default,,0,0,0,,O Kiritsugu não gosta de passar tempo com você?
+Dialogue: 0,0:19:49.24,0:19:54.28,Default,,0,0,0,,Ele é alguém para quem a felicidade é dolorosa.
+Dialogue: 0,0:20:05.63,0:20:07.00,Default,,0,0,0,,Um Servo inimigo.
+Dialogue: 0,0:20:07.55,0:20:08.21,Default,,0,0,0,,Sim.
+Dialogue: 0,0:20:08.76,0:20:12.80,Default,,0,0,0,,Ele está revelando sua presença nas sombras, a cem metros daqui.
+Dialogue: 0,0:20:13.39,0:20:16.31,Default,,0,0,0,,Ele parece estar nos convidando até lá.
+Dialogue: 0,0:20:16.85,0:20:18.14,Default,,0,0,0,,Que atencioso.
+Dialogue: 0,0:20:18.72,0:20:21.10,Default,,0,0,0,,Então ele deseja escolher o campo de batalha.
+Dialogue: 0,0:20:21.56,0:20:23.15,Default,,0,0,0,,Vamos aceitar o convite dele?
+Dialogue: 0,0:20:24.90,0:20:26.48,Default,,0,0,0,,Nós vamos.
+Dialogue: 0,0:20:34.45,0:20:37.99,Default,,0,0,0,,Rider, vamos descer.
+Dialogue: 0,0:20:37.99,0:20:39.95,Default,,0,0,0,,Agora mesmo!
+Dialogue: 0,0:20:41.66,0:20:45.96,Default,,0,0,0,,O quê? Este é o ponto de observação perfeito.
+Dialogue: 0,0:20:45.96,0:20:47.88,Default,,0,0,0,,E-Eu vou cair!
+Dialogue: 0,0:20:47.88,0:20:49.17,Default,,0,0,0,,Quero dizer, me desça daqui!
+Dialogue: 0,0:20:49.17,0:20:51.01,Default,,0,0,0,,E-Eu não aguento mais isso...
+Dialogue: 0,0:20:51.01,0:20:52.93,Default,,0,0,0,,Não seja tão impaciente.
+Dialogue: 0,0:20:52.93,0:20:55.47,Default,,0,0,0,,Esperar também é uma parte importante da guerra!
+Dialogue: 0,0:20:55.47,0:20:57.18,Default,,0,0,0,,Eu quero ir para casa.
+Dialogue: 0,0:20:57.18,0:20:59.10,Default,,0,0,0,,Eu quero voltar para a Inglaterra...
+Dialogue: 0,0:20:59.10,0:21:02.02,Default,,0,0,0,,Já mandei parar de ser tão impaciente.
+Dialogue: 0,0:21:02.02,0:21:05.35,Default,,0,0,0,,Olhe. Parece que as coisas começaram a se desenrolar.
+Dialogue: 0,0:21:08.27,0:21:10.36,Default,,0,0,0,,Isto vai ser divertido!
+Dialogue: 0,0:21:16.20,0:21:17.70,Default,,0,0,0,,Sejam bem-vindos.
+Dialogue: 0,0:21:18.16,0:21:22.54,Default,,0,0,0,,Passei o dia inteiro vasculhando esta cidade.
+Dialogue: 0,0:21:22.54,0:21:25.21,Default,,0,0,0,,No entanto, todos simplesmente se escondem em seus pequenos buracos.
+Dialogue: 0,0:21:27.13,0:21:31.05,Default,,0,0,0,,Você, brava guerreira, foi a única que respondeu ao meu convite.
+Dialogue: 0,0:21:32.09,0:21:34.68,Default,,0,0,0,,Essa bravura imaculada...
+Dialogue: 0,0:21:35.05,0:21:38.10,Default,,0,0,0,,Você é Saber, presumo?
+Dialogue: 0,0:21:38.47,0:21:39.68,Default,,0,0,0,,De fato.
+Dialogue: 0,0:21:39.68,0:21:42.31,Default,,0,0,0,,E você deve ser Lancer.
+Dialogue: 0,0:21:44.19,0:21:49.94,Default,,0,0,0,,Lamento que não possamos trocar nossos nomes, mesmo que estejamos prestes a lutar até a morte.
+Dialogue: 0,0:21:50.48,0:21:52.86,Default,,0,0,0,,A culpa é dessas infelizes regras.
+Dialogue: 0,0:22:10.59,0:22:13.13,Default,,0,0,0,,Saber, tenha cuidado.
+Dialogue: 0,0:22:13.51,0:22:16.68,Default,,0,0,0,,Eu posso usar magia de cura para te apoiar,
+Dialogue: 0,0:22:17.18,0:22:18.72,Default,,0,0,0,,mas nada além disso.
+Dialogue: 0,0:22:18.72,0:22:20.72,Default,,0,0,0,,Deixe o Lancer comigo.
+Dialogue: 0,0:22:20.72,0:22:24.93,Default,,0,0,0,,O que mais me preocupa é que o outro Mestre não está à vista.
+Dialogue: 0,0:22:25.60,0:22:27.77,Default,,0,0,0,,Eles podem estar tramando algo.
+Dialogue: 0,0:22:27.77,0:22:29.69,Default,,0,0,0,,Por favor, tenha cuidado.
+Dialogue: 0,0:22:30.44,0:22:34.82,Default,,0,0,0,,Irisviel, por favor, cubra a minha retaguarda.
+Dialogue: 0,0:22:35.53,0:22:37.24,Default,,0,0,0,,Muito bem, Saber.
+Dialogue: 0,0:22:37.24,0:22:39.07,Default,,0,0,0,,Traga-me a vitória!
+Dialogue: 0,0:22:39.07,0:22:41.70,Default,,0,0,0,,Sim, sem falta.
+Dialogue: 0,0:24:19.55,0:24:23.51,Default,,0,0,0,,Vejamos do que você é capaz, adorável Rei dos Cavaleiros.
+Dialogue: 0,0:24:23.51,0:24:25.89,Default,,0,0,0,,A resistência à magia de um Servo da classe Saber não é lenda.
+Dialogue: 0,0:24:25.89,0:24:27.26,Default,,0,0,0,,Ele é bom.
+Dialogue: 0,0:24:27.26,0:24:29.18,Default,,0,0,0,,Já foi diversão o bastante, Lancer.
+Dialogue: 0,0:24:29.18,0:24:30.85,Default,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:24:30.85,0:24:33.81,Default,,0,0,0,,Eu vou até lá! Me leve junto, seu idiota!
+Dialogue: 0,0:22:45.84,0:22:48.84,Signs,,0,0,0,,{\an8}Episódio 3: Cidade de Fuyuki

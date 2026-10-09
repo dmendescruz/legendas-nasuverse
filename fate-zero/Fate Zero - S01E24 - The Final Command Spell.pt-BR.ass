@@ -1,0 +1,271 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E24 - The Final Command Spell (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E24 - The Final Command Spell (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:14.57,0:02:15.74,Default,,0,0,0,,Você...
+Dialogue: 0,0:02:16.69,0:02:20.28,Default,,0,0,0,,Você me odiava tanto assim?
+Dialogue: 0,0:02:32.50,0:02:34.00,Default,,0,0,0,,Bala de Origem.
+Dialogue: 0,0:02:34.63,0:02:40.01,Default,,0,0,0,,Ela faz o mana da vítima sair de controle, dilacerando instantaneamente todo o seu corpo.
+Dialogue: 0,0:02:41.51,0:02:42.35,Default,,0,0,0,,O quê?!
+Dialogue: 0,0:02:43.10,0:02:47.39,Default,,0,0,0,,Alteração Temporal: Aceleração Dupla!
+Dialogue: 0,0:03:01.86,0:03:03.74,Default,,0,0,0,,A Bala de Origem não funcionou.
+Dialogue: 0,0:03:04.83,0:03:05.62,Default,,0,0,0,,Não...
+Dialogue: 0,0:03:06.37,0:03:07.62,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:03:07.62,0:03:10.58,Default,,0,0,0,,Ele está usando Feitiços de Comando como sua fonte de mana.
+Dialogue: 0,0:03:11.00,0:03:17.17,Default,,0,0,0,,No momento em que os efeitos da bala se manifestaram, o Feitiço de Comando — sua fonte de mana — já havia desaparecido de seu braço.
+Dialogue: 0,0:03:18.09,0:03:23.51,Default,,0,0,0,,Como ele não está usando seus próprios Circuitos Mágicos, a magia da Bala de Origem não surte efeito.
+Dialogue: 0,0:03:24.26,0:03:26.35,Default,,0,0,0,,Mas se eu conseguir acertar um tiro...
+Dialogue: 0,0:03:27.14,0:03:29.35,Default,,0,0,0,,...ao menos será poderoso o bastante para matá-lo.
+Dialogue: 0,0:03:30.85,0:03:33.98,Default,,0,0,0,,Não espere escapar da próxima vez.
+Dialogue: 0,0:03:33.98,0:03:40.82,Default,,0,0,0,,Agora que sei que está se movendo com o dobro da velocidade, basta eu ajustar o meu tempo para compensar.
+Dialogue: 0,0:03:53.17,0:03:54.42,Default,,0,0,0,,Ele é rápido!
+Dialogue: 0,0:04:12.23,0:04:15.02,Default,,0,0,0,,Essa sua loucura avassaladora...
+Dialogue: 0,0:04:19.36,0:04:21.11,Default,,0,0,0,,...também é culpa minha?
+Dialogue: 0,0:04:38.13,0:04:39.50,Default,,0,0,0,,Minha...
+Dialogue: 0,0:04:42.01,0:04:43.26,Default,,0,0,0,,Minha...
+Dialogue: 0,0:05:00.40,0:05:03.65,Default,,0,0,0,,Alteração Temporal: Aceleração Dupla!
+Dialogue: 0,0:05:52.37,0:05:55.96,Default,,0,0,0,,A vantagem dele a curta distância é enorme.
+Dialogue: 0,0:05:55.96,0:05:57.67,Default,,0,0,0,,Perdi a minha Calico.
+Dialogue: 0,0:05:57.67,0:06:00.08,Default,,0,0,0,,A Contender precisa ser recarregada.
+Dialogue: 0,0:06:00.96,0:06:01.75,Default,,0,0,0,,Contudo...
+Dialogue: 0,0:06:02.80,0:06:03.63,Default,,0,0,0,,Avalon...
+Dialogue: 0,0:06:07.93,0:06:12.81,Default,,0,0,0,,Ele se recupera rápido o bastante para regenerar instantaneamente um coração destruído.
+Dialogue: 0,0:06:12.81,0:06:15.35,Default,,0,0,0,,Terei que destruir o cérebro, então.
+Dialogue: 0,0:06:15.89,0:06:16.64,Default,,0,0,0,,Mas...
+Dialogue: 0,0:06:17.23,0:06:19.52,Default,,0,0,0,,Meu braço direito foi incapacitado.
+Dialogue: 0,0:06:19.52,0:06:22.82,Default,,0,0,0,,Os poderes de cura de Avalon também funcionam em ferimentos autoinfligidos.
+Dialogue: 0,0:06:22.82,0:06:26.40,Default,,0,0,0,,Restam-me uma faca e duas granadas.
+Dialogue: 0,0:06:26.40,0:06:31.16,Default,,0,0,0,,Tenho doze Chaves Negras e oito Feitiços de Comando reservas.
+Dialogue: 0,0:06:31.66,0:06:34.91,Default,,0,0,0,,Alteração Temporal: Aceleração Tripla!
+Dialogue: 0,0:07:14.41,0:07:17.66,Default,,0,0,0,,Alteração Temporal: Aceleração Quádrupla!
+Dialogue: 0,0:08:09.80,0:08:13.38,Default,,0,0,0,,Ainda assim, eu conquistarei o Santo Graal.
+Dialogue: 0,0:08:13.38,0:08:19.93,Default,,0,0,0,,Se eu não conseguir, não haverá nada que eu possa lhe oferecer como reparação.
+Dialogue: 0,0:08:25.90,0:08:33.78,Default,,0,0,0,,Mesmo depois de tudo isso, você ainda empunharia sua espada por tal motivo?
+Dialogue: 0,0:08:36.12,0:08:38.41,Default,,0,0,0,,Quão indefesa você é...
+Dialogue: 0,0:08:57.97,0:08:59.47,Default,,0,0,0,,Este lugar...
+Dialogue: 0,0:09:05.10,0:09:07.65,Default,,0,0,0,,Eu sabia que você viria.
+Dialogue: 0,0:09:09.65,0:09:13.32,Default,,0,0,0,,Eu tinha fé de que você alcançaria este lugar.
+Dialogue: 0,0:09:14.78,0:09:15.99,Default,,0,0,0,,Iri.
+Dialogue: 0,0:09:15.99,0:09:19.24,Default,,0,0,0,,É aqui que o seu desejo será realizado.
+Dialogue: 0,0:09:19.78,0:09:23.12,Default,,0,0,0,,Estamos dentro do Graal que você tanto buscava.
+Dialogue: 0,0:09:27.63,0:09:29.13,Default,,0,0,0,,Aquele é o Graal.
+Dialogue: 0,0:09:29.71,0:09:34.55,Default,,0,0,0,,Ainda precisa tomar forma, mas o receptáculo está mais do que cheio.
+Dialogue: 0,0:09:35.26,0:09:37.76,Default,,0,0,0,,Você só precisa fazer a sua prece agora.
+Dialogue: 0,0:09:38.18,0:09:43.02,Default,,0,0,0,,Só então ele poderá sair para o exterior.
+Dialogue: 0,0:09:43.02,0:09:45.68,Default,,0,0,0,,Agora, por favor...
+Dialogue: 0,0:09:45.68,0:09:48.56,Default,,0,0,0,,Apresse-se e dê-lhe uma forma.
+Dialogue: 0,0:09:48.56,0:09:54.53,Default,,0,0,0,,Kiritsugu, só você é digno de defini-lo.
+Dialogue: 0,0:09:55.74,0:09:57.86,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:09:58.49,0:10:00.62,Default,,0,0,0,,Eu sou Irisviel.
+Dialogue: 0,0:10:00.62,0:10:01.49,Default,,0,0,0,,Não.
+Dialogue: 0,0:10:02.03,0:10:06.25,Default,,0,0,0,,Se as preparações para o Graal estão completas, então ela já...
+Dialogue: 0,0:10:08.50,0:10:09.38,Default,,0,0,0,,Responda-me.
+Dialogue: 0,0:10:10.08,0:10:11.17,Default,,0,0,0,,De fato.
+Dialogue: 0,0:10:11.75,0:10:14.51,Default,,0,0,0,,Não negarei que isto é uma máscara.
+Dialogue: 0,0:10:15.55,0:10:22.76,Default,,0,0,0,,A menos que eu use uma personalidade preexistente como casca, não posso me comunicar com outros.
+Dialogue: 0,0:10:22.76,0:10:29.02,Default,,0,0,0,,Contudo, a personalidade de Irisviel que gravei é inconfundivelmente real.
+Dialogue: 0,0:10:29.02,0:10:34.02,Default,,0,0,0,,E por isso, herdei o último desejo dela.
+Dialogue: 0,0:10:34.02,0:10:36.32,Default,,0,0,0,,Você é a vontade do Santo Graal?
+Dialogue: 0,0:10:37.11,0:10:38.15,Default,,0,0,0,,Sim.
+Dialogue: 0,0:10:38.15,0:10:40.49,Default,,0,0,0,,Essa interpretação está correta.
+Dialogue: 0,0:10:40.99,0:10:43.99,Default,,0,0,0,,Eu tenho uma vontade, um desejo.
+Dialogue: 0,0:10:44.41,0:10:47.08,Default,,0,0,0,,A vontade de nascer neste mundo.
+Dialogue: 0,0:10:47.50,0:10:48.41,Default,,0,0,0,,Impossível.
+Dialogue: 0,0:10:48.83,0:10:54.09,Default,,0,0,0,,Nesse caso, como o Graal pretende conceder o meu desejo?
+Dialogue: 0,0:10:54.63,0:10:57.38,Default,,0,0,0,,Bem, Kiritsugu...
+Dialogue: 0,0:10:58.59,0:11:02.60,Default,,0,0,0,,Não é algo que você deveria saber melhor do que ninguém?
+Dialogue: 0,0:11:02.60,0:11:03.89,Default,,0,0,0,,O quê?
+Dialogue: 0,0:11:04.56,0:11:09.27,Default,,0,0,0,,Você aprendeu como salvar o mundo há muito tempo.
+Dialogue: 0,0:11:09.69,0:11:17.61,Default,,0,0,0,,Portanto, farei como você fez, assumirei o seu lugar e atenderei à sua prece.
+Dialogue: 0,0:11:18.36,0:11:19.70,Default,,0,0,0,,Do que você está falando?
+Dialogue: 0,0:11:21.78,0:11:23.32,Default,,0,0,0,,Receio que não haja como evitar.
+Dialogue: 0,0:11:23.78,0:11:28.70,Default,,0,0,0,,A única maneira é fazer você perguntar a si mesmo, em seu íntimo.
+Dialogue: 0,0:11:34.75,0:11:35.75,Default,,0,0,0,,Este lugar...
+Dialogue: 0,0:11:39.30,0:11:41.34,Default,,0,0,0,,Trezentos em um navio.
+Dialogue: 0,0:11:42.01,0:11:44.14,Default,,0,0,0,,Duzentos em outro.
+Dialogue: 0,0:11:44.72,0:11:45.47,Default,,0,0,0,,O quê?
+Dialogue: 0,0:11:45.47,0:11:50.48,Default,,0,0,0,,Quinhentos passageiros e tripulantes no total, mais Emiya Kiritsugu.
+Dialogue: 0,0:11:51.10,0:11:55.94,Default,,0,0,0,,Suponhamos que essas quinhentas e uma pessoas sejam os últimos sobreviventes da humanidade.
+Dialogue: 0,0:11:56.65,0:12:00.86,Default,,0,0,0,,Furos gigantescos se abriram no fundo de ambos os navios.
+Dialogue: 0,0:12:01.49,0:12:04.95,Default,,0,0,0,,Apenas Kiritsugu tem a capacidade de consertar um navio.
+Dialogue: 0,0:12:05.49,0:12:09.83,Default,,0,0,0,,Agora, então, qual navio você consertaria?
+Dialogue: 0,0:12:09.83,0:12:13.79,Default,,0,0,0,,Aquele com trezentas pessoas, obviamente.
+Dialogue: 0,0:12:13.79,0:12:21.30,Default,,0,0,0,,Após tomar essa decisão, você é capturado pelas duzentas pessoas do outro navio.
+Dialogue: 0,0:12:21.80,0:12:24.22,Default,,0,0,0,,Elas exigem que você conserte o navio delas primeiro.
+Dialogue: 0,0:12:24.84,0:12:26.22,Default,,0,0,0,,O que você faria?
+Dialogue: 0,0:12:27.68,0:12:28.81,Default,,0,0,0,,Eu...
+Dialogue: 0,0:12:56.25,0:12:58.92,Default,,0,0,0,,...mataria todas as duzentas pessoas.
+Dialogue: 0,0:12:58.92,0:12:59.96,Default,,0,0,0,,Correto.
+Dialogue: 0,0:13:00.42,0:13:02.51,Default,,0,0,0,,É isso o que Emiya Kiritsugu faria.
+Dialogue: 0,0:13:06.64,0:13:11.31,Default,,0,0,0,,Em seguida, os trezentos sobreviventes abandonam seu navio danificado,
+Dialogue: 0,0:13:11.31,0:13:15.14,Default,,0,0,0,,dividem-se entre dois novos navios e continuam sua viagem.
+Dialogue: 0,0:13:15.69,0:13:17.90,Default,,0,0,0,,Desta vez, temos duzentos em um navio,
+Dialogue: 0,0:13:18.40,0:13:20.52,Default,,0,0,0,,e cem no outro.
+Dialogue: 0,0:13:21.07,0:13:26.82,Default,,0,0,0,,No entanto, furos se abrem no fundo de ambos os navios mais uma vez.
+Dialogue: 0,0:13:26.82,0:13:27.91,Default,,0,0,0,,Espere.
+Dialogue: 0,0:13:28.87,0:13:32.20,Default,,0,0,0,,Você é sequestrado pelos cem no navio menor.
+Dialogue: 0,0:13:32.66,0:13:35.87,Default,,0,0,0,,Eles exigem que você conserte o navio deles primeiro.
+Dialogue: 0,0:13:35.87,0:13:37.58,Default,,0,0,0,,Agora, o que você fará?
+Dialogue: 0,0:13:37.58,0:13:39.13,Default,,0,0,0,,Você já sabe.
+Dialogue: 0,0:13:39.13,0:13:40.21,Default,,0,0,0,,Mas...
+Dialogue: 0,0:13:56.48,0:13:58.98,Default,,0,0,0,,Sim, você tomou a decisão correta.
+Dialogue: 0,0:13:58.98,0:14:00.02,Default,,0,0,0,,Ridículo...
+Dialogue: 0,0:14:00.02,0:14:01.32,Default,,0,0,0,,Isso é um absurdo!
+Dialogue: 0,0:14:01.32,0:14:02.61,Default,,0,0,0,,Como isso pode ser a decisão correta?!
+Dialogue: 0,0:14:03.15,0:14:06.99,Default,,0,0,0,,Duzentos sobreviveram, mas trezentos morreram por causa deles!
+Dialogue: 0,0:14:06.99,0:14:09.49,Default,,0,0,0,,A balança pendeu para o lado errado!
+Dialogue: 0,0:14:09.49,0:14:12.28,Default,,0,0,0,,Não, seus cálculos estavam corretos.
+Dialogue: 0,0:14:12.91,0:14:16.75,Default,,0,0,0,,Você escolheu salvar a maioria ao custo da minoria.
+Dialogue: 0,0:14:17.66,0:14:20.25,Default,,0,0,0,,Não é verdade, Emiya Kiritsugu?
+Dialogue: 0,0:14:20.25,0:14:24.84,Default,,0,0,0,,Você sempre matou a minoria no lado mais leve da balança.
+Dialogue: 0,0:14:25.55,0:14:29.76,Default,,0,0,0,,Mesmo que isso significasse deixar uma longa trilha de cadáveres atrás de você,
+Dialogue: 0,0:14:29.76,0:14:35.18,Default,,0,0,0,,você acreditava que, se vidas fossem salvas, essas vidas teriam valido a pena.
+Dialogue: 0,0:14:38.64,0:14:41.69,Default,,0,0,0,,É isso o que você queria me mostrar?!
+Dialogue: 0,0:14:42.23,0:14:43.44,Default,,0,0,0,,Sim.
+Dialogue: 0,0:14:43.44,0:14:45.19,Default,,0,0,0,,Esta é a sua verdade.
+Dialogue: 0,0:14:45.19,0:14:47.53,Default,,0,0,0,,A resposta que reside dentro de Emiya Kiritsugu.
+Dialogue: 0,0:14:48.24,0:14:52.91,Default,,0,0,0,,O curso de ação que o Graal deve tomar como um dispositivo de concessão de desejos, em outras palavras.
+Dialogue: 0,0:14:52.91,0:14:53.95,Default,,0,0,0,,Não!
+Dialogue: 0,0:14:53.95,0:14:56.20,Default,,0,0,0,,Não foi isso o que eu desejei!
+Dialogue: 0,0:14:56.20,0:14:58.79,Default,,0,0,0,,Eu queria outro caminho.
+Dialogue: 0,0:14:59.62,0:15:04.09,Default,,0,0,0,,É por isso que um milagre era a minha única esperança!
+Dialogue: 0,0:15:04.09,0:15:09.72,Default,,0,0,0,,O seu desejo jamais poderia incluir um método do qual você mesmo não tem conhecimento.
+Dialogue: 0,0:15:09.72,0:15:16.22,Default,,0,0,0,,Se deseja salvar o mundo, isso deve ser feito de uma maneira que você consiga compreender.
+Dialogue: 0,0:15:16.22,0:15:17.77,Default,,0,0,0,,Vá para o inferno com isso!
+Dialogue: 0,0:15:17.77,0:15:21.60,Default,,0,0,0,,Como diabos você pode chamar isso de milagre?!
+Dialogue: 0,0:15:22.56,0:15:23.77,Default,,0,0,0,,É um milagre.
+Dialogue: 0,0:15:24.77,0:15:33.66,Default,,0,0,0,,O feito que você tentou e falhou em realizar sozinho pode ser alcançado em uma escala além do poder de qualquer homem.
+Dialogue: 0,0:15:34.24,0:15:37.37,Default,,0,0,0,,Se isso não é um milagre, o que seria?
+Dialogue: 0,0:15:43.13,0:15:44.17,Default,,0,0,0,,Pai...
+Dialogue: 0,0:15:52.51,0:15:53.43,Default,,0,0,0,,Natalia...
+Dialogue: 0,0:15:57.26,0:15:58.81,Default,,0,0,0,,Emiya Kiritsugu.
+Dialogue: 0,0:15:59.60,0:16:01.89,Default,,0,0,0,,Você verdadeiramente é Angra Mainyu.
+Dialogue: 0,0:16:02.69,0:16:05.40,Default,,0,0,0,,Aquele digno de suportar todo o mal do mundo.
+Dialogue: 0,0:16:06.06,0:16:09.32,Default,,0,0,0,,Agora, a última pergunta.
+Dialogue: 0,0:16:11.95,0:16:13.45,Default,,0,0,0,,Restam três.
+Dialogue: 0,0:16:17.45,0:16:19.24,Default,,0,0,0,,Você salvará dois?
+Dialogue: 0,0:16:19.24,0:16:20.91,Default,,0,0,0,,Ou escolherá um?
+Dialogue: 0,0:16:32.84,0:16:34.97,Default,,0,0,0,,Bem-vindo de volta, Kiritsugu!
+Dialogue: 0,0:16:35.84,0:16:39.14,Default,,0,0,0,,Você finalmente voltou!
+Dialogue: 0,0:16:40.56,0:16:42.73,Default,,0,0,0,,Você compreende, não é?
+Dialogue: 0,0:16:43.73,0:16:47.61,Default,,0,0,0,,Esta é a realização da sua prece pelo Graal.
+Dialogue: 0,0:16:51.32,0:16:54.24,Default,,0,0,0,,Tudo o que você precisa fazer agora é desejar.
+Dialogue: 0,0:16:54.74,0:16:56.74,Default,,0,0,0,,Trazer sua esposa de volta.
+Dialogue: 0,0:16:57.16,0:16:59.20,Default,,0,0,0,,Ter a sua filha de volta.
+Dialogue: 0,0:17:07.04,0:17:11.13,Default,,0,0,0,,Não poderei mais sair procurando brotos de noz com você.
+Dialogue: 0,0:17:11.13,0:17:13.17,Default,,0,0,0,,Está tudo bem.
+Dialogue: 0,0:17:13.17,0:17:18.14,Default,,0,0,0,,Eu sou feliz, contanto que você e a mamãe estejam comigo.
+Dialogue: 0,0:17:18.55,0:17:19.60,Default,,0,0,0,,Obrigado.
+Dialogue: 0,0:17:20.31,0:17:23.31,Default,,0,0,0,,O papai também te ama, Illya.
+Dialogue: 0,0:17:23.85,0:17:26.73,Default,,0,0,0,,Se nada mais for verdade, juro que isso é.
+Dialogue: 0,0:17:34.32,0:17:37.91,Default,,0,0,0,,Adeus, Illya.
+Dialogue: 0,0:17:38.41,0:17:40.20,Default,,0,0,0,,Illya!
+Dialogue: 0,0:17:40.20,0:17:42.87,Default,,0,0,0,,Illya, Illya, Illya...
+Dialogue: 0,0:17:43.54,0:17:46.83,Default,,0,0,0,,Illya, Illya...
+Dialogue: 0,0:17:46.83,0:17:48.67,Default,,0,0,0,,Por quê?!
+Dialogue: 0,0:17:48.67,0:17:50.21,Default,,0,0,0,,Por que você fez isso?!
+Dialogue: 0,0:17:50.21,0:17:53.17,Default,,0,0,0,,Meu amor, você matou a nossa Illya!
+Dialogue: 0,0:17:59.85,0:18:01.18,Default,,0,0,0,,Meu amor...
+Dialogue: 0,0:18:02.22,0:18:03.72,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:18:04.85,0:18:07.60,Default,,0,0,0,,Por que você recusa o Graal?
+Dialogue: 0,0:18:07.60,0:18:11.36,Default,,0,0,0,,Por que você nos recusa?
+Dialogue: 0,0:18:14.61,0:18:17.49,Default,,0,0,0,,Seis bilhões de pessoas...
+Dialogue: 0,0:18:18.07,0:18:20.49,Default,,0,0,0,,Eu amaldiçoo você...
+Dialogue: 0,0:18:21.95,0:18:24.62,Default,,0,0,0,,Emiya... Kiritsugu!
+Dialogue: 0,0:18:24.62,0:18:26.50,Default,,0,0,0,,...contra dois membros da minha família...
+Dialogue: 0,0:18:26.50,0:18:30.46,Default,,0,0,0,,Angra Mainyu amaldiçoa você...
+Dialogue: 0,0:18:30.46,0:18:31.25,Default,,0,0,0,,Eu...
+Dialogue: 0,0:18:32.71,0:18:33.50,Default,,0,0,0,,Sofra...
+Dialogue: 0,0:18:33.50,0:18:34.71,Default,,0,0,0,,Eu...
+Dialogue: 0,0:18:34.71,0:18:37.51,Default,,0,0,0,,Lamente até o dia em que morrer...
+Dialogue: 0,0:18:35.88,0:18:37.51,Default,,0,0,0,,Eu vou matá-la e...
+Dialogue: 0,0:18:38.68,0:18:39.55,Default,,0,0,0,,Eu não vou...
+Dialogue: 0,0:18:40.05,0:18:43.51,Default,,0,0,0,,...salvar o mundo.
+Dialogue: 0,0:18:43.93,0:18:45.35,Default,,0,0,0,,...perdoar vo—
+Dialogue: 0,0:19:12.13,0:19:14.84,Default,,0,0,0,,Que conclusão estúpida.
+Dialogue: 0,0:19:16.21,0:19:18.42,Default,,0,0,0,,Por que você o recusou?
+Dialogue: 0,0:19:18.92,0:19:21.22,Default,,0,0,0,,Você também viu?
+Dialogue: 0,0:19:21.22,0:19:27.27,Default,,0,0,0,,Pensei que tivesse sacrificado tudo o que tinha para chegar até aqui.
+Dialogue: 0,0:19:27.72,0:19:32.94,Default,,0,0,0,,Como pôde simplesmente descartar o que se esforçou tanto para obter?
+Dialogue: 0,0:19:33.48,0:19:35.86,Default,,0,0,0,,É tolo demais para que eu compreenda.
+Dialogue: 0,0:19:36.48,0:19:41.74,Default,,0,0,0,,O custo é maior do que qualquer benefício que ofereça.
+Dialogue: 0,0:19:42.16,0:19:43.78,Default,,0,0,0,,Apenas isso.
+Dialogue: 0,0:19:44.24,0:19:47.83,Default,,0,0,0,,Aquilo não é nenhum dispositivo onipotente de conceder desejos.
+Dialogue: 0,0:19:47.83,0:19:49.58,Default,,0,0,0,,Então dê-o a mim!
+Dialogue: 0,0:19:49.58,0:19:54.88,Default,,0,0,0,,Você pode não precisar dele, mas eu preciso!
+Dialogue: 0,0:19:54.88,0:19:56.09,Default,,0,0,0,,Se ele...
+Dialogue: 0,0:19:56.09,0:20:04.09,Default,,0,0,0,,Se aquilo nascer, poderá responder a todas as minhas dúvidas.
+Dialogue: 0,0:20:04.09,0:20:07.85,Default,,0,0,0,,Ele anseia por sua própria vida, seu próprio nascimento!
+Dialogue: 0,0:20:08.56,0:20:10.60,Default,,0,0,0,,Por favor, não o mate!
+Dialogue: 0,0:20:11.23,0:20:11.98,Default,,0,0,0,,Ele...
+Dialogue: 0,0:20:17.15,0:20:18.40,Default,,0,0,0,,E você...
+Dialogue: 0,0:20:18.82,0:20:22.32,Default,,0,0,0,,Você é tolo demais para que eu compreenda.
+Dialogue: 0,0:20:32.21,0:20:34.29,Default,,0,0,0,,Irisviel...
+Dialogue: 0,0:20:36.88,0:20:38.63,Default,,0,0,0,,Você está atrasada, Saber.
+Dialogue: 0,0:20:38.63,0:20:41.59,Default,,0,0,0,,Sei que estava brincando por aí com o seu cão raivoso de outrora,
+Dialogue: 0,0:20:42.09,0:20:45.97,Default,,0,0,0,,mas me fazer esperar assim não foi muito prudente da sua parte.
+Dialogue: 0,0:20:45.97,0:20:47.26,Default,,0,0,0,,Archer...
+Dialogue: 0,0:20:49.01,0:20:51.18,Default,,0,0,0,,Olhe para o seu rosto.
+Dialogue: 0,0:20:51.64,0:20:54.48,Default,,0,0,0,,É a face de um cão selvagem voraz.
+Dialogue: 0,0:20:54.98,0:20:57.48,Default,,0,0,0,,Saia... do meu... caminho...
+Dialogue: 0,0:20:58.02,0:21:01.78,Default,,0,0,0,,O Santo Graal... pertence a mim!
+Dialogue: 0,0:21:04.95,0:21:06.95,Default,,0,0,0,,Saber.
+Dialogue: 0,0:21:06.95,0:21:10.12,Default,,0,0,0,,Mesmo em seus delírios e caída ao chão,
+Dialogue: 0,0:21:10.12,0:21:13.25,Default,,0,0,0,,você ainda é uma bela mulher.
+Dialogue: 0,0:21:15.12,0:21:17.50,Default,,0,0,0,,Deponha a sua espada e seja minha esposa.
+Dialogue: 0,0:21:19.00,0:21:21.13,Default,,0,0,0,,Um Graal que concede milagres?
+Dialogue: 0,0:21:21.63,0:21:25.63,Default,,0,0,0,,Por que se apegar a algo tão duvidoso?
+Dialogue: 0,0:21:27.22,0:21:31.39,Default,,0,0,0,,Abandone seus ideais e votos tolos.
+Dialogue: 0,0:21:31.39,0:21:35.35,Default,,0,0,0,,De agora em diante, busque apenas a mim e tinja-se unicamente com a minha cor.
+Dialogue: 0,0:21:35.35,0:21:43.03,Default,,0,0,0,,Se fizer isso, como rei de todo o mundo, darei a você todos os prazeres que existem para sentir.
+Dialogue: 0,0:21:44.36,0:21:48.28,Default,,0,0,0,,Você tiraria o Santo Graal de mim...
+Dialogue: 0,0:21:48.28,0:21:50.53,Default,,0,0,0,,...por uma tolice dessas?!
+Dialogue: 0,0:21:54.16,0:21:56.37,Default,,0,0,0,,Eu não estava pedindo a sua opinião.
+Dialogue: 0,0:21:57.17,0:21:59.21,Default,,0,0,0,,É o que eu decidi!
+Dialogue: 0,0:22:00.59,0:22:03.26,Default,,0,0,0,,Agora, dê-me a sua resposta.
+Dialogue: 0,0:22:03.88,0:22:05.84,Default,,0,0,0,,Eu me recuso! Eu jamais—
+Dialogue: 0,0:22:07.72,0:22:10.76,Default,,0,0,0,,Está envergonhada demais para aceitar?
+Dialogue: 0,0:22:10.76,0:22:12.26,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:22:12.26,0:22:15.06,Default,,0,0,0,,Pode dar a resposta errada quantas vezes quiser.
+Dialogue: 0,0:22:15.06,0:22:17.44,Default,,0,0,0,,Para aprender a alegria de me servir,
+Dialogue: 0,0:22:17.44,0:22:21.15,Default,,0,0,0,,você deve primeiro conhecer a dor.
+Dialogue: 0,0:22:29.45,0:22:30.57,Default,,0,0,0,,Kiritsugu.
+Dialogue: 0,0:22:34.62,0:22:38.37,Default,,0,0,0,,Então você finalmente tomou sua decisão.
+Dialogue: 0,0:22:38.37,0:22:43.00,Default,,0,0,0,,Em nome de Emiya Kiritsugu, ordeno-lhe com o meu Feitiço de Comando.
+Dialogue: 0,0:22:43.50,0:22:46.01,Default,,0,0,0,,Dê-me o Santo Graal.
+Dialogue: 0,0:22:46.01,0:22:49.01,Default,,0,0,0,,Saber, use o seu Fantasma Nobre...
+Dialogue: 0,0:22:50.30,0:22:51.51,Default,,0,0,0,,...para destruir o Graal.
+Dialogue: 0,0:22:52.55,0:22:53.10,Default,,0,0,0,,O qu—
+Dialogue: 0,0:22:55.39,0:22:56.68,Default,,0,0,0,,Impossível...
+Dialogue: 0,0:22:56.68,0:22:58.02,Default,,0,0,0,,O que você está fazendo, Saber?!
+Dialogue: 0,0:22:59.31,0:23:00.02,Default,,0,0,0,,Não sou eu!
+Dialogue: 0,0:23:00.90,0:23:04.40,Default,,0,0,0,,Pelo meu terceiro Feitiço de Comando, ordeno-lhe novamente.
+Dialogue: 0,0:23:05.44,0:23:07.24,Default,,0,0,0,,Por que, Kiritsugu?!
+Dialogue: 0,0:23:07.24,0:23:09.36,Default,,0,0,0,,Você, logo você...
+Dialogue: 0,0:23:09.36,0:23:10.32,Default,,0,0,0,,Por quê?!
+Dialogue: 0,0:23:10.32,0:23:12.07,Default,,0,0,0,,Maldito...
+Dialogue: 0,0:23:12.07,0:23:15.29,Default,,0,0,0,,Ousa perturbar a minha cerimônia de casamento, seu vira-lata?!
+Dialogue: 0,0:23:15.29,0:23:18.33,Default,,0,0,0,,Saber, destrua...
+Dialogue: 0,0:23:19.37,0:23:23.25,Default,,0,0,0,,Não!
+Dialogue: 0,0:23:20.92,0:23:22.08,Default,,0,0,0,,...o Graal.
+Dialogue: 0,0:24:57.85,0:24:59.68,Default,,0,0,0,,Eu me lembro daquele rosto.
+Dialogue: 0,0:25:00.06,0:25:05.69,Default,,0,0,0,,Um homem com lágrimas nos olhos, feliz do fundo do seu coração.
+Dialogue: 0,0:25:06.31,0:25:08.65,Default,,0,0,0,,Aquele homem estava grato por algo.
+Dialogue: 0,0:25:09.57,0:25:11.43,Default,,0,0,0,,"Obrigado", ele disse.
+Dialogue: 0,0:23:24.04,0:23:27.05,Signs,,0,0,0,,{\an8}Episódio 24: O Último Feitiço de Comando
+Dialogue: 0,0:25:09.57,0:25:12.07,Signs,,0,0,0,,{\an8}Próximo Episódio: Fate/Zero

@@ -1,0 +1,240 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E21 - Knight on a Two-Wheeled Steed (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E21 - Knight on a Two-Wheeled Steed (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.74,0:00:12.20,Default,,0,0,0,,Irisviel...
+Dialogue: 0,0:02:15.69,0:02:16.99,Default,,0,0,0,,Eu os perdi de vista.
+Dialogue: 0,0:02:18.57,0:02:21.82,Default,,0,0,0,,Se não posso vê-los, vou senti-los.
+Dialogue: 0,0:02:25.75,0:02:26.58,Default,,0,0,0,,Uma carruagem?!
+Dialogue: 0,0:02:26.58,0:02:28.92,Default,,0,0,0,,Alcancei você, Rider!
+Dialogue: 0,0:02:36.26,0:02:38.30,Default,,0,0,0,,Rider, olhe.
+Dialogue: 0,0:02:40.47,0:02:42.76,Default,,0,0,0,,Ela está nos seguindo, não está?
+Dialogue: 0,0:02:44.68,0:02:47.02,Default,,0,0,0,,Ora, se não é a Saber.
+Dialogue: 0,0:02:47.02,0:02:49.52,Default,,0,0,0,,Nos poupa o trabalho de procurar por ela.
+Dialogue: 0,0:02:49.52,0:02:50.40,Default,,0,0,0,,Espere.
+Dialogue: 0,0:02:50.40,0:02:55.02,Default,,0,0,0,,Ei, garoto, motos costumam ser tão rápidas assim?
+Dialogue: 0,0:02:55.02,0:02:57.07,Default,,0,0,0,,Aquilo é uma moto?!
+Dialogue: 0,0:02:57.65,0:02:59.74,Default,,0,0,0,,Não, isso é impossível.
+Dialogue: 0,0:02:59.74,0:03:02.24,Default,,0,0,0,,Mas com a habilidade de Montaria da Saber...
+Dialogue: 0,0:03:02.24,0:03:04.28,Default,,0,0,0,,suponho que seja possível.
+Dialogue: 0,0:03:05.83,0:03:07.25,Default,,0,0,0,,Interessante.
+Dialogue: 0,0:03:07.25,0:03:12.38,Default,,0,0,0,,Nesse caso, terei que entrar na brincadeira com ela.
+Dialogue: 0,0:03:12.38,0:03:14.21,Default,,0,0,0,,Nós vamos descer?!
+Dialogue: 0,0:03:14.21,0:03:15.38,Default,,0,0,0,,Mudança de planos.
+Dialogue: 0,0:03:15.38,0:03:19.42,Default,,0,0,0,,Usarei uma corrida para acertar as contas com a garota.
+Dialogue: 0,0:03:28.64,0:03:31.64,Default,,0,0,0,,Tudo bem, mas leve isso a sério, ouviu?!
+Dialogue: 0,0:03:32.77,0:03:34.11,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:03:34.11,0:03:37.94,Default,,0,0,0,,Nada nos Céus ou na Terra pode me deter!
+Dialogue: 0,0:03:55.29,0:03:56.04,Default,,0,0,0,,Isto é ruim...
+Dialogue: 0,0:03:56.04,0:03:58.80,Default,,0,0,0,,Estou atingindo o limite da máquina.
+Dialogue: 0,0:03:58.80,0:04:00.01,Default,,0,0,0,,Neste ritmo...
+Dialogue: 0,0:04:02.88,0:04:04.72,Default,,0,0,0,,E eu estou tão perto...
+Dialogue: 0,0:04:23.49,0:04:25.28,Default,,0,0,0,,Invisible Air!
+Dialogue: 0,0:04:32.96,0:04:33.92,Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:04:40.59,0:04:42.22,Default,,0,0,0,,Ela está diminuindo a distância!
+Dialogue: 0,0:04:42.22,0:04:44.18,Default,,0,0,0,,Ela vai nos alcançar!
+Dialogue: 0,0:04:45.22,0:04:49.35,Default,,0,0,0,,Que impressionante uma engenhoca mecânica correr tão rápido.
+Dialogue: 0,0:04:49.81,0:04:52.48,Default,,0,0,0,,Contudo, esta é uma carruagem de guerra!
+Dialogue: 0,0:04:52.48,0:04:55.23,Default,,0,0,0,,Eu não vou simplesmente jogar pelas regras.
+Dialogue: 0,0:04:57.98,0:05:01.73,Default,,0,0,0,,Isto é o que significa comer poeira, Saber!
+Dialogue: 0,0:05:20.71,0:05:22.09,Default,,0,0,0,,Excelente!
+Dialogue: 0,0:05:22.09,0:05:24.84,Default,,0,0,0,,Você realmente faz jus ao título de Rei dos Cavaleiros!
+Dialogue: 0,0:05:24.84,0:05:28.14,Default,,0,0,0,,Verdadeiramente a flor do campo de batalha!
+Dialogue: 0,0:05:31.26,0:05:33.27,Default,,0,0,0,,Não me subestime, Rei dos Conquistadores!
+Dialogue: 0,0:05:53.83,0:05:54.95,Default,,0,0,0,,Rider!
+Dialogue: 0,0:05:56.41,0:05:57.58,Default,,0,0,0,,Prepare-se!
+Dialogue: 0,0:06:13.56,0:06:15.68,Default,,0,0,0,,A Irisviel não está aqui?!
+Dialogue: 0,0:06:17.56,0:06:18.19,Default,,0,0,0,,Não...
+Dialogue: 0,0:06:19.81,0:06:22.02,Default,,0,0,0,,Aquele era definitivamente o Rider.
+Dialogue: 0,0:06:22.90,0:06:25.57,Default,,0,0,0,,Onde então a Irisviel poderia estar?
+Dialogue: 0,0:06:29.82,0:06:33.28,Default,,0,0,0,,Achou que poderia me enganar com o disfarce do seu Servo?
+Dialogue: 0,0:06:35.08,0:06:39.42,Default,,0,0,0,,O Mestre de Rider não tem capacidade para reunir as informações necessárias para achar aquele lugar.
+Dialogue: 0,0:06:40.08,0:06:42.75,Default,,0,0,0,,Tohsaka não está em posição de atacar.
+Dialogue: 0,0:06:42.75,0:06:48.05,Default,,0,0,0,,Por eliminação, apenas os Matou poderiam ter sequestrado a Irisviel.
+Dialogue: 0,0:06:51.34,0:06:52.09,Default,,0,0,0,,Responda-me.
+Dialogue: 0,0:06:52.09,0:06:53.85,Default,,0,0,0,,Onde está a Irisviel?
+Dialogue: 0,0:06:54.26,0:06:55.81,Default,,0,0,0,,N-Nenhuma ideia!
+Dialogue: 0,0:06:55.81,0:06:57.60,Default,,0,0,0,,Eu não faço a menor ideia!
+Dialogue: 0,0:06:57.60,0:07:00.35,Default,,0,0,0,,Onde está Matou Kariya, então?
+Dialogue: 0,0:07:00.35,0:07:01.77,Default,,0,0,0,,O Kariya?
+Dialogue: 0,0:07:02.36,0:07:04.36,Default,,0,0,0,,Quem sabe onde aquele tolo se meteu...
+Dialogue: 0,0:07:07.40,0:07:08.61,Default,,0,0,0,,Eu não sei!
+Dialogue: 0,0:07:08.61,0:07:10.49,Default,,0,0,0,,Eu realmente não sei de nada!
+Dialogue: 0,0:07:10.49,0:07:14.41,Default,,0,0,0,,Ele saiu esta manhã com um sujeito que dizia ser um juiz da Igreja!
+Dialogue: 0,0:07:17.24,0:07:18.75,Default,,0,0,0,,Um juiz?
+Dialogue: 0,0:07:26.21,0:07:28.38,Default,,0,0,0,,Kotomine Kirei...
+Dialogue: 0,0:07:31.97,0:07:35.47,Default,,0,0,0,,Eu não esperava que o verdadeiro Rider fosse aparecer.
+Dialogue: 0,0:07:35.85,0:07:38.18,Default,,0,0,0,,Que imensa conveniência para nós.
+Dialogue: 0,0:07:39.06,0:07:43.81,Default,,0,0,0,,A sorte certamente sorri para você no campo de batalha, não é mesmo?
+Dialogue: 0,0:07:43.81,0:07:45.52,Default,,0,0,0,,Matou Kariya.
+Dialogue: 0,0:07:46.40,0:07:54.03,Default,,0,0,0,,Padre, essa farsa barata realmente valeu o uso de dois Selos de Comando?!
+Dialogue: 0,0:07:54.03,0:07:57.03,Default,,0,0,0,,Não se preocupe, Kariya.
+Dialogue: 0,0:07:58.37,0:08:00.62,Default,,0,0,0,,Estenda a sua mão.
+Dialogue: 0,0:08:11.47,0:08:17.60,Default,,0,0,0,,Enquanto cooperar comigo, poderá usar seus Selos de Comando o quanto o seu coração desejar.
+Dialogue: 0,0:08:20.14,0:08:21.56,Default,,0,0,0,,Ainda assim...
+Dialogue: 0,0:08:22.06,0:08:24.15,Default,,0,0,0,,Essa habilidade de transformação...
+Dialogue: 0,0:08:28.52,0:08:33.07,Default,,0,0,0,,É uma pena que ele pertença à classe Berserker, tendo um Fantasma Nobre tão formidável.
+Dialogue: 0,0:08:33.07,0:08:39.74,Default,,0,0,0,,Ele é um Espírito Heroico com muitas lendas narrando feitos que realizou sob a identidade de outros.
+Dialogue: 0,0:08:41.33,0:08:44.71,Default,,0,0,0,,Então este é o melhor resultado mesmo com o controle dos Selos de Comando?
+Dialogue: 0,0:08:44.71,0:08:49.71,Default,,0,0,0,,A obsessão do seu Servo pela Saber é impressionante.
+Dialogue: 0,0:08:50.13,0:08:51.17,Default,,0,0,0,,Já basta.
+Dialogue: 0,0:08:51.17,0:08:52.59,Default,,0,0,0,,Desapareça, Berserker.
+Dialogue: 0,0:08:57.76,0:08:59.35,Default,,0,0,0,,Esta mulher...
+Dialogue: 0,0:08:59.89,0:09:03.81,Default,,0,0,0,,ela é realmente o receptáculo do Graal?
+Dialogue: 0,0:09:03.81,0:09:07.06,Default,,0,0,0,,O conteúdo dela, para ser mais exato.
+Dialogue: 0,0:09:07.06,0:09:09.40,Default,,0,0,0,,Não se preocupe, Kariya.
+Dialogue: 0,0:09:09.94,0:09:14.11,Default,,0,0,0,,Eu deixarei o Graal para você.
+Dialogue: 0,0:09:14.11,0:09:19.37,Default,,0,0,0,,Mas antes disso, há aquela outra promessa que você me fez, padre.
+Dialogue: 0,0:09:20.12,0:09:21.41,Default,,0,0,0,,Ah, aquilo?
+Dialogue: 0,0:09:21.79,0:09:23.33,Default,,0,0,0,,Está tudo providenciado.
+Dialogue: 0,0:09:23.33,0:09:26.87,Default,,0,0,0,,Venha à igreja hoje, à meia-noite.
+Dialogue: 0,0:09:27.21,0:09:30.42,Default,,0,0,0,,Encontrará Tohsaka Tokiomi lá.
+Dialogue: 0,0:09:34.17,0:09:36.43,Default,,0,0,0,,Não se esqueça, Kariya.
+Dialogue: 0,0:09:36.43,0:09:38.22,Default,,0,0,0,,Esta noite, à meia-noite.
+Dialogue: 0,0:09:38.22,0:09:41.26,Default,,0,0,0,,O seu desejo se realizará nessa hora.
+Dialogue: 0,0:09:46.23,0:09:47.06,Default,,0,0,0,,E agora...
+Dialogue: 0,0:09:48.65,0:09:50.48,Default,,0,0,0,,Estamos a sós.
+Dialogue: 0,0:09:50.48,0:09:54.86,Default,,0,0,0,,Não sei quem é você, mas revele-se.
+Dialogue: 0,0:09:57.86,0:10:00.07,Default,,0,0,0,,Então você me sentiu.
+Dialogue: 0,0:10:00.07,0:10:03.20,Default,,0,0,0,,Você é de fato um Executor veterano.
+Dialogue: 0,0:10:03.74,0:10:06.41,Default,,0,0,0,,Matou Zouken?
+Dialogue: 0,0:10:06.87,0:10:08.37,Default,,0,0,0,,Correto.
+Dialogue: 0,0:10:12.63,0:10:14.76,Default,,0,0,0,,Ei, Rider...
+Dialogue: 0,0:10:15.80,0:10:18.43,Default,,0,0,0,,Nós realmente vamos atacar daqui?
+Dialogue: 0,0:10:19.14,0:10:20.68,Default,,0,0,0,,Desta distância?
+Dialogue: 0,0:10:20.68,0:10:22.10,Default,,0,0,0,,Em linha reta?
+Dialogue: 0,0:10:23.81,0:10:29.06,Default,,0,0,0,,Existe um intervalo antes que ela consiga ativar a espada de luz que vimos no rio.
+Dialogue: 0,0:10:29.48,0:10:31.15,Default,,0,0,0,,Atacaremos nesse instante.
+Dialogue: 0,0:10:31.15,0:10:34.11,Default,,0,0,0,,Por que apelar para algo tão louco?
+Dialogue: 0,0:10:34.53,0:10:37.03,Default,,0,0,0,,{\i1}Porque{\i0} é loucura!
+Dialogue: 0,0:10:37.03,0:10:42.78,Default,,0,0,0,,Se ela perder mesmo após tudo isso, a derrota dela será indiscutível e absoluta.
+Dialogue: 0,0:10:42.78,0:10:47.91,Default,,0,0,0,,Ela pode até decidir se juntar às minhas tropas.
+Dialogue: 0,0:10:48.29,0:10:50.54,Default,,0,0,0,,Você iria tão longe?
+Dialogue: 0,0:10:50.54,0:10:55.05,Default,,0,0,0,,No campo de batalha, ela certamente é uma estrela.
+Dialogue: 0,0:10:55.05,0:11:00.38,Default,,0,0,0,,Mas é apenas juntando-se ao meu exército que ela poderá verdadeiramente brilhar.
+Dialogue: 0,0:11:03.64,0:11:08.93,Default,,0,0,0,,Ele nunca teve interesse no poder ou na riqueza de seus oponentes.
+Dialogue: 0,0:11:09.44,0:11:14.82,Default,,0,0,0,,Sem destruí-los ou rebaixá-los, ele buscava conquistar suas almas.
+Dialogue: 0,0:11:14.82,0:11:17.94,Default,,0,0,0,,É por isso que ele é o Rei dos Conquistadores.
+Dialogue: 0,0:11:19.45,0:11:20.74,Default,,0,0,0,,Muito bem, Rider.
+Dialogue: 0,0:11:21.16,0:11:23.12,Default,,0,0,0,,Vença do seu próprio jeito.
+Dialogue: 0,0:11:23.78,0:11:28.45,Default,,0,0,0,,Garoto, parece que finalmente está começando a entender a conquista.
+Dialogue: 0,0:11:31.67,0:11:34.46,Default,,0,0,0,,A glória repousa além do horizonte!
+Dialogue: 0,0:11:34.46,0:11:36.21,Default,,0,0,0,,Avancemos...
+Dialogue: 0,0:11:36.84,0:11:39.47,Default,,0,0,0,,Via Expugnatio!
+Dialogue: 0,0:11:41.34,0:11:42.38,Default,,0,0,0,,Vento!
+Dialogue: 0,0:11:57.78,0:12:03.41,Default,,0,0,0,,Excalibur!
+Dialogue: 0,0:12:12.50,0:12:15.63,Default,,0,0,0,,O que você quer, Matou Zouken?
+Dialogue: 0,0:12:17.80,0:12:19.13,Default,,0,0,0,,Bem...
+Dialogue: 0,0:12:19.13,0:12:26.47,Default,,0,0,0,,Eu estava terrivelmente interessado em ver que truque engenhoso usaria para quebrar o Kariya.
+Dialogue: 0,0:12:26.47,0:12:30.10,Default,,0,0,0,,Você deixaria a chance de vitória dos Matou desaparecer?
+Dialogue: 0,0:12:31.85,0:12:35.81,Default,,0,0,0,,Ver o Kariya sofrer em agonia...
+Dialogue: 0,0:12:37.94,0:12:39.86,Default,,0,0,0,,...é algo de que jamais vou me cansar.
+Dialogue: 0,0:12:40.94,0:12:44.91,Default,,0,0,0,,A vitória para os Matou, ou um fim miserável para ele?
+Dialogue: 0,0:12:45.86,0:12:47.45,Default,,0,0,0,,Não consigo escolher.
+Dialogue: 0,0:12:48.74,0:12:53.54,Default,,0,0,0,,Você tem prazer em ver seu próprio sangue sofrer dessa forma?
+Dialogue: 0,0:12:55.21,0:12:59.13,Default,,0,0,0,,E eu pensando que você fosse compreender.
+Dialogue: 0,0:12:59.92,0:13:01.05,Default,,0,0,0,,O quê?
+Dialogue: 0,0:13:01.05,0:13:05.13,Default,,0,0,0,,Você tem o mesmo cheiro que eu.
+Dialogue: 0,0:13:07.18,0:13:14.89,Default,,0,0,0,,O cheiro de uma larva rastejante, atraída pelo aroma da carne podre do Kariya.
+Dialogue: 0,0:13:17.73,0:13:20.36,Default,,0,0,0,,Ora, que medo, que medo.
+Dialogue: 0,0:13:20.36,0:13:23.19,Default,,0,0,0,,Novato ou não, você é um cão da Igreja.
+Dialogue: 0,0:13:23.19,0:13:25.65,Default,,0,0,0,,Apenas provocá-lo já me põe em perigo.
+Dialogue: 0,0:13:26.45,0:13:29.66,Default,,0,0,0,,Nós nos veremos de novo, jovem.
+Dialogue: 0,0:13:30.37,0:13:39.67,Default,,0,0,0,,Até lá, trate de deixar sua verdadeira natureza amadurecer a ponto de rivalizar com a minha.
+Dialogue: 0,0:13:56.98,0:13:57.94,Default,,0,0,0,,Rider...
+Dialogue: 0,0:14:06.65,0:14:08.36,Default,,0,0,0,,Desculpe, garoto.
+Dialogue: 0,0:14:08.99,0:14:10.57,Default,,0,0,0,,Eu falhei.
+Dialogue: 0,0:14:15.33,0:14:16.25,Default,,0,0,0,,Rider!
+Dialogue: 0,0:14:16.25,0:14:17.58,Default,,0,0,0,,Use o Ionian Hetairoi!
+Dialogue: 0,0:14:20.96,0:14:23.92,Default,,0,0,0,,A carruagem é tudo o que estou disposto a gastar contra a Saber.
+Dialogue: 0,0:14:25.01,0:14:27.09,Default,,0,0,0,,Mas mesmo assim...
+Dialogue: 0,0:14:41.52,0:14:42.86,Default,,0,0,0,,Ela se foi.
+Dialogue: 0,0:14:42.86,0:14:44.23,Default,,0,0,0,,Uma moto, é...?
+Dialogue: 0,0:14:45.19,0:14:46.69,Default,,0,0,0,,Um veículo magnífico.
+Dialogue: 0,0:14:46.69,0:14:47.86,Default,,0,0,0,,Ei!
+Dialogue: 0,0:14:47.86,0:14:50.82,Default,,0,0,0,,Essas são suas primeiras palavras após perder?!
+Dialogue: 0,0:14:53.70,0:14:55.04,Default,,0,0,0,,Ei, Rider.
+Dialogue: 0,0:14:55.74,0:14:58.91,Default,,0,0,0,,Como é que voltamos para a cidade?
+Dialogue: 0,0:14:59.87,0:15:01.96,Default,,0,0,0,,Bem...
+Dialogue: 0,0:15:01.96,0:15:03.84,Default,,0,0,0,,Teremos que ir a pé.
+Dialogue: 0,0:15:04.21,0:15:06.05,Default,,0,0,0,,Acho que tem razão.
+Dialogue: 0,0:15:12.59,0:15:15.10,Default,,0,0,0,,Quantos dias mais eu tenho?
+Dialogue: 0,0:15:16.01,0:15:19.14,Default,,0,0,0,,Quantas vezes mais conseguirei lutar?
+Dialogue: 0,0:15:27.03,0:15:29.19,Default,,0,0,0,,Mas ainda não acabou.
+Dialogue: 0,0:15:31.66,0:15:32.53,Default,,0,0,0,,Eu ainda não...
+Dialogue: 0,0:15:55.80,0:15:59.39,Default,,0,0,0,,Tohsaka Tokiomi!
+Dialogue: 0,0:16:06.82,0:16:10.07,Default,,0,0,0,,Então você acha que me matou, Tokiomi?!
+Dialogue: 0,0:16:10.07,0:16:11.95,Default,,0,0,0,,Nos seus sonhos.
+Dialogue: 0,0:16:13.86,0:16:16.58,Default,,0,0,0,,Até que eu faça você pagar,
+Dialogue: 0,0:16:16.58,0:16:18.99,Default,,0,0,0,,eu continuarei voltando...
+Dialogue: 0,0:16:28.84,0:16:30.46,Default,,0,0,0,,Tohsaka...
+Dialogue: 0,0:16:56.45,0:16:57.91,Default,,0,0,0,,O quê?
+Dialogue: 0,0:17:00.04,0:17:01.12,Default,,0,0,0,,Kariya-kun?
+Dialogue: 0,0:17:05.92,0:17:06.83,Default,,0,0,0,,Aoi-san?!
+Dialogue: 0,0:17:07.46,0:17:09.55,Default,,0,0,0,,Não! Não fui eu!
+Dialogue: 0,0:17:10.13,0:17:11.09,Default,,0,0,0,,Isto foi...
+Dialogue: 0,0:17:52.46,0:17:54.97,Default,,0,0,0,,Está satisfeito, Kariya-kun?
+Dialogue: 0,0:17:56.22,0:18:00.22,Default,,0,0,0,,Agora os Matou certamente vencerão o Santo Graal.
+Dialogue: 0,0:18:03.64,0:18:04.81,Default,,0,0,0,,Eu...
+Dialogue: 0,0:18:06.06,0:18:06.60,Default,,0,0,0,,Eu...
+Dialogue: 0,0:18:06.60,0:18:07.94,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:18:09.61,0:18:13.69,Default,,0,0,0,,Tirar a Sakura de mim não foi o bastante?!
+Dialogue: 0,0:18:14.44,0:18:19.49,Default,,0,0,0,,De todas as coisas que poderia ter feito, você o matou diante de mim?!
+Dialogue: 0,0:18:22.87,0:18:23.62,Default,,0,0,0,,Por quê?!
+Dialogue: 0,0:18:23.62,0:18:25.00,Default,,0,0,0,,Ele...!
+Dialogue: 0,0:18:25.00,0:18:26.29,Default,,0,0,0,,A culpa é dele!
+Dialogue: 0,0:18:26.29,0:18:29.88,Default,,0,0,0,,Se não fosse por ele, ninguém precisaria sofrer!
+Dialogue: 0,0:18:29.88,0:18:32.25,Default,,0,0,0,,Você... e a Sakura-chan...
+Dialogue: 0,0:18:35.17,0:18:36.88,Default,,0,0,0,,Vocês todas poderiam ser felizes!
+Dialogue: 0,0:18:36.88,0:18:38.51,Default,,0,0,0,,Cale a maldita boca!
+Dialogue: 0,0:18:40.14,0:18:44.26,Default,,0,0,0,,Você não entende nada sobre nada disto!
+Dialogue: 0,0:18:47.64,0:18:49.52,Default,,0,0,0,,Você nunca...
+Dialogue: 0,0:18:52.77,0:18:56.28,Default,,0,0,0,,...amou ninguém!
+Dialogue: 0,0:18:59.24,0:19:00.61,Default,,0,0,0,,Havia alguém que eu amava.
+Dialogue: 0,0:19:01.28,0:19:03.83,Default,,0,0,0,,Ela era carinhosa e gentil...
+Dialogue: 0,0:19:03.83,0:19:06.29,Default,,0,0,0,,Eu queria que ela fosse mais feliz do que qualquer outra pessoa.
+Dialogue: 0,0:19:06.54,0:19:09.21,Default,,0,0,0,,Eu jogaria a minha vida fora por você.
+Dialogue: 0,0:19:09.62,0:19:13.29,Default,,0,0,0,,Foi por isso que aguentei esta dor até agora.
+Dialogue: 0,0:19:13.54,0:19:14.80,Default,,0,0,0,,Aguentei...
+Dialogue: 0,0:19:14.80,0:19:18.09,Default,,0,0,0,,Aguentei, aguentei, aguentei, aguentei, aguentei, aguentei, aguentei...
+Dialogue: 0,0:19:18.09,0:19:19.63,Default,,0,0,0,,Aguentei tudo isso!
+Dialogue: 0,0:19:19.63,0:19:22.39,Default,,0,0,0,,Eu nunca perdoarei você se negar tudo isso!
+Dialogue: 0,0:19:22.39,0:19:23.30,Default,,0,0,0,,Uma mentira, mentira, mentira!
+Dialogue: 0,0:19:23.30,0:19:25.18,Default,,0,0,0,,Eu tenho sim alguém que amo...
+Dialogue: 0,0:19:25.18,0:19:27.81,Default,,0,0,0,,Eu com certeza tenho alguém que amo!
+Dialogue: 0,0:19:27.81,0:19:29.14,Default,,0,0,0,,Por que foi que eu fiz tudo isso?!
+Dialogue: 0,0:19:29.14,0:19:30.39,Default,,0,0,0,,De quem é a culpa?!
+Dialogue: 0,0:19:30.39,0:19:33.06,Default,,0,0,0,,Se eu vou morrer, então é melhor que...!
+Dialogue: 0,0:20:58.69,0:21:01.28,Default,,0,0,0,,Aquilo foi uma encenação barata terrível,
+Dialogue: 0,0:21:01.28,0:21:04.70,Default,,0,0,0,,mas nada mal para a sua primeira tentativa como dramaturgo.
+Dialogue: 0,0:21:10.79,0:21:12.45,Default,,0,0,0,,E então, Kirei?
+Dialogue: 0,0:21:12.45,0:21:13.83,Default,,0,0,0,,Quais são as suas impressões?
+Dialogue: 0,0:21:22.05,0:21:23.97,Default,,0,0,0,,O sabor deste vinho...
+Dialogue: 0,0:21:25.30,0:21:27.84,Default,,0,0,0,,Está diferente do que eu me lembrava.
+Dialogue: 0,0:21:30.76,0:21:36.44,Default,,0,0,0,,Vejo que começou a compreender o que significa expandir seus horizontes, então.
+Dialogue: 0,0:21:40.73,0:21:43.94,Default,,0,0,0,,Se isso faz com que o vinho tenha um sabor tão magnífico...
+Dialogue: 0,0:21:46.20,0:21:50.24,Default,,0,0,0,,...eu adoraria muito saboreá-lo novamente.
+Dialogue: 0,0:23:24.92,0:23:26.80,Default,,0,0,0,,Pelo meu Selo de Comando, eu lhe ordeno.
+Dialogue: 0,0:23:26.80,0:23:28.38,Default,,0,0,0,,Abra os olhos e assista até o fim!
+Dialogue: 0,0:23:28.38,0:23:30.59,Default,,0,0,0,,Não vou me conter esta noite.
+Dialogue: 0,0:23:30.59,0:23:32.72,Default,,0,0,0,,Vou apenas eliminá-lo rapidamente.
+Dialogue: 0,0:23:32.72,0:23:34.60,Default,,0,0,0,,Em que ele e eu diferimos?
+Dialogue: 0,0:23:34.60,0:23:36.72,Default,,0,0,0,,Se ele não está perdido, então o que ele é?!
+Dialogue: 0,0:23:36.72,0:23:39.35,Default,,0,0,0,,Se eu estou aqui dentro, quem sou eu?
+Dialogue: 0,0:21:51.91,0:21:54.91,Signs,,0,0,0,,{\an8}Episódio 21: Cavaleiro sobre Duas Rodas
+Dialogue: 0,0:23:37.43,0:23:39.94,Signs,,0,0,0,,{\an8}Próximo Episódio: Todo o Mal do Mundo

@@ -1,0 +1,219 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E15 - Golden Brilliance (2012)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E15 - Golden Brilliance (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.07,0:00:17.87,Default,,0,0,0,,O que faremos agora, Rider?
+Dialogue: 0,0:00:37.97,0:00:39.97,Default,,0,0,0,,E agora, cão raivoso?
+Dialogue: 0,0:00:49.23,0:00:50.44,Default,,0,0,0,,Tokiomi...
+Dialogue: 0,0:00:55.28,0:00:58.12,Default,,0,0,0,,Eu... vou te matar!
+Dialogue: 0,0:01:14.42,0:01:15.43,Default,,0,0,0,,Saber!
+Dialogue: 0,0:01:25.10,0:01:26.89,Default,,0,0,0,,Não estamos progredindo muito.
+Dialogue: 0,0:01:30.36,0:01:32.78,Default,,0,0,0,,Se ao menos pudéssemos usar o braço esquerdo da Saber...
+Dialogue: 0,0:03:04.58,0:03:05.99,Default,,0,0,0,,Ei, Saber!
+Dialogue: 0,0:03:06.29,0:03:08.25,Default,,0,0,0,,Isto não está funcionando.
+Dialogue: 0,0:03:08.25,0:03:09.33,Default,,0,0,0,,Recue!
+Dialogue: 0,0:03:09.75,0:03:11.42,Default,,0,0,0,,Não seja ridículo.
+Dialogue: 0,0:03:11.42,0:03:13.08,Default,,0,0,0,,Precisamos detê-lo aqui!
+Dialogue: 0,0:03:13.46,0:03:16.25,Default,,0,0,0,,Mas esgotamos nossas opções.
+Dialogue: 0,0:03:16.25,0:03:17.59,Default,,0,0,0,,Recue por enquanto.
+Dialogue: 0,0:03:17.59,0:03:19.47,Default,,0,0,0,,Eu tenho uma ideia.
+Dialogue: 0,0:03:25.93,0:03:27.72,Default,,0,0,0,,Escutem, todos vocês.
+Dialogue: 0,0:03:27.72,0:03:32.73,Default,,0,0,0,,Independentemente de qual plano escolhermos, primeiro precisamos ganhar tempo.
+Dialogue: 0,0:03:33.06,0:03:36.98,Default,,0,0,0,,Eu irei atraí-lo para o Ionian Hetairoi.
+Dialogue: 0,0:03:37.36,0:03:42.99,Default,,0,0,0,,No entanto, nem mesmo a força combinada de todos os meus valentes guerreiros será capaz de destruir aquilo.
+Dialogue: 0,0:03:42.99,0:03:46.99,Default,,0,0,0,,Conter aquilo dentro da Barreira Inata é o máximo que podemos fazer.
+Dialogue: 0,0:03:47.58,0:03:49.25,Default,,0,0,0,,E depois?
+Dialogue: 0,0:03:49.25,0:03:50.75,Default,,0,0,0,,Nenhuma ideia.
+Dialogue: 0,0:03:50.75,0:03:51.75,Default,,0,0,0,,Hã?!
+Dialogue: 0,0:03:51.75,0:03:59.26,Default,,0,0,0,,Se eu engolir algo daquela magnitude, a Barreira Inata durará apenas alguns minutos.
+Dialogue: 0,0:03:59.26,0:04:01.72,Default,,0,0,0,,Vocês precisam encontrar uma maneira dentro desse tempo.
+Dialogue: 0,0:04:02.13,0:04:03.26,Default,,0,0,0,,Espíritos Heroicos...
+Dialogue: 0,0:04:03.93,0:04:07.14,Default,,0,0,0,,Quero que encontrem um caminho para a vitória.
+Dialogue: 0,0:04:08.64,0:04:09.81,Default,,0,0,0,,Ei, garoto.
+Dialogue: 0,0:04:10.31,0:04:12.06,Default,,0,0,0,,Você fica aqui também.
+Dialogue: 0,0:04:15.52,0:04:16.31,Default,,0,0,0,,Ei...
+Dialogue: 0,0:04:17.11,0:04:21.82,Default,,0,0,0,,Assim que eu ativar o território, não saberei o que acontece do lado de fora.
+Dialogue: 0,0:04:21.82,0:04:26.16,Default,,0,0,0,,Garoto, concentre sua mente e me chame se algo acontecer.
+Dialogue: 0,0:04:26.16,0:04:27.99,Default,,0,0,0,,Eu enviarei um mensageiro.
+Dialogue: 0,0:04:33.50,0:04:35.17,Default,,0,0,0,,Saber! Lancer!
+Dialogue: 0,0:04:35.17,0:04:36.58,Default,,0,0,0,,Deixo o resto com vocês.
+Dialogue: 0,0:04:38.13,0:04:39.46,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:05:02.99,0:05:04.90,Default,,0,0,0,,Que esforço inútil.
+Dialogue: 0,0:05:17.38,0:05:18.75,Default,,0,0,0,,Mamãe!
+Dialogue: 0,0:05:27.09,0:05:28.39,Default,,0,0,0,,O quê?
+Dialogue: 0,0:06:07.76,0:06:12.31,Default,,0,0,0,,Que tal mergulhar de cabeça naquela pilha de imundície, vira-lata?
+Dialogue: 0,0:06:45.38,0:06:47.97,Default,,0,0,0,,Depois de toda aquela empáfia...
+Dialogue: 0,0:06:49.59,0:06:52.47,Default,,0,0,0,,Isto é tudo o que você tem na manga?
+Dialogue: 0,0:06:58.39,0:07:00.23,Default,,0,0,0,,Ele está tentando se suicidar?
+Dialogue: 0,0:07:00.65,0:07:01.94,Default,,0,0,0,,Kariya.
+Dialogue: 0,0:07:01.94,0:07:04.36,Default,,0,0,0,,Considere isto o meu presente para você.
+Dialogue: 0,0:07:05.11,0:07:07.49,Default,,0,0,0,,{\i1}Intensive Einäscherung.
+Dialogue: 0,0:07:15.83,0:07:20.83,Default,,0,0,0,,Eu... vou... te matar...
+Dialogue: 0,0:07:22.08,0:07:23.83,Default,,0,0,0,,Tokiomi!
+Dialogue: 0,0:07:24.59,0:07:26.75,Default,,0,0,0,,Zouken...
+Dialogue: 0,0:07:40.35,0:07:41.56,Default,,0,0,0,,E agora?
+Dialogue: 0,0:07:42.52,0:07:49.32,Default,,0,0,0,,Ele está nos ganhando tempo, mas se não conseguirmos pensar em nada, voltaremos à estaca zero.
+Dialogue: 0,0:07:49.32,0:07:51.53,Default,,0,0,0,,Ei, Einzbern...
+Dialogue: 0,0:07:51.53,0:07:53.07,Default,,0,0,0,,Tem alguma ideia?
+Dialogue: 0,0:07:54.28,0:07:55.49,Default,,0,0,0,,Ei!
+Dialogue: 0,0:07:58.83,0:08:01.04,Default,,0,0,0,,Bem, hum...
+Dialogue: 0,0:08:01.71,0:08:03.54,Default,,0,0,0,,Como é que isso funciona?
+Dialogue: 0,0:08:05.63,0:08:06.50,Default,,0,0,0,,Iri?
+Dialogue: 0,0:08:06.96,0:08:08.50,Default,,0,0,0,,Não, eu...
+Dialogue: 0,0:08:08.50,0:08:09.46,Default,,0,0,0,,Digo...
+Dialogue: 0,0:08:10.67,0:08:11.72,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:08:11.72,0:08:13.47,Default,,0,0,0,,Você deve ser o Mestre do Rider.
+Dialogue: 0,0:08:13.47,0:08:14.39,Default,,0,0,0,,Perfeito.
+Dialogue: 0,0:08:14.80,0:08:16.26,Default,,0,0,0,,Eu também queria falar com você.
+Dialogue: 0,0:08:17.18,0:08:18.51,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:08:18.51,0:08:20.10,Default,,0,0,0,,Não importa.
+Dialogue: 0,0:08:20.10,0:08:24.19,Default,,0,0,0,,O sumiço do Caster foi obra do seu Servo, correto?
+Dialogue: 0,0:08:24.60,0:08:26.73,Default,,0,0,0,,Sim, acho que sim.
+Dialogue: 0,0:08:26.73,0:08:28.19,Default,,0,0,0,,Uma pergunta.
+Dialogue: 0,0:08:28.19,0:08:33.99,Default,,0,0,0,,Quando o Rider dissipar a Barreira Inata dele, ele pode soltar o conteúdo em um local específico?
+Dialogue: 0,0:08:36.53,0:08:37.74,Default,,0,0,0,,Até certo ponto.
+Dialogue: 0,0:08:37.74,0:08:41.83,Default,,0,0,0,,Dentro de um raio de cem metros ou coisa do tipo, mas é possível.
+Dialogue: 0,0:08:42.41,0:08:46.63,Default,,0,0,0,,O Rider deve conseguir controlar onde ele vai se rematerializar.
+Dialogue: 0,0:08:46.63,0:08:47.96,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:08:47.96,0:08:51.76,Default,,0,0,0,,Esperarei o momento certo e dispararei um sinalizador luminoso.
+Dialogue: 0,0:08:51.76,0:08:54.68,Default,,0,0,0,,Liberte o Caster bem embaixo dele.
+Dialogue: 0,0:08:54.68,0:08:55.72,Default,,0,0,0,,Pode fazer isso?
+Dialogue: 0,0:08:55.72,0:08:57.85,Default,,0,0,0,,Posso... acho que sim.
+Dialogue: 0,0:08:57.85,0:08:58.72,Default,,0,0,0,,Provavelmente.
+Dialogue: 0,0:08:59.18,0:09:00.35,Default,,0,0,0,,Mais uma coisa.
+Dialogue: 0,0:09:00.35,0:09:02.77,Default,,0,0,0,,Preciso que você transmita uma mensagem ao Lancer.
+Dialogue: 0,0:09:02.77,0:09:06.44,Default,,0,0,0,,Diga a ele que o braço esquerdo da Saber abriga um Fantasma Nobre anti-fortaleza.
+Dialogue: 0,0:09:06.90,0:09:07.90,Default,,0,0,0,,Hã?
+Dialogue: 0,0:09:11.28,0:09:12.78,Default,,0,0,0,,Tem algo de errado?
+Dialogue: 0,0:09:12.78,0:09:16.03,Default,,0,0,0,,Bem, ele mandou um recado para você.
+Dialogue: 0,0:09:16.03,0:09:19.12,Default,,0,0,0,,Algo sobre o braço esquerdo da Saber ter um Fantasma Nobre anti-fortaleza...
+Dialogue: 0,0:09:22.50,0:09:24.79,Default,,0,0,0,,Isso é verdade, Saber?
+Dialogue: 0,0:09:27.71,0:09:33.09,Default,,0,0,0,,Pode destruir o monstro do Caster com um único golpe?
+Dialogue: 0,0:09:34.01,0:09:35.01,Default,,0,0,0,,Pode.
+Dialogue: 0,0:09:37.05,0:09:38.39,Default,,0,0,0,,Contudo, Lancer.
+Dialogue: 0,0:09:38.39,0:09:41.35,Default,,0,0,0,,O peso da minha espada é o peso do meu orgulho.
+Dialogue: 0,0:09:41.35,0:09:45.39,Default,,0,0,0,,A ferida da minha batalha contra você é uma honra, não um grilhão.
+Dialogue: 0,0:09:46.44,0:09:52.15,Default,,0,0,0,,O auxílio de Diarmuid O'Dyna em substituição ao meu braço esquerdo vale por dez mil guerreiros.
+Dialogue: 0,0:09:58.24,0:09:59.70,Default,,0,0,0,,Ora, Saber.
+Dialogue: 0,0:09:59.70,0:10:01.78,Default,,0,0,0,,Eu não posso perdoar as ações daquele Caster.
+Dialogue: 0,0:10:02.49,0:10:07.00,Default,,0,0,0,,Ele se compraz no desespero alheio e encontra regozijo em espalhar o terror.
+Dialogue: 0,0:10:07.67,0:10:12.42,Default,,0,0,0,,Pelos votos que prestei como cavaleiro, não posso tolerar tamanha maldade.
+Dialogue: 0,0:10:14.92,0:10:16.55,Default,,0,0,0,,Lancer, você não deve!
+Dialogue: 0,0:10:17.26,0:10:21.10,Default,,0,0,0,,É a Saber quem deve vencer esta luta? É o Lancer?
+Dialogue: 0,0:10:21.10,0:10:23.56,Default,,0,0,0,,Não, nenhum dos dois.
+Dialogue: 0,0:10:23.56,0:10:27.94,Default,,0,0,0,,O que deve triunfar aqui é a via cavalheiresca que ambos defendemos.
+Dialogue: 0,0:10:27.94,0:10:30.81,Default,,0,0,0,,Não é verdade, Espírito Heroico Arturia?
+Dialogue: 0,0:10:44.41,0:10:45.49,Default,,0,0,0,,Lancer...
+Dialogue: 0,0:10:46.29,0:10:50.08,Default,,0,0,0,,Depósito minhas esperanças de vitória sobre a sua lâmina, Rei dos Cavaleiros.
+Dialogue: 0,0:10:50.79,0:10:53.21,Default,,0,0,0,,Conto com você, Saber.
+Dialogue: 0,0:10:56.46,0:10:58.34,Default,,0,0,0,,Eu aceito, Lancer.
+Dialogue: 0,0:10:58.88,0:11:01.64,Default,,0,0,0,,Pela minha espada, eu lhe prometo a vitória!
+Dialogue: 0,0:11:15.90,0:11:18.99,Default,,0,0,0,,Aquilo vem da lenda do Rei Arthur...
+Dialogue: 0,0:11:25.78,0:11:27.20,Default,,0,0,0,,Saber!
+Dialogue: 0,0:11:27.62,0:11:29.16,Default,,0,0,0,,Berserker?
+Dialogue: 0,0:11:29.16,0:11:29.87,Default,,0,0,0,,O que ele está...?
+Dialogue: 0,0:11:52.65,0:11:55.81,Default,,0,0,0,,Ousa virar as costas para mim, vira-lata?
+Dialogue: 0,0:11:55.81,0:11:57.07,Default,,0,0,0,,Você me insulta!
+Dialogue: 0,0:11:58.69,0:11:59.44,Default,,0,0,0,,O quê?!
+Dialogue: 0,0:12:09.12,0:12:10.16,Default,,0,0,0,,Saber!
+Dialogue: 0,0:12:10.16,0:12:12.25,Default,,0,0,0,,Qual é o problema daquele Berserker?!
+Dialogue: 0,0:12:12.71,0:12:15.75,Default,,0,0,0,,Logo agora que finalmente recuperei o uso do meu braço esquerdo...
+Dialogue: 0,0:12:38.07,0:12:43.90,Default,,0,0,0,,Uma alma busca o prazer por instinto, quer tenha consciência disso ou não.
+Dialogue: 0,0:12:45.24,0:12:52.16,Default,,0,0,0,,{\q2\fscx94}Ele foi o único que você ordenou que o Assassin investigasse a fundo, a ponto de compreender aquelas "circunstâncias complicadas".
+Dialogue: 0,0:12:52.58,0:12:55.92,Default,,0,0,0,,E tudo isso devido ao seu próprio interesse inconsciente.
+Dialogue: 0,0:13:40.21,0:13:41.50,Default,,0,0,0,,Ainda é cedo demais.
+Dialogue: 0,0:13:43.17,0:13:44.84,Default,,0,0,0,,Aquele tremor...
+Dialogue: 0,0:13:46.05,0:13:49.93,Default,,0,0,0,,É um sinal de que a Barreira Inata do Rider não vai aguentar por muito mais tempo.
+Dialogue: 0,0:13:51.56,0:13:52.56,Default,,0,0,0,,Rider...
+Dialogue: 0,0:13:57.19,0:14:00.19,Default,,0,0,0,,Eu sou Mitrines, dos Hetairoi.
+Dialogue: 0,0:14:00.73,0:14:04.19,Default,,0,0,0,,Vim no lugar dos ouvidos do rei.
+Dialogue: 0,0:14:06.40,0:14:13.20,Default,,0,0,0,,E-Eu quero que ele espere pelo sinal e dissipe a Barreira Inata soltando o Caster no ponto designado.
+Dialogue: 0,0:14:13.83,0:14:14.70,Default,,0,0,0,,Ele pode fazer isso?
+Dialogue: 0,0:14:15.25,0:14:19.21,Default,,0,0,0,,É possível, mas a situação é urgente.
+Dialogue: 0,0:14:19.92,0:14:26.47,Default,,0,0,0,,Nossas forças dentro da Barreira Inata já não conseguirão conter aquele monstro marinho por muito tempo.
+Dialogue: 0,0:14:26.47,0:14:27.22,Default,,0,0,0,,Eu sei!
+Dialogue: 0,0:14:28.13,0:14:29.13,Default,,0,0,0,,Eu sei disso!
+Dialogue: 0,0:14:32.97,0:14:33.93,Default,,0,0,0,,Droga!
+Dialogue: 0,0:14:33.93,0:14:35.43,Default,,0,0,0,,Maldito Berserker.
+Dialogue: 0,0:14:35.43,0:14:37.52,Default,,0,0,0,,Não dá para fazer nada a respeito dele?
+Dialogue: 0,0:14:37.52,0:14:38.56,Default,,0,0,0,,Eu irei.
+Dialogue: 0,0:14:39.69,0:14:40.85,Default,,0,0,0,,Lancer...
+Dialogue: 0,0:14:46.11,0:14:48.49,Default,,0,0,0,,Já basta, guerreiro enlouquecido!
+Dialogue: 0,0:15:05.13,0:15:07.13,Default,,0,0,0,,É tudo ou nada!
+Dialogue: 0,0:15:19.94,0:15:21.10,Default,,0,0,0,,Archer...
+Dialogue: 0,0:15:39.41,0:15:40.75,Default,,0,0,0,,É aquilo!
+Dialogue: 0,0:15:40.75,0:15:42.12,Default,,0,0,0,,Bem embaixo daquilo!
+Dialogue: 0,0:15:42.12,0:15:43.17,Default,,0,0,0,,Como desejar.
+Dialogue: 0,0:16:01.60,0:16:02.85,Default,,0,0,0,,Francamente...
+Dialogue: 0,0:16:02.85,0:16:04.61,Default,,0,0,0,,Por que toda essa demora?
+Dialogue: 0,0:16:22.21,0:16:25.46,Default,,0,0,0,,Agora, Saber. Mostre-me.
+Dialogue: 0,0:16:25.46,0:16:30.21,Default,,0,0,0,,Eu avaliarei o verdadeiro valor do seu esplendor como um Espírito Heroico.
+Dialogue: 0,0:16:52.90,0:16:54.15,Default,,0,0,0,,A luz...
+Dialogue: 0,0:16:54.61,0:17:05.29,Default,,0,0,0,,Aquela espada resplandece... O sonho acalentado e solenemente exaltado
+Dialogue: 0,0:17:05.96,0:17:10.46,Default,,0,0,0,,por todos os guerreiros caídos nos campos de batalha do passado, presente e futuro, ao se aproximarem de seus momentos derradeiros.
+Dialogue: 0,0:17:11.09,0:17:16.18,Default,,0,0,0,,Erigindo essa vontade como seu orgulho e exigindo fidelidade à sua lealdade,
+Dialogue: 0,0:17:16.18,0:17:22.72,Default,,0,0,0,,o rei invicto agora entoa solenemente o verdadeiro nome do milagre que empunha em suas mãos.
+Dialogue: 0,0:17:30.86,0:17:32.07,Default,,0,0,0,,O seu nome é...
+Dialogue: 0,0:17:33.15,0:17:38.03,Default,,0,0,0,,{\fad(0,353)}Excalibur!
+Dialogue: 0,0:17:57.30,0:17:59.01,Default,,0,0,0,,Esta luz...
+Dialogue: 0,0:18:13.61,0:18:15.57,Default,,0,0,0,,Não resta dúvidas.
+Dialogue: 0,0:18:15.57,0:18:21.49,Default,,0,0,0,,Este era o resplendor que abençoou a mim e à Jeanne em pura alegria...
+Dialogue: 0,0:18:33.21,0:18:34.50,Default,,0,0,0,,O que...
+Dialogue: 0,0:18:36.05,0:18:37.17,Default,,0,0,0,,...foi que eu fiz...?
+Dialogue: 0,0:19:05.04,0:19:07.08,Default,,0,0,0,,Você presenciou isso, Rei dos Conquistadores?
+Dialogue: 0,0:19:07.37,0:19:09.58,Default,,0,0,0,,Aquele foi o resplendor da Saber.
+Dialogue: 0,0:19:10.29,0:19:15.34,Default,,0,0,0,,Você ainda se recusa a reconhecê-la, mesmo após contemplar uma luz de tamanha magnitude?
+Dialogue: 0,0:19:16.96,0:19:21.97,Default,,0,0,0,,Aquela majestade provém de ter carregado sobre si todas as esperanças de seu povo.
+Dialogue: 0,0:19:22.59,0:19:25.18,Default,,0,0,0,,É justamente o seu brilho radiante que a torna tão dolorosa.
+Dialogue: 0,0:19:26.10,0:19:31.31,Default,,0,0,0,,Ainda mais sabendo que quem carrega tal fardo não passa de uma garotinha sonhadora.
+Dialogue: 0,0:19:32.27,0:19:38.65,Default,,0,0,0,,Uma donzela que nunca foi mimada com carinho, nunca pôde se apaixonar,
+Dialogue: 0,0:19:38.65,0:19:42.57,Default,,0,0,0,,mas viveu assombrada pela maldição chamada "ideal" até terminar daquela forma.
+Dialogue: 0,0:19:43.78,0:19:45.83,Default,,0,0,0,,É doloroso demais de contemplar.
+Dialogue: 0,0:19:46.83,0:19:49.66,Default,,0,0,0,,Não é exatamente isso o que a torna tão adorável?
+Dialogue: 0,0:19:50.16,0:19:52.96,Default,,0,0,0,,Aquele ideal desmedido que ela acalentava...
+Dialogue: 0,0:19:52.96,0:19:57.21,Default,,0,0,0,,com certeza acabou consumindo em chamas a própria sonhadora ao final.
+Dialogue: 0,0:19:57.88,0:20:04.47,Default,,0,0,0,,As lágrimas de lamento derramadas em seus instantes derradeiros devem ter sido deliciosamente doces de se provar.
+Dialogue: 0,0:20:05.55,0:20:10.35,Default,,0,0,0,,Definitivamente, você e eu somos incompatíveis, Rei dos Heróis da Babilônia.
+Dialogue: 0,0:20:10.35,0:20:11.73,Default,,0,0,0,,Ora...
+Dialogue: 0,0:20:11.73,0:20:14.35,Default,,0,0,0,,Percebeu isso só agora?
+Dialogue: 0,0:20:14.35,0:20:16.52,Default,,0,0,0,,Sendo assim, o que fará, Rider?
+Dialogue: 0,0:20:17.07,0:20:21.15,Default,,0,0,0,,Demonstrará essa ira empunhando as suas armas agora mesmo?
+Dialogue: 0,0:20:21.15,0:20:24.16,Default,,0,0,0,,Seria revigorante se eu pudesse fazê-lo,
+Dialogue: 0,0:20:24.16,0:20:30.25,Default,,0,0,0,,mas quando o oponente é você, consumi energia um pouco além da conta nesta noite.
+Dialogue: 0,0:20:30.25,0:20:37.96,Default,,0,0,0,,É claro que, se você achar que não pode me deixar passar e vier para cima, serei obrigado a enfrentá-lo.
+Dialogue: 0,0:20:38.46,0:20:39.88,Default,,0,0,0,,Não me oponho.
+Dialogue: 0,0:20:39.88,0:20:42.09,Default,,0,0,0,,Permito que bata em retirada, Rei dos Conquistadores.
+Dialogue: 0,0:20:42.84,0:20:46.93,Default,,0,0,0,,Esmagar você em qualquer condição abaixo da sua força total não saciaria o meu ânimo.
+Dialogue: 0,0:20:49.26,0:20:54.44,Default,,0,0,0,,Vejo que você também sofreu danos ao ser abatido por aquele sujeito de armadura negra.
+Dialogue: 0,0:20:55.56,0:20:59.02,Default,,0,0,0,,Eu retribuo provocações com a morte.
+Dialogue: 0,0:20:59.02,0:21:01.61,Default,,0,0,0,,Deixaremos isso para a próxima, Rei dos Heróis.
+Dialogue: 0,0:21:01.90,0:21:07.87,Default,,0,0,0,,O nosso embate será o grande confronto definitivo que consagrará o soberano da Guerra do Graal.
+Dialogue: 0,0:21:13.00,0:21:15.08,Default,,0,0,0,,Eu não teria tanta certeza.
+Dialogue: 0,0:21:15.08,0:21:21.84,Default,,0,0,0,,Ainda não decidi se apenas uma pessoa é digna de receber o meu tesouro supremo, Rider.
+Dialogue: 0,0:21:23.80,0:21:28.39,Default,,0,0,0,,Uma tola que estende as mãos para um desejo que transcende os limites humanos.
+Dialogue: 0,0:21:28.39,0:21:35.94,Default,,0,0,0,,Em todos os Céus e na Terra, ninguém além de mim, Gilgamesh, possui o privilégio de amar a sua ruína.
+Dialogue: 0,0:21:39.56,0:21:44.74,Default,,0,0,0,,Ser efêmero e deslumbrante, entregue-se aos meus braços.
+Dialogue: 0,0:21:45.49,0:21:48.16,Default,,0,0,0,,Esta é a minha decisão.
+Dialogue: 0,0:23:25.92,0:23:29.05,Default,,0,0,0,,Eu sou Diarmuid O'Dyna, a primeira lança dos Cavaleiros de Fianna!
+Dialogue: 0,0:23:29.05,0:23:32.39,Default,,0,0,0,,Alegro-me de tê-la conhecido!
+Dialogue: 0,0:23:32.39,0:23:33.64,Default,,0,0,0,,Com prazer!
+Dialogue: 0,0:23:33.64,0:23:37.43,Default,,0,0,0,,Eu, Arturia Pendragon, Rei da Grã-Bretanha, aceito o desafio!
+Dialogue: 0,0:23:37.43,0:23:38.39,Default,,0,0,0,,Venha!
+Dialogue: 0,0:23:38.39,0:23:39.94,Default,,0,0,0,,Ao combate!
+Dialogue: 0,0:21:51.91,0:21:54.91,Signs,,0,0,0,,{\an8}Episódio 15: Brilho Dourado
+Dialogue: 0,0:23:37.43,0:23:39.94,Signs,,0,0,0,,{\an8}Próximo Episódio: O Fim da Honra
