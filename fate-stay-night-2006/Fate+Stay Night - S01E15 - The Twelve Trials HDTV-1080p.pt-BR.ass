@@ -1,0 +1,377 @@
+[Script Info]
+; Script generated for Fate/stay night (2006) - Rota da Saber
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/stay night - S01E15 - The Twelve Trials (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+Style: Spell,ZapfChancery-Medium,75,&H00EDEDFD,&H0000FFFF,&H000A0A87,&H78000000,-1,0,0,0,100,100,0,0,1,2.4,0.15,2,0,0,30,0
+Style: NP,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H004F41FD,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2.0,2,160,160,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.03,0:00:10.15,Default,Archer,0,0,0,,Emiya Shirou!
+Dialogue: 0,0:00:12.24,0:00:15.03,Default,Archer,0,0,0,,Entenda isto de uma vez: você não é alguém que luta.
+Dialogue: 0,0:00:15.41,0:00:16.66,Default,Archer,0,0,0,,Você nada mais é do que um criador.
+Dialogue: 0,0:00:17.74,0:00:19.54,Default,Archer,0,0,0,,Livre-se de qualquer pensamento supérfluo.
+Dialogue: 0,0:00:20.04,0:00:21.83,Default,Archer,0,0,0,,Existe apenas uma única coisa que você é capaz de realizar.
+Dialogue: 0,0:00:22.50,0:00:24.29,Default,Archer,0,0,0,,Aperfeiçoe e domine essa única arte até o limite!
+Dialogue: 0,0:00:26.09,0:00:26.92,Default,Shirou,0,0,0,,Archer...
+Dialogue: 0,0:00:38.89,0:00:39.60,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:00:41.98,0:00:42.81,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:00:42.98,0:00:44.31,Default,Shirou,0,0,0,,Chega por agora.
+Dialogue: 0,0:00:44.31,0:00:45.81,Default,Shirou,0,0,0,,Continuar exigindo mais de você seria insensatez.
+Dialogue: 0,0:00:45.81,0:00:47.56,Default,Saber,0,0,0,,D-Do que está falando?
+Dialogue: 0,0:00:47.56,0:00:51.19,Default,Saber,0,0,0,,Eu já enfrentei situações desesperadoras como esta inúmeras vezes.
+Dialogue: 0,0:00:51.57,0:00:53.03,Default,Saber,0,0,0,,Ainda consigo correr perfeitamente bem.
+Dialogue: 0,0:00:53.78,0:00:56.87,Default,Shirou,0,0,0,,Não importa quantas vezes você já tenha passado por isso,
+Dialogue: 0,0:00:56.87,0:00:58.16,Default,Shirou,0,0,0,,dor continua sendo dor.
+Dialogue: 0,0:00:58.16,0:01:00.37,Default,Shirou,0,0,0,,Ao menos demonstre um pouco de fraqueza!
+Dialogue: 0,0:01:01.04,0:01:02.29,Default,Saber,0,0,0,,O que você está fazendo?!
+Dialogue: 0,0:01:02.79,0:01:04.37,Default,Shirou,0,0,0,,Descanse um pouco nos meus braços.
+Dialogue: 0,0:01:04.37,0:01:05.96,Default,Shirou,0,0,0,,Se continuar correndo com essa expressão de sofrimento,
+Dialogue: 0,0:01:05.96,0:01:07.58,Default,Shirou,0,0,0,,quem acabará agonizando por dentro serei eu.
+Dialogue: 0,0:01:07.58,0:01:08.50,Default,Saber,0,0,0,,Que insolência!
+Dialogue: 0,0:01:08.50,0:01:09.30,Default,Saber,0,0,0,,Ponha-me no chão agora mesmo!
+Dialogue: 0,0:01:09.88,0:01:12.17,Default,Saber,0,0,0,,Acha mesmo que eu sucumbiria diante de uma adversidade destas...
+Dialogue: 0,0:01:13.34,0:01:14.38,Default,Shirou,0,0,0,,Desista de teimar!
+Dialogue: 0,0:01:14.38,0:01:16.18,Default,Shirou,0,0,0,,Esta é uma ordem do seu Mestre!
+Dialogue: 0,0:01:16.89,0:01:18.18,Default,Rin,0,0,0,,Se ela se recusa a obedecer,
+Dialogue: 0,0:01:18.18,0:01:19.97,Default,Rin,0,0,0,,por que você não usa um Feitiço de Comando de uma vez?
+Dialogue: 0,0:01:20.47,0:01:21.93,Default,Saber,0,0,0,,I-Isso é um golpe baixo!
+Dialogue: 0,0:01:21.93,0:01:23.68,Default,Shirou,0,0,0,,Então pare de reclamar e fique quieta!
+Dialogue: 0,0:01:24.14,0:01:27.15,Default,Shirou,0,0,0,,Se não nos apressarmos, a Illya e o Berserker vão nos alcançar.
+Dialogue: 0,0:01:29.58,0:01:33.95,Song,,0,0,0,,Lágrimas cintilantes transformam-se em estrelas,
+Dialogue: 0,0:01:34.12,0:01:38.31,Song,,0,0,0,,conduzidas pelo vento, adornam o firmamento.
+Dialogue: 0,0:01:38.53,0:01:42.77,Song,,0,0,0,,Mesmo quando o luar se oculta sob as nuvens,
+Dialogue: 0,0:01:43.03,0:01:49.70,Song,,0,0,0,,...ele ainda reluz sobre mim.
+Dialogue: 0,0:01:56.79,0:02:00.86,Song,,0,0,0,,Cansado de seguir os mesmos trilhos pré-traçados,
+Dialogue: 0,0:02:01.25,0:02:05.39,Song,,0,0,0,,...disparei a correr impulsivamente.
+Dialogue: 0,0:02:05.74,0:02:09.85,Song,,0,0,0,,Minha renúncia transforma-se em determinação,
+Dialogue: 0,0:02:10.09,0:02:14.41,Song,,0,0,0,,...e encontro orgulho em meus calcanhares desgastados.
+Dialogue: 0,0:02:14.60,0:02:23.38,Song,,0,0,0,,O caminho segue em frente, rumando a leste, rumando a oeste,
+Dialogue: 0,0:02:23.50,0:02:27.44,Song,,0,0,0,,mesmo após o pôr do sol se esvair.
+Dialogue: 0,0:02:29.63,0:02:33.93,Song,,0,0,0,,Lágrimas cintilantes transformam-se em estrelas,
+Dialogue: 0,0:02:34.11,0:02:38.34,Song,,0,0,0,,conduzidas pelo vento, adornam o firmamento.
+Dialogue: 0,0:02:38.50,0:02:42.80,Song,,0,0,0,,Mesmo quando o luar se oculta sob as nuvens,
+Dialogue: 0,0:02:43.00,0:02:49.73,Song,,0,0,0,,...ele ainda reluz sobre mim.
+Dialogue: 0,0:02:52.57,0:02:57.49,Signs,,0,0,0,,Episódio 15
+Dialogue: 0,0:02:52.74,0:02:57.49,Signs,,0,0,0,,Os Doze Trabalhos
+Dialogue: 0,0:03:09.46,0:03:11.21,Default,Shirou,0,0,0,,O corpo da Saber está fervendo de febre.
+Dialogue: 0,0:03:11.21,0:03:12.96,Default,Shirou,0,0,0,,Se não fizermos alguma coisa logo, ela vai...
+Dialogue: 0,0:03:13.84,0:03:14.80,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:03:14.80,0:03:15.75,Default,Shirou,0,0,0,,Por favor, fique quietinha.
+Dialogue: 0,0:03:16.46,0:03:18.30,Default,Shirou,0,0,0,,Você já salvou a minha vida tantas vezes,
+Dialogue: 0,0:03:18.92,0:03:21.30,Default,Shirou,0,0,0,,que se eu não fizer ao menos isso por você agora, as coisas jamais se igualarão!
+Dialogue: 0,0:03:27.43,0:03:28.10,Default,Rin,0,0,0,,Shirou!
+Dialogue: 0,0:03:31.31,0:03:32.10,Default,Shirou,0,0,0,,Desculpe.
+Dialogue: 0,0:03:32.52,0:03:33.86,Default,Shirou,0,0,0,,Minhas pernas acabaram se enrolando um pouco.
+Dialogue: 0,0:03:35.82,0:03:37.86,Default,Shirou,0,0,0,,Tudo bem, segure-se em mim novamente.
+Dialogue: 0,0:03:39.19,0:03:40.86,Default,Saber,0,0,0,,A sua imprudência precisa parar por aqui.
+Dialogue: 0,0:03:41.32,0:03:42.36,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:03:43.28,0:03:45.78,Default,Saber,0,0,0,,Vocês dois devem fugir sem mim.
+Dialogue: 0,0:03:45.78,0:03:47.29,Default,Shirou,0,0,0,,Como poderíamos fazer isso?!
+Dialogue: 0,0:03:47.29,0:03:49.50,Default,Shirou,0,0,0,,Eu só tropecei de bobeira, foi só isso.
+Dialogue: 0,0:03:49.50,0:03:50.54,Default,Shirou,0,0,0,,Estou perfeitamente bem.
+Dialogue: 0,0:03:51.87,0:03:53.88,Default,Saber,0,0,0,,Rin, você concorda comigo, não é?
+Dialogue: 0,0:03:54.46,0:03:56.50,Default,Saber,0,0,0,,Por favor, deixem-me para trás aqui.
+Dialogue: 0,0:03:56.50,0:03:58.96,Default,Saber,0,0,0,,Vocês jamais conseguirão escapar carregando a mim como fardo.
+Dialogue: 0,0:04:00.05,0:04:02.43,Default,Saber,0,0,0,,Acima de tudo, eu não serei capaz de resistir por muito mais tempo.
+Dialogue: 0,0:04:02.43,0:04:03.89,Default,Shirou,0,0,0,,Pare de dizer tantas asneiras!
+Dialogue: 0,0:04:03.89,0:04:04.68,Default,Rin,0,0,0,,Chega, vocês dois!
+Dialogue: 0,0:04:05.22,0:04:07.35,Default,Rin,0,0,0,,Não temos tempo para ficar discutindo.
+Dialogue: 0,0:04:07.35,0:04:08.35,Default,Rin,0,0,0,,Olhem para aquilo ali.
+Dialogue: 0,0:04:10.73,0:04:11.69,Default,Shirou,0,0,0,,Uma cabana em ruínas?
+Dialogue: 0,0:04:14.52,0:04:17.86,Default,Rin,0,0,0,,O Archer encontrou este lugar a caminho do castelo...
+Dialogue: 0,0:04:18.48,0:04:20.90,Default,Rin,0,0,0,,...como um esconderijo de emergência, por precaução.
+Dialogue: 0,0:04:24.78,0:04:26.83,Default,Rin,0,0,0,,Mesmo que Illyasviel venha em nosso encalço,
+Dialogue: 0,0:04:26.83,0:04:28.41,Default,Rin,0,0,0,,ela provavelmente precisará de algum tempo para rastrear.
+Dialogue: 0,0:04:30.16,0:04:31.87,Default,Rin,0,0,0,,Se ela perder tempo procurando em todos os cantos,
+Dialogue: 0,0:04:31.87,0:04:34.46,Default,Rin,0,0,0,,conseguiremos nos manter ocultos até o amanhecer.
+Dialogue: 0,0:04:34.88,0:04:36.29,Default,Shirou,0,0,0,,Tohsaka... e o Archer...?
+Dialogue: 0,0:04:38.63,0:04:41.09,Default,Rin,0,0,0,,Eu disse a ele apenas para ganhar algum tempo.
+Dialogue: 0,0:04:43.68,0:04:46.60,Default,Rin,0,0,0,,Aquele idiota... teve que ser exibido até o último segundo.
+Dialogue: 0,0:04:51.14,0:04:52.98,Default,Rin,0,0,0,,Não permitirei que o sacrifício dele tenha sido em vão.
+Dialogue: 0,0:04:52.98,0:04:54.44,Default,Rin,0,0,0,,Agora que perdi o Archer,
+Dialogue: 0,0:04:54.44,0:04:55.94,Default,Rin,0,0,0,,temos o dever de derrotar o Berserker aqui e agora.
+Dialogue: 0,0:04:56.77,0:04:58.40,Default,Rin,0,0,0,,O meu lema é simples: se tenho tempo para lamentar,
+Dialogue: 0,0:04:58.40,0:05:00.44,Default,Rin,0,0,0,,tenho tempo para agir.
+Dialogue: 0,0:05:01.03,0:05:02.95,Default,Rin,0,0,0,,E vou precisar que você também se prepare psicologicamente.
+Dialogue: 0,0:05:03.65,0:05:04.45,Default,Shirou,0,0,0,,Preparar psicologicamente?
+Dialogue: 0,0:05:05.20,0:05:06.99,Default,Rin,0,0,0,,Mesmo se tratando do Berserker,
+Dialogue: 0,0:05:06.99,0:05:11.12,Default,Rin,0,0,0,,ele deve ter sofrido ferimentos graves após a batalha contra o Archer.
+Dialogue: 0,0:05:11.12,0:05:14.46,Default,Rin,0,0,0,,Além disso, trouxe comigo todas as minhas joias mágicas supremas.
+Dialogue: 0,0:05:15.12,0:05:16.79,Default,Rin,0,0,0,,Desde que a Saber consiga se recuperar,
+Dialogue: 0,0:05:16.79,0:05:19.59,Default,Rin,0,0,0,,serei capaz de formular uma estratégia para nos tirar desta situação.
+Dialogue: 0,0:05:20.42,0:05:22.97,Default,Shirou,0,0,0,,Mas nós não temos meio algum de fazê-la se recompor...
+Dialogue: 0,0:05:23.47,0:05:26.89,Default,Rin,0,0,0,,Ela só está enfraquecida porque o seu mana está se esgotando.
+Dialogue: 0,0:05:26.89,0:05:29.26,Default,Rin,0,0,0,,Se uma quantidade mínima de mana for reposta,
+Dialogue: 0,0:05:29.26,0:05:31.97,Default,Rin,0,0,0,,ela será capaz de manifestar o seu poder original novamente.
+Dialogue: 0,0:05:33.14,0:05:34.35,Default,Shirou,0,0,0,,Existe uma maneira?!
+Dialogue: 0,0:05:34.35,0:05:36.19,Default,Shirou,0,0,0,,Então me diga de uma vez por todas!
+Dialogue: 0,0:05:37.15,0:05:40.23,Default,Shirou,0,0,0,,Mas sou terminantemente contra fazer a Saber atacar pessoas inocentes.
+Dialogue: 0,0:05:40.61,0:05:44.57,Default,Rin,0,0,0,,Não há almas humanas para ela devorar no meio desta floresta.
+Dialogue: 0,0:05:45.03,0:05:47.11,Default,Rin,0,0,0,,Existe um método muito mais direto e confiável.
+Dialogue: 0,0:05:47.86,0:05:50.62,Default,Rin,0,0,0,,Teremos de transplantar os Circuitos Mágicos do Shirou para a Saber.
+Dialogue: 0,0:05:50.87,0:05:52.12,Default,Saber,0,0,0,,Rin, isso é...
+Dialogue: 0,0:05:52.45,0:05:54.45,Default,Rin,0,0,0,,Vocês dois precisam entrar em um estado de ressonância sinestésica...
+Dialogue: 0,0:05:54.45,0:05:56.96,Default,Rin,0,0,0,,...e reconectar o elo espiritual entre as suas almas.
+Dialogue: 0,0:05:56.96,0:06:00.13,Default,Rin,0,0,0,,E para realizarmos isso, precisaremos ir ao extremo de transferir os Circuitos Mágicos...
+Dialogue: 0,0:06:00.13,0:06:02.88,Default,Rin,0,0,0,,...caso contrário, o mana do Shirou jamais conseguirá alcançar a Saber.
+Dialogue: 0,0:06:03.51,0:06:05.76,Default,,0,0,0,,Transferir os meus Circuitos Mágicos para a Saber?
+Dialogue: 0,0:06:06.34,0:06:09.14,Default,Saber,0,0,0,,Mas para os magos, seus Circuitos Mágicos...
+Dialogue: 0,0:06:09.60,0:06:11.64,Default,Saber,0,0,0,,...são algo mais precioso do que a própria vida!
+Dialogue: 0,0:06:12.85,0:06:14.18,Default,Rin,0,0,0,,Você tem razão.
+Dialogue: 0,0:06:14.18,0:06:18.65,Default,Rin,0,0,0,,Além do mais, isso equivale a arrancar parte do seu próprio sistema nervoso.
+Dialogue: 0,0:06:18.98,0:06:21.15,Default,Rin,0,0,0,,Se fizermos isso, todo o fardo e a agonia recairão sobre o Shirou.
+Dialogue: 0,0:06:21.61,0:06:23.69,Default,Shirou,0,0,0,,Isso... vai funcionar?
+Dialogue: 0,0:06:23.69,0:06:25.15,Default,Rin,0,0,0,,Nós faremos funcionar.
+Dialogue: 0,0:06:25.15,0:06:27.95,Default,Rin,0,0,0,,Mas depois que você abrir mão desses Circuitos Mágicos,
+Dialogue: 0,0:06:27.95,0:06:31.16,Default,Rin,0,0,0,,como mago, você carregará uma deficiência irreparável para sempre.
+Dialogue: 0,0:06:31.78,0:06:33.37,Default,Rin,0,0,0,,Não importa o quanto se esforce,
+Dialogue: 0,0:06:33.37,0:06:36.66,Default,Rin,0,0,0,,você jamais conseguirá se tornar um mago completo pelo resto da vida.
+Dialogue: 0,0:06:36.91,0:06:38.75,Default,Saber,0,0,0,,Isso é um sacrifício cruel demais para o Shirou—
+Dialogue: 0,0:06:38.75,0:06:39.96,Default,Shirou,0,0,0,,Não. Vamos fazer isso.
+Dialogue: 0,0:06:39.96,0:06:40.67,Default,Saber,0,0,0,,Shirou!
+Dialogue: 0,0:06:41.50,0:06:42.96,Default,Rin,0,0,0,,Você tem certeza absoluta disso, não tem?
+Dialogue: 0,0:06:42.96,0:06:44.30,Default,Shirou,0,0,0,,Você mesma disse isso!
+Dialogue: 0,0:06:44.30,0:06:47.63,Default,Shirou,0,0,0,,Temos que vencer de qualquer maneira, em memória do Archer.
+Dialogue: 0,0:06:51.35,0:06:52.85,Default,Rin,0,0,0,,Muito bem, então.
+Dialogue: 0,0:07:00.27,0:07:02.52,Default,Rin,0,0,0,,Isto é apenas a preparação preliminar para o ritual.
+Dialogue: 0,0:07:03.07,0:07:05.53,Default,Rin,0,0,0,,Vou precisar que a Saber também colabore com isso.
+Dialogue: 0,0:07:06.19,0:07:10.03,Default,Rin,0,0,0,,E também preciso que o Shirou fique um pouco desconcertado, ou não entraremos na sincronia adequada.
+Dialogue: 0,0:07:10.78,0:07:13.62,Default,Saber,0,0,0,,Você não possui nenhuma outra alternativa em mente?
+Dialogue: 0,0:07:16.29,0:07:18.04,Default,Saber,0,0,0,,Rin, espere por favor!
+Dialogue: 0,0:07:23.25,0:07:25.38,Default,Rin,0,0,0,,Para a fase preliminar do processo de transferência,
+Dialogue: 0,0:07:25.38,0:07:28.26,Default,Rin,0,0,0,,precisaremos do máximo de contato físico possível.
+Dialogue: 0,0:07:33.35,0:07:36.43,Default,Saber,0,0,0,,Shirou, o que você está fazendo?
+Dialogue: 0,0:07:37.35,0:07:38.85,Default,Saber,0,0,0,,Impeça a Rin, por favor!
+Dialogue: 0,0:07:40.23,0:07:42.65,Default,Shirou,0,0,0,,Mas me pedir para impedi-la é...
+Dialogue: 0,0:07:44.69,0:07:47.11,Default,Rin,0,0,0,,Se pararmos aqui, o ritual fracassará.
+Dialogue: 0,0:07:47.48,0:07:48.49,Default,Rin,0,0,0,,Agora, você também, Shirou.
+Dialogue: 0,0:07:49.19,0:07:50.32,Default,Shirou,0,0,0,,Eu também?
+Dialogue: 0,0:07:50.32,0:07:52.49,Default,Rin,0,0,0,,É para aumentar as nossas chances de sucesso.
+Dialogue: 0,0:08:09.88,0:08:11.93,Spell,Rin,0,0,0,,Anfang, seine Seele.
+Dialogue: 0,0:08:09.88,0:08:11.93,Spell,Rin,0,0,0,,Iniciando a ruptura da alma...
+Dialogue: 0,0:08:12.55,0:08:15.26,Spell,Rin,0,0,0,,Deckungen mit ihrem Ursprung.
+Dialogue: 0,0:08:12.55,0:08:15.26,Spell,Rin,0,0,0,,Alinhar à sua Origem...
+Dialogue: 0,0:08:15.93,0:08:18.35,Spell,Rin,0,0,0,,Meine Arbeit schützt ihn
+Dialogue: 0,0:08:15.93,0:08:18.35,Spell,Rin,0,0,0,,Meu empenho o resguarda,
+Dialogue: 0,0:08:19.06,0:08:21.89,Spell,Rin,0,0,0,,und führt ihn zu ihrer Seele.
+Dialogue: 0,0:08:19.06,0:08:21.89,Spell,Rin,0,0,0,,...e o conduz à alma dela.
+Dialogue: 0,0:08:22.73,0:08:27.23,Spell,Rin,0,0,0,,Schmerzen, decken, mischen, lösen
+Dialogue: 0,0:08:22.73,0:08:27.23,Spell,Rin,0,0,0,,Dor, convergência e entrelaçamento...
+Dialogue: 0,0:08:27.23,0:08:29.90,Spell,Rin,0,0,0,,schließen sie an
+Dialogue: 0,0:08:27.23,0:08:29.90,Spell,Rin,0,0,0,,...libertem-na neste instante!
+Dialogue: 0,0:08:37.45,0:08:38.20,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:09:06.86,0:09:07.69,Default,Shirou,0,0,0,,Este lugar é...
+Dialogue: 0,0:09:08.15,0:09:09.36,Default,Shirou,0,0,0,,Onde está a Saber?
+Dialogue: 0,0:09:09.94,0:09:12.61,Default,Shirou,0,0,0,,Espere... Eu já estou no interior dela.
+Dialogue: 0,0:09:12.61,0:09:15.61,Default,Shirou,0,0,0,,Então só preciso me aproximar do núcleo da Saber...
+Dialogue: 0,0:09:16.20,0:09:17.91,Default,Shirou,0,0,0,,...e entregar o meu Circuito Mágico a ela...
+Dialogue: 0,0:10:05.79,0:10:06.62,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:10:12.00,0:10:12.80,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:10:18.22,0:10:19.05,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:10:32.32,0:10:33.19,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:10:41.24,0:10:43.29,Default,Shirou,0,0,0,,B-Bom dia, Saber!
+Dialogue: 0,0:10:48.67,0:10:51.29,Default,Saber,0,0,0,,Bom dia... Shirou...
+Dialogue: 0,0:11:03.68,0:11:04.47,Default,Shirou,0,0,0,,Então...
+Dialogue: 0,0:11:04.47,0:11:06.18,Default,Shirou,0,0,0,,Você já consegue se levantar agora...
+Dialogue: 0,0:11:06.81,0:11:07.39,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:11:07.81,0:11:11.69,Default,Saber,0,0,0,,Agora sou plenamente capaz de receber a reposição de mana vinda de você.
+Dialogue: 0,0:11:12.40,0:11:13.19,Default,Shirou,0,0,0,,Entendi.
+Dialogue: 0,0:11:13.94,0:11:15.40,Default,Shirou,0,0,0,,Foi um sucesso completo, afinal.
+Dialogue: 0,0:11:16.28,0:11:18.45,Default,Saber,0,0,0,,Peço o seu perdão, Shirou.
+Dialogue: 0,0:11:19.65,0:11:21.62,Default,Saber,0,0,0,,Ao assimilar os seus Circuitos,
+Dialogue: 0,0:11:21.62,0:11:25.45,Default,Saber,0,0,0,,fiz o máximo para me conter e receber apenas o mínimo estritamente indispensável.
+Dialogue: 0,0:11:25.62,0:11:29.54,Default,Saber,0,0,0,,Ainda assim, mesmo o mínimo indispensável foi um fardo pesado demais.
+Dialogue: 0,0:11:30.25,0:11:32.46,Default,Shirou,0,0,0,,Não há absolutamente nada pelo que se desculpar.
+Dialogue: 0,0:11:32.46,0:11:33.34,Default,Saber,0,0,0,,Mas...
+Dialogue: 0,0:11:35.09,0:11:38.92,Default,Shirou,0,0,0,,Parece que não terei problemas em continuar usando a magia de Reforço.
+Dialogue: 0,0:11:39.42,0:11:43.26,Default,Shirou,0,0,0,,Acho que foram transferidos apenas os Circuitos que eu normalmente não utilizava.
+Dialogue: 0,0:11:43.26,0:11:47.60,Default,Shirou,0,0,0,,Além disso, sinto que agora existe uma conexão profunda entre nós.
+Dialogue: 0,0:11:47.60,0:11:49.18,Default,Shirou,0,0,0,,Eu posso senti-la nitidamente.
+Dialogue: 0,0:11:54.65,0:11:56.07,Default,Rin,0,0,0,,Vocês dois parecem muito bem dispostos.
+Dialogue: 0,0:11:57.94,0:11:59.19,Default,Rin,0,0,0,,Que excelente notícia.
+Dialogue: 0,0:12:00.24,0:12:02.57,Default,Rin,0,0,0,,Vamos dar início à nossa reunião estratégica de batalha agora mesmo.
+Dialogue: 0,0:12:13.96,0:12:15.71,Default,Rin,0,0,0,,Nossa tática é relativamente simples.
+Dialogue: 0,0:12:16.21,0:12:18.21,Default,Rin,0,0,0,,Para vencermos, precisaremos realizar um ataque surpresa.
+Dialogue: 0,0:12:18.21,0:12:19.80,Default,Rin,0,0,0,,Na verdade, se formos agir assim,
+Dialogue: 0,0:12:19.80,0:12:24.05,Default,Rin,0,0,0,,acho primordial aniquilá-lo sem dar a ele a menor chance de contra-atacar.
+Dialogue: 0,0:12:24.59,0:12:25.80,Default,Saber,0,0,0,,Eu concordo.
+Dialogue: 0,0:12:26.10,0:12:30.31,Default,Shirou,0,0,0,,Flanquear o Berserker e emboscá-lo antes que ele nos note, é?
+Dialogue: 0,0:12:30.64,0:12:33.52,Default,Shirou,0,0,0,,Mas você acha que ele seria tolo o suficiente para ser pego desprevenido?
+Dialogue: 0,0:12:33.69,0:12:34.77,Default,Rin,0,0,0,,Exato.
+Dialogue: 0,0:12:34.77,0:12:36.52,Default,Rin,0,0,0,,A Illya está bem ao lado dele.
+Dialogue: 0,0:12:36.52,0:12:40.03,Default,Rin,0,0,0,,Seria fácil demais para ela pressentir a sua presença e a da Saber.
+Dialogue: 0,0:12:41.03,0:12:45.12,Default,Shirou,0,0,0,,Não me diga que é você quem vai desferir o ataque surpresa?
+Dialogue: 0,0:12:45.12,0:12:46.49,Default,Rin,0,0,0,,Obviamente!
+Dialogue: 0,0:12:46.78,0:12:49.70,Default,Rin,0,0,0,,Shirou, você seria o primeiro alvo na mira deles,
+Dialogue: 0,0:12:49.70,0:12:52.04,Default,Rin,0,0,0,,ao passo que eu sou plenamente capaz de ocultar a minha presença.
+Dialogue: 0,0:12:57.04,0:12:59.55,Default,Rin,0,0,0,,Saber, o quanto o seu corpo conseguiu se recuperar?
+Dialogue: 0,0:13:00.59,0:13:03.05,Default,Saber,0,0,0,,Se for apenas para o combate físico convencional, não terei o menor problema.
+Dialogue: 0,0:13:03.59,0:13:05.14,Default,Rin,0,0,0,,Isso já será mais do que suficiente.
+Dialogue: 0,0:13:05.14,0:13:08.85,Default,Rin,0,0,0,,Vocês dois só precisam atrair a atenção do Berserker.
+Dialogue: 0,0:13:08.85,0:13:11.06,Default,Rin,0,0,0,,Eu ficarei escondida aguardando a oportunidade perfeita.
+Dialogue: 0,0:13:11.52,0:13:14.06,Default,Rin,0,0,0,,Shirou, invente alguma desculpa para despistar a Illya.
+Dialogue: 0,0:13:14.56,0:13:15.48,Default,Shirou,0,0,0,,Tudo bem.
+Dialogue: 0,0:13:16.02,0:13:19.57,Default,Shirou,0,0,0,,Se eu disser que a Tohsaka fugiu apavorada, acho que a Illya vai acreditar.
+Dialogue: 0,0:13:20.19,0:13:23.07,Default,Shirou,0,0,0,,Não acho que ela desconfiaria do que os outros dizem.
+Dialogue: 0,0:13:23.74,0:13:25.28,Default,Saber,0,0,0,,Há apenas um problema.
+Dialogue: 0,0:13:25.82,0:13:28.37,Default,Saber,0,0,0,,Não me importo em confrontar o Berserker de frente.
+Dialogue: 0,0:13:28.83,0:13:32.00,Default,Saber,0,0,0,,Porém, jamais permitirei que o Shirou faça o mesmo.
+Dialogue: 0,0:13:32.00,0:13:34.12,Default,Rin,0,0,0,,Ninguém está dizendo que ele deva lutar.
+Dialogue: 0,0:13:34.54,0:13:37.58,Default,Rin,0,0,0,,Shirou, você recua e dá suporte à Saber pela retaguarda.
+Dialogue: 0,0:13:37.79,0:13:38.63,Default,Saber,0,0,0,,Isso é absurdo.
+Dialogue: 0,0:13:38.63,0:13:40.59,Default,Saber,0,0,0,,O Shirou não tem qualquer perícia em magia ofensiva.
+Dialogue: 0,0:13:41.05,0:13:41.88,Default,Shirou,0,0,0,,Espere!
+Dialogue: 0,0:13:42.34,0:13:43.80,Default,Shirou,0,0,0,,Acho que consigo bolar alguma coisa útil.
+Dialogue: 0,0:14:09.62,0:14:11.37,Default,Shirou,0,0,0,,Estou começando a pegar o jeito disto aqui.
+Dialogue: 0,0:14:11.37,0:14:14.79,Default,Shirou,0,0,0,,Agora só falta reunir projéteis usando o mesmo método.
+Dialogue: 0,0:14:16.71,0:14:20.00,Default,Rin,0,0,0,,De qualquer forma, é ótimo ver que encontrou o seu meio de contribuir.
+Dialogue: 0,0:14:20.79,0:14:22.80,Default,Rin,0,0,0,,Estarei observando tudo lá do alto.
+Dialogue: 0,0:14:23.55,0:14:26.59,Default,Rin,0,0,0,,E assim que a Saber criar uma brecha,
+Dialogue: 0,0:14:26.59,0:14:28.59,Default,Rin,0,0,0,,usarei as minhas joias supremas...
+Dialogue: 0,0:14:28.59,0:14:30.51,Default,Rin,0,0,0,,...e empalarei aquele monstro de vez.
+Dialogue: 0,0:14:30.89,0:14:33.26,Default,Saber,0,0,0,,Por joias, você quer dizer a sua feitiçaria, Rin?
+Dialogue: 0,0:14:35.10,0:14:37.31,Default,Rin,0,0,0,,Desde a época em que me entendo por gente,
+Dialogue: 0,0:14:37.31,0:14:39.77,Default,Rin,0,0,0,,estive acumulando essa energia como moedas em um cofrinho.
+Dialogue: 0,0:14:40.73,0:14:41.48,Default,Rin,0,0,0,,Muito bem.
+Dialogue: 0,0:14:42.32,0:14:43.19,Default,Rin,0,0,0,,Vamos nessa.
+Dialogue: 0,0:14:45.69,0:14:46.57,Default,Shirou,0,0,0,,Saber.
+Dialogue: 0,0:14:46.57,0:14:48.91,Default,Shirou,0,0,0,,Poderia me fazer uma única promessa?
+Dialogue: 0,0:14:50.45,0:14:51.45,Default,Saber,0,0,0,,Qual seria ela?
+Dialogue: 0,0:14:52.08,0:14:53.79,Default,Shirou,0,0,0,,Não importa a gravidade da situação,
+Dialogue: 0,0:14:53.79,0:14:55.79,Default,Shirou,0,0,0,,prometa que não vai usar aquele Fantasma Nobre.
+Dialogue: 0,0:14:57.46,0:14:58.96,Default,Shirou,0,0,0,,Mesmo que consigamos derrotar o Berserker,
+Dialogue: 0,0:15:00.38,0:15:03.04,Default,Shirou,0,0,0,,eu não quero que você morra.
+Dialogue: 0,0:15:04.50,0:15:05.63,Default,Saber,0,0,0,,Eu compreendo.
+Dialogue: 0,0:15:06.92,0:15:11.22,Default,Saber,0,0,0,,Com a quantidade de mana que possuo, recorrer a ele não seria garantia de abater o Berserker.
+Dialogue: 0,0:15:11.22,0:15:15.06,Default,Saber,0,0,0,,E se eu desaparecer deste mundo, jamais poderei alcançar o Santo Graal.
+Dialogue: 0,0:15:15.47,0:15:17.93,Default,Shirou,0,0,0,,Certo... essa é a Saber que eu conheço bem...
+Dialogue: 0,0:15:17.93,0:15:20.90,Default,Shirou,0,0,0,,...tão serena que chega a dar nos nervos. Que alívio.
+Dialogue: 0,0:15:20.90,0:15:22.94,Default,Saber,0,0,0,,O que você quis insinuar com isso?
+Dialogue: 0,0:15:22.94,0:15:23.65,Default,Shirou,0,0,0,,Não, nada—
+Dialogue: 0,0:15:23.65,0:15:24.32,Default,Rin,0,0,0,,Ei!
+Dialogue: 0,0:15:24.32,0:15:25.44,Default,Rin,0,0,0,,O que vocês dois estão fazendo aí parados cochichando?!
+Dialogue: 0,0:15:26.32,0:15:27.07,Default,Shirou,0,0,0,,Vamos logo.
+Dialogue: 0,0:15:27.07,0:15:29.15,Default,Shirou,0,0,0,,Ela já vai começar a reclamar de novo.
+Dialogue: 0,0:15:29.70,0:15:33.95,Default,Saber,0,0,0,,De fato, a Rin parece ter transformado em passatempo repreender você, não é?
+Dialogue: 0,0:15:36.12,0:15:38.16,Default,Shirou,0,0,0,,Nossa, olhe por onde pisa.
+Dialogue: 0,0:15:41.33,0:15:42.46,Default,Shirou,0,0,0,,Saber?
+Dialogue: 0,0:15:43.25,0:15:44.38,Default,Shirou,0,0,0,,O que foi?
+Dialogue: 0,0:15:45.96,0:15:46.55,Default,Saber,0,0,0,,Não é nada.
+Dialogue: 0,0:15:47.09,0:15:49.17,Default,Saber,0,0,0,,Segurar o meu braço é...
+Dialogue: 0,0:16:01.39,0:16:02.65,Default,Illya,0,0,0,,Encontrei vocês!
+Dialogue: 0,0:16:26.88,0:16:27.88,Default,Illya,0,0,0,,Que grande surpresa.
+Dialogue: 0,0:16:27.88,0:16:30.59,Default,Illya,0,0,0,,Pensei que vocês continuariam correndo apavorados até o final.
+Dialogue: 0,0:16:32.47,0:16:35.35,Default,Illya,0,0,0,,Ora, veja só... A Saber conseguiu se recuperar.
+Dialogue: 0,0:16:36.05,0:16:41.10,Default,Illya,0,0,0,,Que lástima... É até bonitinho ver você achando que pode me vencer só com isso.
+Dialogue: 0,0:16:41.73,0:16:44.60,Default,Illya,0,0,0,,Infelizmente, este é o seu fim definitivo, Shirou.
+Dialogue: 0,0:16:45.81,0:16:46.86,Default,Illya,0,0,0,,Onde está a Rin?
+Dialogue: 0,0:16:47.52,0:16:49.53,Default,Shirou,0,0,0,,Nós nos separamos dela.
+Dialogue: 0,0:16:49.78,0:16:51.86,Default,Shirou,0,0,0,,A essa altura ela já deve ter saído da floresta.
+Dialogue: 0,0:16:52.24,0:16:53.36,Default,Illya,0,0,0,,Ah, é mesmo?
+Dialogue: 0,0:16:53.99,0:16:56.57,Default,Illya,0,0,0,,Esta floresta inteira é a barreira delimitada dos Einzbern.
+Dialogue: 0,0:16:56.57,0:16:58.87,Default,Illya,0,0,0,,Eu saberia imediatamente no instante em que a Rin colocasse os pés para fora.
+Dialogue: 0,0:16:59.24,0:17:01.37,Default,Illya,0,0,0,,Simplesmente a caçarei e tirarei a vida dela mais tarde.
+Dialogue: 0,0:17:02.33,0:17:07.88,Default,Illya,0,0,0,,Mas se você implorar de joelhos pela sua vida, moço, não é impossível que eu lhe conceda perdão.
+Dialogue: 0,0:17:08.34,0:17:09.34,Default,Shirou,0,0,0,,Illya!
+Dialogue: 0,0:17:09.34,0:17:11.71,Default,Shirou,0,0,0,,Não há nenhuma maneira de você se afastar deste combate?
+Dialogue: 0,0:17:12.05,0:17:13.01,Default,Illya,0,0,0,,Não há!
+Dialogue: 0,0:17:13.42,0:17:15.80,Default,Illya,0,0,0,,Estas são as ordens incontestáveis do meu avô.
+Dialogue: 0,0:17:15.80,0:17:17.60,Default,Illya,0,0,0,,Enquanto eu tiver o Berserker ao meu lado,
+Dialogue: 0,0:17:17.60,0:17:19.97,Default,Illya,0,0,0,,sou a legítima Mestre dos Einzbern.
+Dialogue: 0,0:17:20.39,0:17:22.06,Default,Illya,0,0,0,,Devo aniquilar todos os outros Mestres...
+Dialogue: 0,0:17:22.06,0:17:24.60,Default,Illya,0,0,0,,...e levar o Santo Graal para casa.
+Dialogue: 0,0:17:26.27,0:17:28.06,Default,Shirou,0,0,0,,Eu sou o Mestre da Saber.
+Dialogue: 0,0:17:28.82,0:17:30.78,Default,Shirou,0,0,0,,Se você se recusa a desistir de ser uma Mestre,
+Dialogue: 0,0:17:31.19,0:17:34.07,Default,Shirou,0,0,0,,eu derrotarei o Berserker e farei você desistir à força.
+Dialogue: 0,0:17:34.07,0:17:34.74,Default,Illya,0,0,0,,Compreendo.
+Dialogue: 0,0:17:35.03,0:17:37.07,Default,Illya,0,0,0,,Nesse caso, acabarei com você com todo o poder que possuo.
+Dialogue: 0,0:17:40.58,0:17:41.20,Default,Saber,0,0,0,,Aquele é o Brasão Mágico dela.
+Dialogue: 0,0:17:42.08,0:17:44.79,Default,Saber,0,0,0,,Extremamente superior ao de um Mestre comum.
+Dialogue: 0,0:17:45.42,0:17:46.71,Default,Illya,0,0,0,,A brincadeira acabou aqui.
+Dialogue: 0,0:17:48.50,0:17:50.59,Default,Shirou,0,0,0,,O poder dele aumentou ainda mais?!
+Dialogue: 0,0:17:52.80,0:17:55.01,Default,Illya,0,0,0,,Esmague todos eles, Berserker!
+Dialogue: 0,0:18:13.65,0:18:14.53,Default,Shirou,0,0,0,,Saber!
+Dialogue: 0,0:18:14.90,0:18:16.70,Default,Illya,0,0,0,,A disparidade de força é evidente demais.
+Dialogue: 0,0:18:17.03,0:18:18.87,Default,Illya,0,0,0,,Basta um único balanço daquela espada colossal,
+Dialogue: 0,0:18:18.87,0:18:21.91,Default,Illya,0,0,0,,e a sua Serva terminará em pedacinhos minúsculos.
+Dialogue: 0,0:18:32.13,0:18:33.46,Default,Shirou,0,0,0,,Se for apenas para desviar a atenção dele...
+Dialogue: 0,0:18:50.90,0:18:52.19,Default,Illya,0,0,0,,Berserker,
+Dialogue: 0,0:18:52.82,0:18:55.03,Default,Illya,0,0,0,,apenas ignore o Shirou.
+Dialogue: 0,0:18:55.03,0:18:58.70,Default,Illya,0,0,0,,Poderá fazer o que quiser com ele depois que trucidar a Saber.
+Dialogue: 0,0:19:08.12,0:19:11.42,Default,Shirou,0,0,0,,No fim das contas... não havia nada que eu pudesse fazer?
+Dialogue: 0,0:19:11.88,0:19:13.50,Default,Shirou,0,0,0,,Não consigo sequer proteger a Saber,
+Dialogue: 0,0:19:13.50,0:19:15.17,Default,Shirou,0,0,0,,e muito menos lutar lado a lado com ela?
+Dialogue: 0,0:19:15.96,0:19:17.47,Default,Shirou,0,0,0,,Não há nada que eu...
+Dialogue: 0,0:19:18.13,0:19:21.30,Default,Shirou,0,0,0,,Não há absolutamente nada... que eu possa...
+Dialogue: 0,0:19:22.72,0:19:24.72,Default,Archer,0,0,0,,Existe apenas uma única coisa que você é capaz de realizar.
+Dialogue: 0,0:19:24.72,0:19:26.68,Default,Archer,0,0,0,,Aperfeiçoe e domine essa única arte até o limite!
+Dialogue: 0,0:19:27.31,0:19:30.48,Default,Archer,0,0,0,,O que você deve sempre visualizar em sua mente é a sua versão mais perfeita e absoluta.
+Dialogue: 0,0:19:32.15,0:19:33.19,Default,Shirou,0,0,0,,Visualizar...?
+Dialogue: 0,0:19:36.07,0:19:36.57,Default,Shirou,0,0,0,,Saber!
+Dialogue: 0,0:19:42.41,0:19:43.24,Default,Shirou,0,0,0,,Eu preciso de uma arma.
+Dialogue: 0,0:19:43.70,0:19:44.99,Default,Shirou,0,0,0,,Um arco não terá efeito.
+Dialogue: 0,0:19:45.49,0:19:46.37,Default,Shirou,0,0,0,,Uma espada!
+Dialogue: 0,0:19:46.66,0:19:48.87,Default,Shirou,0,0,0,,Uma lâmina invencível capaz de aniquilá-lo!
+Dialogue: 0,0:20:15.73,0:20:16.61,Default,Rin,0,0,0,,Afaste-se, Saber!
+Dialogue: 0,0:20:18.40,0:20:20.28,Spell,Rin,0,0,0,,Neun, Acht, Sieben!
+Dialogue: 0,0:20:18.40,0:20:20.28,Spell,Rin,0,0,0,,Nove, oito, sete!
+Dialogue: 0,0:20:20.36,0:20:22.99,Spell,Rin,0,0,0,,Stil, Schießt Beschießen Erschießung!
+Dialogue: 0,0:20:20.36,0:20:22.99,Spell,Rin,0,0,0,,Dispare! Dispare contra ele! Fulmine-o até a morte!
+Dialogue: 0,0:20:37.38,0:20:39.46,Default,Rin,0,0,0,,Eu sabia que isso funcionaria!
+Dialogue: 0,0:20:39.46,0:20:40.26,Default,Rin,0,0,0,,Peguei você!
+Dialogue: 0,0:20:48.22,0:20:49.89,Default,Shirou,0,0,0,,N-Nós conseguimos vencer?!
+Dialogue: 0,0:20:57.02,0:20:57.73,Default,Rin,0,0,0,,Não pode ser...
+Dialogue: 0,0:20:59.32,0:21:00.36,Default,Rin,0,0,0,,Isto é impossível...
+Dialogue: 0,0:21:00.82,0:21:03.40,Default,Rin,0,0,0,,Tenho certeza absoluta de que estraçalhei a cabeça dele em pedaços...
+Dialogue: 0,0:21:05.53,0:21:07.33,Default,Illya,0,0,0,,Estou impressionada, Rin.
+Dialogue: 0,0:21:07.62,0:21:11.25,Default,Illya,0,0,0,,Pensar que você foi capaz de arrancar uma vida do Berserker...
+Dialogue: 0,0:21:11.70,0:21:13.25,Default,Illya,0,0,0,,Mas sinto muito em lhe dizer,
+Dialogue: 0,0:21:13.41,0:21:17.59,Default,Illya,0,0,0,,o corpo dele não morre a não ser que você o mate doze vezes consecutivas.
+Dialogue: 0,0:21:17.79,0:21:19.38,Default,Rin,0,0,0,,Doze vezes?!
+Dialogue: 0,0:21:20.42,0:21:22.34,Default,Illya,0,0,0,,Você também sabe muito bem disso, não é?
+Dialogue: 0,0:21:22.76,0:21:26.59,Default,Illya,0,0,0,,O herói da mitologia grega, Héracles, expiou seus pecados passados...
+Dialogue: 0,0:21:26.59,0:21:28.22,Default,Illya,0,0,0,,...ao superar com êxito os Doze Trabalhos.
+Dialogue: 0,0:21:28.22,0:21:30.26,Default,Illya,0,0,0,,Como recompensa divina por seus feitos, ele se tornou um ser imortal.
+Dialogue: 0,0:21:30.64,0:21:32.27,Default,Rin,0,0,0,,Uma reserva de vidas...
+Dialogue: 0,0:21:32.27,0:21:34.89,Default,Rin,0,0,0,,Como um feitiço de ressurreição contínua...
+Dialogue: 0,0:21:35.14,0:21:38.06,Default,Illya,0,0,0,,Exatamente. Ele não tombará tão facilmente.
+Dialogue: 0,0:21:38.31,0:21:43.07,Default,Illya,0,0,0,,É uma maldição de imortalidade que lhe concede uma vida para cada morte que superou em sua lenda.
+Dialogue: 0,0:21:43.57,0:21:47.99,Default,Illya,0,0,0,,Esse é o Fantasma Nobre do meu Berserker — a God Hand.
+Dialogue: 0,0:21:49.49,0:21:52.41,Default,Illya,0,0,0,,O Berserker de fato morreu com o seu ataque de agora,
+Dialogue: 0,0:21:52.41,0:21:54.41,Default,Illya,0,0,0,,mas ele ainda tem outras sete vidas restantes.
+Dialogue: 0,0:21:54.62,0:21:59.75,Default,Rin,0,0,0,,N-Não é possível... Temos que matar essa aberração mais sete vezes?!
+Dialogue: 0,0:21:59.96,0:22:00.96,Default,Saber,0,0,0,,Rin, fuja imediatamente!
+Dialogue: 0,0:22:01.17,0:22:01.96,Default,Shirou,0,0,0,,Tohsaka!
+Dialogue: 0,0:22:01.96,0:22:03.17,Default,Illya,0,0,0,,Berserker!
+Dialogue: 0,0:22:03.17,0:22:04.67,Default,Illya,0,0,0,,Esmague-a de uma vez!
+Dialogue: 0,0:22:12.39,0:22:17.82,Song,,0,0,0,,No mais profundo da floresta,
+Dialogue: 0,0:22:18.73,0:22:24.07,Song,,0,0,0,,enquanto busco o tênue perfume...
+Dialogue: 0,0:22:25.07,0:22:30.87,Song,,0,0,0,,...dos vestígios dos dias que me eram tão caros,
+Dialogue: 0,0:22:31.20,0:22:36.83,Song,,0,0,0,,de repente ouço o som do seu riso.
+Dialogue: 0,0:22:37.25,0:22:43.34,Song,,0,0,0,,Desejando tocá-lo, estendi minhas mãos,
+Dialogue: 0,0:22:43.34,0:22:49.60,Song,,0,0,0,,mas a sua imagem desvaneceu no ar efêmera.
+Dialogue: 0,0:22:49.76,0:22:54.73,Song,,0,0,0,,Senti tanto a sua falta por todo esse tempo,
+Dialogue: 0,0:22:54.81,0:22:59.69,Song,,0,0,0,,ansiei tanto por você...
+Dialogue: 0,0:23:00.02,0:23:04.36,Song,,0,0,0,,Vagando através de noites insones,
+Dialogue: 0,0:23:04.36,0:23:11.04,Song,,0,0,0,,...estou chorando, envolto pela luz
+Dialogue: 0,0:23:13.58,0:23:19.75,Song,,0,0,0,,e pela sombra que você deixou para trás,
+Dialogue: 0,0:23:23.13,0:23:31.56,Song,,0,0,0,,...aqui, no mais profundo da escura floresta.
+Dialogue: 0,0:23:41.04,0:23:46.19,Signs,,0,0,0,,Prévia
+Dialogue: 0,0:24:03.71,0:24:07.84,Default,Kirei,0,0,0,,No próximo episódio: "A Espada da Vitória Prometida".
+Dialogue: 0,0:24:06.02,0:24:11.07,Signs,,0,0,0,,Próximo Episódio
+Dialogue: 0,0:24:06.27,0:24:11.07,Signs,,0,0,0,,A Espada da Vitória Prometida

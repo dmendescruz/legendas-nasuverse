@@ -1,0 +1,279 @@
+[Script Info]
+; Script generated for Fate/stay night (2006) - Rota da Saber
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/stay night - S01E24 - The All Too Distant Utopia (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+Style: Spell,ZapfChancery-Medium,75,&H00EDEDFD,&H0000FFFF,&H000A0A87,&H78000000,-1,0,0,0,100,100,0,0,1,2.4,0.15,2,0,0,30,0
+Style: NP,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H004F41FD,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2.0,2,160,160,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:04.06,Signs,,0,0,0,,Obra Original
+Dialogue: 0,0:00:00.10,0:00:04.06,Signs,,0,0,0,,Kinoko Nasu / TYPE-MOON
+Dialogue: 0,0:00:04.10,0:00:07.57,Signs,,0,0,0,,Produção da Animação
+Dialogue: 0,0:00:04.10,0:00:07.57,Signs,,0,0,0,,Studio DEEN
+Dialogue: 0,0:00:07.61,0:00:12.57,Signs,,0,0,0,,Produção
+Dialogue: 0,0:00:13.49,0:00:40.19,Signs,,0,0,0,,Morra
+Dialogue: 0,0:00:42.27,0:00:43.56,Default,Shirou,0,0,0,,Estas coisas...
+Dialogue: 0,0:00:47.90,0:00:51.86,Default,Shirou,0,0,0,,Foi com isso que o meu pai sofreu por todos aqueles anos?
+Dialogue: 0,0:00:55.03,0:00:58.78,Default,Kiritsugu,0,0,0,,Quando eu era criança, eu admirava os heróis da justiça.
+Dialogue: 0,0:00:59.58,0:01:05.00,Default,Shirou,0,0,0,,Deixe comigo. Eu realizarei o seu sonho, velhote.
+Dialogue: 0,0:01:05.00,0:01:05.54,Default,Kiritsugu,0,0,0,,Certo.
+Dialogue: 0,0:01:06.63,0:01:07.84,Default,Kiritsugu,0,0,0,,Agora posso descansar em paz.
+Dialogue: 0,0:01:12.84,0:01:13.88,Default,Shirou,0,0,0,,É isso mesmo!
+Dialogue: 0,0:01:13.88,0:01:15.63,Default,Shirou,0,0,0,,Se Emiya Shirou for realmente...
+Dialogue: 0,0:01:15.63,0:01:17.22,Default,Shirou,0,0,0,,...o filho de Emiya Kiritsugu...
+Dialogue: 0,0:01:17.22,0:01:19.39,Default,Shirou,0,0,0,,...o filho daquele herói da justiça...
+Dialogue: 0,0:01:19.39,0:01:22.73,Default,Rin,0,0,0,,Shirou... se você vai fazer isso,\Nvença, mesmo que lhe custe a vida...
+Dialogue: 0,0:01:23.81,0:01:25.39,Default,Shirou,0,0,0,,Custe o que custar...
+Dialogue: 0,0:01:27.94,0:01:30.48,Default,Saber,0,0,0,,O Kotomine é um inimigo que você mesmo deve derrotar.
+Dialogue: 0,0:01:31.44,0:01:34.24,Default,Shirou,0,0,0,,...eu não posso perder para aquele homem!
+Dialogue: 0,0:01:34.82,0:01:36.16,Default,Kirei,0,0,0,,Portanto, lute colocando a sua própria vida em jogo.
+Dialogue: 0,0:01:36.99,0:01:40.24,Default,Kirei,0,0,0,,Talvez assim consiga desferir um único golpe no meu corpo.
+Dialogue: 0,0:02:19.57,0:02:27.04,Signs,,0,0,0,,Episódio Final
+Dialogue: 0,0:02:19.57,0:02:27.04,Signs,,0,0,0,,A Utopia Tão Distante
+Dialogue: 0,0:02:20.53,0:02:25.41,Default,Kirei,0,0,0,,Episódio final: "A Utopia Tão Distante".
+Dialogue: 0,0:02:36.51,0:02:37.26,Default,Kirei,0,0,0,,Impossível...
+Dialogue: 0,0:02:38.01,0:02:40.18,Default,Kirei,0,0,0,,Você repeliu aquilo?
+Dialogue: 0,0:02:41.05,0:02:41.68,Default,Kirei,0,0,0,,Logo você?
+Dialogue: 0,0:02:44.85,0:02:46.35,Default,Kirei,0,0,0,,Que decepção.
+Dialogue: 0,0:02:46.98,0:02:50.94,Default,Kirei,0,0,0,,Acabou de escapar dali, e mesmo assim já está agindo com tamanha imprudência.
+Dialogue: 0,0:02:51.65,0:02:54.15,Default,Kirei,0,0,0,,Por acaso já esgotou todas as suas estratégias?
+Dialogue: 0,0:02:54.36,0:02:55.40,Default,Shirou,0,0,0,,Cale a boca!
+Dialogue: 0,0:02:55.40,0:02:58.07,Default,Shirou,0,0,0,,Eu nunca tive estratégia nenhuma... desde o começo!
+Dialogue: 0,0:03:09.75,0:03:11.46,NP,,0,0,0,,A Estrela da Criação que Dividiu o Céu e a Terra
+Dialogue: 0,0:03:09.75,0:03:11.46,Default,Gil,0,0,0,,Enuma Elish!
+Dialogue: 0,0:03:14.09,0:03:15.09,NP,Saber,0,0,0,,Espada da...
+Dialogue: 0,0:03:14.09,0:03:15.09,NP,manual excalibur,0,0,0,,✦
+Dialogue: 0,0:03:14.09,0:03:15.09,Default,Saber,0,0,0,,Ex...
+Dialogue: 0,0:03:16.43,0:03:17.51,NP,Saber,0,0,0,,...Vitória Prometida
+Dialogue: 0,0:03:16.43,0:03:17.51,NP,manual excalibur,0,0,0,,✦
+Dialogue: 0,0:03:16.43,0:03:17.51,Default,Saber,0,0,0,,...calibur!
+Dialogue: 0,0:04:02.55,0:04:03.84,Default,Shirou,0,0,0,,Se este é...
+Dialogue: 0,0:04:03.84,0:04:06.01,Default,Shirou,0,0,0,,...o meu dever...
+Dialogue: 0,0:04:06.01,0:04:08.68,Default,Shirou,0,0,0,,...então ainda há algo que eu posso fazer...
+Dialogue: 0,0:04:42.47,0:04:43.81,NP,,0,0,0,,A Estrela da Criação que Dividiu o Céu e a Terra
+Dialogue: 0,0:04:42.47,0:04:43.81,Default,Gil,0,0,0,,Enuma Elish!
+Dialogue: 0,0:04:48.97,0:04:50.47,Default,Saber,0,0,0,,Você era a minha...
+Dialogue: 0,0:04:54.90,0:04:56.48,Default,Shirou,0,0,0,,Trace... on!
+Dialogue: 0,0:05:07.37,0:05:10.41,Default,Saber,0,0,0,,Você era a minha bainha, não era?
+Dialogue: 0,0:05:17.58,0:05:22.63,Default,Shirou,0,0,0,,A utopia com que ela sonhou...
+Dialogue: 0,0:05:25.18,0:05:26.26,Default,both,0,0,0,,O seu nome...
+Dialogue: 0,0:05:28.31,0:05:29.68,NP,Saber,0,0,0,,A Utopia Sempre Distante
+Dialogue: 0,0:05:28.31,0:05:29.68,Default,both,0,0,0,,...é Avalon!
+Dialogue: 0,0:06:06.68,0:06:09.51,Default,Kirei,0,0,0,,M-Magia de Projeção?!
+Dialogue: 0,0:06:54.60,0:06:55.97,Default,Gil,0,0,0,,Maldita seja!
+Dialogue: 0,0:06:55.97,0:06:58.23,Default,Gil,0,0,0,,Um truque barato como esse!
+Dialogue: 0,0:06:59.98,0:07:00.98,NP,Saber,0,0,0,,Espada da...
+Dialogue: 0,0:06:59.98,0:07:00.98,NP,manual excalibur,0,0,0,,✦
+Dialogue: 0,0:06:59.98,0:07:00.98,Default,Saber,0,0,0,,Ex...
+Dialogue: 0,0:07:01.15,0:07:02.49,NP,,0,0,0,,A Estrela da Criação que Dividiu o Céu e a Terra
+Dialogue: 0,0:07:01.15,0:07:02.49,Default,Gil,0,0,0,,Enuma Elish—
+Dialogue: 0,0:07:02.49,0:07:05.15,NP,Saber,0,0,0,,...Vitória Prometida
+Dialogue: 0,0:07:02.49,0:07:05.15,NP,manual excalibur,0,0,0,,✦
+Dialogue: 0,0:07:02.49,0:07:05.15,Default,Saber,0,0,0,,...calibur!
+Dialogue: 0,0:07:18.37,0:07:19.58,Default,Shirou,0,0,0,,Kotomine...
+Dialogue: 0,0:07:19.79,0:07:21.79,Default,Shirou,0,0,0,,...Kirei!
+Dialogue: 0,0:07:29.88,0:07:31.34,Default,Shirou,0,0,0,,Liberar!
+Dialogue: 0,0:07:29.88,0:07:31.34,Default,Shirou,0,0,0,,Läßt!
+Dialogue: 0,0:07:37.22,0:07:38.14,Default,Gil,0,0,0,,Avalon...
+Dialogue: 0,0:07:40.02,0:07:44.61,Default,Gil,0,0,0,,A utopia onde dizem que o rei adentrou após a sua morte...
+Dialogue: 0,0:07:45.61,0:07:48.82,Default,Gil,0,0,0,,Algo capaz de repelir até mesmo as cinco Verdadeiras Magias...
+Dialogue: 0,0:07:48.82,0:07:52.74,Default,Gil,0,0,0,,A proteção absoluta que nada é capaz de transpassar...
+Dialogue: 0,0:07:53.95,0:07:58.58,Default,Gil,0,0,0,,Esse é... o seu verdadeiro Fantasma Nobre...
+Dialogue: 0,0:07:58.58,0:08:02.00,Default,Gil,0,0,0,,Esse é o poder lendário da espada sagrada, hein?
+Dialogue: 0,0:08:12.59,0:08:15.68,Default,Gil,0,0,0,,Que mulher abominável você é...
+Dialogue: 0,0:08:16.01,0:08:20.68,Default,Gil,0,0,0,,Desafiando-me... até o último instante, não é?
+Dialogue: 0,0:08:21.52,0:08:23.19,Default,Gil,0,0,0,,Mas eu lhe concedo isso.
+Dialogue: 0,0:08:23.81,0:08:27.15,Default,Gil,0,0,0,,Certas coisas são belas justamente porque não podemos possuí-las.
+Dialogue: 0,0:08:27.94,0:08:30.69,Default,Gil,0,0,0,,Adeus, então, Rei dos Cavaleiros.
+Dialogue: 0,0:08:32.03,0:08:37.08,Default,Gil,0,0,0,,Sabe... até que foi bastante divertido...
+Dialogue: 0,0:08:42.12,0:08:43.29,Default,Kirei,0,0,0,,Por que...
+Dialogue: 0,0:08:44.50,0:08:48.71,Default,Kirei,0,0,0,,Como é possível você possuir esta adaga?
+Dialogue: 0,0:08:48.84,0:08:50.71,Default,Shirou,0,0,0,,Ela não é minha.
+Dialogue: 0,0:08:51.09,0:08:53.01,Default,Shirou,0,0,0,,Foi-me dada pela Tohsaka.
+Dialogue: 0,0:08:53.47,0:08:55.22,Default,Kirei,0,0,0,,Compreendo...
+Dialogue: 0,0:08:55.68,0:08:58.72,Default,Kirei,0,0,0,,Há muito tempo... por mero capricho...
+Dialogue: 0,0:08:59.81,0:09:02.73,Default,Kirei,0,0,0,,eu a dei para uma certa garota...
+Dialogue: 0,0:09:04.48,0:09:07.81,Default,Kirei,0,0,0,,Isso foi... há cerca de dez anos...
+Dialogue: 0,0:09:08.61,0:09:10.36,Default,Kirei,0,0,0,,Entendo...
+Dialogue: 0,0:09:10.36,0:09:12.99,Default,Kirei,0,0,0,,Não é de admirar que eu tenha me enfraquecido...
+Dialogue: 0,0:09:39.43,0:09:41.18,Default,Shirou,0,0,0,,Trace on.
+Dialogue: 0,0:10:02.20,0:10:04.20,Default,Saber,0,0,0,,Eu destruirei o Santo Graal.
+Dialogue: 0,0:10:14.97,0:10:17.18,Default,Saber,0,0,0,,Mestre, a sua ordem, por favor.
+Dialogue: 0,0:10:18.59,0:10:22.64,Default,Saber,0,0,0,,Sem as suas ordens, eu não posso destruí-lo.
+Dialogue: 0,0:10:23.64,0:10:25.93,Default,Saber,0,0,0,,Por favor, use o seu último Feitiço de Comando.
+Dialogue: 0,0:10:31.86,0:10:33.32,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:10:35.86,0:10:38.82,Default,Saber,0,0,0,,Eu desejo ouvir... dos seus próprios lábios.
+Dialogue: 0,0:10:49.58,0:10:54.01,Default,Shirou,0,0,0,,Eu... amo a Saber...
+Dialogue: 0,0:10:49.60,0:10:54.04,Signs,Unknown,0,0,0,,Eu amo a Saber...
+Dialogue: 0,0:11:00.97,0:11:04.77,Default,Shirou,0,0,0,,Quero fazê-la mais feliz do que qualquer outra pessoa.
+Dialogue: 0,0:11:01.05,0:11:04.78,Signs,Unknown,0,0,0,,Quero fazê-la mais feliz do que qualquer outra pessoa.
+Dialogue: 0,0:11:05.05,0:11:08.11,Signs,Unknown,0,0,0,,Quero continuar ao lado dela.
+Dialogue: 0,0:11:05.18,0:11:08.14,Default,Shirou,0,0,0,,Eu desejei que pudéssemos ficar juntos para sempre...
+Dialogue: 0,0:11:08.27,0:11:10.27,Default,Shirou,0,0,0,,Contudo...
+Dialogue: 0,0:11:08.32,0:11:10.19,Signs,Unknown,0,0,0,,Mas...
+Dialogue: 0,0:11:14.53,0:11:19.93,Signs,Unknown,0,0,0,,Se eu realmente a amo, isso seria um erro.
+Dialogue: 0,0:11:14.57,0:11:20.03,Default,Shirou,0,0,0,,Se eu realmente a amo, isso seria um erro.
+Dialogue: 0,0:11:22.97,0:11:29.24,Signs,Unknown,0,0,0,,Foi pela Saber que continuava lutando
+Dialogue: 0,0:11:22.99,0:11:29.41,Default,Shirou,0,0,0,,Foi pela Saber que continuava lutando, mesmo ferida, que eu me apaixonei.
+Dialogue: 0,0:11:24.57,0:11:29.24,Signs,Unknown,0,0,0,,mesmo quando ferida
+Dialogue: 0,0:11:26.00,0:11:29.24,Signs,Unknown,0,0,0,,que eu me apaixonei.
+Dialogue: 0,0:11:34.68,0:11:41.68,Signs,Unknown,0,0,0,,O orgulho dela é a única coisa que não posso ferir.
+Dialogue: 0,0:11:34.71,0:11:38.80,Default,Shirou,0,0,0,,Eu não posso me permitir...
+Dialogue: 0,0:11:38.97,0:11:41.93,Default,Shirou,0,0,0,,...manchar o orgulho dela...
+Dialogue: 0,0:11:44.26,0:11:45.22,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:11:49.06,0:11:51.06,Default,Shirou,0,0,0,,Cumpra com o seu dever.
+Dialogue: 0,0:13:11.85,0:13:14.10,Default,Saber,0,0,0,,Com isso, tudo terminou, não é?
+Dialogue: 0,0:13:14.10,0:13:14.89,Default,Shirou,0,0,0,,Sim.
+Dialogue: 0,0:13:15.77,0:13:16.90,Default,Shirou,0,0,0,,Este é o fim.
+Dialogue: 0,0:13:18.48,0:13:23.11,Default,Saber,0,0,0,,Como a sua espada, derrotei todos os seus inimigos e protegi a sua vida.
+Dialogue: 0,0:13:23.95,0:13:26.61,Default,Saber,0,0,0,,Fico feliz por ter sido capaz de cumprir com este juramento.
+Dialogue: 0,0:13:27.82,0:13:29.28,Default,Shirou,0,0,0,,Sim,
+Dialogue: 0,0:13:29.28,0:13:30.62,Default,Shirou,0,0,0,,você se saiu muito bem.
+Dialogue: 0,0:13:33.04,0:13:36.42,Default,Saber,0,0,0,,Eu preciso lhe dizer uma coisa antes de partir...
+Dialogue: 0,0:13:48.26,0:13:49.72,Default,Saber,0,0,0,,Shirou...
+Dialogue: 0,0:13:49.72,0:13:53.10,Default,Saber,0,0,0,,Eu... te amo...
+Dialogue: 0,0:14:18.50,0:14:19.67,Default,Shirou,0,0,0,,Sim...
+Dialogue: 0,0:14:20.75,0:14:22.75,Default,Shirou,0,0,0,,É bem a sua cara.
+Dialogue: 0,0:14:32.76,0:14:33.93,Default,Sakura,0,0,0,,Senpai...
+Dialogue: 0,0:14:33.93,0:14:34.81,Default,Sakura,0,0,0,,Senpai!
+Dialogue: 0,0:14:35.77,0:14:37.35,Default,Sakura,0,0,0,,Bom dia.
+Dialogue: 0,0:14:38.85,0:14:40.40,Default,Shirou,0,0,0,,Bom dia, Sakura.
+Dialogue: 0,0:14:40.40,0:14:43.36,Default,Sakura,0,0,0,,O café da manhã está pronto, Senpai.
+Dialogue: 0,0:14:43.82,0:14:46.57,Default,Shirou,0,0,0,,Você não tem um torneio de arco e flecha hoje?
+Dialogue: 0,0:14:46.57,0:14:49.36,Default,Shirou,0,0,0,,Eu queria ao menos preparar o café para você.
+Dialogue: 0,0:14:49.36,0:14:51.91,Default,Sakura,0,0,0,,Se eu não seguir a mesma rotina matinal de sempre,
+Dialogue: 0,0:14:51.91,0:14:53.49,Default,Sakura,0,0,0,,não vou conseguir ter o mesmo desempenho.
+Dialogue: 0,0:14:53.49,0:14:55.16,Default,Shirou,0,0,0,,Entendo, desculpe pelo trabalho.
+Dialogue: 0,0:14:58.67,0:15:00.54,Default,Illya,0,0,0,,Taiga! Para essa coisa!
+Dialogue: 0,0:15:00.54,0:15:01.67,Default,Taiga,0,0,0,,Freios, freios!
+Dialogue: 0,0:15:05.09,0:15:06.71,Default,Taiga,0,0,0,,Saia da frenteee!
+Dialogue: 0,0:15:13.39,0:15:16.56,Default,Taiga,0,0,0,,Nossa, como você ficou forte, Shirou!
+Dialogue: 0,0:15:16.56,0:15:18.64,Default,Taiga,0,0,0,,Conseguir parar uma bicicleta desse jeito...
+Dialogue: 0,0:15:18.64,0:15:19.89,Default,Shirou,0,0,0,,Ora, obrigado.
+Dialogue: 0,0:15:19.89,0:15:21.86,Default,Illya,0,0,0,,Shirou, é só você me dar a ordem,
+Dialogue: 0,0:15:21.86,0:15:24.19,Default,Illya,0,0,0,,e eu corto a cabeça da Taiga enquanto ela dorme.
+Dialogue: 0,0:15:24.19,0:15:25.32,Default,Taiga,0,0,0,,O QUÊ VOCÊ DISSE?!
+Dialogue: 0,0:15:25.32,0:15:27.78,Default,Taiga,0,0,0,,Nós estamos sendo muito legais deixando você morar aqui de graça, sabia?!
+Dialogue: 0,0:15:27.78,0:15:30.70,Default,Taiga,0,0,0,,Eu devia te jogar fora no dia da coleta de lixo!
+Dialogue: 0,0:15:29.20,0:15:31.16,Default-Top,Illya,0,0,0,,O Raiga nunca me abandonaria!
+Dialogue: 0,0:15:31.16,0:15:33.53,Default,Illya,0,0,0,,Ele disse que gosta mais de mim do que de você!
+Dialogue: 0,0:15:32.24,0:15:33.37,Default-Top,Sakura,0,0,0,,Desculpem fazê-los esperar.
+Dialogue: 0,0:15:33.53,0:15:34.87,Default,Taiga,0,0,0,,Sua criaturinha endemoniada!
+Dialogue: 0,0:15:34.45,0:15:36.08,Default-Top,Illya,0,0,0,,O que você disse?!
+Dialogue: 0,0:15:36.24,0:15:37.75,Default,Taiga,0,0,0,,Muito bem!
+Dialogue: 0,0:15:37.75,0:15:40.00,Default,Taiga,0,0,0,,Tofu frito no café da manhã!
+Dialogue: 0,0:15:40.00,0:15:41.75,Default,Illya,0,0,0,,Illya, tenha um pouco de compostura.
+Dialogue: 0,0:15:42.38,0:15:44.63,Default,Taiga,0,0,0,,Eu vou mesmo te jogar no lixo!
+Dialogue: 0,0:15:45.55,0:15:47.76,Default,Sakura,0,0,0,,Ela disse que estava uma delícia.
+Dialogue: 0,0:15:56.22,0:15:57.93,Default,guy,0,0,0,,Eu amo!!!
+Dialogue: 0,0:15:57.93,0:16:01.19,Default,guy,0,0,0,,Eu amo muito vocêêê!
+Dialogue: 0,0:16:01.60,0:16:02.77,Default,trio1,0,0,0,,O que deu nele tão de repente?
+Dialogue: 0,0:16:02.77,0:16:05.52,Default,trio2,0,0,0,,Ele assistiu demais àquele dorama na noite passada.
+Dialogue: 0,0:16:21.62,0:16:24.83,Default,Shirou,0,0,0,,Ouvi dizer que um novo padre chegou à Igreja Kotomine.
+Dialogue: 0,0:16:24.83,0:16:26.00,Default,Rin,0,0,0,,Sim.
+Dialogue: 0,0:16:26.34,0:16:28.76,Default,Rin,0,0,0,,E a reconstrução do Templo Ryuudou está indo bem,
+Dialogue: 0,0:16:28.76,0:16:31.05,Default,Rin,0,0,0,,então acho que tudo voltou ao normal, né?
+Dialogue: 0,0:16:36.18,0:16:38.77,Default,Rin,0,0,0,,Achei que você ficaria mais abatido.
+Dialogue: 0,0:16:40.60,0:16:43.39,Default,Shirou,0,0,0,,Se eu ficasse, você iria me consolar?
+Dialogue: 0,0:16:43.39,0:16:44.48,Default,Rin,0,0,0,,Até parece!
+Dialogue: 0,0:16:44.48,0:16:46.90,Default,Rin,0,0,0,,Eu te daria um chute bem dado para você cair na real em um único dia!
+Dialogue: 0,0:16:48.32,0:16:50.32,Default,Rin,0,0,0,,Q-O quê?
+Dialogue: 0,0:16:51.40,0:16:53.57,Default,Shirou,0,0,0,,Provavelmente não guardo nenhum arrependimento.
+Dialogue: 0,0:16:55.99,0:16:58.87,Default,Rin,0,0,0,,Então você já resolveu isso dentro de você, hein?
+Dialogue: 0,0:16:58.87,0:16:59.66,Default,Shirou,0,0,0,,Sim.
+Dialogue: 0,0:17:01.70,0:17:03.83,Default,Shirou,0,0,0,,Algum dia, as minhas memórias se desvanecerão,
+Dialogue: 0,0:17:03.83,0:17:05.50,Default,Shirou,0,0,0,,e a voz dela...
+Dialogue: 0,0:17:05.50,0:17:07.25,Default,Shirou,0,0,0,,os gestos dela...
+Dialogue: 0,0:17:07.25,0:17:09.80,Default,Shirou,0,0,0,,talvez eu me esqueça deles também...
+Dialogue: 0,0:17:09.80,0:17:11.34,Default,Shirou,0,0,0,,Mas, mesmo assim...
+Dialogue: 0,0:17:12.17,0:17:16.14,Default,Shirou,0,0,0,,eu sempre me lembrarei de que amei a Saber.
+Dialogue: 0,0:17:20.97,0:17:21.77,Default,Rin,0,0,0,,Shirou?!
+Dialogue: 0,0:17:22.39,0:17:24.10,Default,Shirou,0,0,0,,Vá na frente sem mim!
+Dialogue: 0,0:17:41.79,0:17:42.95,Default,Bedivere,0,0,0,,Rei Arthur...
+Dialogue: 0,0:17:43.58,0:17:45.79,Default,Bedivere,0,0,0,,Chamarei por reforços imediatamente.
+Dialogue: 0,0:17:45.79,0:17:47.54,Default,Bedivere,0,0,0,,Por favor, permaneça aqui.
+Dialogue: 0,0:17:47.54,0:17:48.75,Default,Saber,0,0,0,,Bedivere...
+Dialogue: 0,0:17:49.34,0:17:51.34,Default,Bedivere,0,0,0,,Vossa Majestade recuperou a consciência?
+Dialogue: 0,0:17:52.09,0:17:53.01,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:17:53.46,0:17:55.97,Default,Saber,0,0,0,,Sim, eu tive um breve sonho...
+Dialogue: 0,0:17:56.55,0:17:58.14,Default,Bedivere,0,0,0,,Um sonho?
+Dialogue: 0,0:17:58.14,0:17:58.89,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:17:59.43,0:18:01.35,Default,Saber,0,0,0,,Não costumo sonhar com frequência...
+Dialogue: 0,0:18:02.18,0:18:04.85,Default,Saber,0,0,0,,Foi uma experiência inestimável...
+Dialogue: 0,0:18:04.85,0:18:08.35,Default,Bedivere,0,0,0,,Então... por favor, descanse sem qualquer preocupação.
+Dialogue: 0,0:18:10.19,0:18:12.28,Default,Bedivere,0,0,0,,Se fechar os olhos novamente,
+Dialogue: 0,0:18:12.28,0:18:15.24,Default,Bedivere,0,0,0,,certamente continuará a sonhar de onde parou.
+Dialogue: 0,0:18:15.24,0:18:16.90,Default,Saber,0,0,0,,Continuar o sonho...
+Dialogue: 0,0:18:18.28,0:18:20.66,Default,Saber,0,0,0,,É possível ter o mesmo sonho outra vez?
+Dialogue: 0,0:18:24.62,0:18:25.54,Default,Bedivere,0,0,0,,Sim.
+Dialogue: 0,0:18:25.54,0:18:27.96,Default,Bedivere,0,0,0,,Eu mesmo já passei por isso antes.
+Dialogue: 0,0:18:28.75,0:18:30.46,Default,Bedivere,0,0,0,,Basta desejar com fervor em seu coração...
+Dialogue: 0,0:18:30.46,0:18:31.42,Default,Saber,0,0,0,,Compreendo...
+Dialogue: 0,0:18:32.17,0:18:34.42,Default,Saber,0,0,0,,Você é muito sábio...
+Dialogue: 0,0:18:39.76,0:18:41.18,Default,Saber,0,0,0,,Bedivere...
+Dialogue: 0,0:18:42.89,0:18:44.47,Default,Saber,0,0,0,,Pegue a minha espada...
+Dialogue: 0,0:18:49.02,0:18:50.61,Default,Saber,0,0,0,,Ouça com atenção...
+Dialogue: 0,0:18:50.61,0:18:52.77,Default,Saber,0,0,0,,Atravesse esta floresta...
+Dialogue: 0,0:18:52.77,0:18:55.40,Default,Saber,0,0,0,,...e suba aquela colina manchada de sangue...
+Dialogue: 0,0:18:56.07,0:18:59.78,Default,Saber,0,0,0,,No lago profundo que se encontra além dela,
+Dialogue: 0,0:18:59.78,0:19:02.16,Default,Saber,0,0,0,,atire a minha espada.
+Dialogue: 0,0:19:11.13,0:19:13.92,Default,Saber,0,0,0,,Você precisa ir... Bedivere...
+Dialogue: 0,0:20:00.76,0:20:03.26,Default,Shirou,0,0,0,,Parecia tão próximo de mim,
+Dialogue: 0,0:20:03.26,0:20:05.97,Default,Shirou,0,0,0,,mas não consigo alcançá-la, por mais que estenda as minhas mãos.
+Dialogue: 0,0:20:05.97,0:20:07.10,Default,Shirou,0,0,0,,Ainda assim...
+Dialogue: 0,0:20:07.68,0:20:09.18,Default,Shirou,0,0,0,,mesmo que eu não consiga alcançá-la...
+Dialogue: 0,0:20:09.18,0:20:11.27,Default,Shirou,0,0,0,,existem coisas que permanecerão para sempre em meu coração.
+Dialogue: 0,0:20:12.52,0:20:14.23,Default,Shirou,0,0,0,,Ter vivido na mesma época...
+Dialogue: 0,0:20:14.23,0:20:16.07,Default,Shirou,0,0,0,,...e contemplado o mesmíssimo céu...
+Dialogue: 0,0:20:16.86,0:20:19.15,Default,Shirou,0,0,0,,Se eu puder me lembrar disso,
+Dialogue: 0,0:20:19.15,0:20:20.86,Default,Shirou,0,0,0,,então, mesmo que estejamos distantes um do outro,
+Dialogue: 0,0:20:20.86,0:20:22.61,Default,Shirou,0,0,0,,acredito que sempre estaremos juntos.
+Dialogue: 0,0:20:23.66,0:20:25.41,Default,Shirou,0,0,0,,Vou seguir correndo em frente agora.
+Dialogue: 0,0:20:25.91,0:20:28.16,Default,Shirou,0,0,0,,Se eu colocar o meu objetivo distante o suficiente,
+Dialogue: 0,0:20:28.16,0:20:29.54,Default,Shirou,0,0,0,,então, algum dia...
+Dialogue: 0,0:20:29.54,0:20:32.29,Default,Shirou,0,0,0,,...eu serei capaz de alcançar aquilo que tanto busquei.
+Dialogue: 0,0:20:41.80,0:20:42.84,Default,Bedivere,0,0,0,,Meu rei...
+Dialogue: 0,0:20:42.84,0:20:46.30,Default,Bedivere,0,0,0,,Devolvi a sua espada à Dama do Lago.
+Dialogue: 0,0:20:47.35,0:20:48.47,Default,Saber,0,0,0,,Compreendo.
+Dialogue: 0,0:20:49.18,0:20:50.89,Default,Saber,0,0,0,,Tenha orgulho de si mesmo.
+Dialogue: 0,0:20:51.43,0:20:54.56,Default,Saber,0,0,0,,Você obedeceu às minhas ordens com perfeição.
+Dialogue: 0,0:21:01.57,0:21:03.24,Default,Saber,0,0,0,,Bedivere...
+Dialogue: 0,0:21:03.24,0:21:04.41,Default,Bedivere,0,0,0,,Meu rei.
+Dialogue: 0,0:21:06.28,0:21:08.08,Default,Saber,0,0,0,,O meu sono desta vez...
+Dialogue: 0,0:21:10.33,0:21:11.91,Default,Saber,0,0,0,,...talvez seja...
+Dialogue: 0,0:21:13.08,0:21:14.75,Default,Saber,0,0,0,,...um pouco longo...
+Dialogue: 0,0:21:31.60,0:21:34.77,Default,Bedivere,0,0,0,,Consegue vê-lo, Rei Arthur...?
+Dialogue: 0,0:21:41.44,0:21:43.90,Default,Bedivere,0,0,0,,...a continuação do seu sonho?
+Dialogue: 0,0:21:46.66,0:21:53.83,Song,,0,0,0,,Não foi por mero acaso que nos encontramos.
+Dialogue: 0,0:21:54.12,0:22:06.34,Song,,0,0,0,,Foi um destino traçado há muito tempo.
+Dialogue: 0,0:22:16.73,0:22:19.65,Song,,0,0,0,,A cada vez que fecho os meus olhos,
+Dialogue: 0,0:22:19.94,0:22:23.99,Song,,0,0,0,,...a cada vez que olho para o céu,
+Dialogue: 0,0:22:24.24,0:22:26.82,Song,,0,0,0,,...aqueles dias que pareciam um sonho...
+Dialogue: 0,0:22:26.82,0:22:32.79,Song,,0,0,0,,...ressurgem diante de mim.
+Dialogue: 0,0:22:32.95,0:22:40.08,Song,,0,0,0,,O caminho se distancia à medida que avanço,
+Dialogue: 0,0:22:40.38,0:22:47.09,Song,,0,0,0,,...mas continuarei caminhando como sempre fiz.
+Dialogue: 0,0:22:51.18,0:22:54.93,Song,,0,0,0,,Eu posso enxergar,
+Dialogue: 0,0:22:54.93,0:22:58.64,Song,,0,0,0,,...o meu futuro ao seu lado.
+Dialogue: 0,0:22:58.64,0:23:02.48,Song,,0,0,0,,Tenho certeza de que você também pode sentir.
+Dialogue: 0,0:23:02.48,0:23:05.74,Song,,0,0,0,,Você sempre pôde.
+Dialogue: 0,0:23:06.19,0:23:09.95,Song,,0,0,0,,Eu sempre irei protegê-la.
+Dialogue: 0,0:23:09.95,0:23:13.66,Song,,0,0,0,,Afinal, eu lhe dei a minha palavra.
+Dialogue: 0,0:23:13.66,0:23:20.50,Song,,0,0,0,,Quero estar perto de você quando estiver triste.
+Dialogue: 0,0:23:20.50,0:23:27.67,Song,,0,0,0,,Não foi por acaso que nos encontramos.
+Dialogue: 0,0:23:27.92,0:23:34.06,Song,,0,0,0,,Foi o destino com que sonhei...
+Dialogue: 0,0:23:35.22,0:23:40.69,Song,,0,0,0,,...desde tempos remotos.

@@ -1,0 +1,984 @@
+1
+00:00:03,770 --> 00:00:06,980
+Aquele que retirar esta espada desta rocha...
+
+2
+00:00:08,530 --> 00:00:12,240
+...se tornará o Rei da Grã-Bretanha.
+
+3
+00:00:13,280 --> 00:00:19,620
+Ó Artoria, reflete com prudência antes de empunhar esta espada.
+
+4
+00:00:20,540 --> 00:00:26,670
+Pois, uma vez que a desembainhares, jamais tornarás a ser humana.
+
+5
+00:00:27,210 --> 00:00:30,670
+A Saber escolheu proteger a sua vida acima de qualquer outra coisa.
+
+6
+00:00:31,260 --> 00:00:33,090
+Nunca se esqueça disso.
+
+7
+00:00:34,760 --> 00:00:37,760
+Você quer se tornar meu servo?
+
+8
+00:00:38,220 --> 00:00:40,060
+Se aceitar, permitirei que continue vivo.
+
+9
+00:00:41,100 --> 00:00:42,230
+O quê?!
+
+10
+00:00:53,820 --> 00:00:55,160
+O Castelo Einzbern...
+
+11
+00:00:56,660 --> 00:00:58,080
+É aqui onde ele está sendo mantido, certo?
+
+12
+00:01:01,290 --> 00:01:04,040
+Pelos céus, isso é uma loucura sem tamanho.
+
+13
+00:01:04,040 --> 00:01:05,580
+Não me diga que você já se esqueceu...
+
+14
+00:01:07,170 --> 00:01:08,590
+...de quem é o peão do nosso inimigo.
+
+15
+00:01:19,510 --> 00:01:22,060
+Não importa o que me aguarde lá dentro.
+
+16
+00:01:22,430 --> 00:01:24,100
+Para um Servo, seu Mestre é—
+
+17
+00:01:24,100 --> 00:01:25,270
+Espere.
+
+18
+00:01:25,600 --> 00:01:27,060
+Archer, desmaterialize-se.
+
+19
+00:01:27,650 --> 00:01:29,770
+Saber, oculte a sua presença mágica também.
+
+20
+00:01:54,590 --> 00:01:55,880
+Illyasviel...
+
+21
+00:02:06,480 --> 00:02:07,770
+Foi impressão minha, ou...
+
+22
+00:02:19,200 --> 00:02:19,910
+Shirou...
+
+23
+00:02:27,710 --> 00:02:32,550
+A sombra passageira que contemplei em sonhos...
+
+24
+00:02:33,970 --> 00:02:38,090
+O clamor que não pôde alcançar...
+
+25
+00:02:39,100 --> 00:02:44,350
+Não importa como eu me imagine amanhã,
+
+26
+00:02:45,350 --> 00:02:50,570
+serei envolvido por desejos que jamais desaparecerão.
+
+27
+00:02:53,990 --> 00:03:03,790
+Com a mão que agarra os fragmentos que caem
+
+28
+00:03:05,370 --> 00:03:18,890
+e o coração hesitante, salto em direção à noite...
+
+29
+00:03:19,260 --> 00:03:30,770
+Se for para viver por alguém, que este instante seja tudo,
+
+30
+00:03:30,770 --> 00:03:42,700
+dispa-se suavemente dessa máscara e seja apenas quem você é agora...
+
+31
+00:03:44,580 --> 00:03:50,540
+Episódio 14
+
+32
+00:03:44,700 --> 00:03:50,540
+O Fim do Ideal
+
+33
+00:03:56,920 --> 00:03:57,960
+Só mais um pouco...!
+
+34
+00:04:03,590 --> 00:04:05,550
+Preciso avisá-las sobre isso imediatamente!
+
+35
+00:04:12,350 --> 00:04:13,900
+Alguém patrulhando a uma hora dessas?!
+
+36
+00:04:21,030 --> 00:04:21,610
+Não se mova!
+
+37
+00:04:23,780 --> 00:04:24,530
+...Shirou...
+
+38
+00:04:24,530 --> 00:04:25,530
+Saber!
+
+39
+00:04:26,030 --> 00:04:27,580
+O que você está fazendo aqui?
+
+40
+00:04:27,580 --> 00:04:29,410
+Essa é a minha pergunta.
+
+41
+00:04:30,620 --> 00:04:32,330
+Você parece bem melhor do que eu imaginava.
+
+42
+00:04:32,710 --> 00:04:35,380
+Talvez nem precisássemos ter nos dado ao trabalho de vir.
+
+43
+00:04:35,880 --> 00:04:37,840
+Eu bem que avisei você, não avisei?
+
+44
+00:04:37,840 --> 00:04:39,760
+Deveríamos apenas tê-lo deixado por conta própria.
+
+45
+00:04:40,210 --> 00:04:42,260
+A Tohsaka e o Archer estão aqui também?
+
+46
+00:04:42,260 --> 00:04:42,880
+Por quê?
+
+47
+00:04:43,340 --> 00:04:45,140
+Eu supliquei pela ajuda deles.
+
+48
+00:04:45,800 --> 00:04:48,640
+Ao que tudo indica, Illyasviel sequestrou você.
+
+49
+00:04:49,010 --> 00:04:51,850
+Bem, nós somos aliados no fim das contas.
+
+50
+00:04:51,850 --> 00:04:54,650
+Venham, vamos dar o fora daqui antes que Illyasviel retorne.
+
+51
+00:05:13,790 --> 00:05:14,670
+Saber!
+
+52
+00:05:17,040 --> 00:05:18,090
+Eu estou bem.
+
+53
+00:05:18,090 --> 00:05:19,000
+Saber...
+
+54
+00:05:19,000 --> 00:05:20,420
+O seu corpo ainda continua...
+
+55
+00:05:20,670 --> 00:05:21,340
+Sim.
+
+56
+00:05:21,630 --> 00:05:23,260
+Que situação deplorável.
+
+57
+00:05:23,510 --> 00:05:26,130
+Mas eu ainda sou perfeitamente capaz de servir de escudo para você.
+
+58
+00:05:26,430 --> 00:05:28,260
+Pare de falar tolices!
+
+59
+00:05:28,510 --> 00:05:29,640
+Venha, deixe-me apoiar você.
+
+60
+00:05:30,100 --> 00:05:31,390
+Isso não será necessário.
+
+61
+00:05:31,390 --> 00:05:32,430
+Saber!
+
+62
+00:05:33,730 --> 00:05:34,940
+Desista de uma vez por todas.
+
+63
+00:05:34,940 --> 00:05:35,810
+O quê?!
+
+64
+00:05:36,480 --> 00:05:39,770
+Nem sequer sonhe em tentar salvar a Saber.
+
+65
+00:05:41,070 --> 00:05:43,650
+Não há absolutamente nada que você seja capaz de fazer.
+
+66
+00:05:43,940 --> 00:05:44,950
+Como é que é?!
+
+67
+00:05:59,750 --> 00:06:01,300
+Vamos embora, Shirou.
+
+68
+00:06:01,300 --> 00:06:02,000
+Certo.
+
+69
+00:06:14,890 --> 00:06:15,810
+Isto aqui é...
+
+70
+00:06:16,310 --> 00:06:17,520
+A nossa saída.
+
+71
+00:06:17,520 --> 00:06:19,190
+Parece que conseguimos escapar a tempo.
+
+72
+00:06:19,480 --> 00:06:22,610
+Saída? Mas esta é a entrada principal, não é?
+
+73
+00:06:23,150 --> 00:06:26,190
+Você quer chamar atenção de propósito ou é apenas ousada demais?
+
+74
+00:06:26,740 --> 00:06:28,530
+Ela nem sequer está aqui,
+
+75
+00:06:28,530 --> 00:06:30,990
+então é muito mais sensato tomarmos o caminho mais curto, não acha?
+
+76
+00:06:30,990 --> 00:06:32,200
+Vamos logo, andem.
+
+77
+00:06:43,090 --> 00:06:45,710
+Ora... Já vão voltar para casa tão cedo?
+
+78
+00:06:46,420 --> 00:06:48,720
+Depois de terem vindo de tão longe... que pena.
+
+79
+00:06:55,220 --> 00:06:57,230
+Illya...sviel...
+
+80
+00:06:58,560 --> 00:06:59,600
+Boa noite.
+
+81
+00:06:59,980 --> 00:07:03,230
+Fico tão contente por você ter decidido vir pessoalmente até mim, Rin.
+
+82
+00:07:06,650 --> 00:07:07,650
+O que foi?
+
+83
+00:07:07,990 --> 00:07:09,740
+Que chatice ficar em silêncio desse jeito.
+
+84
+00:07:09,740 --> 00:07:11,660
+Estou sendo generosa o bastante ao conceder um tempo a vocês,
+
+85
+00:07:12,320 --> 00:07:15,160
+então sugiro que aproveitem para pensar em suas últimas palavras.
+
+86
+00:07:15,160 --> 00:07:18,160
+É mesmo? Então me responda uma coisa.
+
+87
+00:07:18,500 --> 00:07:19,410
+Tohsaka...
+
+88
+00:07:19,960 --> 00:07:20,960
+Illyasviel,
+
+89
+00:07:21,250 --> 00:07:23,840
+eu não senti a sua aproximação em momento algum.
+
+90
+00:07:24,460 --> 00:07:27,420
+Diga-me uma coisa: você esteve escondida aqui o tempo todo?
+
+91
+00:07:27,710 --> 00:07:28,590
+Exatamente.
+
+92
+00:07:28,970 --> 00:07:31,220
+Eu não fui a lugar nenhum.
+
+93
+00:07:31,220 --> 00:07:34,930
+Estava apenas me divertindo observando vocês correndo de um lado para o outro feito tolos.
+
+94
+00:07:35,260 --> 00:07:38,310
+Então quem saiu por aquela porta era apenas uma cópia.
+
+95
+00:07:38,310 --> 00:07:39,180
+Sim.
+
+96
+00:07:39,180 --> 00:07:41,480
+Afirmo isso porque eu sou a senhora deste castelo.
+
+97
+00:07:41,480 --> 00:07:43,020
+Preciso preparar a devida recepção de boas-vindas...
+
+98
+00:07:43,480 --> 00:07:44,690
+...para os meus convidados!
+
+99
+00:08:03,380 --> 00:08:05,630
+Imagino que já não temos mais nenhum assunto para conversar, não é?
+
+100
+00:08:08,460 --> 00:08:09,550
+Nenhum, hum?
+
+101
+00:08:09,920 --> 00:08:11,720
+Nesse caso, que tal começarmos a brincadeira?
+
+102
+00:08:14,300 --> 00:08:17,140
+Eu juro por tudo... ninguém escapará com vida daqui hoje.
+
+103
+00:08:17,970 --> 00:08:19,980
+Shirou... fuja, por favor.
+
+104
+00:08:20,350 --> 00:08:21,310
+Eu cuidarei de—
+
+105
+00:08:22,350 --> 00:08:23,560
+Do que você está falando?!
+
+106
+00:08:23,560 --> 00:08:25,360
+Eu jamais faria uma coisa dessas!
+
+107
+00:08:25,360 --> 00:08:26,310
+Mas...
+
+108
+00:08:27,020 --> 00:08:28,530
+Archer, você está me ouvindo?
+
+109
+00:08:29,360 --> 00:08:32,320
+Atrase o Berserker sozinho, só por alguns instantes.
+
+110
+00:08:32,900 --> 00:08:33,740
+Tohsaka?!
+
+111
+00:08:33,950 --> 00:08:35,870
+Isso é loucura! Você está falando sério, Rin?!
+
+112
+00:08:36,410 --> 00:08:38,620
+Fazer o Archer enfrentar o Berserker inteiramente sozinho?!
+
+113
+00:08:40,450 --> 00:08:42,250
+Nós aproveitaremos para fugir enquanto ele ganha tempo.
+
+114
+00:08:42,580 --> 00:08:43,120
+Entendido?
+
+115
+00:08:45,880 --> 00:08:47,290
+Uma sábia decisão.
+
+116
+00:08:47,840 --> 00:08:49,710
+Se a Rin escapar primeiro,
+
+117
+00:08:49,710 --> 00:08:51,090
+eu poderei recuar logo em seguida.
+
+118
+00:08:51,970 --> 00:08:57,220
+Além do mais, atuar em Ação Independente é a especialidade de um Archer.
+
+119
+00:08:58,180 --> 00:09:00,020
+Que surpresa fascinante!
+
+120
+00:09:00,270 --> 00:09:05,230
+Você está mesmo me dizendo que pretende deter o meu Héracles com um Servo do qual ninguém nunca ouviu falar?
+
+121
+00:09:05,480 --> 00:09:08,230
+Isso chega a ser uma atitude adorável da sua parte, Rin.
+
+122
+00:09:11,030 --> 00:09:12,110
+A propósito, Rin.
+
+123
+00:09:12,570 --> 00:09:14,240
+Posso confirmar uma coisa com você antes?
+
+124
+00:09:15,700 --> 00:09:18,490
+Eu posso apenas ganhar tempo, se for tudo o que você deseja,
+
+125
+00:09:18,490 --> 00:09:22,250
+mas não há problema se eu acabar derrotando aquele brutamontes, certo?
+
+126
+00:09:26,290 --> 00:09:27,500
+Archer...
+
+127
+00:09:30,210 --> 00:09:31,920
+É claro! Não ouse se conter nem por um segundo!
+
+128
+00:09:33,380 --> 00:09:35,800
+Sendo assim, espero corresponder a todas as suas expectativas.
+
+129
+00:09:35,800 --> 00:09:36,430
+Humph.
+
+130
+00:09:36,890 --> 00:09:40,430
+Não me importo se você despedaçar sujeitos insignificantes como ele.
+
+131
+00:09:40,430 --> 00:09:41,930
+Acabe com ele, Berserker!
+
+132
+00:09:47,310 --> 00:09:48,020
+Vamos!
+
+133
+00:09:48,020 --> 00:09:49,110
+Shirou, Saber!
+
+134
+00:09:50,230 --> 00:09:51,020
+Mas...
+
+135
+00:09:51,570 --> 00:09:53,860
+Shirou, esta é a nossa única escapatória.
+
+136
+00:09:58,780 --> 00:09:59,740
+Emiya Shirou!
+
+137
+00:10:01,870 --> 00:10:04,620
+Entenda isto de uma vez: você não é alguém nascido para combater.
+
+138
+00:10:05,080 --> 00:10:06,870
+Você nada mais é do que um criador.
+
+139
+00:10:07,500 --> 00:10:09,290
+Livre-se de qualquer pensamento supérfluo.
+
+140
+00:10:09,840 --> 00:10:11,710
+Existe apenas uma única coisa que você é capaz de realizar.
+
+141
+00:10:12,250 --> 00:10:14,010
+Aperfeiçoe e domine essa única arte até o limite!
+
+142
+00:10:16,050 --> 00:10:16,970
+Archer...
+
+143
+00:10:22,600 --> 00:10:23,600
+Nunca se esqueça disto:
+
+144
+00:10:24,140 --> 00:10:27,600
+O que você deve sempre visualizar em sua mente é a sua versão mais perfeita e absoluta.
+
+145
+00:10:28,140 --> 00:10:29,560
+Você não precisa de inimigos externos.
+
+146
+00:10:30,150 --> 00:10:32,230
+O único adversário contra quem você jamais terá de lutar...
+
+147
+00:10:33,150 --> 00:10:35,320
+...não passa de nada além do reflexo da sua própria imagem.
+
+148
+00:10:44,200 --> 00:10:45,000
+Shirou!
+
+149
+00:10:58,050 --> 00:10:59,010
+Archer...
+
+150
+00:11:16,030 --> 00:11:16,860
+Por onde?!
+
+151
+00:11:16,860 --> 00:11:17,610
+Por aqui!
+
+152
+00:11:22,030 --> 00:11:22,870
+Archer...
+
+153
+00:11:50,060 --> 00:11:51,850
+E esse é o estrago mesmo depois de ter esquivado por completo?
+
+154
+00:11:52,150 --> 00:11:53,400
+Muito bem, Berserker.
+
+155
+00:11:53,400 --> 00:11:54,860
+Ande logo e esmague-o como um inseto!
+
+156
+00:12:48,120 --> 00:12:49,660
+Que patético...
+
+157
+00:12:49,660 --> 00:12:51,750
+Sua arma quebrou antes mesmo de você conseguir exibi-la?
+
+158
+00:12:52,210 --> 00:12:55,210
+Querer enfrentar o Berserker com um Fantasma Nobre medíocre desses...
+
+159
+00:12:56,330 --> 00:12:57,250
+Berserker!
+
+160
+00:13:04,130 --> 00:13:07,100
+Você é tão monstruosamente forte quanto contam as suas lendas, hein?
+
+161
+00:13:08,140 --> 00:13:09,180
+Você... está rindo?!
+
+162
+00:13:16,520 --> 00:13:19,770
+I am the bone of my sword.
+
+163
+00:13:50,010 --> 00:13:51,010
+Aquele estrondo de agora pouco...
+
+164
+00:13:51,510 --> 00:13:53,640
+Com certeza foi... o Archer...
+
+165
+00:13:55,730 --> 00:13:56,600
+Vamos!
+
+166
+00:13:56,600 --> 00:13:57,520
+Tohsaka!
+
+167
+00:13:58,400 --> 00:14:01,320
+Precisamos sair daqui com vida, custe o que custar.
+
+168
+00:14:11,620 --> 00:14:15,040
+O Berserker foi forçado a se defender?!
+
+169
+00:14:18,120 --> 00:14:19,920
+Quem é ele afinal de contas?!
+
+170
+00:14:20,210 --> 00:14:22,630
+Será que ele é capaz de Projetar Fantasmas Nobres?!
+
+171
+00:14:25,220 --> 00:14:27,840
+Aquele ataque teria pulverizado qualquer outro Servo comum.
+
+172
+00:14:35,600 --> 00:14:37,350
+Berserker, atrás dele!
+
+173
+00:15:03,380 --> 00:15:05,550
+Você se move impressionantemente rápido para um brutamontes desse tamanho.
+
+174
+00:15:12,430 --> 00:15:16,680
+Steel is my body and fire is my blood.
+
+175
+00:15:23,980 --> 00:15:28,320
+I have created over a thousand blades.
+
+176
+00:15:38,710 --> 00:15:39,410
+O quê?!
+
+177
+00:15:41,120 --> 00:15:42,710
+Unknown to death...
+
+178
+00:15:47,550 --> 00:15:49,550
+Nor known to life...
+
+179
+00:15:54,140 --> 00:15:56,060
+Rasga as montanhas da terra,
+
+180
+00:15:56,390 --> 00:15:57,850
+a espada fende as águas em duas.
+
+181
+00:16:24,040 --> 00:16:25,500
+Lá se foi meu braço, pelo visto...
+
+182
+00:16:33,430 --> 00:16:34,390
+Entendo...
+
+183
+00:16:35,220 --> 00:16:39,060
+O Servo mais poderoso de fato...
+
+184
+00:17:05,830 --> 00:17:06,710
+Tohsaka?
+
+185
+00:17:10,170 --> 00:17:11,050
+O Archer está...
+
+186
+00:17:13,220 --> 00:17:14,050
+Ainda não...
+
+187
+00:17:14,510 --> 00:17:17,050
+Ele... ainda está resistindo bravamente...
+
+188
+00:17:24,890 --> 00:17:27,810
+Ora, será que agora você já se arrependeu um pouquinho?
+
+189
+00:17:36,740 --> 00:17:39,330
+E eu que pensei que já havia me libertado de tudo isso...
+
+190
+00:17:39,740 --> 00:17:40,540
+Ele ainda está de pé?!
+
+191
+00:17:41,120 --> 00:17:41,870
+Não é possível...
+
+192
+00:17:42,290 --> 00:17:44,330
+Berserker, chega de brincar com a presa.
+
+193
+00:17:44,660 --> 00:17:46,500
+Há algo terrivelmente bizarro na cabeça desse cara.
+
+194
+00:17:46,500 --> 00:17:48,080
+Sem nenhuma hesitação,
+
+195
+00:17:48,080 --> 00:17:49,960
+mate-o antes que ele tente levar você junto!
+
+196
+00:17:52,960 --> 00:17:55,840
+Você continua tão impiedosa como sempre, Illya...
+
+197
+00:17:57,430 --> 00:17:58,340
+Illya?
+
+198
+00:17:58,590 --> 00:18:01,100
+Embora isso não mude o fato de que serei derrotado,
+
+199
+00:18:01,100 --> 00:18:04,350
+farei com que seja bem difícil para você encerrar isso, Berserker.
+
+200
+00:18:05,020 --> 00:18:06,440
+Pegue leve comigo ao menos,
+
+201
+00:18:06,810 --> 00:18:10,610
+mas leve mais duas destas lâminas consigo para o inferno!
+
+202
+00:18:17,200 --> 00:18:17,860
+Onde ele está?!
+
+203
+00:18:21,200 --> 00:18:22,120
+Não consigo sentir a presença dele.
+
+204
+00:18:23,040 --> 00:18:23,700
+Será que ele conseguiu fugir?
+
+205
+00:18:50,150 --> 00:18:53,940
+Parece que a deusa da lua não está muito a fim de abençoar você hoje.
+
+206
+00:18:54,900 --> 00:19:00,450
+Have withstood pain to create many weapons.
+
+207
+00:19:02,990 --> 00:19:03,790
+Berserker!
+
+208
+00:19:05,910 --> 00:19:10,500
+Yet those hands will never hold anything.
+
+209
+00:19:14,380 --> 00:19:17,220
+So, as I pray...
+
+210
+00:19:19,010 --> 00:19:21,590
+Criação Infinita de Espadas
+
+211
+00:19:19,010 --> 00:19:21,590
+Unlimited Blade Works.
+
+212
+00:19:36,150 --> 00:19:36,980
+Isto é...
+
+213
+00:19:44,200 --> 00:19:46,490
+Uma Esfera de Realidade...
+
+214
+00:20:10,520 --> 00:20:14,060
+Como pode contemplar, o que se ergue diante de você é um número infinito de lâminas.
+
+215
+00:20:14,060 --> 00:20:15,520
+A mais refinada seleção de espadas.
+
+216
+00:20:16,940 --> 00:20:18,530
+Livre-se de seus temores e venha até mim!
+
+217
+00:20:49,560 --> 00:20:50,600
+Tohsaka...
+
+218
+00:20:58,860 --> 00:20:59,780
+Não me diga que...
+
+219
+00:21:00,530 --> 00:21:02,650
+Illyasviel logo virá no nosso encalço.
+
+220
+00:21:03,280 --> 00:21:04,160
+Temos que nos apressar.
+
+221
+00:21:04,740 --> 00:21:05,620
+Ei!
+
+222
+00:21:05,700 --> 00:21:06,530
+Rápido!
+
+223
+00:21:07,200 --> 00:21:11,660
+Eu não vou perdoar vocês se acabarmos sendo mortos por eles aqui.
+
+224
+00:21:17,960 --> 00:21:18,710
+Saber!
+
+225
+00:21:19,210 --> 00:21:20,090
+Saber!!!
+
+226
+00:21:33,940 --> 00:21:36,150
+Quem era aquele sujeito...?
+
+227
+00:21:36,560 --> 00:21:41,230
+O meu Héracles foi morto cinco vezes por um único Servo... cinco vezes!
+
+228
+00:21:41,650 --> 00:21:42,690
+Como é que isso foi possível?!
+
+229
+00:21:44,950 --> 00:21:48,160
+Você não pegou leve com ele, pegou, Berserker?!
+
+230
+00:21:48,160 --> 00:21:50,240
+Cure essas feridas agora mesmo!
+
+231
+00:21:50,450 --> 00:21:53,160
+Nós vamos exterminar todos eles neste exato instante!
+
+232
+00:22:11,540 --> 00:22:21,680
+Naquele dia em que seguimos caminhos separados,
+
+233
+00:22:22,850 --> 00:22:28,950
+...sabendo o que compreendo agora,
+
+234
+00:22:29,060 --> 00:22:34,320
+...como eu deveria justificar o que fiz?
+
+235
+00:22:34,590 --> 00:22:41,000
+A cada passo em que tropeço às cegas,
+
+236
+00:22:41,100 --> 00:22:47,040
+...pressinto uma fragilidade que não consigo ocultar.
+
+237
+00:22:47,140 --> 00:22:53,670
+A sua imagem naquele dia...
+
+238
+00:22:55,110 --> 00:22:59,680
+...aperta o meu peito com força.
+
+239
+00:22:59,790 --> 00:23:05,880
+Prometendo o futuro a mim mesmo sem hesitar,
+
+240
+00:23:06,030 --> 00:23:11,960
+...depositei minha fé em seu olhar resoluto.
+
+241
+00:23:12,300 --> 00:23:18,790
+Um céu que nos deixou, uma liberdade que beira a solidão.
+
+242
+00:23:18,910 --> 00:23:27,680
+Eu apenas não desejo olhar para trás, é tudo.
+
+243
+00:23:41,060 --> 00:23:46,110
+Prévia
+
+244
+00:24:04,670 --> 00:24:07,840
+No próximo episódio: "Os Doze Trabalhos".
+
+245
+00:24:06,020 --> 00:24:11,070
+Próximo Episódio
+
+246
+00:24:06,190 --> 00:24:11,070
+Os Doze Trabalhos
+

@@ -1,0 +1,365 @@
+[Script Info]
+; Script generated for Fate/stay night (2006) - Rota da Saber
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/stay night - S01E03 - Opening Act (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+Style: Spell,ZapfChancery-Medium,75,&H00EDEDFD,&H0000FFFF,&H000A0A87,&H78000000,-1,0,0,0,100,100,0,0,1,2.4,0.15,2,0,0,30,0
+Style: NP,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H004F41FD,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2.0,2,160,160,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.43,0:00:11.27,Default,Saber,0,0,0,,Serva Saber.
+Dialogue: 0,0:00:11.98,0:00:14.02,Default,,0,0,0,,Atendendo à sua convocação, vim até vós.
+Dialogue: 0,0:00:16.65,0:00:20.48,Default,,0,0,0,,Eu lhe pergunto: você é o meu Mestre?
+Dialogue: 0,0:00:22.61,0:00:25.03,Default,Shirou,0,0,0,,M-Mes... tre?
+Dialogue: 0,0:00:25.49,0:00:27.14,Default,Saber,0,0,0,,Serva Saber.
+Dialogue: 0,0:00:27.14,0:00:29.42,Default,,0,0,0,,Atendendo à sua convocação, vim até vós.
+Dialogue: 0,0:00:29.42,0:00:30.74,Default,,0,0,0,,Mestre, suas ordens.
+Dialogue: 0,0:00:33.28,0:00:35.82,Default,,0,0,0,,De agora em diante, minha espada está em suas mãos,
+Dialogue: 0,0:00:36.93,0:00:39.68,Default,,0,0,0,,e o seu destino nas minhas.
+Dialogue: 0,0:00:39.68,0:00:41.55,Default,,0,0,0,,O nosso pacto está selado.
+Dialogue: 0,0:00:41.99,0:00:42.55,Default,Shirou,0,0,0,,O qu{\fscx200}-{\fscx90}
+Dialogue: 0,0:00:45.13,0:00:46.05,Default,,0,0,0,,Es-Espere!
+Dialogue: 0,0:00:52.72,0:00:57.56,Song,,0,0,0,,A sombra passageira que contemplei em sonhos...
+Dialogue: 0,0:00:58.98,0:01:03.10,Song,,0,0,0,,O clamor que não pôde alcançar...
+Dialogue: 0,0:01:04.11,0:01:09.36,Song,,0,0,0,,Não importa como eu me imagine amanhã,
+Dialogue: 0,0:01:10.36,0:01:15.58,Song,,0,0,0,,serei envolvido por desejos que jamais desaparecerão.
+Dialogue: 0,0:01:19.00,0:01:28.80,Song,,0,0,0,,Com a mão que agarra os fragmentos que caem
+Dialogue: 0,0:01:30.38,0:01:43.90,Song,,0,0,0,,e o coração hesitante, salto em direção à noite...
+Dialogue: 0,0:01:44.27,0:01:55.78,Song,,0,0,0,,Se for para viver por alguém, que este instante seja tudo,
+Dialogue: 0,0:01:55.78,0:02:07.71,Song,,0,0,0,,dispa-se suavemente dessa máscara e seja apenas quem você é agora...
+Dialogue: 0,0:02:09.63,0:02:15.47,Signs,,0,0,0,,Episódio 3
+Dialogue: 0,0:02:09.68,0:02:15.47,Signs,,0,0,0,,Ato de Abertura
+Dialogue: 0,0:02:51.80,0:02:53.18,Default,Shirou,0,0,0,,Uma espada invisível?
+Dialogue: 0,0:02:54.01,0:02:55.03,Default,Lancer,0,0,0,,Trapaceira!
+Dialogue: 0,0:02:55.65,0:02:57.81,Default,,0,0,0,,Como ousa ocultar a sua própria arma?!
+Dialogue: 0,0:03:04.83,0:03:05.73,Default,Saber,0,0,0,,Qual é o problema, Lancer?
+Dialogue: 0,0:03:07.32,0:03:09.28,Default,,0,0,0,,Nenhum lanceiro que se preze hesitaria imóvel.
+Dialogue: 0,0:03:09.74,0:03:12.03,Default,,0,0,0,,Se não virá até mim, então eu irei até você!
+Dialogue: 0,0:03:12.40,0:03:14.47,Default,Lancer,0,0,0,,Antes disso, deixe-me fazer uma pergunta.
+Dialogue: 0,0:03:14.47,0:03:16.91,Default,,0,0,0,,O seu Fantasma Nobre... por acaso é uma espada?
+Dialogue: 0,0:03:16.91,0:03:18.72,Default,Saber,0,0,0,,Quem saberá dizer?
+Dialogue: 0,0:03:18.72,0:03:24.25,Default,,0,0,0,,Um machado? Uma lança? Ou talvez até um arco, não acha?
+Dialogue: 0,0:03:25.47,0:03:26.92,Default,Lancer,0,0,0,,Poupe-me das gracinhas, Saber.
+Dialogue: 0,0:03:30.57,0:03:32.25,Default,,0,0,0,,Este é apenas o nosso primeiro encontro;
+Dialogue: 0,0:03:32.73,0:03:34.43,Default,,0,0,0,,não há chance de encerrarmos esta luta como um empate?
+Dialogue: 0,0:03:34.80,0:03:36.03,Default,Saber,0,0,0,,Creio que não.
+Dialogue: 0,0:03:36.03,0:03:37.14,Default,,0,0,0,,Você tombará aqui.
+Dialogue: 0,0:03:37.49,0:03:40.64,Default,Lancer,0,0,0,,Minha intenção era apenas sondar o terreno, sabia?
+Dialogue: 0,0:03:41.14,0:03:44.98,Default,,0,0,0,,Agora que um Servo apareceu,\nnão pretendo me demorar por muito tempo.
+Dialogue: 0,0:03:50.30,0:03:52.68,Default,,0,0,0,,O seu coração pertence a mim!
+Dialogue: 0,0:03:54.68,0:03:56.45,Default,,0,0,0,,Gáe Bolg!
+Dialogue: 0,0:03:54.68,0:03:56.45,NP,,0,0,0,,{\an5\pos(950.00,950.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4c&H4F41FD&\4a&H64&\bord6\blur10\c&H4F41FD&\3c&H4F41FD&\2c&H4F41FD&}Lança Farpada que Perfura com a Morte
+Dialogue: 0,0:04:03.99,0:04:07.71,Default,Saber,0,0,0,,Uma maldição? Não, um ataque que inverte causa e efeito!
+Dialogue: 0,0:04:08.05,0:04:09.52,Default,Lancer,0,0,0,,Então você conseguiu escapar...
+Dialogue: 0,0:04:09.52,0:04:11.21,Default,,0,0,0,,...do meu golpe mais devastador, a Gáe Bolg.
+Dialogue: 0,0:04:11.21,0:04:12.49,Default,Saber,0,0,0,,Gáe Bolg?!
+Dialogue: 0,0:04:12.89,0:04:15.51,Default,,0,0,0,,É você então a Criança da Luz da Irlanda?
+Dialogue: 0,0:04:16.47,0:04:20.81,Default,,0,0,0,,Gáe Bolg... o espinho encantado capaz de romper qualquer defesa...
+Dialogue: 0,0:04:21.76,0:04:24.44,Default,,0,0,0,,Ela define como premissa perfurar o coração do alvo,
+Dialogue: 0,0:04:24.44,0:04:27.81,Default,,0,0,0,,e a trajetória da lança se altera para cumprir esse destino.
+Dialogue: 0,0:04:29.42,0:04:33.24,Default,,0,0,0,,Essa é a lança escarlate amaldiçoada empunhada por Cú Chulainn?
+Dialogue: 0,0:04:33.54,0:04:34.87,Default,Lancer,0,0,0,,Eu vacilei.
+Dialogue: 0,0:04:34.87,0:04:38.71,Default,,0,0,0,,Estou ferrado se uso essa técnica e o adversário sobrevive.
+Dialogue: 0,0:04:38.71,0:04:41.83,Default,,0,0,0,,Agora fico pensando se essa arma é famosa demais ou o quê.
+Dialogue: 0,0:04:42.57,0:04:47.83,Default,,0,0,0,,Quando a identidade de um Servo é descoberta, ele deveria lutar até o fim...
+Dialogue: 0,0:04:48.32,0:04:51.63,Default,,0,0,0,,...mas, infelizmente, o meu Mestre é um covarde, entende?
+Dialogue: 0,0:04:51.63,0:04:55.05,Default,,0,0,0,,Veio com ordens absurdas do tipo "recue se sua lança for esquivada".
+Dialogue: 0,0:04:55.38,0:04:56.15,Default,Saber,0,0,0,,Pretende fugir covardemente?
+Dialogue: 0,0:04:56.53,0:04:58.31,Default,Lancer,0,0,0,,Não me importo se quiser vir atrás de mim,
+Dialogue: 0,0:04:58.31,0:05:01.39,Default,,0,0,0,,mas é bom estar preparada para arriscar a própria vida!
+Dialogue: 0,0:05:02.62,0:05:03.43,Default,Saber,0,0,0,,Espere!
+Dialogue: 0,0:05:03.93,0:05:04.78,Default,Shirou,0,0,0,,Ela...
+Dialogue: 0,0:05:17.48,0:05:19.41,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:05:19.41,0:05:22.41,Default,Saber,0,0,0,,Por que pergunta? Sou a Serva da classe Saber.
+Dialogue: 0,0:05:23.20,0:05:27.41,Default,,0,0,0,,Foi você quem me invocou,\nportanto não há necessidade de confirmar isso, correto?
+Dialogue: 0,0:05:27.69,0:05:29.50,Default,Shirou,0,0,0,,Serva da classe Saber?
+Dialogue: 0,0:05:29.50,0:05:30.42,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:05:30.42,0:05:32.86,Default,,0,0,0,,Chame-me apenas de "Saber".
+Dialogue: 0,0:05:32.86,0:05:35.43,Default,Shirou,0,0,0,,E-Entendi... Que nome estranho.
+Dialogue: 0,0:05:36.23,0:05:40.87,Default,,0,0,0,,Eu sou Emiya Shirou, e gostaria de perguntar...
+Dialogue: 0,0:05:40.87,0:05:42.22,Default,Saber,0,0,0,,Eu compreendo.
+Dialogue: 0,0:05:42.22,0:05:44.93,Default,,0,0,0,,Você não é um Mestre legítimo, não é?
+Dialogue: 0,0:05:44.93,0:05:45.89,Default,Shirou,0,0,0,,Mestre?
+Dialogue: 0,0:05:45.89,0:05:49.96,Default,Saber,0,0,0,,Não obstante, você é o meu Mestre.
+Dialogue: 0,0:05:49.96,0:05:53.65,Default,,0,0,0,,Havendo firmado um pacto consigo, jamais irei traí-lo.
+Dialogue: 0,0:05:53.65,0:05:58.30,Default,Shirou,0,0,0,,E-Espere um instante, meu nome não é "Mestre".
+Dialogue: 0,0:05:58.30,0:06:00.01,Default,Saber,0,0,0,,Então eu o chamarei de "Shirou".
+Dialogue: 0,0:06:00.01,0:06:03.39,Default,,0,0,0,,Sim, aprecio muito mais como isso soa.
+Dialogue: 0,0:06:04.23,0:06:05.00,Default,Shirou,0,0,0,,Ai!
+Dialogue: 0,0:06:07.17,0:06:07.75,Default,,0,0,0,,O qu{\fscx200}-{\fscx90}
+Dialogue: 0,0:06:11.01,0:06:12.78,Default,Saber,0,0,0,,Shirou, cuide de minhas feridas, por gentileza.
+Dialogue: 0,0:06:14.21,0:06:16.00,Default,Shirou,0,0,0,,Está me pedindo para fazer isso?
+Dialogue: 0,0:06:16.67,0:06:19.58,Default,,0,0,0,,Lamento, mas não sei usar feitiços complexos desse tipo.
+Dialogue: 0,0:06:19.58,0:06:22.22,Default,,0,0,0,,Além disso, você não está praticamente recuperada?
+Dialogue: 0,0:06:23.81,0:06:25.68,Default,Saber,0,0,0,,Nesse caso, eu os enfrentarei nas minhas condições atuais.
+Dialogue: 0,0:06:26.31,0:06:29.29,Default,,0,0,0,,Minha autocura cuida apenas da parte superficial,
+Dialogue: 0,0:06:29.29,0:06:31.56,Default,,0,0,0,,mas não haverá problema para travar mais um combate.
+Dialogue: 0,0:06:32.79,0:06:33.64,Default,Shirou,0,0,0,,Espere aí!
+Dialogue: 0,0:06:45.87,0:06:47.20,Default,Rin,0,0,0,,Archer, desmaterialize-se!
+Dialogue: 0,0:06:58.58,0:06:59.71,Default,Shirou,0,0,0,,Pare com isso, Saber!
+Dialogue: 0,0:07:02.21,0:07:04.30,Default,Saber,0,0,0,,Ela é a Mestre do Archer.
+Dialogue: 0,0:07:04.30,0:07:06.16,Default,,0,0,0,,Se não a eliminarmos agora mesmo...
+Dialogue: 0,0:07:06.16,0:07:09.81,Default,Shirou,0,0,0,,Mestre ou o que quer que seja... Eu não tenho a menor ideia do que está acontecendo!
+Dialogue: 0,0:07:12.39,0:07:15.14,Default,,0,0,0,,Eu nem sequer sei o que você é,
+Dialogue: 0,0:07:15.15,0:07:17.23,Default,,0,0,0,,mas vou ouvi-la se quiser conversar a respeito,
+Dialogue: 0,0:07:17.23,0:07:18.57,Default,,0,0,0,,então, por favor, pare com essa loucura!
+Dialogue: 0,0:07:19.41,0:07:21.79,Default,Saber,0,0,0,,O que quer dizer com loucura?
+Dialogue: 0,0:07:21.79,0:07:22.33,Default,Shirou,0,0,0,,Hã?
+Dialogue: 0,0:07:23.00,0:07:25.76,Default,Saber,0,0,0,,Não posso acatar tais ordens.
+Dialogue: 0,0:07:25.76,0:07:27.08,Default,,0,0,0,,Inimigos devem ser derrotados.
+Dialogue: 0,0:07:27.57,0:07:30.20,Default,Shirou,0,0,0,,Garotas não deveriam brandir armas desse jeito!
+Dialogue: 0,0:07:30.46,0:07:32.83,Default,,0,0,0,,Ainda mais quando já estão feridas!
+Dialogue: 0,0:07:33.49,0:07:36.58,Default,Rin,0,0,0,,Quando é que você pretende abaixar essa espada?
+Dialogue: 0,0:07:37.08,0:07:39.42,Default,Saber,0,0,0,,Nenhuma espada é abaixada diante de inimigos.
+Dialogue: 0,0:07:39.67,0:07:43.63,Default,Rin,0,0,0,,Então uma Serva tão leal quanto a Saber desafia a vontade de seu Mestre?
+Dialogue: 0,0:07:47.36,0:07:48.01,Default,Shirou,0,0,0,,Você é...
+Dialogue: 0,0:07:51.52,0:07:52.65,Default,,0,0,0,,...Tohsaka...
+Dialogue: 0,0:07:52.65,0:07:54.56,Default,Rin,0,0,0,,Boa noite, Emiya-kun.
+Dialogue: 0,0:08:03.17,0:08:06.32,Default,,0,0,0,,Ora, tinha certeza de que você daria conta disso, Emiya-kun.
+Dialogue: 0,0:08:06.32,0:08:10.13,Default,Shirou,0,0,0,,Nossa... Eu não consigo fazer nada parecido com isso.
+Dialogue: 0,0:08:10.13,0:08:12.91,Default,Rin,0,0,0,,Hã? Mas isso é o básico do básico em qualquer escola de magia!
+Dialogue: 0,0:08:14.43,0:08:19.29,Default,Shirou,0,0,0,,Só aprendi o que meu pai me ensinou, então não conheço noções básicas nem rudimentos.
+Dialogue: 0,0:08:19.29,0:08:24.51,Default,Rin,0,0,0,,O quê? Quer dizer que você nem sabe manipular os cinco grandes elementos ou abrir caminhos de mana?
+Dialogue: 0,0:08:24.51,0:08:25.70,Default,Shirou,0,0,0,,Não.
+Dialogue: 0,0:08:25.70,0:08:27.80,Default,Rin,0,0,0,,Então você é um completo amador?
+Dialogue: 0,0:08:28.22,0:08:30.78,Default,Shirou,0,0,0,,Só sei como fortalecer a estrutura das coisas.
+Dialogue: 0,0:08:30.78,0:08:33.84,Default,Rin,0,0,0,,Esse é um tipo de feitiçaria bem peculiar para se aprender.
+Dialogue: 0,0:08:33.84,0:08:35.83,Default,,0,0,0,,E imagino que não consiga fazer mais nada além disso?
+Dialogue: 0,0:08:36.44,0:08:38.27,Default,Shirou,0,0,0,,É, praticamente isso.
+Dialogue: 0,0:08:38.27,0:08:41.82,Default,Rin,0,0,0,,Como foi que alguém como você conseguiu invocar a Saber?
+Dialogue: 0,0:08:41.82,0:08:45.37,Default,,0,0,0,,Você não tem a menor noção da situação em que se meteu, não é?
+Dialogue: 0,0:08:45.37,0:08:46.40,Default,Shirou,0,0,0,,Situação?
+Dialogue: 0,0:08:46.91,0:08:49.46,Default,Rin,0,0,0,,Você acabou entrando em um determinado "jogo".
+Dialogue: 0,0:08:49.46,0:08:53.66,Default,,0,0,0,,Esse jogo se chama Guerra do Santo Graal,\nonde sete Mestres lutam até a morte.
+Dialogue: 0,0:08:54.07,0:08:56.65,Default,Shirou,0,0,0,,Guerra do Santo Graal? Lutam até a morte?
+Dialogue: 0,0:08:57.34,0:08:59.90,Default,Rin,0,0,0,,Você foi escolhido como um dos Mestres.
+Dialogue: 0,0:08:59.90,0:09:02.30,Default,,0,0,0,,Deve haver uma marca sagrada em uma de suas mãos, não há?
+Dialogue: 0,0:09:02.30,0:09:05.79,Default,,0,0,0,,Os três Feitiços de Comando... Esses são os símbolos de um Mestre.
+Dialogue: 0,0:09:07.33,0:09:10.82,Default,,0,0,0,,A cada várias décadas, sete Mestres são escolhidos...
+Dialogue: 0,0:09:10.82,0:09:13.77,Default,,0,0,0,,...e a cada um dos sete Mestres é concedido um Servo,
+Dialogue: 0,0:09:13.77,0:09:16.99,Default,,0,0,0,,para que lutem entre si pela posse do Santo Graal.
+Dialogue: 0,0:09:16.99,0:09:19.31,Default,,0,0,0,,Eu fui escolhida como uma das Mestres.
+Dialogue: 0,0:09:20.45,0:09:24.29,Default,,0,0,0,,Enquanto possuir os seus Feitiços de Comando,\nsua Serva lhe obedecerá.
+Dialogue: 0,0:09:24.29,0:09:26.74,Default,,0,0,0,,Os Feitiços de Comando lhe dão o direito de emitir ordens absolutas.
+Dialogue: 0,0:09:28.13,0:09:33.91,Default,,0,0,0,,Esse comando sagrado permite fazê-los cumprir a sua vontade,\nmesmo distorcendo os desejos do próprio Servo.
+Dialogue: 0,0:09:33.91,0:09:38.25,Default,,0,0,0,,Contudo, a cada uso, um deles desaparecerá.
+Dialogue: 0,0:09:38.25,0:09:40.67,Default,,0,0,0,,Por isso, só use no máximo duas vezes, se for obrigado.
+Dialogue: 0,0:09:40.67,0:09:41.56,Default,Shirou,0,0,0,,Espere!
+Dialogue: 0,0:09:41.56,0:09:42.92,Default,,0,0,0,,Do que você está falando?
+Dialogue: 0,0:09:44.19,0:09:47.34,Default,Rin,0,0,0,,Você parece estar em uma condição incompleta.
+Dialogue: 0,0:09:47.34,0:09:52.14,Default,,0,0,0,,Foi convocada por um aprendiz de mago que sequer possui noção de como ser um Mestre.
+Dialogue: 0,0:09:52.14,0:09:52.98,Default,Saber,0,0,0,,De fato.
+Dialogue: 0,0:09:53.45,0:09:57.22,Default,,0,0,0,,Shirou não possuía poder mágico suficiente para me materializar plenamente.
+Dialogue: 0,0:09:57.22,0:10:01.15,Default,,0,0,0,,Sendo assim, é difícil para mim entrar em forma espiritual ou repor o meu próprio mana.
+Dialogue: 0,0:10:02.60,0:10:06.94,Default,Rin,0,0,0,,Se eu fosse a sua Mestre, ambas as tarefas teriam sido elementares.
+Dialogue: 0,0:10:07.61,0:10:09.82,Default,Shirou,0,0,0,,Está dizendo que não sou qualificado?
+Dialogue: 0,0:10:10.10,0:10:11.95,Default,Rin,0,0,0,,Obviamente, seu tolo incompetente!
+Dialogue: 0,0:10:13.18,0:10:15.76,Default,,0,0,0,,Bem, então vamos indo, certo?
+Dialogue: 0,0:10:15.76,0:10:16.95,Default,Shirou,0,0,0,,Para onde?
+Dialogue: 0,0:10:17.35,0:10:20.21,Default,Rin,0,0,0,,Para o local onde reside o supervisor de tudo isso.
+Dialogue: 0,0:10:29.27,0:10:32.06,Default,Rin,0,0,0,,Ei, você não tem roupas melhores para ela vestir?
+Dialogue: 0,0:10:32.86,0:10:36.85,Default,Shirou,0,0,0,,A culpa não é minha... Ela se recusa a tirar a armadura.
+Dialogue: 0,0:10:44.19,0:10:46.87,Default,,0,0,0,,O supervisor fica aqui?
+Dialogue: 0,0:10:46.87,0:10:48.36,Default,Rin,0,0,0,,Na Igreja Kotomine.
+Dialogue: 0,0:10:48.69,0:10:51.07,Default,Saber,0,0,0,,Shirou, eu permanecerei aqui fora.
+Dialogue: 0,0:10:52.59,0:10:55.30,Default,,0,0,0,,Vim junto para protegê-lo.
+Dialogue: 0,0:10:55.30,0:10:59.45,Default,,0,0,0,,Se o destino é esta igreja,\nentão você não estará se distanciando muito.
+Dialogue: 0,0:11:02.50,0:11:06.21,Default,Shirou,0,0,0,,Tohsaka, que tipo de pessoa é o padre daqui?
+Dialogue: 0,0:11:06.68,0:11:08.36,Default,Rin,0,0,0,,Ele é o meu tutor legal.
+Dialogue: 0,0:11:08.36,0:11:11.36,Default,,0,0,0,,Além disso, é um mago sênior que veio antes de mim.
+Dialogue: 0,0:11:11.36,0:11:13.05,Default,,0,0,0,,Acho que você poderia chamá-lo de meu segundo mentor.
+Dialogue: 0,0:11:13.50,0:11:14.91,Default,Shirou,0,0,0,,Um mago?
+Dialogue: 0,0:11:14.91,0:11:18.90,Default,,0,0,0,,Um padre que também faz parte da herética Associação dos Magos?
+Dialogue: 0,0:11:18.90,0:11:21.61,Default,Rin,0,0,0,,É exatamente por isso que você deve ter muito cuidado com ele.
+Dialogue: 0,0:11:21.61,0:11:23.69,Default,,0,0,0,,O nome dele é Kotomine Kirei.
+Dialogue: 0,0:11:24.27,0:11:25.94,Default,,0,0,0,,Ele era o discípulo do meu pai.
+Dialogue: 0,0:11:25.94,0:11:28.73,Default,,0,0,0,,Eu o conheço há mais de dez anos,
+Dialogue: 0,0:11:29.20,0:11:31.94,Default,,0,0,0,,embora preferisse nunca tê-lo conhecido.
+Dialogue: 0,0:11:32.77,0:11:36.95,Default,Kirei,0,0,0,,Eu tampouco desejava ter uma discípula que não respeita o seu mestre.
+Dialogue: 0,0:11:39.48,0:11:42.24,Default,Rin,0,0,0,,Trouxe até você o sétimo Mestre.
+Dialogue: 0,0:11:42.24,0:11:45.76,Default,,0,0,0,,Embora seja uma espécie de mago,\npor dentro é um completo leigo.
+Dialogue: 0,0:11:45.76,0:11:47.28,Default,,0,0,0,,Eu não podia ficar só assistindo, então...
+Dialogue: 0,0:11:47.28,0:11:49.46,Default,Kirei,0,0,0,,E qual é o seu nome?
+Dialogue: 0,0:11:50.94,0:11:52.09,Default,Shirou,0,0,0,,Emiya Shirou.
+Dialogue: 0,0:11:52.82,0:11:54.80,Default,Kirei,0,0,0,,Emiya... Shirou?
+Dialogue: 0,0:11:57.94,0:12:00.82,Default,,0,0,0,,Você é o Mestre da Saber, correto?
+Dialogue: 0,0:12:00.82,0:12:01.89,Default,Shirou,0,0,0,,Você entendeu tudo errado.
+Dialogue: 0,0:12:03.15,0:12:06.94,Default,,0,0,0,,Eu não sei nada sobre essa história de "Mestre" ou "Guerra do Santo Graal".
+Dialogue: 0,0:12:08.10,0:12:09.90,Default,Kirei,0,0,0,,Bem, temos um grave problema aqui.
+Dialogue: 0,0:12:10.45,0:12:11.69,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:12:11.69,0:12:15.18,Default,,0,0,0,,Esta é a primeira vez que Rin recorre à minha ajuda.
+Dialogue: 0,0:12:15.18,0:12:18.28,Default,,0,0,0,,Por isso, Shirou Emiya, jamais serei capaz de retribuir a você.
+Dialogue: 0,0:12:19.37,0:12:24.04,Default,,0,0,0,,Você não pode permitir que outros sejam Mestre em seu lugar,
+Dialogue: 0,0:12:24.40,0:12:28.15,Default,,0,0,0,,tampouco pode renunciar a ser um Mestre agora que se tornou um. Ficou claro?
+Dialogue: 0,0:12:28.15,0:12:30.93,Default,,0,0,0,,Os Feitiços de Comando que carrega são também estigmas sagrados.
+Dialogue: 0,0:12:30.93,0:12:33.81,Default,,0,0,0,,Ser um Mestre é uma provação imposta a você.
+Dialogue: 0,0:12:33.81,0:12:37.05,Default,,0,0,0,,Você não pode simplesmente desistir apenas porque sua situação é desfavorável.
+Dialogue: 0,0:12:37.39,0:12:44.31,Default,,0,0,0,,Se não deseja ser um Mestre, não há outra saída senão obter o Santo Graal e ter o seu desejo realizado.
+Dialogue: 0,0:12:44.63,0:12:46.31,Default,Shirou,0,0,0,,Ter o meu desejo realizado?
+Dialogue: 0,0:12:46.31,0:12:53.65,Default,Kirei,0,0,0,,Com o Santo Graal, seus desejos podem ser atendidos; a impureza dentro de você pode ser purificada.
+Dialogue: 0,0:12:54.08,0:12:58.53,Default,,0,0,0,,Sim, você pode até mesmo recomeçar tudo do zero.
+Dialogue: 0,0:12:59.67,0:13:01.22,Default,,0,0,0,,Portanto, almeje esta oportunidade.
+Dialogue: 0,0:13:01.22,0:13:06.54,Default,,0,0,0,,Quando esse momento chegar, você será grato pelo fato de ser um Mestre.
+Dialogue: 0,0:13:07.08,0:13:13.30,Default,,0,0,0,,Se deseja se libertar dessa cicatriz invisível das chamas,\nbasta aceitar essas marcas sagradas.
+Dialogue: 0,0:13:13.71,0:13:16.05,Default,Rin,0,0,0,,Kirei, pare de falar com rodeios.
+Dialogue: 0,0:13:16.49,0:13:20.32,Default,,0,0,0,,Tudo o que pedi foi que explicasse as regras para ele.
+Dialogue: 0,0:13:20.32,0:13:22.26,Default,Kirei,0,0,0,,Muito bem, voltando ao assunto central.
+Dialogue: 0,0:13:22.72,0:13:25.62,Default,,0,0,0,,Esta batalha se chama Guerra do Santo Graal,
+Dialogue: 0,0:13:25.62,0:13:29.77,Default,,0,0,0,,uma disputa entre sete Mestres\nque empregam o poder de sete Servos.
+Dialogue: 0,0:13:30.36,0:13:34.77,Default,,0,0,0,,Não participamos voluntariamente de tais matanças.
+Dialogue: 0,0:13:34.77,0:13:39.28,Default,,0,0,0,,Tudo isso é um ritual solene para escolher o candidato mais digno de obter o Santo Graal.
+Dialogue: 0,0:13:39.28,0:13:42.45,Default,Shirou,0,0,0,,De jeito nenhum! O lendário Santo Graal{\fscx200}-{\fscx90}
+Dialogue: 0,0:13:42.45,0:13:45.64,Default,Kirei,0,0,0,,O Santo Graal que se manifesta nesta cidade é autêntico.
+Dialogue: 0,0:13:46.10,0:13:52.21,Default,,0,0,0,,A presença desses Servos extraordinários deve servir como prova irrefutável disso.
+Dialogue: 0,0:13:53.38,0:13:57.57,Default,,0,0,0,,Servos são entidades muito próximas do que se entende por Espíritos Superiores.
+Dialogue: 0,0:13:57.57,0:14:01.48,Default,,0,0,0,,Eles são heróis lendários tanto do passado quanto do presente...
+Dialogue: 0,0:14:01.48,0:14:04.22,Default,,0,0,0,,...aos quais o Santo Graal concedeu carne e osso.
+Dialogue: 0,0:14:04.53,0:14:08.91,Default,,0,0,0,,Fundamentalmente, eles aguardam ao lado de seus Mestres em forma espiritual,
+Dialogue: 0,0:14:08.91,0:14:12.69,Default,,0,0,0,,e você pode materializá-los\ne fazê-los lutar por você quando necessário.
+Dialogue: 0,0:14:13.32,0:14:15.74,Default,Rin,0,0,0,,A Saber do Emiya-kun é diferente.
+Dialogue: 0,0:14:15.74,0:14:18.44,Default,,0,0,0,,A Serva dele não consegue assumir a forma espiritual porque o Mestre dela é um tolo incompetente.
+Dialogue: 0,0:14:19.05,0:14:23.02,Default,Kirei,0,0,0,,Esse milagre de quase ressurreição dos mortos\npode essencialmente ser considerado a Verdadeira Magia.
+Dialogue: 0,0:14:23.47,0:14:29.20,Default,,0,0,0,,O Santo Graal, possuindo tamanho poder,\nserá capaz de conceder poder ilimitado ao seu detentor.
+Dialogue: 0,0:14:29.20,0:14:33.71,Default,,0,0,0,,Diante desse fato, indagar sobre sua autenticidade não possui relevância.
+Dialogue: 0,0:14:35.00,0:14:35.99,Default,Shirou,0,0,0,,Tudo bem.
+Dialogue: 0,0:14:35.99,0:14:38.04,Default,,0,0,0,,Mesmo presumindo que exista um Santo Graal,
+Dialogue: 0,0:14:38.04,0:14:40.02,Default,,0,0,0,,não há necessidade de nos matarmos uns aos outros.
+Dialogue: 0,0:14:40.02,0:14:43.59,Default,,0,0,0,,Se é algo tão grandioso assim,\ntodos deveriam simplesmente compartilhá-lo entre si.
+Dialogue: 0,0:14:43.86,0:14:45.61,Default,Kirei,0,0,0,,Uma visão compreensível.
+Dialogue: 0,0:14:45.61,0:14:48.10,Default,,0,0,0,,Contudo, não possuímos essa liberdade.
+Dialogue: 0,0:14:49.00,0:14:52.92,Default,,0,0,0,,O Santo Graal escolherá o indivíduo mais adequado para ser o seu possuidor.
+Dialogue: 0,0:14:52.92,0:14:56.85,Default,,0,0,0,,Ele faz com que as pessoas disputem entre si e seleciona apenas um vencedor.
+Dialogue: 0,0:14:57.64,0:15:04.57,Default,,0,0,0,,O próprio Santo Graal é responsável por tudo,\nseja escolher os sete Mestres ou convocar os Servos.
+Dialogue: 0,0:15:05.09,0:15:12.83,Default,,0,0,0,,Esta é a Guerra do Santo Graal: um ritual de descida espiritual no qual, escolhidos pelo Graal, cruzam lâminas pela sua posse exclusiva.
+Dialogue: 0,0:15:13.28,0:15:15.24,Default,Shirou,0,0,0,,Mesmo que ele escolha apenas um Mestre,
+Dialogue: 0,0:15:15.24,0:15:17.40,Default,,0,0,0,,não há motivos para matar os outros Mestres!
+Dialogue: 0,0:15:17.40,0:15:18.34,Default,Rin,0,0,0,,Espere um pouco.
+Dialogue: 0,0:15:18.34,0:15:22.62,Default,,0,0,0,,Não há nenhuma regra que obrigue a matar os outros Mestres.
+Dialogue: 0,0:15:24.02,0:15:26.47,Default,,0,0,0,,O Santo Graal é um objeto de natureza puramente espiritual.
+Dialogue: 0,0:15:26.47,0:15:30.91,Default,,0,0,0,,Apenas Servos, que também são entidades espirituais, podem tocá-lo.
+Dialogue: 0,0:15:30.91,0:15:36.11,Default,,0,0,0,,A Guerra do Santo Graal consiste na eliminação de todos os Servos além do seu próprio.
+Dialogue: 0,0:15:36.62,0:15:38.86,Default,Shirou,0,0,0,,A eliminação de todos os Servos exceto o seu próprio?
+Dialogue: 0,0:15:39.30,0:15:42.46,Default,,0,0,0,,Entendi... Então, desde que reste apenas o seu Servo,
+Dialogue: 0,0:15:42.46,0:15:45.32,Default,,0,0,0,,esse Servo será o único capaz de tocá-lo.
+Dialogue: 0,0:15:45.75,0:15:48.63,Default,Rin,0,0,0,,Exatamente. Portanto, desde que você derrote os Servos,
+Dialogue: 0,0:15:48.63,0:15:50.58,Default,,0,0,0,,não há necessidade de assassinar os Mestres.
+Dialogue: 0,0:15:51.24,0:15:54.42,Default,Shirou,0,0,0,,Então me dissesse isso logo de início!
+Dialogue: 0,0:15:54.42,0:15:59.59,Default,,0,0,0,,Quer dizer que mesmo participando da Guerra do Santo Graal,\nnão significa necessariamente que você vá morrer, certo, Tohsaka?
+Dialogue: 0,0:16:00.07,0:16:04.84,Default,Kirei,0,0,0,,Permita-me fazer-lhe uma pergunta:\nacredita ser capaz de derrotar a sua própria Serva?
+Dialogue: 0,0:16:05.92,0:16:07.85,Default,,0,0,0,,Servos são seres extremamente poderosos.
+Dialogue: 0,0:16:08.16,0:16:13.77,Default,,0,0,0,,Nem mesmo os próprios Servos entre si, muito menos os Mestres, conseguem se derrotar facilmente.
+Dialogue: 0,0:16:13.77,0:16:18.15,Default,,0,0,0,,No entanto, sem os seus Mestres, Servos não conseguem subsistir por conta própria.
+Dialogue: 0,0:16:18.15,0:16:19.16,Default,,0,0,0,,Por conseguinte...
+Dialogue: 0,0:16:19.16,0:16:23.82,Default,Shirou,0,0,0,,Eliminar os Mestres é o método mais eficiente para liquidar os Servos.
+Dialogue: 0,0:16:24.18,0:16:28.45,Default,Rin,0,0,0,,Porém, Servos que perdem seus Mestres não desaparecem de imediato.
+Dialogue: 0,0:16:29.15,0:16:33.33,Default,,0,0,0,,Eles podem firmar um novo pacto com outros Mestres que ainda possuam Feitiços de Comando.
+Dialogue: 0,0:16:33.33,0:16:38.50,Default,,0,0,0,,Servos desprovidos de Mestre e\nMestres desprovidos de Servo podem selar uma nova aliança...
+Dialogue: 0,0:16:38.50,0:16:40.84,Default,,0,0,0,,...e retornar à batalha dessa maneira.
+Dialogue: 0,0:16:42.00,0:16:44.38,Default,Shirou,0,0,0,,E o que acontece quando alguém esgota todos os seus Feitiços de Comando?
+Dialogue: 0,0:16:45.01,0:16:50.35,Default,,0,0,0,,Os Servos não ficariam livres para fazer pactos com outros Mestres?
+Dialogue: 0,0:16:50.35,0:16:52.04,Default,Kirei,0,0,0,,Precisamente.
+Dialogue: 0,0:16:52.04,0:16:57.39,Default,,0,0,0,,Se esgotar os seus Feitiços de Comando,\nvocê será dispensado do papel de Mestre.
+Dialogue: 0,0:16:57.39,0:17:05.15,Default,,0,0,0,,É claro que, se houvesse tal mago, isso o\nclassificaria como incompetente. Não, um mero tolo.
+Dialogue: 0,0:17:06.74,0:17:10.48,Default,,0,0,0,,Caso fizesse isso, eu asseguraria a sua integridade física...
+Dialogue: 0,0:17:11.10,0:17:17.37,Default,,0,0,0,,...pois esse tem sido o papel primordial do supervisor\nao longo de todas as Guerras do Santo Graal já travadas.
+Dialogue: 0,0:17:17.87,0:17:21.84,Default,,0,0,0,,Esta é a quinta vez\nque a Guerra do Santo Graal é realizada nesta cidade.
+Dialogue: 0,0:17:22.41,0:17:24.76,Default,,0,0,0,,A guerra anterior ocorreu há dez anos.
+Dialogue: 0,0:17:25.87,0:17:27.38,Default,Shirou,0,0,0,,Vocês ficaram completamente loucos?!
+Dialogue: 0,0:17:27.72,0:17:30.64,Default,,0,0,0,,Está me dizendo que vocês já fizeram essa atrocidade quatro vezes?!
+Dialogue: 0,0:17:31.17,0:17:35.56,Default,Kirei,0,0,0,,As Guerras do Santo Graal passadas não foram nada além de calamidades absolutas.
+Dialogue: 0,0:17:35.56,0:17:39.33,Default,,0,0,0,,Mestres motivados por ambições egoístas,\nesqueceram o que aprenderam como magos,
+Dialogue: 0,0:17:39.33,0:17:41.36,Default,,0,0,0,,e começaram a não fazer nada além de se chacinarem indiscriminadamente.
+Dialogue: 0,0:17:41.73,0:17:47.44,Default,,0,0,0,,Por esse motivo, a partir da Terceira Guerra do Santo Graal,\na Associação enviou um supervisor neutro.
+Dialogue: 0,0:17:47.44,0:17:49.32,Default,,0,0,0,,Esse homem era o meu pai.
+Dialogue: 0,0:17:50.02,0:17:53.37,Default,,0,0,0,,E eu herdei as funções dele.
+Dialogue: 0,0:17:54.38,0:17:59.52,Default,Shirou,0,0,0,,Entendo... Esta Guerra do Santo Graal é um ritual terrivelmente nefasto.
+Dialogue: 0,0:17:59.52,0:18:00.81,Default,Kirei,0,0,0,,Oh?
+Dialogue: 0,0:18:00.81,0:18:05.59,Default,Shirou,0,0,0,,Afinal... os Mestres anteriores eram magos que desrespeitavam qualquer limite, certo?
+Dialogue: 0,0:18:06.14,0:18:11.22,Default,,0,0,0,,Se pessoas assim obtivessem o Santo Graal,\no que aconteceria se o usassem para caprichos mesquinhos?
+Dialogue: 0,0:18:11.22,0:18:15.22,Default,,0,0,0,,Não seria uma catástrofe se o Santo Graal caísse nas mãos de quem tira vidas sem hesitar?
+Dialogue: 0,0:18:15.66,0:18:19.12,Default,Kirei,0,0,0,,Independentemente do caráter de quem venha a possuir o Santo Graal,
+Dialogue: 0,0:18:19.12,0:18:21.45,Default,,0,0,0,,a Associação dos Magos não intervirá.
+Dialogue: 0,0:18:21.45,0:18:25.73,Default,,0,0,0,,Tudo o que nós regulamentamos são as regras.
+Dialogue: 0,0:18:26.04,0:18:30.11,Default,,0,0,0,,Se essa ideia o desagrada, então torne-se você mesmo o vencedor.
+Dialogue: 0,0:18:30.11,0:18:34.49,Default,,0,0,0,,Essa via é infinitamente mais confiável do que depender de terceiros.
+Dialogue: 0,0:18:34.89,0:18:36.49,Default,Shirou,0,0,0,,Isso não é da sua conta!
+Dialogue: 0,0:18:37.11,0:18:39.12,Default,,0,0,0,,Eu não tenho motivo algum para lutar,
+Dialogue: 0,0:18:39.12,0:18:41.25,Default,,0,0,0,,e tampouco tenho interesse pelo Santo Graal.
+Dialogue: 0,0:18:41.51,0:18:48.17,Default,Kirei,0,0,0,,Então você não tem interesse na calamidade que o portador do Santo Graal trará?
+Dialogue: 0,0:18:49.16,0:18:53.72,Default,,0,0,0,,Ou seja, como exemplo, você não teria interesse em algo como a tragédia ocorrida há dez anos, não é?
+Dialogue: 0,0:18:54.97,0:19:00.51,Default,,0,0,0,,No desfecho da Guerra do Santo Graal anterior,\num indivíduo inadequado tocou o Santo Graal.
+Dialogue: 0,0:19:01.04,0:19:04.01,Default,,0,0,0,,Não sabemos qual era o anseio daquele Mestre;
+Dialogue: 0,0:19:04.68,0:19:09.69,Default,,0,0,0,,a única coisa que sabemos é a marca deixada para trás por aquele desastre.
+Dialogue: 0,0:19:10.95,0:19:18.37,Default,,0,0,0,,Exatamente. O grande incêndio, cuja causa permanece inexplicada até hoje, foi precisamente a cicatriz deixada pela Guerra do Santo Graal.
+Dialogue: 0,0:19:19.24,0:19:21.00,Default,Rin,0,0,0,,Emiya-kun, o que aconteceu?
+Dialogue: 0,0:19:21.00,0:19:22.90,Default,Shirou,0,0,0,,Nada, estou bem.
+Dialogue: 0,0:19:23.69,0:19:26.50,Default,,0,0,0,,Então... quais foram os resultados da última Guerra do Santo Graal?
+Dialogue: 0,0:19:28.73,0:19:30.01,Default,Kirei,0,0,0,,Não houve resultado algum.
+Dialogue: 0,0:19:30.37,0:19:34.68,Default,,0,0,0,,Como eu disse, uma pessoa indigna tocou o Graal.
+Dialogue: 0,0:19:35.38,0:19:39.51,Default,,0,0,0,,Outro homem o tocou antes\nque a guerra alcançasse o seu desfecho.
+Dialogue: 0,0:19:39.82,0:19:43.18,Default,,0,0,0,,Todavia, aquele homem continuou fugindo das batalhas,
+Dialogue: 0,0:19:43.18,0:19:46.07,Default,,0,0,0,,e o Graal não se manifestou por completo.
+Dialogue: 0,0:19:46.07,0:19:51.53,Default,,0,0,0,,Uma vez reunidos todos os sete Servos, o Santo Graal surge por conta própria após decorrido tempo suficiente.
+Dialogue: 0,0:19:51.95,0:19:58.74,Default,,0,0,0,,Porém, o Santo Graal não reconheceu como seu detentor aquele homem que fugia dos confrontos.
+Dialogue: 0,0:19:59.72,0:20:05.72,Default,Rin,0,0,0,,Em outras palavras, mesmo obtendo o Santo Graal sem combater os demais Mestres, é inútil, certo?
+Dialogue: 0,0:20:06.46,0:20:10.50,Default,,0,0,0,,O Mestre que conseguiu tocar o Graal primeiro era apenas um ingênuo.
+Dialogue: 0,0:20:12.31,0:20:15.51,Default,Shirou,0,0,0,,Não me diga que você era esse Mestre!
+Dialogue: 0,0:20:15.85,0:20:17.62,Default,Kirei,0,0,0,,Em certa medida.
+Dialogue: 0,0:20:17.62,0:20:23.48,Default,,0,0,0,,No fim, perdi o meu Servo e fui acolhido pelo meu pai, que atuava como supervisor.
+Dialogue: 0,0:20:24.97,0:20:26.52,Default,,0,0,0,,Este é o encerramento da nossa conversa.
+Dialogue: 0,0:20:27.05,0:20:32.19,Default,,0,0,0,,Os únicos que detêm o direito de obter o Graal são os Mestres que exercem domínio sobre seus Servos.
+Dialogue: 0,0:20:33.05,0:20:36.27,Default,,0,0,0,,Quando restar apenas um de vocês, os sete Mestres,
+Dialogue: 0,0:20:36.27,0:20:39.03,Default,,0,0,0,,o Santo Graal se manifestará diante do vencedor.
+Dialogue: 0,0:20:40.16,0:20:41.41,Default,,0,0,0,,Eu lhe perguntarei mais uma vez.
+Dialogue: 0,0:20:43.66,0:20:45.07,Default,,0,0,0,,Shirou Emiya,
+Dialogue: 0,0:20:45.07,0:20:50.25,Default,,0,0,0,,como um Mestre escolhido, você possui a determinação para lutar nesta Guerra do Santo Graal?
+Dialogue: 0,0:20:56.10,0:20:57.09,Default,Shirou,0,0,0,,Eu vou lutar.
+Dialogue: 0,0:20:58.94,0:21:02.31,Default,,0,0,0,,Se a Guerra do Santo Graal foi a causa daquele grande incêndio há dez anos,
+Dialogue: 0,0:21:02.87,0:21:05.85,Default,,0,0,0,,então não permitirei que uma tragédia daquelas se repita jamais!
+Dialogue: 0,0:21:07.26,0:21:08.33,Default,Rin,0,0,0,,Então está decidido.
+Dialogue: 0,0:21:08.33,0:21:09.81,Default,,0,0,0,,Vamos embora agora.
+Dialogue: 0,0:21:11.11,0:21:12.70,Default,Kirei,0,0,0,,Regozije-se, jovem rapaz.
+Dialogue: 0,0:21:12.70,0:21:14.89,Default,,0,0,0,,O seu desejo finalmente será atendido.
+Dialogue: 0,0:21:16.15,0:21:20.32,Default,,0,0,0,,Sem a presença manifesta do mal, o seu desejo não pode ser realizado.
+Dialogue: 0,0:21:20.64,0:21:24.77,Default,,0,0,0,,Mesmo que seja algo inaceitável para você,
+Dialogue: 0,0:21:24.77,0:21:27.58,Default,,0,0,0,,há a necessidade do mal para se contrapor à justiça.
+Dialogue: 0,0:21:28.85,0:21:36.53,Default,,0,0,0,,Seus desejos mais nobres e suas ambições mais vis possuem a mesmíssima essência.
+Dialogue: 0,0:21:36.53,0:21:39.64,Default,,0,0,0,,Não se aflija, você não precisa emendá-los.
+Dialogue: 0,0:21:39.64,0:21:43.43,Default,,0,0,0,,O dilema que você carrega é a própria natureza da justiça humana.
+Dialogue: 0,0:21:46.62,0:21:48.01,Default,Rin,0,0,0,,Cumpri os meus deveres.
+Dialogue: 0,0:21:48.01,0:21:49.87,Default,Shirou,0,0,0,,Você é uma boa pessoa, Tohsaka.
+Dialogue: 0,0:21:49.87,0:21:50.49,Default,Rin,0,0,0,,Hã?
+Dialogue: 0,0:21:50.86,0:21:52.86,Default,,0,0,0,,Não vou pegar leve com você só porque está me elogiando.
+Dialogue: 0,0:21:52.86,0:21:53.44,Default,Saber,0,0,0,,Shirou!
+Dialogue: 0,0:22:03.77,0:22:05.60,Default,Ilya,0,0,0,,Boa noite, moço.
+Dialogue: 0,0:22:06.76,0:22:09.12,Default,,0,0,0,,Este é o nosso segundo encontro.
+Dialogue: 0,0:22:12.24,0:22:17.67,Song,,0,0,0,,No mais profundo da floresta,
+Dialogue: 0,0:22:18.58,0:22:23.92,Song,,0,0,0,,enquanto busco o tênue perfume...
+Dialogue: 0,0:22:24.92,0:22:30.72,Song,,0,0,0,,...dos vestígios dos dias que me eram tão caros,
+Dialogue: 0,0:22:31.05,0:22:36.68,Song,,0,0,0,,de repente ouço o som do seu riso.
+Dialogue: 0,0:22:37.10,0:22:43.19,Song,,0,0,0,,Desejando tocá-lo, estendi minhas mãos,
+Dialogue: 0,0:22:43.19,0:22:49.45,Song,,0,0,0,,mas a sua imagem desvaneceu no ar efêmera.
+Dialogue: 0,0:22:49.61,0:22:54.58,Song,,0,0,0,,Senti tanto a sua falta por todo esse tempo,
+Dialogue: 0,0:22:54.66,0:22:59.54,Song,,0,0,0,,ansiei tanto por você...
+Dialogue: 0,0:22:59.87,0:23:04.21,Song,,0,0,0,,Vagando através de noites insones,
+Dialogue: 0,0:23:04.21,0:23:10.89,Song,,0,0,0,,...estou chorando, envolto pela luz
+Dialogue: 0,0:23:13.43,0:23:19.60,Song,,0,0,0,,e pela sombra que você deixou para trás,
+Dialogue: 0,0:23:22.98,0:23:31.41,Song,,0,0,0,,...aqui, no mais profundo da escura floresta.
+Dialogue: 0,0:23:40.98,0:23:45.98,Signs,,0,0,0,,Prévia
+Dialogue: 0,0:24:04.78,0:24:07.92,Default,Kirei,0,0,0,,No próximo episódio: "O Inimigo Mais Poderoso".
+Dialogue: 0,0:24:05.98,0:24:10.99,Signs,,0,0,0,,Próximo Episódio
+Dialogue: 0,0:24:06.11,0:24:10.99,Signs,,0,0,0,,O Inimigo Mais Poderoso

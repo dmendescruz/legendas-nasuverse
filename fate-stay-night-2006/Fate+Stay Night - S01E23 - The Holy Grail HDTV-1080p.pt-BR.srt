@@ -1,0 +1,1283 @@
+1
+00:00:08,320 --> 00:00:09,740
+Ora...
+
+2
+00:00:09,740 --> 00:00:13,320
+Vai romper o seu pacto prestes a obter o Santo Graal?
+
+3
+00:00:13,570 --> 00:00:15,320
+Espíritos Heroicos como nós...
+
+4
+00:00:16,200 --> 00:00:19,330
+...para começo de conversa, nem estão interessados numa segunda vida!
+
+5
+00:00:46,110 --> 00:00:47,020
+Shirou?
+
+6
+00:00:48,400 --> 00:00:49,070
+Você voltou?
+
+7
+00:00:59,510 --> 00:01:03,880
+Lágrimas cintilantes transformam-se em estrelas,
+
+8
+00:01:04,050 --> 00:01:08,240
+conduzidas pelo vento, adornam o firmamento.
+
+9
+00:01:08,460 --> 00:01:12,700
+Mesmo quando o luar se oculta sob as nuvens,
+
+10
+00:01:12,960 --> 00:01:19,630
+...ele ainda reluz sobre mim.
+
+11
+00:01:26,720 --> 00:01:30,790
+Cansado de seguir os mesmos trilhos pré-traçados,
+
+12
+00:01:31,180 --> 00:01:35,320
+...disparei a correr impulsivamente.
+
+13
+00:01:35,670 --> 00:01:39,780
+Minha renúncia transforma-se em determinação,
+
+14
+00:01:40,020 --> 00:01:44,340
+...e encontro orgulho em meus calcanhares desgastados.
+
+15
+00:01:44,530 --> 00:01:53,310
+O caminho segue em frente, rumando a leste, rumando a oeste,
+
+16
+00:01:53,430 --> 00:01:57,370
+mesmo após o pôr do sol se esvair.
+
+17
+00:01:59,560 --> 00:02:03,860
+Lágrimas cintilantes transformam-se em estrelas,
+
+18
+00:02:04,040 --> 00:02:08,270
+conduzidas pelo vento, adornam o firmamento.
+
+19
+00:02:08,430 --> 00:02:12,730
+Mesmo quando o luar se oculta sob as nuvens,
+
+20
+00:02:12,930 --> 00:02:19,660
+...ele ainda reluz sobre mim.
+
+21
+00:02:22,620 --> 00:02:27,460
+Episódio 23
+
+22
+00:02:22,830 --> 00:02:27,460
+O Santo Graal
+
+23
+00:02:39,340 --> 00:02:40,430
+Tohsaka!
+
+24
+00:02:48,940 --> 00:02:50,480
+Vocês... finalmente voltaram...
+
+25
+00:02:50,810 --> 00:02:51,940
+Tohsaka...
+
+26
+00:02:51,940 --> 00:02:52,610
+Rin!
+
+27
+00:02:53,270 --> 00:02:54,480
+Vocês demoraram tanto...
+
+28
+00:02:54,900 --> 00:02:58,990
+...eu estava quase caindo no sono...
+
+29
+00:02:59,320 --> 00:03:00,490
+Não fale nada!
+
+30
+00:03:02,830 --> 00:03:04,490
+Saber, traga-me uma toalha e uma bacia com água.
+
+31
+00:03:10,210 --> 00:03:11,170
+Ataduras!
+
+32
+00:03:12,420 --> 00:03:13,170
+Está tudo bem...
+
+33
+00:03:14,130 --> 00:03:17,170
+Eu já... cuidei disso sozinha...
+
+34
+00:03:18,010 --> 00:03:19,050
+Desculpe...
+
+35
+00:03:19,050 --> 00:03:22,180
+Eu não consegui proteger a Illya...
+
+36
+00:03:22,390 --> 00:03:23,430
+A Illya?
+
+37
+00:03:24,050 --> 00:03:25,640
+Foi o Kotomine quem veio buscá-la?
+
+38
+00:03:29,890 --> 00:03:31,150
+Ele me enganou direitinho...
+
+39
+00:03:31,850 --> 00:03:36,940
+Eu nunca suspeitei que o Kirei fosse o sétimo Mestre.
+
+40
+00:03:38,690 --> 00:03:39,610
+Não se preocupe...
+
+41
+00:03:39,610 --> 00:03:40,950
+Podemos conversar sobre isso depois.
+
+42
+00:03:40,950 --> 00:03:42,110
+Eu preciso...
+
+43
+00:03:42,820 --> 00:03:45,660
+...te contar algumas coisas antes que...
+
+44
+00:03:46,030 --> 00:03:47,700
+Escute, Shirou...
+
+45
+00:03:47,700 --> 00:03:51,080
+Este será o meu último conselho para você, então preste muita atenção...
+
+46
+00:03:53,000 --> 00:03:54,330
+Primeiro...
+
+47
+00:03:55,540 --> 00:03:58,090
+O objetivo do Kirei é a Illya...
+
+48
+00:03:59,010 --> 00:04:03,890
+Ele provavelmente planejou usá-la
+como o recipiente do Graal desde o princípio...
+
+49
+00:04:04,340 --> 00:04:06,010
+Fazer da Illya o recipiente?
+
+50
+00:04:06,720 --> 00:04:09,810
+O coração dela, mais exatamente...
+
+51
+00:04:10,680 --> 00:04:14,900
+Um mago é, basicamente, um ser humano dotado de Circuitos Mágicos...
+
+52
+00:04:15,310 --> 00:04:19,570
+Já a Illya é... um Circuito Mágico transformado em humana...
+
+53
+00:04:19,570 --> 00:04:20,900
+Ela é um sacrifício, então?
+
+54
+00:04:21,110 --> 00:04:24,910
+Exatamente como a Caster queria fazer com você e a Sakura?
+
+55
+00:04:25,820 --> 00:04:28,290
+Até que reste apenas um Servo,
+
+56
+00:04:28,290 --> 00:04:30,290
+o portal para o Graal não se abrirá.
+
+57
+00:04:30,290 --> 00:04:35,920
+Nem mesmo o Kirei pensaria em fazer algo à Illya, o seu recipiente para o Graal.
+
+58
+00:04:37,540 --> 00:04:39,380
+Segundo...
+
+59
+00:04:39,380 --> 00:04:41,920
+Acredito que o Kirei estará no Templo Ryuudou...
+
+60
+00:04:42,510 --> 00:04:47,430
+Não existe lugar melhor para servir de palco para a descida do Santo Graal...
+
+61
+00:04:48,890 --> 00:04:50,430
+E por último...
+
+62
+00:04:51,100 --> 00:04:54,480
+Você não é forte o bastante para derrotar o Kirei...
+
+63
+00:04:54,480 --> 00:04:56,440
+Mesmo sabendo disso... você ainda vai enfrentá-lo?
+
+64
+00:04:56,810 --> 00:05:00,280
+Eu tenho contas a acertar com ele.
+
+65
+00:05:00,280 --> 00:05:02,190
+Como um sobrevivente da tragédia de dez anos atrás...
+
+66
+00:05:02,190 --> 00:05:04,150
+Como um daqueles órfãos...
+
+67
+00:05:04,150 --> 00:05:07,450
+E... como filho de Emiya Kiritsugu.
+
+68
+00:05:11,200 --> 00:05:11,950
+Compreendo...
+
+69
+00:05:12,790 --> 00:05:17,460
+Nesse caso... vou te entregar isto.
+
+70
+00:05:18,670 --> 00:05:19,960
+Essa é a Adaga Azoth, não é?
+
+71
+00:05:20,800 --> 00:05:24,260
+Um cajado mágico em formato de lâmina.
+
+72
+00:05:24,260 --> 00:05:29,470
+Uma adaga cerimonial dada a um mago quando se torna plenamente graduado...
+
+73
+00:05:34,100 --> 00:05:37,480
+É bem fraca se comparada às minhas joias...
+
+74
+00:05:37,690 --> 00:05:41,320
+...mas eu fui armazenando mana nela sempre que tinha tempo...
+
+75
+00:05:41,320 --> 00:05:46,320
+Grite "läßt" e libere toda a mana que possuir, e ela deverá se ativar.
+
+76
+00:05:41,320 --> 00:05:46,320
+Nota: Termo em alemão que significa "liberar"
+
+77
+00:05:46,320 --> 00:05:47,570
+Tem certeza de que posso ficar com ela?
+
+78
+00:05:47,570 --> 00:05:49,120
+Sim...
+
+79
+00:05:49,120 --> 00:05:52,370
+Eu sabia que não poderia derrotar o Kirei e a escondi dele,
+
+80
+00:05:52,370 --> 00:05:53,750
+então use você...
+
+81
+00:05:55,330 --> 00:05:57,170
+Então, vocês já estão prontos?
+
+82
+00:05:57,170 --> 00:06:00,090
+Estou com muito, muito sono...
+
+83
+00:06:01,250 --> 00:06:02,630
+Sim, sim, descanse.
+
+84
+00:06:02,630 --> 00:06:04,090
+Eu te acordo pela manhã.
+
+85
+00:06:04,840 --> 00:06:07,340
+E depois disso, preparo um café da manhã bem caprichado.
+
+86
+00:06:08,760 --> 00:06:10,260
+E uma última coisa...
+
+87
+00:06:10,260 --> 00:06:12,560
+Isto não é um conselho, é uma ordem...
+
+88
+00:06:13,060 --> 00:06:16,480
+Shirou... se você vai fazer isso,
+vença, mesmo que lhe custe a vida...
+
+89
+00:06:16,480 --> 00:06:19,350
+Se eu acordar e descobrir que você foi derrotado...
+
+90
+00:06:19,350 --> 00:06:20,940
+eu nunca vou te perdoar...
+
+91
+00:06:26,780 --> 00:06:28,070
+Você tem certeza disso?
+
+92
+00:06:28,450 --> 00:06:30,990
+A bainha pertencia a você originalmente, não é?
+
+93
+00:06:30,990 --> 00:06:32,990
+Faz todo o sentido que eu a devolva para você.
+
+94
+00:06:32,990 --> 00:06:37,120
+De fato, a minha mana aumentará se eu reaver a bainha.
+
+95
+00:06:37,120 --> 00:06:40,080
+No entanto, não há garantias de que poderei derrotar o Gilgamesh...
+
+96
+00:06:40,330 --> 00:06:43,880
+E uma vez que a bainha seja retirada do seu corpo, Shirou, você...
+
+97
+00:06:43,880 --> 00:06:48,220
+Sim... se eu for ferido, meus ferimentos não cicatrizarão...
+
+98
+00:06:48,220 --> 00:06:53,510
+Ainda assim, estive dependendo inconscientemente demais dessa condição.
+
+99
+00:06:53,510 --> 00:06:55,640
+Quando as pessoas sofrem ferimentos graves, elas morrem.
+
+100
+00:06:55,640 --> 00:06:57,100
+É assim que as coisas devem ser.
+
+101
+00:07:00,150 --> 00:07:01,650
+Eu compreendo.
+
+102
+00:07:01,650 --> 00:07:04,360
+Mestre, tomarei o seu coração emprestado, então.
+
+103
+00:07:04,690 --> 00:07:05,650
+Rápido.
+
+104
+00:07:05,650 --> 00:07:06,570
+Não temos tempo a perder.
+
+105
+00:07:08,860 --> 00:07:10,410
+Darei início ao procedimento.
+
+106
+00:07:10,410 --> 00:07:11,620
+Está preparado?
+
+107
+00:07:11,620 --> 00:07:12,620
+Sim.
+
+108
+00:07:12,620 --> 00:07:14,080
+Faça o que tiver de ser feito.
+
+109
+00:07:25,550 --> 00:07:30,130
+A bainha da espada sagrada está fundida ao meu corpo agora.
+
+110
+00:07:30,130 --> 00:07:34,510
+Preciso concentrá-la em um único ponto e restaurá-la à sua forma original.
+
+111
+00:07:35,560 --> 00:07:36,720
+Visualize-a...
+
+112
+00:07:37,430 --> 00:07:39,850
+Visualize a imagem dela!
+
+113
+00:07:46,230 --> 00:07:47,730
+Saber!
+
+114
+00:07:56,700 --> 00:07:57,830
+Incrível...
+
+115
+00:08:06,380 --> 00:08:08,670
+A densidade de mana é imensa.
+
+116
+00:08:08,670 --> 00:08:10,550
+Exatamente como há dez anos.
+
+117
+00:08:10,550 --> 00:08:12,800
+No topo da montanha, é quase certo que...
+
+118
+00:08:12,800 --> 00:08:15,470
+A invocação do Santo Graal já começou?
+
+119
+00:08:15,470 --> 00:08:17,260
+Ou será que já terminou?
+
+120
+00:08:18,010 --> 00:08:21,480
+De qualquer modo, isso significa que o Lancer foi derrotado por Gilgamesh.
+
+121
+00:08:23,560 --> 00:08:25,310
+Saber, você cuida do Gilgamesh.
+
+122
+00:08:26,650 --> 00:08:28,320
+Eu cuido do Kotomine.
+
+123
+00:08:32,950 --> 00:08:35,370
+Não interferiremos na luta um do outro.
+
+124
+00:08:35,370 --> 00:08:38,830
+Se derrotarmos qualquer um dos dois,\neles não conseguirão obter o Santo Graal.
+
+125
+00:08:39,290 --> 00:08:40,750
+E esse será o fim.
+
+126
+00:08:40,750 --> 00:08:41,710
+Sim.
+
+127
+00:08:41,710 --> 00:08:45,330
+Vou me concentrar em minha própria batalha desta vez.
+
+128
+00:08:45,830 --> 00:08:49,880
+E... o Kotomine é um inimigo que você mesmo deve derrotar.
+
+129
+00:08:51,090 --> 00:08:54,550
+Não importa qual seja o desfecho desta batalha,
+
+130
+00:08:54,550 --> 00:08:55,800
+a Saber irá desaparecer.
+
+131
+00:08:56,720 --> 00:08:58,600
+Ela se desvanecerá deste mundo...
+
+132
+00:08:58,930 --> 00:09:02,350
+...e retornará à era à qual pertence.
+
+133
+00:09:10,400 --> 00:09:12,190
+Eu ainda poderia dar meia-volta agora.
+
+134
+00:09:12,610 --> 00:09:16,700
+Talvez conseguisse encontrar uma maneira de encerrar isso sem perder a Saber.
+
+135
+00:09:18,070 --> 00:09:18,910
+Shirou...
+
+136
+00:09:25,580 --> 00:09:26,370
+Saber.
+
+137
+00:09:35,220 --> 00:09:35,880
+Vamos.
+
+138
+00:09:36,340 --> 00:09:38,390
+Esta será a nossa última batalha.
+
+139
+00:09:49,190 --> 00:09:52,280
+Eu estive à sua espera, Saber.
+
+140
+00:09:54,690 --> 00:09:56,910
+E o momento não poderia ser mais oportuno.
+
+141
+00:09:56,910 --> 00:09:59,870
+O Santo Graal acaba de abrir o portal.
+
+142
+00:09:59,870 --> 00:10:02,540
+Esta maldição é o que está contido no interior do Santo Graal:
+
+143
+00:10:02,990 --> 00:10:06,620
+o terceiro elemento que mantém nós, Servos, neste mundo...
+
+144
+00:10:07,170 --> 00:10:10,090
+aquilo que você derramou sobre mim há dez anos...
+
+145
+00:10:10,460 --> 00:10:11,550
+Gilgamesh...
+
+146
+00:10:12,050 --> 00:10:14,050
+O que é que você quer?!
+
+147
+00:10:14,380 --> 00:10:15,590
+Qual é o seu desejo?!
+
+148
+00:10:16,130 --> 00:10:19,140
+Eu já disse que não tenho nenhum, não disse?
+
+149
+00:10:19,890 --> 00:10:22,760
+A única coisa que me interessa é você.
+
+150
+00:10:29,020 --> 00:10:31,440
+Estive pensando nisso há muito tempo.
+
+151
+00:10:31,980 --> 00:10:37,150
+Em como eu a imobilizaria e a forçaria a engolir a maldição contra a sua vontade.
+
+152
+00:10:37,150 --> 00:10:41,030
+Pisaria em seu rosto em prantos e a faria engolir tanta lama que sua barriga ficaria estufada.
+
+153
+00:10:41,030 --> 00:10:44,080
+E então, incapaz de suportar, você se quebraria e rastejaria aos meus pés!
+
+154
+00:10:45,370 --> 00:10:47,710
+Como imaginei ver você manchada e corrompida!
+
+155
+00:10:48,120 --> 00:10:51,380
+Nesse caso, você não terá queixas...
+
+156
+00:10:52,380 --> 00:10:54,090
+...se acabar tendo exatamente o mesmo destino, não é?!
+
+157
+00:10:55,590 --> 00:10:59,050
+Que audácia, mesmo sabendo que não pode me vencer...
+
+158
+00:10:59,050 --> 00:11:01,640
+É perfeito para servir de clímax a estes festejos,
+
+159
+00:11:01,640 --> 00:11:02,720
+mas você, aquele vira-lata ali...
+
+160
+00:11:03,600 --> 00:11:06,730
+se tem assuntos a tratar com o Kotomine, saia logo da minha vista.
+
+161
+00:11:16,480 --> 00:11:18,070
+Illya!
+
+162
+00:11:45,220 --> 00:11:48,640
+O que você fez com a Illya?!
+
+163
+00:11:48,640 --> 00:11:52,480
+Kotomine!
+
+164
+00:11:53,730 --> 00:11:54,980
+Solte a Illya!
+
+165
+00:12:03,110 --> 00:12:04,240
+Se você a libertar, eu deixo isso passar!
+
+166
+00:12:04,910 --> 00:12:07,620
+Temo que isso não seja viável.
+
+167
+00:12:08,410 --> 00:12:10,460
+O Santo Graal já se manifestou,
+
+168
+00:12:10,460 --> 00:12:12,920
+mas o portal ainda não está estável.
+
+169
+00:12:13,830 --> 00:12:19,300
+Como ponto de contato, preciso que ela permaneça assim enquanto a vida dela permitir,
+
+170
+00:12:19,300 --> 00:12:22,010
+do contrário, meu desejo não será realizado.
+
+171
+00:12:23,430 --> 00:12:26,600
+Este é o poder que transborda do Santo Graal...
+
+172
+00:12:26,600 --> 00:12:30,180
+Ele fluirá incessantemente, gerando calamidades por toda parte.
+
+173
+00:12:30,600 --> 00:12:37,400
+Dentro dele residem males de todas as espécies, aquilo que amaldiçoa o mundo humano indiscriminadamente.
+
+174
+00:12:37,980 --> 00:12:43,030
+Há muito tempo, três famílias,
+lideradas pelos Einzbern, conspiraram juntas...
+
+175
+00:12:43,030 --> 00:12:46,320
+...e ergueram um sistema para invocar o Santo Graal.
+
+176
+00:12:46,320 --> 00:12:50,910
+Contudo, ainda não houve sequer uma pessoa
+que tenha presenciado a conclusão do Santo Graal.
+
+177
+00:12:51,410 --> 00:12:53,960
+Por vezes, falharam durante o processo de invocação.
+
+178
+00:12:53,960 --> 00:12:58,380
+Por vezes, o Santo Graal foi destruído, exatamente como fez o seu pai.
+
+179
+00:12:58,960 --> 00:13:04,930
+Esta é a primeira vez que o Santo Graal chegou tão perto de sua plenitude.
+
+180
+00:13:05,430 --> 00:13:08,560
+Por que você está trazendo tamanha catástrofe a este mundo?
+
+181
+00:13:09,390 --> 00:13:11,930
+Se eu tivesse de apontar um motivo, diria que é pelo prazer.
+
+182
+00:13:12,100 --> 00:13:15,730
+Todo prazer produzido pela humanidade é derivativo.
+
+183
+00:13:15,730 --> 00:13:19,480
+Não passa de uma impureza, algo digno de desprezo.
+
+184
+00:13:19,480 --> 00:13:24,200
+É no limiar da morte que a humanidade encontra o seu valor.
+
+185
+00:13:24,740 --> 00:13:27,070
+A vida é apenas o impulso,
+
+186
+00:13:27,070 --> 00:13:29,620
+para então saltarem alto, alcançarem os céus,
+
+187
+00:13:29,620 --> 00:13:31,410
+e brilharem com nobreza.
+
+188
+00:13:32,160 --> 00:13:36,250
+Esse lampejo fugaz... esse é o meu desejo!
+
+189
+00:13:39,340 --> 00:13:42,130
+Assim como todos vocês se alimentam da serenidade,
+
+190
+00:13:42,760 --> 00:13:46,680
+...eu devoro o brilho fulgurante das estrelas para viver.
+
+191
+00:13:47,510 --> 00:13:51,180
+O grande incêndio de dez anos atrás não foi algo tão ruim assim.
+
+192
+00:13:51,970 --> 00:13:56,440
+É em um inferno como aquele que se encontra o dilaceramento da alma,
+
+193
+00:13:56,440 --> 00:13:59,190
+...o mais esplêndido brilho que a humanidade é capaz de manifestar.
+
+194
+00:14:00,860 --> 00:14:06,910
+O clamor daqueles que pereceram repletos de rancor dilacerou o seu coração, não foi?
+
+195
+00:14:06,910 --> 00:14:13,040
+Pode soar distorcido, mas ninguém ama a humanidade com tanto fervor quanto eu.
+
+196
+00:14:13,040 --> 00:14:19,080
+Portanto, ninguém mais é tão digno de obter o Santo Graal quanto eu.
+
+197
+00:14:19,080 --> 00:14:20,090
+Entendo.
+
+198
+00:14:20,090 --> 00:14:21,540
+Agora eu compreendo...
+
+199
+00:14:22,420 --> 00:14:24,960
+...que você é diferente de qualquer um de nós!
+
+200
+00:14:36,230 --> 00:14:37,230
+Ah, poupe-me.
+
+201
+00:14:37,230 --> 00:14:39,350
+Isso vai acabar sendo apenas uma reprise da nossa última luta.
+
+202
+00:14:39,850 --> 00:14:41,860
+Não me diga que veio até aqui sem nenhuma estratégia.
+
+203
+00:14:52,450 --> 00:14:58,040
+Há um abismo imenso entre os anos que você viveu e os anos que eu vivi.
+
+204
+00:14:58,250 --> 00:15:00,540
+A menos que faça algo para compensar essa disparidade de vivência,
+
+205
+00:15:06,420 --> 00:15:08,380
+você jamais será capaz de superar essa diferença.
+
+206
+00:15:08,720 --> 00:15:11,590
+Portanto, lute colocando a sua própria vida em jogo.
+
+207
+00:15:11,590 --> 00:15:15,180
+Talvez assim consiga desferir um único golpe no meu corpo.
+
+208
+00:15:22,690 --> 00:15:24,650
+Uma mulher que nunca aprende...
+
+209
+00:15:25,190 --> 00:15:27,360
+Você não pode me derrotar...
+
+210
+00:15:27,650 --> 00:15:30,160
+Aquele pirralho não pode vencer o Kotomine...
+
+211
+00:15:30,700 --> 00:15:36,080
+Se você tivesse ido atrás do Santo Graal, esta poderia ter sido a sua vitória.
+
+212
+00:15:36,080 --> 00:15:37,660
+Você interpretou o papel errado.
+
+213
+00:15:37,910 --> 00:15:40,290
+Esta foi a escolha certa.
+
+214
+00:15:40,290 --> 00:15:42,170
+Eu não perderei para alguém como você.
+
+215
+00:15:42,830 --> 00:15:45,170
+E o Shirou não perderá para aquele homem.
+
+216
+00:15:45,590 --> 00:15:50,470
+Parece que você não aceitará a derrota
+a menos que ela seja absoluta.
+
+217
+00:15:51,510 --> 00:15:52,550
+Vejamos se consegue esquivar disto!
+
+218
+00:15:53,680 --> 00:15:55,100
+Não se preocupe;
+
+219
+00:15:55,100 --> 00:15:58,100
+com alguma sorte, apenas perfurarão os seus membros.
+
+220
+00:16:11,990 --> 00:16:15,660
+Muito bem, já está na hora de lhe ensinar a diferença em nosso poder...
+
+221
+00:16:15,660 --> 00:16:18,870
+...com a minha espada, Ea.
+
+222
+00:16:26,630 --> 00:16:27,550
+Enuma...
+
+223
+00:16:26,630 --> 00:16:27,550
+A Estrela da Criação
+
+224
+00:16:32,220 --> 00:16:33,430
+Espada da...
+
+225
+00:16:32,220 --> 00:16:33,430
+Ex-
+
+226
+00:16:36,480 --> 00:16:37,770
+-calibur!
+
+227
+00:16:36,480 --> 00:16:37,770
+...Vitória Prometida
+
+228
+00:16:37,140 --> 00:16:38,480
+Que Dividiu o Céu e a Terra
+
+229
+00:16:37,140 --> 00:16:38,480
+Elish!
+
+230
+00:16:43,600 --> 00:16:46,230
+Eu depositava grandes expectativas em você.
+
+231
+00:16:47,480 --> 00:16:57,370
+Você não imagina como fiquei exultante ao descobrir que era filho de Emiya Kiritsugu e que se assemelhava a ele em tudo.
+
+232
+00:16:57,580 --> 00:17:00,500
+O desejo que não pude realizar dez anos atrás...
+
+233
+00:17:01,500 --> 00:17:08,800
+...nunca suspeitei que seria capaz de transmiti-lo a Emiya Kiritsugu desta forma.
+
+234
+00:17:08,800 --> 00:17:12,380
+Por que odeia tanto o meu pai?
+
+235
+00:17:13,470 --> 00:17:16,180
+É o que chamam de ódio por alguém semelhante.
+
+236
+00:17:16,180 --> 00:17:19,390
+Cada ato cometido por Kiritsugu feria os meus nervos.
+
+237
+00:17:19,810 --> 00:17:24,440
+Pela mesmíssima razão que você nutre uma repulsa natural por mim.
+
+238
+00:17:24,440 --> 00:17:26,900
+Você está dizendo que o meu pai se parece com você?
+
+239
+00:17:27,310 --> 00:17:28,610
+Não me faça rir!
+
+240
+00:17:30,190 --> 00:17:32,490
+Talvez seja assim que você o enxergue.
+
+241
+00:17:32,490 --> 00:17:37,820
+Ele era tão complacente que até mesmo me deixou partir.
+
+242
+00:17:37,820 --> 00:17:43,370
+Eu provoquei aquele imenso incêndio, e embora
+ele tenha me derrotado, poupou a minha vida.
+
+243
+00:17:44,160 --> 00:17:48,330
+No entanto, nem mesmo eu pude compreender a razão de ele ter feito aquilo.
+
+244
+00:17:48,880 --> 00:17:55,050
+Um mago tão frio quanto ele salvou a minha vida.
+
+245
+00:17:55,470 --> 00:18:01,180
+Mas... esse não foi o verdadeiro erro que ele cometeu.
+
+246
+00:18:01,180 --> 00:18:05,940
+Foi a ilusão de acreditar que destruir o Santo Graal poria fim a todas as batalhas.
+
+247
+00:18:06,890 --> 00:18:08,940
+É por essa razão que ele nada lhe revelou...
+
+248
+00:18:09,310 --> 00:18:12,150
+...e encerrou a própria vida sendo consumido por esta maldição.
+
+249
+00:18:12,820 --> 00:18:16,900
+No fim, sucumbiu em poucos anos...
+
+250
+00:18:17,410 --> 00:18:23,660
+...junto com a tola ilusão de que havia encerrado vitoriosamente a Guerra do Santo Graal.
+
+251
+00:18:24,370 --> 00:18:26,210
+Isso quer dizer que quem matou o meu pai foi...
+
+252
+00:18:26,580 --> 00:18:28,210
+Eu.
+
+253
+00:18:35,970 --> 00:18:37,930
+Chegou o fim, Saber.
+
+254
+00:18:40,350 --> 00:18:42,890
+Como foram os últimos instantes de Kiritsugu?
+
+255
+00:18:44,310 --> 00:18:47,440
+Despejou todo o fardo da responsabilidade sobre você, seu próprio filho,
+
+256
+00:18:47,690 --> 00:18:50,770
+e partiu sentindo-se confortado, não foi?
+
+257
+00:18:59,740 --> 00:19:00,950
+Eis a sua recompensa.
+
+258
+00:19:01,570 --> 00:19:03,950
+Tenha o mesmíssimo destino de Kiritsugu!
+
+259
+00:19:04,160 --> 00:19:05,290
+Seu desgraçado!
+
+260
+00:19:06,700 --> 00:19:08,160
+Angra Mainyu!
+
+261
+00:19:08,620 --> 00:19:11,290
+Sofra todos os males deste mundo!
+
+262
+00:19:19,550 --> 00:19:22,680
+Parece que a disputa ali adiante terminou.
+
+263
+00:19:23,260 --> 00:19:24,810
+Você consegue sentir, não consegue?
+
+264
+00:19:25,430 --> 00:19:30,140
+O Kotomine invocou a maldição definitiva diretamente do Santo Graal.
+
+265
+00:19:30,140 --> 00:19:33,360
+O seu Mestre não pertence mais a este mundo.
+
+266
+00:19:33,360 --> 00:19:34,770
+Isso não é verdade.
+
+267
+00:19:35,360 --> 00:19:37,150
+O Shirou continua vivo!
+
+268
+00:19:39,400 --> 00:19:41,610
+Eu ainda consigo sentir o meu elo com o Shirou.
+
+269
+00:19:43,120 --> 00:19:45,830
+Em breve, o Santo Graal transbordará.
+
+270
+00:19:46,200 --> 00:19:47,830
+Regozije-se, Saber!
+
+271
+00:19:49,000 --> 00:19:50,710
+Se eu derramar essa maldição sobre você,
+
+272
+00:19:50,710 --> 00:19:52,830
+você se tornará igual a mim.
+
+273
+00:19:53,540 --> 00:19:57,050
+Poderá desfrutar de uma segunda vida neste mundo.
+
+274
+00:19:57,420 --> 00:19:59,550
+Então você se banhou nisso?
+
+275
+00:19:59,880 --> 00:20:02,260
+Nesse caso, você também irá...
+
+276
+00:20:03,390 --> 00:20:07,140
+O que é um herói se não puder suportar o trago de uma maldição?!
+
+277
+00:20:09,850 --> 00:20:12,270
+Todos os males deste mundo?
+
+278
+00:20:12,270 --> 00:20:15,190
+Se pretende me corromper, traga pelo menos o triplo dessa quantia!
+
+279
+00:20:16,730 --> 00:20:21,530
+Um herói é aquele que carrega
+todas as pessoas sob o seu olhar em suas costas.
+
+280
+00:20:21,530 --> 00:20:24,820
+Eu venho sustentando o peso deste mundo desde a era mais remota.
+
+281
+00:20:28,120 --> 00:20:30,120
+Banhar você nessa lama é tentador,
+
+282
+00:20:30,120 --> 00:20:33,210
+mas se você perder a sua consciência, não terá graça alguma.
+
+283
+00:20:33,790 --> 00:20:36,420
+Por que não aceita se casar comigo antes disso?
+
+284
+00:20:38,300 --> 00:20:41,720
+Não está acostumada a ser tratada com aspereza?
+
+285
+00:20:41,720 --> 00:20:43,090
+Pois então se acostume.
+
+286
+00:20:43,680 --> 00:20:47,100
+Eu simplesmente tomo posse de tudo o que desejo no momento em que me der vontade, e devoro.
+
+287
+00:20:47,680 --> 00:20:50,220
+Eu não serei propriedade de ninguém!
+
+288
+00:20:50,220 --> 00:20:52,600
+Sou um rei antes de ser uma mulher.
+
+289
+00:20:53,100 --> 00:20:56,610
+Para um soberano, o país nada mais é do que sua posse.
+
+290
+00:20:56,610 --> 00:20:58,980
+Se um rei não puder governar tudo à sua volta,
+
+291
+00:20:59,400 --> 00:21:02,610
+...então seres transcendentes como reis tornam-se desnecessários.
+
+292
+00:21:02,990 --> 00:21:08,620
+É por essa razão, Rei Arthur, que você foi destruída pelo seu próprio povo.
+
+293
+00:21:08,990 --> 00:21:10,370
+Sim, com efeito.
+
+294
+00:21:10,910 --> 00:21:12,250
+Contudo, Rei dos Heróis,
+
+295
+00:21:12,250 --> 00:21:15,290
+é exatamente por essa razão que você destruiu o seu próprio reino!
+
+296
+00:21:27,600 --> 00:21:31,020
+Parece que você realmente deseja ser castigada...
+
+297
+00:21:36,100 --> 00:21:37,360
+Está falando sério?
+
+298
+00:21:42,900 --> 00:21:46,410
+O seu Fantasma Nobre é incapaz de superar o meu Fantasma Nobre.
+
+299
+00:21:47,410 --> 00:21:50,870
+Pensei que você tivesse aprendido essa lição da maneira mais dura.
+
+300
+00:21:51,410 --> 00:21:53,370
+Pois bem, não conterei absolutamente nada contra você!
+
+301
+00:21:54,910 --> 00:21:57,830
+Desapareça! Sua simples presença me enoja, mulher!
+
+302
+00:22:03,470 --> 00:22:05,850
+A Estrela da Criação que Dividiu o Céu e a Terra
+
+303
+00:22:03,470 --> 00:22:05,850
+Enuma Elish!
+
+304
+00:22:12,260 --> 00:22:17,690
+Bem no fundo da floresta,
+
+305
+00:22:18,600 --> 00:22:23,940
+enquanto busco pelo suave aroma...
+
+306
+00:22:24,940 --> 00:22:30,740
+...dos vestígios daqueles dias tão queridos,
+
+307
+00:22:31,070 --> 00:22:36,700
+de repente escuto o eco do seu riso.
+
+308
+00:22:37,120 --> 00:22:43,210
+Desejando tocá-lo, estendi as minhas mãos,
+
+309
+00:22:43,210 --> 00:22:49,470
+mas a sua imagem tremulou efêmera pelo ar.
+
+310
+00:22:49,630 --> 00:22:54,600
+Sinto tanto a sua falta há tanto tempo,
+
+311
+00:22:54,680 --> 00:22:59,560
+anseio por você há tanto tempo.
+
+312
+00:22:59,890 --> 00:23:04,230
+Vagando através de noites sem dormir,
+
+313
+00:23:04,230 --> 00:23:10,910
+...estou chorando, envolta pela luz
+
+314
+00:23:13,450 --> 00:23:19,620
+e pela sombra que você deixou para trás,
+
+315
+00:23:23,000 --> 00:23:31,430
+...aqui, na floresta profunda e escura.
+
+316
+00:23:41,010 --> 00:23:46,020
+Prévia
+
+317
+00:24:03,120 --> 00:24:07,500
+Episódio final: "A Utopia Tão Distante".
+
+318
+00:24:05,940 --> 00:24:10,950
+Episódio Final
+
+319
+00:24:06,190 --> 00:24:10,950
+A Utopia Tão Distante
+

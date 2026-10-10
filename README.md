@@ -1,5 +1,5 @@
 # Legendas do Nasuverse em Português Brasileiro (PT-BR)
-### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners*, *Fate/stay night [Unlimited Blade Works]*, a Trilogia *Fate/stay night [Heaven's Feel]* e *Fate/Zero*
+### Arquivos de legendas (.ass e .srt) para *The Garden of Sinners*, *Fate/stay night [Unlimited Blade Works]*, a Trilogia *Fate/stay night [Heaven's Feel]*, *Fate/Zero*, *Today's Menu for the Emiya Family* e *Fate/stay night (2006)*
 
 > **Este repositório reúne arquivos de legendas em português brasileiro (.ass estilizado e .srt limpo) prontos para download e uso em reprodutores de vídeo (VLC, MPV) e servidores de mídia (Jellyfin, Plex, Emby).**  
 > Todas as faixas foram sincronizadas e revisadas com base nos lançamentos definitivos em Blu-ray (BD-Rip), cobrindo episódios estendidos e cenas adicionais ausentes das transmissões de TV.
@@ -8,7 +8,7 @@
 
 ## O que é este repositório?
 
-Este repositório disponibiliza e organiza **arquivos de legendas em português do Brasil** para obras selecionadas do Nasuverse (Type-Moon / estúdio ufotable).
+Este repositório disponibiliza e organiza **arquivos de legendas em português do Brasil** para obras selecionadas do Nasuverse (Type-Moon / estúdio ufotable / Studio Deen).
 
 As obras de Kinoko Nasu combinam diálogos introspectivos, dilemas conceituais e um sistema rigoroso de regras mágicas. Com o lançamento das versões definitivas em Blu-ray, diversos filmes de *The Garden of Sinners* (*Kara no Kyoukai*) e episódios de *Fate/stay night [Unlimited Blade Works]* ganharam minutos adicionais de diálogos, mudanças de montagem e ritmo estendido.
 
@@ -21,7 +21,7 @@ O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses prob
 
 ## Conteúdo do Acervo
 
-O repositório é composto por **134 arquivos de legendas** (67 pares duplos), cobrindo integralmente as seguintes sagas:
+O repositório é composto por **182 arquivos de legendas** (91 pares duplos), cobrindo integralmente as seguintes sagas:
 
 ### 1. The Garden of Sinners (*Kara no Kyoukai* / 空の境界) — Coleção Completa (10 Títulos)
 * **Filme 1:** *Vista Panorâmica (Overlooking View / 俯瞰風景)* [2007]
@@ -106,6 +106,37 @@ O cotidiano afetuoso e acolhedor de Fuyuki onde os Mestres e Servos convivem pac
 * **S01E13 — Hot, Hot Hot Pot:** 137 eventos. O encerramento sob a nevasca de Fuyuki com todos reunidos na residência Emiya saboreando a panela quente (*Nabemono*) e a sopa cremosa de arroz (*Zousui*).
 
 > **Total em Today's Menu:** 13 episódios completos em padrão duplo (.ass estilizado e .srt limpo), somando 1.840 linhas de diálogo e receitas milimetricamente sincronizadas.
+
+---
+
+### 6. Fate/stay night (2006) — Rota da Saber (Studio Deen) — Temporada Completa (24 Episódios)
+A adaptação clássica inaugural que introduziu a lenda do Santo Graal, focando no laço inquebrável entre Shirou Emiya e a Serva da espada, Saber (Artoria Pendragon):
+* **S01E01 — The First Day (O Primeiro Dia):** 354 eventos. A rotina pacífica em Fuyuki, a limpeza do dojo de tiro com arco, o encontro com Rin Tohsaka e a invocação acidental de Saber no depósito de ferramentas.
+* **S01E02 — Fateful Night (Noite Fatídica):** 338 eventos. O embate com Lancer, o encontro com Rin e Archer nas ruas de Fuyuki e a visita à Igreja de Kotomine Kirei para registrar Shirou como Mestre.
+* **S01E03 — Opening Act (Abertura dos Festejos):** 342 eventos. A emboscada na colina no retorno da igreja, a manifestação esmagadora de Berserker (Heracles) e a revelação de Illyasviel von Einzbern.
+* **S01E04 — The Strongest Enemy (O Inimigo Mais Poderoso):** 275 eventos. O resgate de Saber, a constatação de sua debilidade mágica por Shirou ser um mago incompleto e as lembranças do falecido Kiritsugu Emiya.
+* **S01E05 — Two Magi - Part 1 (Dois Magos - Parte 1):** 383 eventos. A trégua entre Shirou e Rin, o cotidiano escolar em Homurahara e a suspeita da presença de outro Mestre nas dependências da escola.
+* **S01E06 — Two Magi - Part 2 (Dois Magos - Parte 2):** 346 eventos. O ataque surpresa com feitiços na escola vazia à noite e o primeiro confronto direto com Rider (Medusa).
+* **S01E07 — Despicable Act (Ato Repulsivo):** 347 eventos. A descoberta do Mestre de Rider (Shinji Matou), o Templo Ryuudou e a invasão secreta de Saber à montanha sagrada.
+* **S01E08 — Discordant Melody (Melodia Dissonante):** 394 eventos. A batalha nos degraus do templo contra Assassin (Sasaki Kojirou) e as manipulações ocultas de Caster (Medeia).
+* **S01E09 — Elegance In The Moonlight (Elegância sob o Luar):** 237 eventos. O duelo de Saber e Shirou contra Rider nos arranha-céus da cidade, culminando no combate aéreo e a queda de Rider.
+* **S01E10 — The Calm Interlude (Interlúdio Sereno):** 352 eventos. Dias de descanso na residência Emiya, o treinamento de esgrima com Saber e as tensões afetuosas da juventude.
+* **S01E11 — Temple of Blood (Templo de Sangue):** 345 eventos. A ativação do Campo Delimitado *Bloodfort Andromeda* na escola por Shinji e a convocação de emergencia de Saber por Shirou.
+* **S01E12 — Splitting The Sky (Rachando os Céus):** 288 eventos. A liberação do Fantasma Nobre *Bellerophon* por Rider na cobertura da escola e a revelação da espada sagrada *Excalibur* por Saber.
+* **S01E13 — Winter Castle (O Castelo de Inverno):** 286 eventos. A viagem até a floresta profunda de Fuyuki e a invasão do lendário Castelo dos Einzbern para enfrentar Illya.
+* **S01E14 — The End of the Ideal (O Fim do Ideal):** 246 eventos. O confronto brutal de Archer contra Berserker, a manifestação da Barreira Inata *Unlimited Blade Works*, a canção tema *Hikari* e a queda heroica de Archer.
+* **S01E15 — The Twelve Trials (Os Doze Trabalhos):** 354 eventos. A estreia da abertura *Kirameku Namida wa Hoshi ni*, a natureza do Fantasma Nobre *God Hand* de Berserker e o ritual de transplante de circuitos mágicos entre Shirou e Saber.
+* **S01E16 — The Sword of the Promised Victory (A Espada da Vitória Prometida):** 315 eventos. A Projeção milagrosa da espada de seleção *Caliburn*, a aniquilação das vidas restantes de Berserker e o resgate de Illya.
+* **S01E17 — Mark of the Witch (A Marca da Bruxa):** 386 eventos. A captura de Saber por Caster com a adaga *Rule Breaker*, a primeira projeção do par de lâminas *Kanshou & Bakuya* por Shirou e o cerco das marionetes esqueléticas.
+* **S01E18 — Decisive Battle (Batalha Decisiva):** 239 eventos. O embate com Souichirou Kuzuki, a quebra dos fios mágicos, a eliminação de Caster e o lendário duelo final de espadas entre Saber e Assassin (*Tsubame Gaeshi*) nos portões do templo.
+* **S01E19 — The Golden King (O Rei Dourado):** 258 eventos. A aparição do oitavo Servo Gilgamesh, a revelação de seus tesouros infinitos do *Gate of Babylon* e sua proposta tirânica a Saber.
+* **S01E20 — Distant Trace of a Dream (Vestígio Distante de um Sonho):** 296 eventos. O passado de Artoria na Colina de Camlann, a dor de um rei incompreendido e o encontro de Shirou e Saber na ponte de Fuyuki.
+* **S01E21 — The Star of Creation That Divided Heaven and Earth (A Estrela da Criação que Dividiu o Céu e a Terra):** 271 eventos. A espada de ruptura *Ea*, a liberação de *Enuma Elish* e a recusa irredutível de Saber em submeter-se ao Rei dos Heróis.
+* **S01E22 — Result of a Wish (O Resultado de um Desejo):** 345 eventos. O sacrifício heroico de Lancer na igreja, a oferta de Kirei Kotomine de refazer o passado, a recusa categórica de Shirou e Saber e a revelação da bainha sagrada *Avalon* no corpo de Shirou.
+* **S01E23 — The Holy Grail (O Santo Graal):** 321 eventos. A entrega da Adaga Azoth por Rin, a devolução de Avalon ao peito de Saber e a marcha decisiva rumo ao lago do Templo Ryuudou.
+* **S01E24 — The All Too Distant Utopia (A Utopia Tão Distante):** 256 eventos. A Projeção de Avalon contra Ea, a derrota definitiva de Gilgamesh e Kotomine, a destruição do Cálice, a despedida comovente de Saber ("Shirou... eu te amo"), o retorno a Camlann sob os cuidados de Sir Bedivere devolvendo Excalibur à Dama do Lago, e a canção de encerramento *Kimi to no Ashita*.
+
+> **Total em Fate/stay night (2006):** 24 episódios completos em padrão duplo (.ass estilizado e .srt limpo), somando 7.426 eventos de fala, invocações e placas milimetricamente sincronizados.
 
 ---
 

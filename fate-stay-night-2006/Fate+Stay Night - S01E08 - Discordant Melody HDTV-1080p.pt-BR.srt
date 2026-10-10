@@ -1,0 +1,1576 @@
+1
+00:00:04,070 --> 00:00:05,140
+Saber?!
+
+2
+00:00:05,140 --> 00:00:08,270
+Por que você quebrou a sua promessa?
+
+3
+00:00:08,450 --> 00:00:11,780
+Invoque-me caso pressinta o perigo.
+
+4
+00:00:13,760 --> 00:00:17,040
+Eu disse  no terraço ao meio-dia, não disse?
+
+5
+00:00:17,040 --> 00:00:18,060
+Não, é que...
+
+6
+00:00:18,060 --> 00:00:20,290
+Não me diga que você se esqueceu?
+
+7
+00:00:22,960 --> 00:00:23,960
+O que é isso...
+
+8
+00:00:26,510 --> 00:00:28,540
+Pode recuar, Rider.
+
+9
+00:00:41,310 --> 00:00:43,560
+Não faça uma cara tão assustadora.
+
+10
+00:00:45,730 --> 00:00:49,360
+Pelo que posso ver, você também foi forçado a se tornar um Mestre.
+
+11
+00:00:49,710 --> 00:00:51,850
+Para dizer a verdade, é a mesmíssima coisa comigo.
+
+12
+00:00:51,850 --> 00:00:56,700
+Embora eu não tenha a menor intenção de lutar, fui arrastado para esta Guerra do Santo Graal, e isso é um tremendo estorvo.
+
+13
+00:00:57,300 --> 00:00:59,670
+Então o que significa esta barreira?
+
+14
+00:00:59,670 --> 00:01:02,170
+Está dizendo que não quer lutar depois de armar uma coisa dessas no colég-
+
+15
+00:01:02,170 --> 00:01:06,080
+Há aquela maga de sangue puro, a Tohsaka, estudando nesta escola, não há?
+
+16
+00:01:06,610 --> 00:01:09,840
+Por isso eu precisava estabelecer algumas táticas defensivas.
+
+17
+00:01:10,070 --> 00:01:12,170
+Isso não significa que você precisava recorrer a esse tipo de barreira...
+
+18
+00:01:12,170 --> 00:01:15,400
+Emiya, você me conhece; eu detesto conflitos.
+
+19
+00:01:15,400 --> 00:01:19,400
+Além disso, não somos velhos amigos?
+
+20
+00:01:30,650 --> 00:01:35,490
+A sombra passageira que contemplei em sonhos...
+
+21
+00:01:36,910 --> 00:01:41,030
+O clamor que não pôde alcançar...
+
+22
+00:01:42,040 --> 00:01:47,290
+Não importa como eu me imagine amanhã,
+
+23
+00:01:48,290 --> 00:01:53,510
+serei envolvido por desejos que jamais desaparecerão.
+
+24
+00:01:56,930 --> 00:02:06,730
+Com a mão que agarra os fragmentos que caem
+
+25
+00:02:08,310 --> 00:02:21,830
+e o coração hesitante, salto em direção à noite...
+
+26
+00:02:22,200 --> 00:02:33,710
+Se for para viver por alguém, que este instante seja tudo,
+
+27
+00:02:33,710 --> 00:02:45,640
+dispa-se suavemente dessa máscara e seja apenas quem você é agora...
+
+28
+00:02:47,560 --> 00:02:53,440
+Episódio 8
+
+29
+00:02:47,720 --> 00:02:53,440
+Melodia Dissonante
+
+30
+00:02:59,340 --> 00:03:02,720
+Faz dois anos desde que você esteve aqui pela última vez, não é?
+
+31
+00:03:03,290 --> 00:03:03,950
+Ei.
+
+32
+00:03:05,880 --> 00:03:07,670
+Estou mantendo ela por perto...
+
+33
+00:03:07,670 --> 00:03:09,620
+...porque tenho bastante medo do seu Servo também.
+
+34
+00:03:10,870 --> 00:03:14,760
+Por um lado você diz que confia em mim,\ne por outro é essa a postura que você adota?
+
+35
+00:03:14,760 --> 00:03:17,630
+Bem, você também pode chamar o seu Servo.
+
+36
+00:03:17,810 --> 00:03:20,720
+Sim, essa é uma ótima ideia.
+
+37
+00:03:20,720 --> 00:03:22,660
+Dessa maneira poderemos nos compreender mutuamente.
+
+38
+00:03:22,660 --> 00:03:23,840
+Que proposta justa!
+
+39
+00:03:24,230 --> 00:03:27,770
+Eu mostrei a minha, agora mostre o seu.
+
+40
+00:03:27,770 --> 00:03:29,190
+Acho que não.
+
+41
+00:03:29,190 --> 00:03:31,810
+Ela está me impedindo de fazer qualquer movimento,\nisso já deve ser suficiente para você.
+
+42
+00:03:32,420 --> 00:03:34,900
+Droga, você continua imprestável como sempre.
+
+43
+00:03:35,610 --> 00:03:38,150
+Tudo bem, vamos direto aos negócios.
+
+44
+00:03:38,700 --> 00:03:41,150
+Emiya, quer formar uma aliança comigo?
+
+45
+00:03:43,890 --> 00:03:48,410
+Para ser sincero, ainda sou muito inexperiente como Mestre,
+
+46
+00:03:48,410 --> 00:03:50,900
+por isso quero me aliar a alguém em quem eu possa confiar.
+
+47
+00:03:50,900 --> 00:03:53,360
+Antes disso, eu quero lhe fazer uma pergunta.
+
+48
+00:03:53,360 --> 00:03:55,200
+Primeiro, sobre a Mitsuzuri.
+
+49
+00:03:55,200 --> 00:03:56,590
+A pessoa que a atacou foi...
+
+50
+00:03:57,100 --> 00:04:01,720
+Sim, fiquei profundamente abalado pela tragédia dela.
+
+51
+00:04:01,720 --> 00:04:04,750
+Há uma enorme probabilidade de que o Servo de alguém a tenha agredido.
+
+52
+00:04:04,750 --> 00:04:07,390
+É claro que juro por Deus que não fui eu.
+
+53
+00:04:10,240 --> 00:04:11,750
+Entendi.
+
+54
+00:04:11,750 --> 00:04:13,360
+Então mais uma pergunta.
+
+55
+00:04:13,360 --> 00:04:16,220
+Como foi que você se tornou um Mestre?
+
+56
+00:04:16,220 --> 00:04:19,570
+A família Matou é uma linhagem tradicional de magos.
+
+57
+00:04:19,940 --> 00:04:21,320
+O quê?!
+
+58
+00:04:21,320 --> 00:04:24,840
+Dito isso, as nossas raízes secaram.
+
+59
+00:04:24,840 --> 00:04:27,480
+Nós não somos mais magos praticantes.
+
+60
+00:04:27,480 --> 00:04:29,330
+Nós preservamos apenas o conhecimento.
+
+61
+00:04:29,550 --> 00:04:32,770
+Não me diga que a Sakura também tem aprendido magia!
+
+62
+00:04:32,770 --> 00:04:34,040
+Você não sabe de nada mesmo, não é?
+
+63
+00:04:34,960 --> 00:04:38,970
+Quando há dois ou mais filhos, o herdeiro é o primogênito homem.
+
+64
+00:04:38,970 --> 00:04:43,320
+Filhos que não foram escolhidos como sucessores são criados na total ignorância,
+
+65
+00:04:43,320 --> 00:04:45,300
+ou enviados a outras famílias como filhos adotivos.
+
+66
+00:04:45,690 --> 00:04:46,930
+Entendi...
+
+67
+00:04:46,930 --> 00:04:49,860
+Então a Sakura não faz parte desta Guerra do Santo Graal.
+
+68
+00:04:49,860 --> 00:04:51,910
+Eu não consigo usar magia.
+
+69
+00:04:51,910 --> 00:04:53,390
+E você não possui o conhecimento formal.
+
+70
+00:04:53,850 --> 00:04:55,910
+Não acha que formamos a dupla perfeita?
+
+71
+00:04:55,910 --> 00:05:00,900
+Vamos nos unir e lutar contra a nossa inimiga imediata... a Tohsaka Rin.
+
+72
+00:05:02,070 --> 00:05:03,410
+Contra a Tohsaka?
+
+73
+00:05:03,410 --> 00:05:07,970
+Aquela mulher parece confiar em você...
+
+74
+00:05:07,970 --> 00:05:13,340
+e como eu não possuo circuitos mágicos, os outros magos não conseguem me rastrear.
+
+75
+00:05:13,340 --> 00:05:16,770
+Se formarmos uma equipe, com certeza derrotaremos a Tohsaka.
+
+76
+00:05:17,710 --> 00:05:22,250
+Espere, a Tohsaka disse que havia mais um mago na escola.
+
+77
+00:05:22,760 --> 00:05:25,300
+Se você não está no radar dela, então...
+
+78
+00:05:25,300 --> 00:05:29,510
+Então isso só quer dizer que há um quarto Mestre nesta escola, certo?
+
+79
+00:05:30,040 --> 00:05:31,020
+Um quarto Mestre?
+
+80
+00:05:32,220 --> 00:05:36,260
+É claro que você pode estar confiando demais na Tohsaka.
+
+81
+00:05:36,260 --> 00:05:40,110
+Quem sabe não foi ela quem atacou a Mitsuzuri?
+
+82
+00:05:42,720 --> 00:05:43,640
+Emiya?
+
+83
+00:05:43,640 --> 00:05:45,610
+A nossa conversa termina aqui.
+
+84
+00:05:45,610 --> 00:05:48,070
+Eu terei que lutar contra a Tohsaka eventualmente,
+
+85
+00:05:48,070 --> 00:05:51,190
+mas neste momento eu confio nela, e pretendo manter as coisas assim.
+
+86
+00:05:51,190 --> 00:05:52,570
+Muito bem.
+
+87
+00:05:52,570 --> 00:05:54,830
+Vou apenas observar dos bastidores por um tempo, então.
+
+88
+00:05:55,270 --> 00:05:58,560
+Desculpe por não poder ajudá-lo, Shinji.
+
+89
+00:05:58,560 --> 00:05:59,890
+Ah, isso me lembrou.
+
+90
+00:05:59,890 --> 00:06:02,590
+Como prova da minha boa vontade, deixe-me dizer uma coisa.
+
+91
+00:06:03,230 --> 00:06:07,630
+Não sei quem seja, mas um dos Mestres construiu um ninho no Templo Ryuudouji.
+
+92
+00:06:08,590 --> 00:06:09,940
+No Templo Ryuudouji?!
+
+93
+00:06:09,940 --> 00:06:11,330
+Na casa do Issei?
+
+94
+00:06:11,330 --> 00:06:15,180
+Segundo a minha Serva, há uma bruxa vivendo no topo da montanha,
+
+95
+00:06:15,180 --> 00:06:17,750
+e ela está coletando espíritos em grande escala.
+
+96
+00:06:17,750 --> 00:06:21,920
+Mas eu não planejo impedi-la.
+
+97
+00:06:21,920 --> 00:06:24,920
+Uma bruxa coletando espíritos...
+
+98
+00:06:33,500 --> 00:06:37,120
+Ei, aquilo sobre o Templo Ryuudouji era mesmo verdade?
+
+99
+00:06:39,330 --> 00:06:41,570
+Ah, é verdade, foi mal.
+
+100
+00:06:41,570 --> 00:06:43,840
+Essa foi uma pergunta bem idiota para se fazer a um inimigo.
+
+101
+00:06:44,670 --> 00:06:47,840
+É verdade que uma bruxa reside naquela montanha.
+
+102
+00:06:48,350 --> 00:06:50,610
+Tenha muito cuidado se for até lá.
+
+103
+00:06:50,610 --> 00:06:54,400
+Aquela bruxa conhece tudo sobre a fraqueza dos homens.
+
+104
+00:06:54,400 --> 00:06:56,940
+O-Obrigado pelo aviso.
+
+105
+00:06:57,190 --> 00:07:00,630
+Ah, e... cuide do Shinji.
+
+106
+00:07:00,630 --> 00:07:04,150
+Ele não é do tipo que sabe lutar, então mantenha-o em segurança.
+
+107
+00:07:07,130 --> 00:07:09,370
+Você é incrivelmente bondoso.
+
+108
+00:07:12,790 --> 00:07:14,790
+Há um Mestre no Templo Ryuudouji, hein?
+
+109
+00:07:21,310 --> 00:07:22,920
+O sinal abriu, Emiya.
+
+110
+00:07:24,060 --> 00:07:24,930
+Ah, Issei.
+
+111
+00:07:24,930 --> 00:07:27,920
+O que houve? Você estava encarando a montanha.
+
+112
+00:07:27,920 --> 00:07:31,420
+Ei, aconteceu algo estranho no templo ultimamente?
+
+113
+00:07:31,840 --> 00:07:37,140
+Coisas estranhas acontecem todos os dias,\nafinal nós somos  uma comunidade de cinquenta monges lá em cima.
+
+114
+00:07:37,140 --> 00:07:40,060
+Dito isso, nada que chegue ao nível de uma tragédia.
+
+115
+00:07:40,190 --> 00:07:44,270
+A montanha é tranquila todos os dias,\nportanto a paz é a nossa rotina diária.
+
+116
+00:07:44,590 --> 00:07:50,150
+Ah, sim, a única mudança é que meu pai\nacolheu uma bela dama que ele conhece como hóspede.
+
+117
+00:07:50,150 --> 00:07:52,030
+Todo mundo está meio inquieto por lá.
+
+118
+00:07:52,030 --> 00:07:53,990
+Uma dama... ela é uma monja?
+
+119
+00:07:54,520 --> 00:07:57,140
+Não... é difícil de explicar.
+
+120
+00:07:57,140 --> 00:08:00,030
+Ela ficará com um quarto emprestado até o casamento,
+
+121
+00:08:00,030 --> 00:08:04,210
+mas ela é uma verdadeira beldade; a ponto de até eu não conseguir tirar os olhos dela.
+
+122
+00:08:08,190 --> 00:08:11,340
+Não! Não! É por isso que as mulheres são a tentação! Mulheres!
+
+123
+00:08:11,740 --> 00:08:13,860
+Elimine seus desejos mundanos; acalme-se, Issei...
+
+124
+00:08:12,160 --> 00:08:13,420
+Ah, o sinal abriu.
+
+125
+00:08:13,420 --> 00:08:14,610
+Até mais, Issei.
+
+126
+00:08:13,860 --> 00:08:17,200
+Tudo é vaidade... Meu treinamento espiritual ainda é insuficiente!
+
+127
+00:08:19,780 --> 00:08:20,140
+Cheguei em ca-
+
+128
+00:08:22,390 --> 00:08:24,490
+Você está atrasado, Shirou.
+
+129
+00:08:24,490 --> 00:08:26,340
+Onde você estava perdendo tempo?
+
+130
+00:08:26,340 --> 00:08:28,980
+Ficamos preocupadas achando que você tinha sido atacado ou algo do tipo.
+
+131
+00:08:29,350 --> 00:08:31,830
+Ah, você está aqui, Tohsaka.
+
+132
+00:08:31,830 --> 00:08:34,280
+Perfeito, temos um assunto muito sério para conversar.
+
+133
+00:08:36,350 --> 00:08:38,030
+Há um Mestre no Templo Ryuudouji?!
+
+134
+00:08:38,030 --> 00:08:41,450
+Sim, uma bruxa que está drenando espíritos.
+
+135
+00:08:41,450 --> 00:08:44,710
+Ela pode ser a responsável por todos esses incidentes recentes.
+
+136
+00:08:44,710 --> 00:08:49,630
+Até que ponto podemos confiar nas palavras deste Matou Shinji?
+
+137
+00:08:49,940 --> 00:08:52,160
+Eu não sei dizer...
+
+138
+00:08:52,160 --> 00:08:55,630
+Mas essa hóspede misteriosa de quem o Issei\nestava falando é o que está me incomodando.
+
+139
+00:08:56,280 --> 00:08:59,950
+Eu sabia que a família Matou estava decadente...
+
+140
+00:08:59,950 --> 00:09:04,600
+...mas se eles de fato possuem grimórios antigos, talvez consigam se tornar Mestres.
+
+141
+00:09:05,120 --> 00:09:07,960
+E qual foi a sua resposta para ele, Shirou?
+
+142
+00:09:07,960 --> 00:09:10,330
+Ele pediu para você se aliar a ele, não foi?
+
+143
+00:09:10,330 --> 00:09:11,860
+Sim, eu recusei.
+
+144
+00:09:12,310 --> 00:09:15,960
+Mesmo se fosse aceitar, eu precisaria conversar com você primeiro.
+
+145
+00:09:17,180 --> 00:09:19,010
+É, tem razão.
+
+146
+00:09:19,010 --> 00:09:21,950
+Ou será que me precipitei de novo?
+
+147
+00:09:21,950 --> 00:09:27,920
+Não necessariamente; foi você quem ele convidou,\nportanto não cabe a mim reclamar nem nada.
+
+148
+00:09:28,190 --> 00:09:32,500
+Se o que o Shinji disse for verdade, ele não é o nosso inimigo agora.
+
+149
+00:09:33,260 --> 00:09:37,110
+A própria Rider parecia alguém decente.
+
+150
+00:09:37,110 --> 00:09:42,640
+É só que dava para perceber claramente que Lancer e Berserker eram heróis lendários.
+
+151
+00:09:43,530 --> 00:09:46,690
+Contudo, não consegui sentir essa mesma imponência vindo da Rider...
+
+152
+00:09:49,100 --> 00:09:52,570
+...e senti que havia algo nela muito diferente dos outros Servos.
+
+153
+00:09:52,570 --> 00:09:54,800
+Não compreendo o que está insinuando.
+
+154
+00:09:54,800 --> 00:09:57,130
+Poderia explicar, Rin?
+
+155
+00:09:57,130 --> 00:09:59,110
+Eu entendo o raciocínio dele.
+
+156
+00:09:59,340 --> 00:10:03,590
+Mestres e seus Servos na verdade possuem naturezas bastante semelhantes.
+
+157
+00:10:03,590 --> 00:10:09,220
+Em outras palavras, um Mestre nobre\ninvocará um Servo de temperamento semelhante.
+
+158
+00:10:09,220 --> 00:10:15,090
+Se um Mestre carrega um trauma profundo,\no Servo invocado também trará consigo alguma cicatriz.
+
+159
+00:10:15,740 --> 00:10:22,780
+Um Mestre com a mente doentia pode, em certos casos, invocar um assassino que se delicia com derramamento de sangue.
+
+160
+00:10:22,780 --> 00:10:26,090
+Foi provavelmente isso que o Shirou pressentiu.
+
+161
+00:10:26,090 --> 00:10:30,020
+Pensando por esse lado,\nvocê não deveria confiar cegamente nas informações de Shinji e Rider.
+
+162
+00:10:30,350 --> 00:10:37,030
+Não sei que tipo de Mestre seja, mas é atípico alguém se entrincheirar em um local remoto como o Templo Ryuudouji.
+
+163
+00:10:37,420 --> 00:10:39,900
+Tenho uma objeção contra esse raciocínio.
+
+164
+00:10:39,900 --> 00:10:41,820
+Aquele templo situa-se sobre uma poderosa linha ley de mana.
+
+165
+00:10:41,820 --> 00:10:45,570
+É a base perfeita para acumular energia espiritual.
+
+166
+00:10:45,570 --> 00:10:49,130
+Espere um instante; se o Templo Ryuudouji é um local tão vantajoso assim,
+
+167
+00:10:49,130 --> 00:10:51,290
+por que os outros Mestres o ignoraram?
+
+168
+00:10:52,140 --> 00:10:54,890
+Aquela montanha possui uma barreira natural ao seu redor.
+
+169
+00:10:54,890 --> 00:10:57,510
+Embora não afete humanos comuns,
+
+170
+00:10:57,510 --> 00:11:01,800
+ela enfraquecerá as capacidades dos Servos se pisarmos em seus domínios.
+
+171
+00:11:02,270 --> 00:11:04,350
+Isso é bastante problemático.
+
+172
+00:11:04,350 --> 00:11:08,310
+Parece muito arriscado para mim e para o Shirou derrotarmos essa bruxa sozinhos.
+
+173
+00:11:09,430 --> 00:11:10,190
+Parece que-
+
+174
+00:11:10,190 --> 00:11:11,690
+O que houve, Shirou?
+
+175
+00:11:11,690 --> 00:11:15,820
+Não, é que parece que algo está me incomodando.
+
+176
+00:11:16,010 --> 00:11:17,840
+Algo que não soa natural...
+
+177
+00:11:17,840 --> 00:11:19,330
+É algo importante?
+
+178
+00:11:19,330 --> 00:11:20,460
+Talvez.
+
+179
+00:11:20,460 --> 00:11:21,740
+Falarei a respeito quando descobrir.
+
+180
+00:11:22,630 --> 00:11:25,970
+De qualquer forma, agora que sabemos que há um Mestre lá,
+
+181
+00:11:25,970 --> 00:11:28,120
+acredito que devemos atacar imediatamente.
+
+182
+00:11:29,380 --> 00:11:30,180
+Shirou!
+
+183
+00:11:30,180 --> 00:11:31,590
+Não!
+
+184
+00:11:31,590 --> 00:11:34,740
+É melhor não mexermos naquele lugar ainda.
+
+185
+00:11:34,740 --> 00:11:35,330
+Isso é um disparate!
+
+186
+00:11:35,780 --> 00:11:38,810
+Qual foi o motivo pelo qual descansamos durante todo esse tempo?
+
+187
+00:11:38,810 --> 00:11:43,290
+Se aquele Mestre é alguém prevenido, já deve ter montado diversas armadilhas.
+
+188
+00:11:43,290 --> 00:11:46,650
+Ir até lá sem estratégia alguma é o mesmo que cometer suicídio.
+
+189
+00:11:46,650 --> 00:11:48,890
+Tal risco é evidente desde o princípio.
+
+190
+00:11:48,890 --> 00:11:49,520
+Contudo-
+
+191
+00:11:49,520 --> 00:11:51,480
+Eu concordo com o Shirou.
+
+192
+00:11:52,090 --> 00:11:52,440
+Rin...
+
+193
+00:11:52,920 --> 00:11:58,260
+Se formos invadir o território deles,\ndevemos ao menos esperar até descobrirmos qual é o Servo de lá.
+
+194
+00:11:58,260 --> 00:12:01,690
+Além disso, o meu Archer ainda não se recuperou totalmente.
+
+195
+00:12:02,100 --> 00:12:03,140
+Então está decidido.
+
+196
+00:12:03,140 --> 00:12:04,360
+Certo, Saber?
+
+197
+00:12:06,330 --> 00:12:10,830
+Muito bem, agora que resolvemos essa questão...
+
+198
+00:12:10,830 --> 00:12:11,950
+O que é essa mala?
+
+199
+00:12:12,580 --> 00:12:15,290
+Posso escolher o meu quarto agora?
+
+200
+00:12:17,420 --> 00:12:18,450
+O quê?
+
+201
+00:12:18,450 --> 00:12:19,750
+Vou me hospedar aqui a partir de hoje.
+
+202
+00:12:20,250 --> 00:12:22,490
+Essa é a coisa mais lógica a se fazer se formamos uma aliança, não é?
+
+203
+00:12:23,380 --> 00:12:26,060
+Eu definitivamente preciso do meu próprio ateliê...
+
+204
+00:12:25,050 --> 00:12:25,880
+Tohsaka!
+
+205
+00:12:25,880 --> 00:12:26,910
+Espere aí!
+
+206
+00:12:26,060 --> 00:12:28,750
+Ei, posso pegar emprestados alguns béqueres e frascos?
+
+207
+00:12:26,910 --> 00:12:30,230
+Ei, Tohsaka! Você está me ouvindo, droga?!
+
+208
+00:12:28,750 --> 00:12:31,550
+Eles eram pesados demais para carregar, então deixei na minha casa.
+
+209
+00:12:30,230 --> 00:12:31,780
+Ei, para aquele lado é-
+
+210
+00:12:31,920 --> 00:12:33,980
+Nossa, você tem um anexo separado!
+
+211
+00:12:38,230 --> 00:12:40,820
+Como deve estar ciente também,
+
+212
+00:12:40,820 --> 00:12:42,480
+se selarmos completamente o templo,
+
+213
+00:12:42,480 --> 00:12:45,300
+a fonte subterrânea de mana também será bloqueada.
+
+214
+00:12:45,300 --> 00:12:50,330
+Em outras palavras, a barreira deve permanecer aberta na trilha que leva ao santuário.
+
+215
+00:12:51,540 --> 00:12:54,720
+Você já rechaçou vários Servos até o momento.
+
+216
+00:12:54,720 --> 00:12:59,420
+Contudo, os ataques inimigos serão ainda mais ferozes daqui em diante.
+
+217
+00:12:59,420 --> 00:13:02,720
+Não baixe a guarda na vigília deste portão.
+
+218
+00:13:02,720 --> 00:13:04,400
+Compreendido.
+
+219
+00:13:04,400 --> 00:13:07,050
+Darei o meu melhor para corresponder às suas expectativas.
+
+220
+00:13:24,280 --> 00:13:26,280
+Acho que vou conseguir me virar bem aqui.
+
+221
+00:13:26,550 --> 00:13:29,670
+Ei, eu nunca disse que você podia morar aqui.
+
+222
+00:13:29,670 --> 00:13:32,280
+Ei, como funciona esse ar-condicionado?
+
+223
+00:13:33,080 --> 00:13:34,730
+Me escute, droga!
+
+224
+00:13:34,730 --> 00:13:37,370
+Eu também gostaria de fazer um pedido sobre os aposentos.
+
+225
+00:13:37,880 --> 00:13:40,540
+Acredito que devo dormir no mesmo cômodo que você.
+
+226
+00:13:40,540 --> 00:13:41,840
+Do que você está falando?!
+
+227
+00:13:41,840 --> 00:13:45,010
+Além disso, eu não conseguiria pregar o olho dormindo com uma garota!
+
+228
+00:13:45,010 --> 00:13:47,510
+É o dever de um Servo proteger seu Mestre enquanto ele dorme.
+
+229
+00:13:47,870 --> 00:13:49,600
+Só poderei protegê-lo adequadamente se estiver no mesmo cômodo.
+
+230
+00:13:48,490 --> 00:13:50,710
+Um Servo é um Servo...
+
+231
+00:13:49,600 --> 00:13:51,610
+Esse não é o problema!
+
+232
+00:13:50,710 --> 00:13:53,520
+Você não precisa tratá-los como humanos comuns.
+
+233
+00:13:51,610 --> 00:13:53,090
+Ah, que droga!
+
+234
+00:13:53,520 --> 00:13:55,980
+Bem, acho inútil dizer isso para o Shirou.
+
+235
+00:13:57,610 --> 00:14:01,060
+Desde quando você começou a me chamar pelo primeiro nome?
+
+236
+00:14:01,470 --> 00:14:02,580
+Ora, foi mesmo?
+
+237
+00:14:02,580 --> 00:14:06,870
+Então era isso o que estava me soando estranho: a Tohsaka me chamando pelo primeiro nome.
+
+238
+00:14:06,870 --> 00:14:09,000
+Não mude de assunto!
+
+239
+00:14:09,000 --> 00:14:11,480
+Ainda não chegamos a uma conclusão sobre em qual aposento devo ficar.
+
+240
+00:14:11,480 --> 00:14:13,420
+A conclusão é não, obviamente!
+
+241
+00:14:13,420 --> 00:14:14,570
+Se você continuar insistindo nisso,
+
+242
+00:14:14,570 --> 00:14:16,910
+terei que usar um Feitiço de\nComando para fazer você me obedecer.
+
+243
+00:14:19,060 --> 00:14:25,070
+Se pretende desperdiçar uma de apenas três ordens absolutas para me mandar "não protegê-lo", então não sobreviveremos muito tempo.
+
+244
+00:14:25,070 --> 00:14:27,010
+E se o inimigo nos atacar nessa hora?
+
+245
+00:14:27,700 --> 00:14:30,300
+Não creio que precise se preocupar com isso.
+
+246
+00:14:30,300 --> 00:14:32,550
+Há uma barreira montada ao redor desta propriedade.
+
+247
+00:14:33,430 --> 00:14:35,350
+Saberemos imediatamente se houver um ataque surpresa,
+
+248
+00:14:35,350 --> 00:14:38,310
+então você poderá correr até ele antes que o ataque se concretize, certo?
+
+249
+00:14:38,580 --> 00:14:39,540
+Exatamente.
+
+250
+00:14:39,540 --> 00:14:40,810
+Você compreende agora, Saber?
+
+251
+00:14:46,610 --> 00:14:49,350
+Quanto ao jantar, podemos revezar.
+
+252
+00:14:49,350 --> 00:14:52,020
+Eu cuidarei de hoje como forma de agradecimento.
+
+253
+00:14:52,020 --> 00:14:53,230
+Você vai mesmo morar aqui?
+
+254
+00:14:53,230 --> 00:14:55,160
+E quanto aos nossos planos a partir de agora...
+
+255
+00:14:55,160 --> 00:14:56,580
+Ei, me escute!
+
+256
+00:14:57,010 --> 00:15:00,880
+Deixando de lado a Rider e a bruxa do Templo Ryuudouji,
+
+257
+00:15:00,880 --> 00:15:05,140
+nossos adversários imediatos são Illyasviel von Einzbern e o Berserker.
+
+258
+00:15:05,140 --> 00:15:06,300
+Berserker...
+
+259
+00:15:07,120 --> 00:15:10,050
+Devemos tratá-la como o nosso maior obstáculo.
+
+260
+00:15:11,070 --> 00:15:13,340
+Ela invocou um herói de calibre colossal...
+
+261
+00:15:13,340 --> 00:15:16,240
+...e é poderosa o bastante para comandá-lo na classe Berserker.
+
+262
+00:15:16,240 --> 00:15:19,230
+De fato, isso demanda uma quantidade monstruosa de mana.
+
+263
+00:15:19,230 --> 00:15:20,660
+Exatamente.
+
+264
+00:15:20,660 --> 00:15:25,430
+É frustrante para mim admitir isso, mas aquela garota\nestá um patamar acima de todos nós como Mestre.
+
+265
+00:15:25,430 --> 00:15:27,920
+Ouvi dizer que o Archer possui uma visão de águia extraordinária.
+
+266
+00:15:27,920 --> 00:15:30,940
+Poderíamos encarregá-lo da vigilância nas imediações da casa?
+
+267
+00:15:30,940 --> 00:15:32,200
+Esse era o meu plano.
+
+268
+00:15:32,200 --> 00:15:36,580
+Contudo, se o Berserker atacar, não teremos escolha senão fugir.
+
+269
+00:15:37,900 --> 00:15:39,100
+O que foi, Shirou?
+
+270
+00:15:39,100 --> 00:15:40,020
+Está com fome?
+
+271
+00:15:40,020 --> 00:15:41,160
+Não!
+
+272
+00:15:41,680 --> 00:15:44,540
+Pensei que você tivesse dito que não se tornaria nossa amiga íntima.
+
+273
+00:15:44,540 --> 00:15:45,170
+Hã?
+
+274
+00:15:46,850 --> 00:15:48,920
+Ah, entendi o que é!
+
+275
+00:15:49,060 --> 00:15:50,370
+O quê?
+
+276
+00:15:50,370 --> 00:15:54,540
+Não se preocupe; eu não vou roubar a sua adorável Saber de você.
+
+277
+00:15:54,540 --> 00:15:56,570
+S-S-Sua...!
+
+278
+00:15:56,570 --> 00:15:57,920
+Cuidado, isso é perigoso!
+
+279
+00:15:57,920 --> 00:15:59,420
+Ah, eu estava enganada?
+
+280
+00:15:59,420 --> 00:16:00,930
+Peço desculpas.
+
+281
+00:16:02,550 --> 00:16:03,710
+Emiya-senpai-
+
+282
+00:16:05,760 --> 00:16:06,790
+Seja bem-vinda.
+
+283
+00:16:06,790 --> 00:16:07,980
+Tohsaka-senpai...
+
+284
+00:16:07,980 --> 00:16:09,340
+Esse avental é...
+
+285
+00:16:09,340 --> 00:16:10,960
+Isso... bem...
+
+286
+00:16:10,960 --> 00:16:12,260
+vai levar um bom tempo para explica-
+
+287
+00:16:12,760 --> 00:16:15,280
+Eu decidi passar um tempo hospedada aqui.
+
+288
+00:16:16,300 --> 00:16:18,290
+Ah, aconteceram algumas circunstâncias excepcionais,
+
+289
+00:16:18,290 --> 00:16:22,170
+e eu preciso que a Tohsaka fique aqui por um tempo.
+
+290
+00:16:22,170 --> 00:16:24,830
+Mas será apenas por um curto períod-
+
+291
+00:16:24,830 --> 00:16:27,360
+Foi isso o que o Shirou e eu decidimos.
+
+292
+00:16:27,360 --> 00:16:28,790
+Está sacramentado.
+
+293
+00:16:28,970 --> 00:16:31,300
+Você compreende o que isso significa, não compreende, Matou-san?
+
+294
+00:16:32,010 --> 00:16:33,910
+Compreender o quê?
+
+295
+00:16:33,910 --> 00:16:36,610
+Basicamente, que você não precisa mais tomar conta do Shirou.
+
+296
+00:16:36,610 --> 00:16:38,240
+Ficar vindo até aqui é um incômodo,
+
+297
+00:16:38,240 --> 00:16:40,430
+e será muito melhor para você se não vier mais.
+
+298
+00:16:43,010 --> 00:16:44,990
+Eu não entendo...
+
+299
+00:16:44,990 --> 00:16:49,270
+Eu disse que não compreendo o que está insinuando, Tohsaka-senpai.
+
+300
+00:16:50,660 --> 00:16:52,650
+E-Ei, você...
+
+301
+00:16:52,650 --> 00:16:55,710
+Senpai, vou pegar a sua cozinha emprestada.
+
+302
+00:16:55,710 --> 00:16:57,910
+Ah, a Tohsaka disse que cuidaria do janta-
+
+303
+00:16:58,870 --> 00:17:02,790
+Eu nunca vi a Sakura tão irritada assim antes.
+
+304
+00:17:02,790 --> 00:17:05,990
+Este lugar pode se transformar em um campo de batalha a qualquer momento,
+
+305
+00:17:05,990 --> 00:17:09,540
+então tentei adverti-la para ficar longe daqui.
+
+306
+00:17:09,540 --> 00:17:11,380
+Aquilo foi uma advertência?
+
+307
+00:17:11,380 --> 00:17:13,340
+Para mim parecia que você estava implicando com ela.
+
+308
+00:17:15,140 --> 00:17:16,180
+Shirou!
+
+309
+00:17:16,180 --> 00:17:18,670
+Cheguei para o jantar!
+
+310
+00:17:19,710 --> 00:17:20,730
+Tohsaka-san?
+
+311
+00:17:20,730 --> 00:17:22,520
+O que você está fazendo aqui?
+
+312
+00:17:22,520 --> 00:17:26,390
+Bem, é que ela vai morar aqui conosco a partir de agora, eu acho...
+
+313
+00:17:26,490 --> 00:17:28,360
+Ah, ela vai se hospedar aqui.
+
+314
+00:17:28,360 --> 00:17:31,280
+Entendi, ela vai se hospedar aqui.
+
+315
+00:17:32,460 --> 00:17:32,900
+EI!
+
+316
+00:17:33,780 --> 00:17:35,780
+Como assim se hospedar aqui, Shirou?!
+
+317
+00:17:36,160 --> 00:17:40,650
+Não bastava a Saber-chan, agora você até trouxe\na sua colega de classe, a Tohsaka-san, para morar aqui!
+
+318
+00:17:40,650 --> 00:17:42,030
+Que tipo de comédia romântica é essa?!
+
+319
+00:17:42,030 --> 00:17:44,940
+Sua irmãzona não vai tolerar isso desta vez!
+
+320
+00:17:44,940 --> 00:17:47,750
+S-Sensei, deixe as coisas como estão.
+
+321
+00:17:47,750 --> 00:17:52,350
+Droga, eu não posso permitir isso...
+
+322
+00:17:50,200 --> 00:17:51,940
+Quer que eu salve a sua pele?
+
+323
+00:17:51,940 --> 00:17:53,040
+Por favor.
+
+324
+00:17:53,040 --> 00:17:55,280
+Estou ansioso para ver o seu talento diplomático.
+
+325
+00:17:55,280 --> 00:17:56,150
+Está bem.
+
+326
+00:17:56,150 --> 00:17:58,050
+Vamos resolver isso rapidamente.
+
+327
+00:18:00,580 --> 00:18:03,760
+Eu não vou me intimidar com essa sua cara séria.
+
+328
+00:18:03,760 --> 00:18:08,020
+Como professora, jamais permitirei que um garoto e uma garota\nda mesma classe durmam sob o mesmo teto!
+
+329
+00:18:08,410 --> 00:18:12,980
+A minha casa está passando por uma reforma completa no momento.
+
+330
+00:18:12,980 --> 00:18:16,450
+Eu cogitei ficar em um hotel até que as obras terminassem,
+
+331
+00:18:16,450 --> 00:18:18,250
+mas assim que comentei sobre isso com o Emiya-kun,
+
+332
+00:18:18,250 --> 00:18:21,280
+ele gentilmente insistiu para que eu ficasse na casa dele.
+
+333
+00:18:22,140 --> 00:18:24,550
+Bem... isso é bem a cara do Shirou...
+
+334
+00:18:24,550 --> 00:18:28,760
+Além disso, ficar em um hotel não é apenas caro, mas impróprio para uma estudante.
+
+335
+00:18:28,760 --> 00:18:34,120
+Por isso julguei mais adequado me hospedar na casa de um colega de classe.
+
+336
+00:18:34,120 --> 00:18:35,780
+Tudo bem, eu compreendo a sua situação.
+
+337
+00:18:35,780 --> 00:18:39,380
+Mas ainda tenho ressalvas com um jovem e uma senhorita dividindo a mesma casa.
+
+338
+00:18:39,610 --> 00:18:43,260
+O Emiya-kun e a Saber-san já vinham morando juntos,
+
+339
+00:18:43,260 --> 00:18:44,970
+e não parece haver nenhum problema nisso.
+
+340
+00:18:45,410 --> 00:18:49,600
+Ou ele seria o tipo de rapaz que faria algo reprovável?
+
+341
+00:18:49,600 --> 00:18:50,920
+Mas que insolência!
+
+342
+00:18:50,920 --> 00:18:52,970
+O Shirou é uma pessoa de conduta exemplar!
+
+343
+00:18:52,970 --> 00:18:55,820
+Ele não é o tipo de rapaz que faria uma garota chorar.
+
+344
+00:18:55,820 --> 00:18:57,760
+Então está tudo resolvido, não está?
+
+345
+00:18:57,760 --> 00:19:00,550
+Eu confio plenamente no Emiya-kun também.
+
+346
+00:19:10,060 --> 00:19:12,600
+Eu perdi um debate para uma aluna...
+
+347
+00:19:12,600 --> 00:19:14,650
+Sendo assim, eu já vou indo.
+
+348
+00:19:14,650 --> 00:19:16,960
+Sim, desculpe pela confusão toda.
+
+349
+00:19:17,250 --> 00:19:21,080
+Tudo bem, eu também confio em você, Senpai.
+
+350
+00:19:22,010 --> 00:19:23,070
+Boa noite!
+
+351
+00:19:27,800 --> 00:19:31,350
+Shirou, acerca da bruxa no Templo Ryuudouji,
+
+352
+00:19:31,350 --> 00:19:32,610
+a sua opinião permanece inalterada?
+
+353
+00:19:32,800 --> 00:19:34,300
+Vamos voltar a esse assunto de novo?
+
+354
+00:19:34,300 --> 00:19:35,310
+Não significa não.
+
+355
+00:19:35,700 --> 00:19:37,210
+Com certeza há uma armadilha.
+
+356
+00:19:37,210 --> 00:19:40,670
+Jamais presumi que poderíamos vencer sem derramar sangue.
+
+357
+00:19:40,670 --> 00:19:42,880
+A armadilha inimiga pode até trespassar o meu corpo,
+
+358
+00:19:42,880 --> 00:19:44,930
+mas contanto que minha cabeça esteja intacta, serei capaz de lutar.
+
+359
+00:19:44,930 --> 00:19:46,180
+Pare de dizer essas loucuras!
+
+360
+00:19:46,180 --> 00:19:48,850
+Quem disse que não há problema em você se ferir?!
+
+361
+00:19:48,850 --> 00:19:52,460
+Como seu Mestre, não vou permitir que faça algo tão perigoso.
+
+362
+00:19:52,620 --> 00:19:54,960
+Servos existem para suportar ferimentos em batalha.
+
+363
+00:19:54,960 --> 00:19:58,670
+Não permitirei que meu Mestre evite combates por medo de que isso aconteça.
+
+364
+00:19:58,850 --> 00:20:01,100
+Tudo bem, você pode discordar o quanto quiser.
+
+365
+00:20:01,100 --> 00:20:03,300
+Além do mais, suas feridas ainda não cicatrizaram de vez, certo?
+
+366
+00:20:03,640 --> 00:20:05,790
+Elas não serão empecilho em combate.
+
+367
+00:20:05,790 --> 00:20:07,300
+Não preciso que se preocupe com tais questões.
+
+368
+00:20:08,720 --> 00:20:12,250
+Você foi severamente castigada pelo Berserker antes, não se lembra?
+
+369
+00:20:12,250 --> 00:20:15,560
+Quer ver nós dois nocauteados no chão de novo?
+
+370
+00:20:15,560 --> 00:20:18,440
+Eu não quero ser morto daquele jeito outra vez.
+
+371
+00:20:22,300 --> 00:20:25,760
+Isso são palavras de um covarde, Shirou.
+
+372
+00:20:25,760 --> 00:20:30,980
+De qualquer forma, nós não vamos atacar. Entendido?
+
+373
+00:20:30,980 --> 00:20:32,300
+Compreendido.
+
+374
+00:20:32,300 --> 00:20:34,080
+Se essas são as ordens de meu Mestre.
+
+375
+00:21:21,480 --> 00:21:24,500
+Shirou, você é ingênuo demais.
+
+376
+00:21:24,500 --> 00:21:27,300
+Você acabará sendo morto pelos outros Mestres agindo assim.
+
+377
+00:22:02,350 --> 00:22:03,670
+Apresse-se e venha...
+
+378
+00:22:07,630 --> 00:22:09,260
+...meu inimigo.
+
+379
+00:22:12,260 --> 00:22:17,690
+No mais profundo da floresta,
+
+380
+00:22:18,600 --> 00:22:23,940
+enquanto busco o tênue perfume...
+
+381
+00:22:24,940 --> 00:22:30,740
+...dos vestígios dos dias que me eram tão caros,
+
+382
+00:22:31,070 --> 00:22:36,700
+de repente ouço o som do seu riso.
+
+383
+00:22:37,120 --> 00:22:43,210
+Desejando tocá-lo, estendi minhas mãos,
+
+384
+00:22:43,210 --> 00:22:49,470
+mas a sua imagem desvaneceu no ar efêmera.
+
+385
+00:22:49,630 --> 00:22:54,600
+Senti tanto a sua falta por todo esse tempo,
+
+386
+00:22:54,680 --> 00:22:59,560
+ansiei tanto por você...
+
+387
+00:22:59,890 --> 00:23:04,230
+Vagando através de noites insones,
+
+388
+00:23:04,230 --> 00:23:10,910
+...estou chorando, envolto pela luz
+
+389
+00:23:13,450 --> 00:23:19,620
+e pela sombra que você deixou para trás,
+
+390
+00:23:23,000 --> 00:23:31,430
+...aqui, no mais profundo da escura floresta.
+
+391
+00:23:41,060 --> 00:23:46,110
+Prévia
+
+392
+00:24:05,000 --> 00:24:08,460
+No próximo episódio: "Elegância sob o Luar".
+
+393
+00:24:06,070 --> 00:24:11,070
+Próximo Episódio
+
+394
+00:24:06,070 --> 00:24:11,070
+Elegância sob o Luar
+

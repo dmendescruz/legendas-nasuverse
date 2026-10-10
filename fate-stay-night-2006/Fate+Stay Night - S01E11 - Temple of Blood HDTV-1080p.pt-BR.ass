@@ -1,0 +1,367 @@
+[Script Info]
+; Script generated for Fate/stay night (2006) - Rota da Saber
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/stay night - S01E11 - Temple of Blood (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+Style: Spell,ZapfChancery-Medium,75,&H00EDEDFD,&H0000FFFF,&H000A0A87,&H78000000,-1,0,0,0,100,100,0,0,1,2.4,0.15,2,0,0,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.61,0:00:09.86,Default,Saber,0,0,0,,Eu anseio pelo poder do Santo Graal para consumar um juramento que não pude concretizar durante a minha vida.
+Dialogue: 0,0:00:10.15,0:00:11.36,Default,Shirou,0,0,0,,Durante a sua vida?
+Dialogue: 0,0:00:11.36,0:00:11.86,Default,,0,0,0,,Uau!
+Dialogue: 0,0:00:12.24,0:00:13.86,Default,Illya,0,0,0,,Prazer em conhecê-lo.
+Dialogue: 0,0:00:13.86,0:00:15.87,Default,,0,0,0,,Então você conseguiu continuar vivo, moço!
+Dialogue: 0,0:00:20.08,0:00:21.21,Default,Rin,0,0,0,,Você é um caso perdido...
+Dialogue: 0,0:00:21.21,0:00:21.87,Default,Shirou,0,0,0,,Por quê?
+Dialogue: 0,0:00:22.25,0:00:24.17,Default,Rin,0,0,0,,Você está disperso.
+Dialogue: 0,0:00:24.17,0:00:25.21,Default,,0,0,0,,Aconteceu alguma coisa?
+Dialogue: 0,0:00:25.21,0:00:26.96,Default,Shirou,0,0,0,,Não exatamente, desculpe.
+Dialogue: 0,0:00:26.96,0:00:28.21,Default,Rin,0,0,0,,Eu já esperava por isso, na verdade.
+Dialogue: 0,0:00:29.51,0:00:31.22,Default,Archer,0,0,0,,A Rin está totalmente enganada.
+Dialogue: 0,0:00:49.23,0:00:52.74,Default,Saber,0,0,0,,Isto será tudo pelo treino desta manhã.
+Dialogue: 0,0:00:52.74,0:00:55.36,Default,Rin,0,0,0,,Mas você certamente é compenetrada, Saber.
+Dialogue: 0,0:00:55.36,0:00:57.32,Default,,0,0,0,,Mesmo após treinar com o Shirou por três horas seguidas,
+Dialogue: 0,0:00:57.32,0:00:59.58,Default,,0,0,0,,você nem sequer franziu a testa.
+Dialogue: 0,0:00:59.58,0:01:03.79,Default,Saber,0,0,0,,Posso estar reprimindo as minhas emoções enquanto empunho uma espada.
+Dialogue: 0,0:01:03.79,0:01:05.12,Default,,0,0,0,,Nunca fui muito consciente a respeito delas.
+Dialogue: 0,0:01:05.37,0:01:09.71,Default,Rin,0,0,0,,Será essa a mentalidade de uma mestra espadachim?
+Dialogue: 0,0:01:09.71,0:01:11.42,Default,,0,0,0,,Como mulheres são fisicamente inferiores aos homens,
+Dialogue: 0,0:01:11.42,0:01:13.38,Default,,0,0,0,,ao menos fortalecer a própria mente?
+Dialogue: 0,0:01:13.80,0:01:15.47,Default,Saber,0,0,0,,Isso não é correto.
+Dialogue: 0,0:01:17.18,0:01:20.81,Default,,0,0,0,,Jamais considerei a mim mesma como uma mulher,
+Dialogue: 0,0:01:20.81,0:01:23.56,Default,,0,0,0,,tampouco as pessoas jamais me trataram como tal.
+Dialogue: 0,0:01:24.48,0:01:27.81,Default,,0,0,0,,A razão pela qual vim para esta era é para lutar.
+Dialogue: 0,0:01:27.81,0:01:31.11,Default,,0,0,0,,Não tem sentido ser excessivamente consciente de meu gênero.
+Dialogue: 0,0:01:32.57,0:01:34.07,Default,Rin,0,0,0,,Pois bem...
+Dialogue: 0,0:01:36.32,0:01:38.16,Default,,0,0,0,,Agora é a hora das minhas aulas.
+Dialogue: 0,0:01:38.49,0:01:40.16,Default,Shirou,0,0,0,,S-Sem um intervalo sequer?
+Dialogue: 0,0:01:41.70,0:01:45.00,Default,Rin,0,0,0,,Há uma montanha de coisas das quais você precisa cuidar!
+Dialogue: 0,0:01:45.25,0:01:46.67,Default,Shirou,0,0,0,,Espere{\fscx200}-{\fscx90}
+Dialogue: 0,0:01:46.67,0:01:47.54,Default,,0,0,0,,Tohsaka!
+Dialogue: 0,0:01:47.88,0:01:50.75,Default,,0,0,0,,T-Tudo bem! Tudo bem!
+Dialogue: 0,0:02:00.72,0:02:05.56,Song,,0,0,0,,A sombra passageira que contemplei em sonhos...
+Dialogue: 0,0:02:06.98,0:02:11.10,Song,,0,0,0,,O clamor que não pôde alcançar...
+Dialogue: 0,0:02:12.11,0:02:17.36,Song,,0,0,0,,Não importa como eu me imagine amanhã,
+Dialogue: 0,0:02:18.36,0:02:23.58,Song,,0,0,0,,serei envolvido por desejos que jamais desaparecerão.
+Dialogue: 0,0:02:27.00,0:02:36.80,Song,,0,0,0,,Com a mão que agarra os fragmentos que caem
+Dialogue: 0,0:02:38.38,0:02:51.90,Song,,0,0,0,,e o coração hesitante, salto em direção à noite...
+Dialogue: 0,0:02:52.27,0:03:03.78,Song,,0,0,0,,Se for para viver por alguém, que este instante seja tudo,
+Dialogue: 0,0:03:03.78,0:03:15.71,Song,,0,0,0,,dispa-se suavemente dessa máscara e seja apenas quem você é agora...
+Dialogue: 0,0:03:17.59,0:03:23.47,Signs,,0,0,0,,Episódio 11
+Dialogue: 0,0:03:17.72,0:03:23.47,Signs,,0,0,0,,Templo de Sangue
+Dialogue: 0,0:03:31.52,0:03:33.31,Default,Rin,0,0,0,,É uma continuação do que fizemos ontem.
+Dialogue: 0,0:03:33.31,0:03:34.69,Default,,0,0,0,,Reforce a estrutura destas lâmpadas.
+Dialogue: 0,0:03:34.90,0:03:36.82,Default,Shirou,0,0,0,,De todas elas?
+Dialogue: 0,0:03:36.82,0:03:39.19,Default,Rin,0,0,0,,Preciso sair por um momento,
+Dialogue: 0,0:03:39.19,0:03:41.45,Default,,0,0,0,,então termine todas antes que eu retorne.
+Dialogue: 0,0:03:41.45,0:03:42.28,Default,,0,0,0,,Até logo.
+Dialogue: 0,0:03:45.87,0:03:47.95,Default,Shirou,0,0,0,,Lembrar da sensação da noite passada...
+Dialogue: 0,0:03:52.25,0:03:53.42,Default,,0,0,0,,Trace... on!
+Dialogue: 0,0:04:19.28,0:04:22.24,Default,Saber,0,0,0,,Rin, o que está fazendo?
+Dialogue: 0,0:04:22.24,0:04:24.45,Default,Rin,0,0,0,,Quem é ele afinal de contas?
+Dialogue: 0,0:04:24.45,0:04:25.95,Default,,0,0,0,,Eu não consigo acreditar nisto.
+Dialogue: 0,0:04:25.95,0:04:27.87,Default,,0,0,0,,Saber, você tinha ciência disso?
+Dialogue: 0,0:04:28.16,0:04:30.58,Default,Saber,0,0,0,,Não, eu não tinha.
+Dialogue: 0,0:04:30.58,0:04:34.21,Default,,0,0,0,,Sou uma guerreira, não uma maga.
+Dialogue: 0,0:04:34.21,0:04:35.92,Default,Rin,0,0,0,,Ele também não é um mago.
+Dialogue: 0,0:04:36.96,0:04:40.71,Default,,0,0,0,,A magia é fundamentalmente uma prática de troca equivalente.
+Dialogue: 0,0:04:40.71,0:04:44.38,Default,,0,0,0,,Não importa que tipo de magia seja,\ntrata-se apenas de trazer matéria de outros lugares.
+Dialogue: 0,0:04:45.43,0:04:46.64,Default,,0,0,0,,Mas isto aqui é diferente.
+Dialogue: 0,0:04:47.30,0:04:51.31,Default,,0,0,0,,Ele trouxe coisas que simplesmente não existiam antes.
+Dialogue: 0,0:04:51.31,0:04:55.31,Default,,0,0,0,,Ele não tem a menor ideia do que é capaz de fazer,
+Dialogue: 0,0:04:55.31,0:04:57.40,Default,,0,0,0,,mas até eu mesma me equivoquei.
+Dialogue: 0,0:04:57.40,0:04:59.69,Default,,0,0,0,,A especialidade dele não é fortalecimento estrutural.
+Dialogue: 0,0:04:59.69,0:05:04.70,Default,,0,0,0,,Ele é a personificação viva de uma certa magia\nque se especializa em projetar e materializar coisas do nada.
+Dialogue: 0,0:05:04.70,0:05:05.91,Default,Saber,0,0,0,,E o Shirou está consciente disso?
+Dialogue: 0,0:05:06.45,0:05:08.24,Default,Rin,0,0,0,,É evidente que não!
+Dialogue: 0,0:05:08.24,0:05:09.41,Default,,0,0,0,,Porque ele é um idiota!
+Dialogue: 0,0:05:13.29,0:05:15.62,Default,Shirou,0,0,0,,Se eu não conseguir fazer isso com pelo menos uma lâmpada,
+Dialogue: 0,0:05:15.62,0:05:17.75,Default,,0,0,0,,a Tohsaka vai gritar comigo de novo.
+Dialogue: 0,0:05:25.09,0:05:26.59,Default,,0,0,0,,Alô, aqui é da residência Emiya.
+Dialogue: 0,0:05:27.76,0:05:29.14,Default,Shinji,0,0,0,,Ei, Emiya.
+Dialogue: 0,0:05:29.14,0:05:31.14,Default,,0,0,0,,Parece que você faltou na escola de novo hoje.
+Dialogue: 0,0:05:31.14,0:05:32.60,Default,,0,0,0,,Há algo de errado com a sua saúde?
+Dialogue: 0,0:05:33.93,0:05:34.94,Default,Shirou,0,0,0,,O que você quer?
+Dialogue: 0,0:05:35.31,0:05:37.23,Default,Shinji,0,0,0,,Nossa, que frieza da sua parte.
+Dialogue: 0,0:05:37.23,0:05:41.15,Default,,0,0,0,,E olhe que estou ligando justamente\nporque queria lhe avisar sobre uma coisa.
+Dialogue: 0,0:05:41.53,0:05:42.65,Default,Shirou,0,0,0,,Me avisar?
+Dialogue: 0,0:05:43.19,0:05:46.86,Default,Shinji,0,0,0,,Há algo que preciso lhe falar a qualquer custo,
+Dialogue: 0,0:05:46.86,0:05:49.45,Default,,0,0,0,,mas você nunca está por aqui.
+Dialogue: 0,0:05:49.45,0:05:51.16,Default,,0,0,0,,A Tohsaka está aí com você?
+Dialogue: 0,0:05:51.33,0:05:52.66,Default,Shirou,0,0,0,,Ela não está aqui agora.
+Dialogue: 0,0:05:52.79,0:05:54.83,Default,,0,0,0,,Ela saiu para resolver um assunto.
+Dialogue: 0,0:05:54.83,0:05:56.25,Default,Shinji,0,0,0,,Momento perfeito.
+Dialogue: 0,0:05:56.25,0:05:57.92,Default,,0,0,0,,Como alguém que compartilha das mesmas aflições,
+Dialogue: 0,0:05:58.17,0:06:00.29,Default,,0,0,0,,gostaria de conversar a sós com você.
+Dialogue: 0,0:06:00.29,0:06:01.80,Default,,0,0,0,,Venha para o colégio agora mesmo.
+Dialogue: 0,0:06:01.80,0:06:04.42,Default,,0,0,0,,Ah, é claro, mantenha isso em segredo da Tohsaka.
+Dialogue: 0,0:06:04.67,0:06:06.26,Default,Shirou,0,0,0,,Shinji, seu{\fscx200}-{\fscx90}
+Dialogue: 0,0:06:25.40,0:06:26.15,Default,,0,0,0,,Que estranho...
+Dialogue: 0,0:06:26.70,0:06:28.57,Default,,0,0,0,,Deveria ser o horário do intervalo agora.
+Dialogue: 0,0:06:31.66,0:06:33.49,Default,,0,0,0,,O que é... isto?
+Dialogue: 0,0:07:13.53,0:07:15.99,Default,,0,0,0,,Isso significa que "o inimigo se aproxima"?
+Dialogue: 0,0:07:15.99,0:07:17.66,Default,Shinji,0,0,0,,Ei, Emiya!
+Dialogue: 0,0:07:19.00,0:07:22.17,Default,,0,0,0,,Você parece bem melhor do que eu imaginava!
+Dialogue: 0,0:07:22.17,0:07:24.67,Default,,0,0,0,,E então, o que achou? Gostou?
+Dialogue: 0,0:07:25.09,0:07:27.17,Default,Shirou,0,0,0,,Então tudo isso é obra sua, Shinji?!
+Dialogue: 0,0:07:27.67,0:07:29.17,Default,Shinji,0,0,0,,Sim, é verdade.
+Dialogue: 0,0:07:29.17,0:07:32.05,Default,,0,0,0,,Eu soube que você tinha chegado,
+Dialogue: 0,0:07:32.05,0:07:34.18,Default,,0,0,0,,então ativei a barreira imediatamente.
+Dialogue: 0,0:07:34.72,0:07:37.14,Default,,0,0,0,,Calcular esse tempo exigiu muito esforço, sabia?
+Dialogue: 0,0:07:37.14,0:07:39.02,Default,,0,0,0,,Se eu ativasse cedo demais, você poderia fugir.
+Dialogue: 0,0:07:39.02,0:07:41.19,Default,,0,0,0,,Se fizesse tarde demais, você poderia me flagrar.
+Dialogue: 0,0:07:42.48,0:07:46.94,Default,,0,0,0,,Para mim, ver a sua cara pálida de terror era o que eu mais queria,
+Dialogue: 0,0:07:47.36,0:07:50.86,Default,,0,0,0,,portanto queria evitar o risco de simplesmente\nativá-la sem contemplar a sua expressão de desespero.
+Dialogue: 0,0:07:50.86,0:07:52.95,Default,Shirou,0,0,0,,Dizer que tinha algo para conversar comigo era mentira então?
+Dialogue: 0,0:07:53.24,0:07:55.08,Default,Shinji,0,0,0,,A nossa "conversa" começa agora.
+Dialogue: 0,0:07:55.08,0:08:00.75,Default,,0,0,0,,Preciso mostrar à Tohsaka quem exatamente é o superior entre você e eu.
+Dialogue: 0,0:08:05.75,0:08:08.46,Default,Shirou,0,0,0,,Dizer que você não queria lutar também era mentira?!
+Dialogue: 0,0:08:08.88,0:08:10.67,Default,Shinji,0,0,0,,Você e a Tohsaka são os únicos culpados por tudo isso!
+Dialogue: 0,0:08:11.47,0:08:13.84,Default,,0,0,0,,Eu convidei vocês dois para formarem uma aliança comigo,
+Dialogue: 0,0:08:13.84,0:08:15.60,Default,,0,0,0,,mas ambos me rejeitaram!
+Dialogue: 0,0:08:16.47,0:08:20.56,Default,,0,0,0,,Eu não queria ter ativado algo assim a menos que fosse forçado, sabia?
+Dialogue: 0,0:08:20.77,0:08:21.73,Default,Shirou,0,0,0,,Pare com isso!
+Dialogue: 0,0:08:21.73,0:08:23.60,Default,,0,0,0,,Você tem noção do que está fazendo?!
+Dialogue: 0,0:08:24.15,0:08:26.94,Default,Shinji,0,0,0,,Ei, quem lhe deu o direito de me dar ordens?
+Dialogue: 0,0:08:26.94,0:08:31.32,Default,,0,0,0,,Se quer que eu pare com isto,\nnão deveria se ajoelhar e implorar aos meus pés?
+Dialogue: 0,0:08:31.61,0:08:34.61,Default,,0,0,0,,Francamente, seja a Fujimura ou você,
+Dialogue: 0,0:08:34.61,0:08:37.08,Default,,0,0,0,,vocês realmente não têm noção do seu próprio lugar, não é?
+Dialogue: 0,0:08:38.62,0:08:40.04,Default,Shirou,0,0,0,,O que você disse que aconteceu com a Fuji-nee?!
+Dialogue: 0,0:08:40.45,0:08:44.62,Default,Shinji,0,0,0,,Quando ativei esta barreira, ela incrivelmente ainda conseguia se mover.
+Dialogue: 0,0:08:44.62,0:08:47.59,Default,,0,0,0,,Mesmo com todos os outros caindo no chão desacordados,
+Dialogue: 0,0:08:47.59,0:08:50.26,Default,,0,0,0,,ela veio cambaleando sozinha na minha direção,
+Dialogue: 0,0:08:50.26,0:08:52.80,Default,,0,0,0,,me dizendo coisas do tipo "chame uma ambulância".
+Dialogue: 0,0:08:52.80,0:08:54.38,Default,,0,0,0,,Impressionante, não acha?
+Dialogue: 0,0:08:54.38,0:08:56.72,Default,,0,0,0,,É isso o que chamam de uma professora exemplar?
+Dialogue: 0,0:08:59.97,0:09:03.35,Default,,0,0,0,,Mas não havia a menor chance de eu chamar uma ambulância, não é?
+Dialogue: 0,0:09:03.35,0:09:06.15,Default,,0,0,0,,E ainda assim ela continuava me segurando com insistência, então perdi a paciência.
+Dialogue: 0,0:09:08.65,0:09:11.82,Default,,0,0,0,,E depois de um belo chute meu, ela nem se mexeu mais!
+Dialogue: 0,0:09:12.99,0:09:16.07,Default,,0,0,0,,Eu não me surpreenderia se ela morresse agora mesmo!
+Dialogue: 0,0:09:20.16,0:09:21.66,Default,Shirou,0,0,0,,Esta é a última vez que peço.
+Dialogue: 0,0:09:21.66,0:09:24.25,Default,,0,0,0,,Desative a barreira, Shinji.
+Dialogue: 0,0:09:24.25,0:09:27.50,Default,Shinji,0,0,0,,Se está tão inconformado assim, tente me parar à força, se for capaz!
+Dialogue: 0,0:09:28.63,0:09:30.17,Default,Shirou,0,0,0,,Compreendo.
+Dialogue: 0,0:09:30.17,0:09:33.01,Default,,0,0,0,,Isso torna as coisas muito mais fáceis!
+Dialogue: 0,0:09:33.01,0:09:35.13,Default,Shinji,0,0,0,,Você é mesmo um idiota, não é?!
+Dialogue: 0,0:09:40.14,0:09:41.81,Default,Shirou,0,0,0,,O idiota aqui é você, Shinji!
+Dialogue: 0,0:09:48.27,0:09:50.98,Default,,0,0,0,,Em comparação aos golpes da Saber, coisas desse nível...
+Dialogue: 0,0:09:51.32,0:09:51.98,Default,Shinji,0,0,0,,Pare!
+Dialogue: 0,0:09:52.82,0:09:53.49,Default,,0,0,0,,Não se aproxime de mim!
+Dialogue: 0,0:10:02.08,0:10:04.29,Default,,0,0,0,,M-Muito bem, Rider!
+Dialogue: 0,0:10:04.29,0:10:05.83,Default,,0,0,0,,Não tenha piedade dele!
+Dialogue: 0,0:10:16.30,0:10:18.13,Default,,0,0,0,,O que está fazendo, Rider?!
+Dialogue: 0,0:10:18.13,0:10:19.01,Default,,0,0,0,,Pare de brincar com ele!
+Dialogue: 0,0:10:19.01,0:10:20.93,Default,,0,0,0,,Mate-o de uma vez por todas!
+Dialogue: 0,0:10:28.85,0:10:29.60,Default,Rider,0,0,0,,Que surpreendente.
+Dialogue: 0,0:10:30.23,0:10:32.11,Default,,0,0,0,,Não consigo matá-lo com a minha lâmina.
+Dialogue: 0,0:10:33.32,0:10:34.07,Default,,0,0,0,,Sendo assim...
+Dialogue: 0,0:10:40.32,0:10:42.20,Default,Shirou,0,0,0,,{\i1}Eu vou morrer aqui deste jeito?{\i0}
+Dialogue: 0,0:10:42.20,0:10:43.66,Default-Italic,,0,0,0,,{\i1}Sem conseguir salvar ninguém?{\i0}
+Dialogue: 0,0:10:44.45,0:10:47.29,Default-Italic,,0,0,0,,{\i1}Eu vou... Eu vou...{\i0}
+Dialogue: 0,0:10:47.29,0:10:50.63,Default-Italic,,0,0,0,,{\i1}...apenas morrer aqui deste jeito sem ser capaz de salvar ninguém?!{\i0}
+Dialogue: 0,0:10:51.63,0:10:54.13,Default-Italic,,0,0,0,,{\i1}Não... isso foi há dez anos.{\i0}
+Dialogue: 0,0:10:54.13,0:10:56.17,Default-Italic,,0,0,0,,{\i1}Mas agora eu tenho...{\i0}
+Dialogue: 0,0:10:56.59,0:10:59.43,Default,,0,0,0,,Venha até mim, Saber!
+Dialogue: 0,0:11:04.56,0:11:05.27,Default,Saber,0,0,0,,Shirou!
+Dialogue: 0,0:11:05.89,0:11:07.60,Default,Shirou,0,0,0,,Não tenho tempo para explicar!
+Dialogue: 0,0:11:07.60,0:11:09.39,Default,,0,0,0,,Você já entendeu o que está havendo, não é, Saber?
+Dialogue: 0,0:11:09.77,0:11:11.27,Default,Saber,0,0,0,,Espere, Shirou.
+Dialogue: 0,0:11:11.27,0:11:13.48,Default,,0,0,0,,Devo tratar os seus ferimentos antes de{\fscx200}-{\fscx90}
+Dialogue: 0,0:11:13.48,0:11:15.19,Default,Shirou,0,0,0,,Cuide da Rider.
+Dialogue: 0,0:11:15.19,0:11:16.99,Default,,0,0,0,,Você é a única capaz de derrotá-la.
+Dialogue: 0,0:11:17.24,0:11:18.24,Default,Saber,0,0,0,,Contudo, nesse cas{\fscx200}-{\fscx90}
+Dialogue: 0,0:11:18.53,0:11:20.16,Default,Shirou,0,0,0,,Precisamos destruir esta barreira a todo custo!
+Dialogue: 0,0:11:20.16,0:11:22.24,Default,,0,0,0,,A Fuji-nee e todos os outros correm perigo mortal!
+Dialogue: 0,0:11:22.70,0:11:24.28,Default,,0,0,0,,Se recusar, usarei um Feitiço de Comando.
+Dialogue: 0,0:11:25.37,0:11:27.12,Default,Saber,0,0,0,,Não, eu compreendi.
+Dialogue: 0,0:11:28.08,0:11:29.75,Default,,0,0,0,,Suas ordens, meu Mestre.
+Dialogue: 0,0:11:30.96,0:11:32.63,Default,Shirou,0,0,0,,Derrote a Rider!
+Dialogue: 0,0:11:32.63,0:11:34.00,Default,,0,0,0,,Eu cuidarei do Shinji.
+Dialogue: 0,0:11:34.00,0:11:34.63,Default,Saber,0,0,0,,Entendido!
+Dialogue: 0,0:12:05.33,0:12:06.41,Default,Rider,0,0,0,,Então você apareceu...
+Dialogue: 0,0:12:06.91,0:12:09.29,Default,Saber,0,0,0,,Eu derrotarei a Rider aqui.
+Dialogue: 0,0:12:09.29,0:12:11.00,Default,,0,0,0,,Vá e neutralize o Mestre da Rider.
+Dialogue: 0,0:12:11.00,0:12:11.67,Default,Shirou,0,0,0,,Pode deixar comigo!
+Dialogue: 0,0:12:12.50,0:12:14.00,Default,Shinji,0,0,0,,Cuide de tudo você mesma agora.
+Dialogue: 0,0:12:14.00,0:12:17.67,Default,,0,0,0,,Tudo isso aconteceu porque você não liquidou o Emiya depressa!
+Dialogue: 0,0:12:40.74,0:12:41.61,Default,Shirou,0,0,0,,Shinji!
+Dialogue: 0,0:12:42.32,0:12:44.66,Default,Shinji,0,0,0,,Não se aproxime! Fique longe de mim!!!
+Dialogue: 0,0:12:52.37,0:12:53.54,Default,Shirou,0,0,0,,{\i1}Trace on!{\i0}
+Dialogue: 0,0:13:06.72,0:13:07.60,Default,Shinji,0,0,0,,Rider!
+Dialogue: 0,0:13:07.60,0:13:09.85,Default,,0,0,0,,O que está fazendo, Rider?!
+Dialogue: 0,0:13:11.81,0:13:13.89,Default,Rider,0,0,0,,Você é formidável, Saber.
+Dialogue: 0,0:13:16.40,0:13:17.27,Default,Shirou,0,0,0,,Shinji!
+Dialogue: 0,0:13:20.40,0:13:22.53,Default,,0,0,0,,Cancele a barreira agora mesmo, Shinji!
+Dialogue: 0,0:13:22.53,0:13:24.45,Default,Shinji,0,0,0,,V-Você só pode estar brincando...
+Dialogue: 0,0:13:24.45,0:13:26.20,Default,,0,0,0,,Por que eu deveria lhe obedecer...
+Dialogue: 0,0:13:27.37,0:13:30.12,Default,Shirou,0,0,0,,Então terei apenas que fazer você parar de respirar.
+Dialogue: 0,0:13:31.54,0:13:33.29,Default,Shinji,0,0,0,,Absurdo...
+Dialogue: 0,0:13:33.29,0:13:35.62,Default,,0,0,0,,Você acha que tem coragem de fazer isso?
+Dialogue: 0,0:13:36.42,0:13:40.63,Default,Shirou,0,0,0,,Tanto você quanto eu somos magos meia-boca...
+Dialogue: 0,0:13:40.92,0:13:44.76,Default,,0,0,0,,...mas houve uma única coisa que me ensinaram com muita clareza.
+Dialogue: 0,0:13:44.76,0:13:46.59,Default,,0,0,0,,Não importa o quão nobre você tente fazer parecer,
+Dialogue: 0,0:13:46.59,0:13:50.97,Default,,0,0,0,,a magia é algo que destrói você e fere os outros.
+Dialogue: 0,0:13:50.97,0:13:56.14,Default,,0,0,0,,Portanto, desde o primeiríssimo instante,\ntodos os magos estão preparados para matarem uns aos outros...
+Dialogue: 0,0:13:56.52,0:14:00.15,Default,,0,0,0,,Imagino que ninguém jamais tenha lhe ensinado isso.
+Dialogue: 0,0:14:00.36,0:14:01.61,Default,Shinji,0,0,0,,E-Espere!
+Dialogue: 0,0:14:01.61,0:14:02.48,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:14:02.48,0:14:04.44,Default,,0,0,0,,Eu me rendo, Emiya.
+Dialogue: 0,0:14:04.44,0:14:06.78,Default,,0,0,0,,Vou desativar a barreira imediatamen{\fscx200}-{\fscx90}
+Dialogue: 0,0:14:06.78,0:14:07.66,Default,,0,0,0,,Rider!
+Dialogue: 0,0:14:08.16,0:14:10.12,Default,,0,0,0,,Desative o Bloodfort Andromeda!
+Dialogue: 0,0:14:10.12,0:14:12.16,Default,,0,0,0,,Agora mesmo!
+Dialogue: 0,0:14:15.21,0:14:15.96,Default,Rider,0,0,0,,Hmph.
+Dialogue: 0,0:14:22.38,0:14:24.38,Default,Shinji,0,0,0,,Satisfeito agora?
+Dialogue: 0,0:14:24.38,0:14:25.76,Default,,0,0,0,,Me solte!
+Dialogue: 0,0:14:25.76,0:14:27.80,Default,Shirou,0,0,0,,Shinji, renuncie aos seus Feitiços de Comando.
+Dialogue: 0,0:14:27.80,0:14:30.51,Default,,0,0,0,,Faça isso e nunca mais terá que lutar.
+Dialogue: 0,0:14:31.64,0:14:33.01,Default,Shinji,0,0,0,,Vá para o inferno!
+Dialogue: 0,0:14:33.01,0:14:34.77,Default,,0,0,0,,Acha mesmo que vou fazer isso?!
+Dialogue: 0,0:14:35.27,0:14:36.60,Default,,0,0,0,,Se eu perder os meus Feitiços de Comando,
+Dialogue: 0,0:14:36.60,0:14:38.27,Default,,0,0,0,,não poderei mais controlar a Rider!
+Dialogue: 0,0:14:38.44,0:14:40.15,Default,,0,0,0,,Se isso acontecer, eu serei...
+Dialogue: 0,0:14:40.56,0:14:42.65,Default,Shirou,0,0,0,,Basta ir até a Igreja Kotomine.
+Dialogue: 0,0:14:42.82,0:14:46.15,Default,,0,0,0,,A Igreja protegerá os Mestres que se renderem.
+Dialogue: 0,0:14:53.49,0:14:53.91,Default,Saber,0,0,0,,Shirou!
+Dialogue: 0,0:14:59.50,0:15:01.08,Default,Shinji,0,0,0,,Rider.
+Dialogue: 0,0:15:01.46,0:15:02.96,Default,Rider,0,0,0,,Devemos recuar deste local.
+Dialogue: 0,0:15:03.71,0:15:05.00,Default,Saber,0,0,0,,Shirou, recue!
+Dialogue: 0,0:15:05.71,0:15:09.51,Default,,0,0,0,,A Rider pretende liberar todo o mana\nque utilizava para sustentar a barreira!
+Dialogue: 0,0:15:09.88,0:15:11.26,Default,Shirou,0,0,0,,Liberar todo o mana?
+Dialogue: 0,0:15:11.26,0:15:14.22,Default,Shinji,0,0,0,,R-Rider, o que você tem na cabeça?!
+Dialogue: 0,0:15:14.89,0:15:17.27,Default,,0,0,0,,Você nem sequer conseguiu derrotar a Serva do Emiya!
+Dialogue: 0,0:15:17.27,0:15:19.56,Default,,0,0,0,,Não ouse agir sem a minha permissão!
+Dialogue: 0,0:15:19.56,0:15:22.52,Default,Rider,0,0,0,,De fato, não sou páreo para a Saber.
+Dialogue: 0,0:15:22.52,0:15:23.73,Default,,0,0,0,,Mas não tema.
+Dialogue: 0,0:15:24.57,0:15:28.03,Default,,0,0,0,,O meu Fantasma Nobre é superior ao dos outros Servos.
+Dialogue: 0,0:15:28.03,0:15:33.07,Default,,0,0,0,,Ninguém é capaz de conter a minha velocidade fulminante, seja quem for.
+Dialogue: 0,0:15:49.88,0:15:51.30,Default,Saber,0,0,0,,Shirou, afaste-se imediatamente!
+Dialogue: 0,0:15:51.30,0:15:52.55,Default,,0,0,0,,A Rider pretende invocar o seu Fantasma Nobre.
+Dialogue: 0,0:16:15.83,0:16:17.04,Default,,0,0,0,,Ela fez exatamente o que disse;
+Dialogue: 0,0:16:17.04,0:16:19.95,Default,,0,0,0,,ela usou o Fantasma Nobre unicamente para escapar deste local.
+Dialogue: 0,0:16:25.08,0:16:25.88,Default,,0,0,0,,Shirou?
+Dialogue: 0,0:16:26.67,0:16:28.09,Default,,0,0,0,,Shirou!
+Dialogue: 0,0:16:47.57,0:16:49.57,Default,Shirou,0,0,0,,{\i1}Era tão doloroso...{\i0}
+Dialogue: 0,0:16:49.57,0:16:51.78,Default-Italic,,0,0,0,,{\i1}...tão doloroso...{\i0}
+Dialogue: 0,0:16:51.78,0:16:54.66,Default-Italic,,0,0,0,,{\i1}Até mesmo continuar vivo era um suplício...{\i0}
+Dialogue: 0,0:16:54.66,0:16:58.70,Default-Italic,,0,0,0,,{\i1}Pensei que talvez desaparecer aliviasse o meu tormento...{\i0}
+Dialogue: 0,0:17:03.41,0:17:05.88,Default-Italic,,0,0,0,,{\i1}Mas eu me lembro daquele rosto...{\i0}
+Dialogue: 0,0:17:05.88,0:17:10.05,Default-Italic,,0,0,0,,{\i1}Era como se aquele homem fosse o verdadeiro salvo.{\i0}
+Dialogue: 0,0:17:10.05,0:17:11.34,Default-Italic,,0,0,0,,{\i1}Um semblante iluminado de júbilo.{\i0}
+Dialogue: 0,0:17:13.17,0:17:14.97,Default-Italic,,0,0,0,,{\i1}Aquele foi o meu ponto de virada.{\i0}
+Dialogue: 0,0:17:14.97,0:17:19.64,Default-Italic,,0,0,0,,{\i1}A fraqueza que havia aceitado a morte se transformou em uma força que desejava viver.{\i0}
+Dialogue: 0,0:17:21.47,0:17:25.10,Default-Italic,,0,0,0,,{\i1}Depois daquilo, passei a vida apenas perseguindo o meu pai.{\i0}
+Dialogue: 0,0:17:26.44,0:17:31.07,Default-Italic,,0,0,0,,{\i1}Eu jamais conseguiria esquecer o rosto dele,\ne estava apenas me apoiando naquela ilusão.{\i0}
+Dialogue: 0,0:17:32.44,0:17:33.49,Default-Italic,,0,0,0,,{\i1}Sim.{\i0}
+Dialogue: 0,0:17:33.49,0:17:37.57,Default-Italic,,0,0,0,,{\i1}Se algum dia eu conseguir sorrir como o Kiritsugu sorriu,{\i0}
+Dialogue: 0,0:17:37.57,0:17:40.79,Default-Italic,,0,0,0,,{\i1}então a minha própria alma estará salva.{\i0}
+Dialogue: 0,0:17:46.12,0:17:49.34,Default,Rin,0,0,0,,Se você acordou, não acha que há algo que deveria dizer?
+Dialogue: 0,0:17:51.71,0:17:53.34,Default,Shirou,0,0,0,,Tohsaka.
+Dialogue: 0,0:17:53.34,0:17:54.51,Default,,0,0,0,,Você está aqui?
+Dialogue: 0,0:17:54.51,0:17:56.43,Default,Rin,0,0,0,,Não, nada de "você está aqui"!
+Dialogue: 0,0:17:56.43,0:17:59.60,Default,,0,0,0,,Eu estive cuidando de você durante todo este tempo, e essa é a sua atitude?
+Dialogue: 0,0:17:59.97,0:18:02.14,Default,Shirou,0,0,0,,Entendi...
+Dialogue: 0,0:18:02.14,0:18:03.10,Default,,0,0,0,,Obrigado.
+Dialogue: 0,0:18:04.18,0:18:06.31,Default,,0,0,0,,Você teve que tomar conta de mim mais uma vez.
+Dialogue: 0,0:18:07.65,0:18:11.27,Default,Rin,0,0,0,,B-Bem... não foi nada demais, não precisa se preocupar.
+Dialogue: 0,0:18:13.32,0:18:15.07,Default,Shirou,0,0,0,,Tohsaka, e o colégio?
+Dialogue: 0,0:18:15.07,0:18:16.45,Default,,0,0,0,,O que aconteceu comigo depois daquilo?
+Dialogue: 0,0:18:17.20,0:18:19.45,Default,Rin,0,0,0,,O Kirei foi cuidar dos resquícios do incidente na escola.
+Dialogue: 0,0:18:20.28,0:18:22.33,Default,,0,0,0,,Todos vão ficar bem.
+Dialogue: 0,0:18:22.33,0:18:24.91,Default,,0,0,0,,Muitos alunos foram levados para o hospital,
+Dialogue: 0,0:18:24.91,0:18:26.46,Default,,0,0,0,,mas nenhum deles corre perigo de vida.
+Dialogue: 0,0:18:26.66,0:18:28.12,Default,Shirou,0,0,0,,Compreendo.
+Dialogue: 0,0:18:28.12,0:18:31.29,Default,,0,0,0,,Foi o Kotomine quem curou o meu corpo?
+Dialogue: 0,0:18:31.29,0:18:33.67,Default,Rin,0,0,0,,Foi você mesmo quem fez isso.
+Dialogue: 0,0:18:33.67,0:18:35.17,Default,,0,0,0,,A mesmíssima coisa que aconteceu contra o Berserker.
+Dialogue: 0,0:18:36.01,0:18:38.34,Default,,0,0,0,,Se for para curar ferimentos,
+Dialogue: 0,0:18:38.34,0:18:41.18,Default,,0,0,0,,a sua capacidade de autocura é praticamente fora de série.
+Dialogue: 0,0:18:41.18,0:18:43.35,Default,,0,0,0,,Você não se lembra de absolutamente nada, não é?
+Dialogue: 0,0:18:43.35,0:18:45.18,Default,Shirou,0,0,0,,Claro que não.
+Dialogue: 0,0:18:45.18,0:18:46.93,Default,,0,0,0,,Eu não tenho a menor ideia do que está acontecendo.
+Dialogue: 0,0:18:47.64,0:18:50.19,Default,Rin,0,0,0,,De qualquer forma, trate de agradecer à Saber.
+Dialogue: 0,0:18:50.19,0:18:51.56,Default,,0,0,0,,Eu não entendo exatamente como funciona,
+Dialogue: 0,0:18:51.73,0:18:55.61,Default,,0,0,0,,mas é graças à Saber que o seu corpo reage dessa forma.
+Dialogue: 0,0:18:56.53,0:18:57.57,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:19:10.38,0:19:11.25,Default,,0,0,0,,Saber.
+Dialogue: 0,0:19:17.55,0:19:20.72,Default,Saber,0,0,0,,Shirou, você despertou.
+Dialogue: 0,0:19:22.30,0:19:25.06,Default,,0,0,0,,Tenho inúmeras coisas que preciso lhe dizer.
+Dialogue: 0,0:19:25.52,0:19:27.98,Default,,0,0,0,,Aceitar o convite de um adversário e partir desacompanhado...
+Dialogue: 0,0:19:27.98,0:19:29.77,Default,,0,0,0,,O fato de ter tentado lutar sozinho...
+Dialogue: 0,0:19:30.10,0:19:32.40,Default,,0,0,0,,O fato de não ter zelado pela integridade de seu próprio corpo...
+Dialogue: 0,0:19:32.98,0:19:34.07,Default,,0,0,0,,Você compreende?
+Dialogue: 0,0:19:34.65,0:19:37.07,Default,,0,0,0,,Todos esses atos foram tolices que poderiam tê-lo conduzido à morte!
+Dialogue: 0,0:19:37.82,0:19:40.45,Default,,0,0,0,,O que há de tão agradável em tornar as coisas tão difíceis para mim?!
+Dialogue: 0,0:19:41.03,0:19:41.82,Default,Shirou,0,0,0,,Não, eu{\fscx200}-{\fscx90}
+Dialogue: 0,0:19:42.32,0:19:46.08,Default,Saber,0,0,0,,Exijo que me diga o que exatamente\nestá pensando de uma vez por todas hoje!
+Dialogue: 0,0:19:47.54,0:19:48.25,Default,Shirou,0,0,0,,Me desculpe.
+Dialogue: 0,0:19:49.29,0:19:51.37,Default,,0,0,0,,Eu... fui um idiota.
+Dialogue: 0,0:19:52.83,0:19:54.88,Default,,0,0,0,,Você tem toda a razão de ficar zangada.
+Dialogue: 0,0:19:54.88,0:19:57.55,Default,,0,0,0,,Desculpe por tê-la deixado tão preocupada.
+Dialogue: 0,0:19:57.55,0:20:01.30,Default,,0,0,0,,Contanto que você esteja aqui, jamais lutarei sozinho novamente.
+Dialogue: 0,0:20:01.30,0:20:02.76,Default,Saber,0,0,0,,Shirou, isso significa que...
+Dialogue: 0,0:20:03.26,0:20:05.30,Default,Shirou,0,0,0,,Empreste-me os seus poderes.
+Dialogue: 0,0:20:05.30,0:20:08.47,Default,,0,0,0,,Eu não posso derrotar os outros Mestres sozinho.
+Dialogue: 0,0:20:08.47,0:20:11.81,Default,,0,0,0,,Eu preciso da sua ajuda.
+Dialogue: 0,0:20:11.81,0:20:12.94,Default,,0,0,0,,Agora eu compreendo isso perfeitamente.
+Dialogue: 0,0:20:17.78,0:20:23.24,Default,Saber,0,0,0,,Sendo assim, reconhece que todas as suas\nações até agora foram equivocadas, correto?
+Dialogue: 0,0:20:23.24,0:20:25.37,Default,,0,0,0,,Você me dará apoio em uma função de suporte...
+Dialogue: 0,0:20:25.37,0:20:27.20,Default,,0,0,0,,...e aceitará que lutar é a minha incumbência?
+Dialogue: 0,0:20:28.04,0:20:30.71,Default,Shirou,0,0,0,,Não, não acho que eu estivesse errado.
+Dialogue: 0,0:20:31.08,0:20:34.63,Default,,0,0,0,,Mesmo agora, não suporto a ideia de ver você se ferir.
+Dialogue: 0,0:20:34.63,0:20:37.80,Default,,0,0,0,,Se você vai lutar, eu também lutarei.
+Dialogue: 0,0:20:37.80,0:20:39.21,Default,Saber,0,0,0,,Ainda insiste em dizer coisas desse tipo?!
+Dialogue: 0,0:20:39.59,0:20:41.42,Default,Shirou,0,0,0,,Disso eu não abro mão.
+Dialogue: 0,0:20:41.42,0:20:45.26,Default,,0,0,0,,Não posso deixar que lute sozinha.
+Dialogue: 0,0:20:56.23,0:20:59.07,Default,Saber,0,0,0,,Essa teimosia é de fato a sua própria essência.
+Dialogue: 0,0:20:59.07,0:20:59.78,Default,Shirou,0,0,0,,Hã?
+Dialogue: 0,0:21:01.07,0:21:03.57,Default,Saber,0,0,0,,Não há necessidade sequer de responder a isso.
+Dialogue: 0,0:21:03.57,0:21:05.74,Default,,0,0,0,,Eu sou a sua espada.
+Dialogue: 0,0:21:05.74,0:21:09.29,Default,,0,0,0,,Quem mais lhe emprestaria seus poderes se não eu?
+Dialogue: 0,0:21:18.34,0:21:20.46,Default,Rin,0,0,0,,O que vocês dois estão cochichando aí?
+Dialogue: 0,0:21:22.67,0:21:24.51,Default,,0,0,0,,Sinto cheiro de conspiração.
+Dialogue: 0,0:21:24.51,0:21:28.14,Default,,0,0,0,,Não me digam que estão fazendo uma reunião estratégica pelas minhas costas.
+Dialogue: 0,0:21:28.14,0:21:30.35,Default,Saber,0,0,0,,Isso não é verdade.
+Dialogue: 0,0:21:30.35,0:21:34.35,Default,,0,0,0,,Eu estava aferindo o pulso de meu Mestre para avaliar o seu estado de saúde.
+Dialogue: 0,0:21:34.52,0:21:37.52,Default,Rin,0,0,0,,Essa é uma maneira muito esquisita de aferir o pulso.
+Dialogue: 0,0:21:38.73,0:21:40.07,Default,,0,0,0,,Bem, tanto faz.
+Dialogue: 0,0:21:40.07,0:21:41.44,Default,,0,0,0,,Saber, pegue.
+Dialogue: 0,0:21:41.44,0:21:42.78,Default,Shirou,0,0,0,,O que é isso?
+Dialogue: 0,0:21:42.78,0:21:43.86,Default,Rin,0,0,0,,As roupas da Saber.
+Dialogue: 0,0:21:44.53,0:21:46.03,Default,,0,0,0,,Tome cuidado, está bem?
+Dialogue: 0,0:21:46.03,0:21:49.95,Default,,0,0,0,,Se ela se revestir com a armadura por invocação, as roupas vão desaparecer.
+Dialogue: 0,0:21:49.95,0:21:51.08,Default,Saber,0,0,0,,Eu lhe agradeço.
+Dialogue: 0,0:21:51.08,0:21:52.91,Default,,0,0,0,,Causei-lhe transtornos, Rin.
+Dialogue: 0,0:21:52.91,0:21:56.12,Default,Rin,0,0,0,,Mas você está realmente satisfeita com roupas simples assim?
+Dialogue: 0,0:21:57.04,0:21:59.92,Default,,0,0,0,,Por que insiste tanto nessas roupas, Saber?
+Dialogue: 0,0:22:03.34,0:22:05.55,Default,Saber,0,0,0,,Porque o Shirou disse que fico bonita nelas.
+Dialogue: 0,0:22:12.22,0:22:17.65,Song,,0,0,0,,No mais profundo da floresta,
+Dialogue: 0,0:22:18.56,0:22:23.90,Song,,0,0,0,,enquanto busco o tênue perfume...
+Dialogue: 0,0:22:24.90,0:22:30.70,Song,,0,0,0,,...dos vestígios dos dias que me eram tão caros,
+Dialogue: 0,0:22:31.03,0:22:36.66,Song,,0,0,0,,de repente ouço o som do seu riso.
+Dialogue: 0,0:22:37.08,0:22:43.17,Song,,0,0,0,,Desejando tocá-lo, estendi minhas mãos,
+Dialogue: 0,0:22:43.17,0:22:49.43,Song,,0,0,0,,mas a sua imagem desvaneceu no ar efêmera.
+Dialogue: 0,0:22:49.59,0:22:54.56,Song,,0,0,0,,Senti tanto a sua falta por todo esse tempo,
+Dialogue: 0,0:22:54.64,0:22:59.52,Song,,0,0,0,,ansiei tanto por você...
+Dialogue: 0,0:22:59.85,0:23:04.19,Song,,0,0,0,,Vagando através de noites insones,
+Dialogue: 0,0:23:04.19,0:23:10.87,Song,,0,0,0,,...estou chorando, envolto pela luz
+Dialogue: 0,0:23:13.41,0:23:19.58,Song,,0,0,0,,e pela sombra que você deixou para trás,
+Dialogue: 0,0:23:22.96,0:23:31.39,Song,,0,0,0,,...aqui, no mais profundo da escura floresta.
+Dialogue: 0,0:23:40.96,0:23:45.94,Signs,,0,0,0,,Prévia
+Dialogue: 0,0:24:04.54,0:24:07.84,Default,Kirei,0,0,0,,No próximo episódio: "Rachando o Firmamento".
+Dialogue: 0,0:24:05.98,0:24:10.97,Signs,,0,0,0,,Próximo Episódio
+Dialogue: 0,0:24:06.11,0:24:10.97,Signs,,0,0,0,,Rachando o Firmamento

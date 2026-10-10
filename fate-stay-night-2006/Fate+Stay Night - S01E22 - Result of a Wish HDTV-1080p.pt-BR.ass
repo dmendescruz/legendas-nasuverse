@@ -1,0 +1,368 @@
+[Script Info]
+; Script generated for Fate/stay night (2006) - Rota da Saber
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/stay night - S01E22 - Result of a Wish (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+Style: Spell,ZapfChancery-Medium,75,&H00EDEDFD,&H0000FFFF,&H000A0A87,&H78000000,-1,0,0,0,100,100,0,0,1,2.4,0.15,2,0,0,30,0
+Style: NP,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H004F41FD,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2.0,2,160,160,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.25,0:00:11.49,Default,Gil,0,0,0,,Resistência inútil!
+Dialogue: 0,0:00:28.79,0:00:30.16,Default,Saber,0,0,0,,Quando as estrelas surgirem,
+Dialogue: 0,0:00:30.16,0:00:34.38,Default,Saber,0,0,0,,talvez... eu devesse ler a sorte do Shirou.
+Dialogue: 0,0:00:38.30,0:00:43.15,Default,Saber,0,0,0,,Estou agindo feito uma daquelas donzelas apaixonadas\Nque só se ouve falar em contos de fadas!
+Dialogue: 0,0:00:45.10,0:00:47.52,Default,Rin,0,0,0,,Saber, você sabe onde o Shirou está?
+Dialogue: 0,0:00:47.81,0:00:48.56,Default,Saber,0,0,0,,Rin.
+Dialogue: 0,0:00:49.03,0:00:51.31,Default,Rin,0,0,0,,Você saberia por onde ele anda?
+Dialogue: 0,0:00:51.31,0:00:53.03,Default,Rin,0,0,0,,A febre da Illya está piorando.
+Dialogue: 0,0:00:57.46,0:01:01.83,Song,,0,0,0,,Lágrimas cintilantes transformam-se em estrelas,
+Dialogue: 0,0:01:02.00,0:01:06.19,Song,,0,0,0,,conduzidas pelo vento, adornam o firmamento.
+Dialogue: 0,0:01:06.41,0:01:10.65,Song,,0,0,0,,Mesmo quando o luar se oculta sob as nuvens,
+Dialogue: 0,0:01:10.91,0:01:17.58,Song,,0,0,0,,...ele ainda reluz sobre mim.
+Dialogue: 0,0:01:24.67,0:01:28.74,Song,,0,0,0,,Cansado de seguir os mesmos trilhos pré-traçados,
+Dialogue: 0,0:01:29.13,0:01:33.27,Song,,0,0,0,,...disparei a correr impulsivamente.
+Dialogue: 0,0:01:33.62,0:01:37.73,Song,,0,0,0,,Minha renúncia transforma-se em determinação,
+Dialogue: 0,0:01:37.97,0:01:42.29,Song,,0,0,0,,...e encontro orgulho em meus calcanhares desgastados.
+Dialogue: 0,0:01:42.48,0:01:51.26,Song,,0,0,0,,O caminho segue em frente, rumando a leste, rumando a oeste,
+Dialogue: 0,0:01:51.38,0:01:55.32,Song,,0,0,0,,mesmo após o pôr do sol se esvair.
+Dialogue: 0,0:01:57.51,0:02:01.81,Song,,0,0,0,,Lágrimas cintilantes transformam-se em estrelas,
+Dialogue: 0,0:02:01.99,0:02:06.22,Song,,0,0,0,,conduzidas pelo vento, adornam o firmamento.
+Dialogue: 0,0:02:06.38,0:02:10.68,Song,,0,0,0,,Mesmo quando o luar se oculta sob as nuvens,
+Dialogue: 0,0:02:10.88,0:02:17.61,Song,,0,0,0,,...ele ainda reluz sobre mim.
+Dialogue: 0,0:02:20.61,0:02:25.46,Signs,,0,0,0,,Episódio 22
+Dialogue: 0,0:02:20.82,0:02:25.46,Signs,,0,0,0,,O Resultado de um Desejo
+Dialogue: 0,0:02:26.34,0:02:28.71,Default,Rin,0,0,0,,Ela... pode estar chegando ao limite dela em breve.
+Dialogue: 0,0:02:30.16,0:02:32.92,Default,Rin,0,0,0,,Enquanto o ritual da Guerra do Santo Graal continuar,
+Dialogue: 0,0:02:32.92,0:02:34.88,Default,Rin,0,0,0,,ela não vai conseguir voltar ao estado normal.
+Dialogue: 0,0:02:34.88,0:02:35.73,Default,Saber,0,0,0,,O limite dela... o que quer dizer?
+Dialogue: 0,0:02:35.89,0:02:38.51,Default,Rin,0,0,0,,Ela ainda tem alguma capacidade restante,
+Dialogue: 0,0:02:39.12,0:02:40.44,Default,Rin,0,0,0,,mas quando estiver cheia,
+Dialogue: 0,0:02:40.44,0:02:43.47,Default,Rin,0,0,0,,terá de descartar suas funções humanas, aquelas de que menos precisa.
+Dialogue: 0,0:02:44.39,0:02:49.50,Default,Rin,0,0,0,,A Illya foi feita de forma que, quanto mais a guerra avança,\Nmais o seu corpo enfraquece.
+Dialogue: 0,0:02:52.02,0:02:52.86,Default,Rin,0,0,0,,Deixa para lá!
+Dialogue: 0,0:02:52.86,0:02:55.70,Default,Rin,0,0,0,,Eu falei de propósito de um jeito difícil para você não entender.
+Dialogue: 0,0:02:55.70,0:02:58.49,Default,Rin,0,0,0,,Mais importante, sobre o Mestre do Lancer...
+Dialogue: 0,0:02:58.86,0:02:59.99,Default,Saber,0,0,0,,Você sabe quem ele é?
+Dialogue: 0,0:03:00.49,0:03:01.49,Default,Rin,0,0,0,,Sim.
+Dialogue: 0,0:03:02.63,0:03:04.93,Default,Rin,0,0,0,,Eu fui até o esconderijo dele...
+Dialogue: 0,0:03:09.35,0:03:11.79,Default,Rin,0,0,0,,...mas tudo o que encontrei foram manchas de sangue...
+Dialogue: 0,0:03:11.79,0:03:14.63,Default,Rin,0,0,0,,...e um braço esquerdo com os Feitiços de Comando arrancados...
+Dialogue: 0,0:03:15.41,0:03:18.68,Default,Rin,0,0,0,,O Mestre do Lancer já foi assassinado.
+Dialogue: 0,0:03:18.68,0:03:21.59,Default,Saber,0,0,0,,Então, o Lancer já desapareceu?
+Dialogue: 0,0:03:22.13,0:03:25.14,Default,Saber,0,0,0,,Ele foi derrotado por outro Servo após atacar o Shirou?
+Dialogue: 0,0:03:26.84,0:03:29.89,Default,Rin,0,0,0,,As manchas de sangue no quarto eram muito mais antigas.
+Dialogue: 0,0:03:30.77,0:03:34.09,Default,Rin,0,0,0,,O Mestre do Lancer foi morto bem antes disso.
+Dialogue: 0,0:03:34.09,0:03:35.15,Default,Rin,0,0,0,,Você entende o que isso significa?
+Dialogue: 0,0:03:35.77,0:03:38.63,Default,Saber,0,0,0,,Algum desconhecido roubou os Feitiços de Comando\Ndo Mestre do Lancer...
+Dialogue: 0,0:03:38.63,0:03:40.53,Default,Saber,0,0,0,,...e firmou um pacto com ele.
+Dialogue: 0,0:03:41.51,0:03:42.15,Default,Saber,0,0,0,,Mas Rin...
+Dialogue: 0,0:03:42.58,0:03:43.27,Default,Rin,0,0,0,,Exato.
+Dialogue: 0,0:03:43.27,0:03:45.84,Default,Rin,0,0,0,,Os únicos Mestres restantes somos o Shirou e eu,
+Dialogue: 0,0:03:45.84,0:03:47.47,Default,Rin,0,0,0,,e mesmo assim, o Lancer não desapareceu.
+Dialogue: 0,0:03:47.91,0:03:53.17,Default,Rin,0,0,0,,Isso significaria que algum mago que não era\num Mestre original tornou-se um Mestre agora.
+Dialogue: 0,0:03:53.91,0:03:57.17,Default,Saber,0,0,0,,Feitiços de Comando só podem ser transplantados por um Mestre ou por um Servo.
+Dialogue: 0,0:03:58.03,0:04:00.72,Default,Saber,0,0,0,,Por mais habilidoso que seja um mago, roubar Feitiços de Comando...
+Dialogue: 0,0:04:00.72,0:04:02.48,Default,Saber,0,0,0,,...não o tornaria um Mestre.
+Dialogue: 0,0:04:02.48,0:04:04.54,Default,Rin,0,0,0,,Então me explique outra coisa.
+Dialogue: 0,0:04:04.54,0:04:06.37,Default,Rin,0,0,0,,Suponha que o Santo Graal tivesse desaparecido...
+Dialogue: 0,0:04:06.37,0:04:07.83,Default,Rin,0,0,0,,...mas alguém ainda possuísse Feitiços de Comando,
+Dialogue: 0,0:04:07.83,0:04:09.68,Default,Rin,0,0,0,,e seu Servo ainda estivesse presente.
+Dialogue: 0,0:04:09.68,0:04:11.81,Default,Rin,0,0,0,,Essa pessoa continuaria a ser um Mestre?
+Dialogue: 0,0:04:11.81,0:04:13.35,Default,Saber,0,0,0,,Sim, suponho que sim.
+Dialogue: 0,0:04:13.35,0:04:15.43,Default,Saber,0,0,0,,Se ainda tivesse seus Feitiços de Comando e seu Servo,
+Dialogue: 0,0:04:15.43,0:04:20.03,Default,Saber,0,0,0,,então mesmo que a guerra tivesse acabado,\Nesse mago ainda permaneceria um Mestre e...
+Dialogue: 0,0:04:21.29,0:04:25.41,Default,Saber,0,0,0,,Então aquele que matou o Mestre do Lancer e fez um pacto com ele foi...
+Dialogue: 0,0:04:25.78,0:04:26.89,Default,Rin,0,0,0,,Sim.
+Dialogue: 0,0:04:26.89,0:04:29.04,Default,Rin,0,0,0,,É a única coisa que faz sentido.
+Dialogue: 0,0:04:29.04,0:04:32.20,Default,Rin,0,0,0,,Isso também explicaria as ações do Lancer.
+Dialogue: 0,0:04:33.00,0:04:35.25,Default,Rin,0,0,0,,Ele não se importava que sua verdadeira identidade fosse revelada...
+Dialogue: 0,0:04:35.82,0:04:39.13,Default,Rin,0,0,0,,...e simplesmente saiu lutando contra qualquer Servo que encontrava.
+Dialogue: 0,0:04:39.13,0:04:40.46,Default,Saber,0,0,0,,De fato...
+Dialogue: 0,0:04:40.46,0:04:44.30,Default,Saber,0,0,0,,É conduta padrão para Servos eliminar um oponente\Nque tenha testemunhado o seu Fantasma Nobre.
+Dialogue: 0,0:04:44.30,0:04:47.26,Default,Rin,0,0,0,,O papel dele era investigar o inimigo.
+Dialogue: 0,0:04:47.26,0:04:51.56,Default,Rin,0,0,0,,O novo Mestre do Lancer tinha outro Servo para lutar de verdade.
+Dialogue: 0,0:04:52.37,0:04:57.06,Default,Rin,0,0,0,,Ainda assim, que tipo de Mestre usaria um Servo do calibre do Lancer só para reconhecimento?
+Dialogue: 0,0:04:57.48,0:04:59.87,Default,Saber,0,0,0,,Rin, onde o Shirou está agora?
+Dialogue: 0,0:05:00.13,0:05:01.94,Default,Rin,0,0,0,,Bem, se eu te perguntei, é óbvio que eu não sei.
+Dialogue: 0,0:05:02.65,0:05:04.07,Default,Rin,0,0,0,,Não me diga que ele foi para o lugar do Kirei?!
+Dialogue: 0,0:05:05.10,0:05:06.32,Default,Saber,0,0,0,,Para aquela igreja?
+Dialogue: 0,0:05:10.35,0:05:12.28,Default,Saber,0,0,0,,O ar naquele lugar é desprovido de vida.
+Dialogue: 0,0:05:12.28,0:05:15.08,Default,Saber,0,0,0,,Aquela igreja não tem nada de solo sagrado.
+Dialogue: 0,0:05:15.83,0:05:20.04,Default,Saber,0,0,0,,A sensação mortífera... é semelhante à do Templo Ryuudou; o odor da morte.
+Dialogue: 0,0:05:20.34,0:05:22.38,Default,Saber,0,0,0,,O Shirou foi até lá agora?
+Dialogue: 0,0:05:22.81,0:05:24.01,Default,Saber,0,0,0,,Sozinho?
+Dialogue: 0,0:05:38.17,0:05:38.69,Default,Saber,0,0,0,,Shirou!
+Dialogue: 0,0:05:41.14,0:05:41.69,Default,Lancer,0,0,0,,E aí!
+Dialogue: 0,0:05:58.14,0:06:01.67,Default,Lancer,0,0,0,,Sabe, foi a segunda vez que atravessei o peito dele.
+Dialogue: 0,0:06:02.35,0:06:05.89,Default,Lancer,0,0,0,,Só que desta vez, fiz de um jeito que ele não vai voltar à vida.
+Dialogue: 0,0:06:05.89,0:06:06.85,Default,Saber,0,0,0,,Você...
+Dialogue: 0,0:06:06.85,0:06:08.44,Default,Saber,0,0,0,,Usou a Gáe Bulg contra o Shirou?!
+Dialogue: 0,0:06:08.44,0:06:10.66,Default,Lancer,0,0,0,,Eu errei o coração,
+Dialogue: 0,0:06:10.66,0:06:12.65,Default,Lancer,0,0,0,,mas a maldição está agindo do mesmo jeito!
+Dialogue: 0,0:06:12.65,0:06:17.23,Default,Lancer,0,0,0,,Nenhum ferimento causado por esta lança jamais poderá ser curado!
+Dialogue: 0,0:06:24.86,0:06:29.03,Default,Lancer,0,0,0,,Fico feliz que tenha conseguido sobreviver até agora, Saber!
+Dialogue: 0,0:06:38.98,0:06:40.75,Default,voice,0,0,0,,Dói tanto...
+Dialogue: 0,0:06:39.25,0:06:40.58,Default-Top,Shirou,0,0,0,,Eu não consigo...
+Dialogue: 0,0:06:40.75,0:06:43.27,Default,voice,0,0,0,,Mande-nos de volta...
+Dialogue: 0,0:06:42.30,0:06:43.03,Default-Top,Shirou,0,0,0,,Não posso...
+Dialogue: 0,0:06:43.27,0:06:44.71,Default,voice,0,0,0,,Devolva...
+Dialogue: 0,0:06:43.80,0:06:45.76,Default-Top,Shirou,0,0,0,,Não posso salvar a todos...
+Dialogue: 0,0:06:45.41,0:06:47.24,Default,voice,0,0,0,,Por favor...
+Dialogue: 0,0:06:50.93,0:06:52.93,Default,Shirou,0,0,0,,Q-Quem está aí?
+Dialogue: 0,0:06:59.83,0:07:01.43,Default,Kirei,0,0,0,,Já é o suficiente, Saber.
+Dialogue: 0,0:07:09.07,0:07:10.90,Default,Kirei,0,0,0,,Abaixe a sua espada.
+Dialogue: 0,0:07:15.88,0:07:21.79,Default,Kirei,0,0,0,,Se você veio apenas para resgatar este homem,\Neu posso entregá-lo a você.
+Dialogue: 0,0:07:22.78,0:07:27.34,Default,Kirei,0,0,0,,O meu dever é apenas julgar aqueles que seriam dignos de possuir o Santo Graal.
+Dialogue: 0,0:07:28.65,0:07:33.34,Default,Kirei,0,0,0,,Se você desejar, posso até mesmo lhe entregar o Santo Graal agora.
+Dialogue: 0,0:07:33.68,0:07:37.35,Default,Lancer,0,0,0,,Eu achei que ele só apareceria quando restasse apenas um Servo.
+Dialogue: 0,0:07:37.81,0:07:40.64,Default,Kirei,0,0,0,,Sim, mas o recipiente é outra questão.
+Dialogue: 0,0:07:40.64,0:07:43.81,Default,Kirei,0,0,0,,O recipiente é preparado como um objeto tangível.
+Dialogue: 0,0:07:43.81,0:07:48.36,Default,Kirei,0,0,0,,e o poder flui para ele até a invocação do Santo Graal.
+Dialogue: 0,0:07:49.55,0:07:53.37,Default,Kirei,0,0,0,,Nesta situação, em que restam apenas dois Servos,
+Dialogue: 0,0:07:53.37,0:07:55.37,Default,Kirei,0,0,0,,presumo que ele esteja praticamente completo.
+Dialogue: 0,0:07:56.59,0:08:01.18,Default,Kirei,0,0,0,,O Santo Graal aguarda para ser preenchido com o sangue de um sacrifício humano.
+Dialogue: 0,0:08:01.18,0:08:05.78,Default,Kirei,0,0,0,,Se houver alguém adequado,\Nficarei feliz em entregar-lhe o Santo Graal.
+Dialogue: 0,0:08:06.65,0:08:07.96,Default,Kirei,0,0,0,,E por essa razão,
+Dialogue: 0,0:08:08.56,0:08:10.13,Default,Kirei,0,0,0,,Emiya Shirou...
+Dialogue: 0,0:08:12.20,0:08:16.19,Default,Kirei,0,0,0,,gostaria de ouvir o que você tem a dizer.
+Dialogue: 0,0:08:16.19,0:08:18.74,Default,Kirei,0,0,0,,Naquele dia, dez anos atrás,
+Dialogue: 0,0:08:18.74,0:08:22.39,Default,Kirei,0,0,0,,você realmente não sentiu ódio de nada?
+Dialogue: 0,0:08:23.92,0:08:26.10,Default,Shirou,0,0,0,,Dez anos... atrás...
+Dialogue: 0,0:08:33.44,0:08:34.20,Default,Shirou,0,0,0,,Parem...
+Dialogue: 0,0:08:34.77,0:08:36.03,Default,Shirou,0,0,0,,Já é tarde demais para vocês!
+Dialogue: 0,0:08:36.41,0:08:37.37,Default,Shirou,0,0,0,,Parem...
+Dialogue: 0,0:08:40.07,0:08:41.65,Default,Shirou,0,0,0,,Em meio àquelas chamas...
+Dialogue: 0,0:08:41.65,0:08:42.97,Default,Shirou,0,0,0,,...sob todos aqueles escombros...
+Dialogue: 0,0:08:43.72,0:08:45.67,Default,Shirou,0,0,0,,...todos clamavam por socorro.
+Dialogue: 0,0:08:46.59,0:08:48.51,Default,Shirou,0,0,0,,Eu os ignorava enquanto caminhava...
+Dialogue: 0,0:08:49.07,0:08:51.11,Default,Shirou,0,0,0,,...apenas suplicando pela minha própria salvação.
+Dialogue: 0,0:08:52.42,0:08:53.92,Default,voice,0,0,0,,Espere...
+Dialogue: 0,0:08:53.92,0:08:56.32,Default,voice,0,0,0,,Ajude...
+Dialogue: 0,0:08:55.34,0:08:57.93,Default-Top,Shirou,0,0,0,,Não é como se eu pudesse fazer algo para salvá-los,
+Dialogue: 0,0:08:57.93,0:08:59.55,Default,Shirou,0,0,0,,por isso continuei a andar sem parar.
+Dialogue: 0,0:09:00.62,0:09:04.16,Default,Shirou,0,0,0,,Corri ignorando a voz de incontáveis pessoas que estavam à beira da morte.
+Dialogue: 0,0:09:04.95,0:09:09.23,Default,Shirou,0,0,0,,Diante do que eu tinha feito, pensei que eu tinha a obrigação absoluta de viver.
+Dialogue: 0,0:09:10.94,0:09:14.36,Default,Shirou,0,0,0,,Apenas um de nós teve o seu desejo realizado.
+Dialogue: 0,0:09:15.22,0:09:17.07,Default,Shirou,0,0,0,,Todos os outros morreram.
+Dialogue: 0,0:09:19.46,0:09:22.32,Default,Shirou,0,0,0,,É por isso que fiquei tão obcecado em seguir os passos do Kiritsugu.
+Dialogue: 0,0:09:23.01,0:09:26.75,Default,Shirou,0,0,0,,Eu admirava aquele herói da justiça que salvaria a todos.
+Dialogue: 0,0:09:27.60,0:09:32.41,Default,Shirou,0,0,0,,No vazio do meu coração, pensei que se não seguisse em frente apesar de tudo...
+Dialogue: 0,0:09:33.16,0:09:36.05,Default,Shirou,0,0,0,,Se eu não mantivesse a cabeça erguida e avançasse,
+Dialogue: 0,0:09:36.05,0:09:38.88,Default,Shirou,0,0,0,,...jamais seria perdoado por aqueles que morreram.
+Dialogue: 0,0:09:40.59,0:09:46.05,Default,Kirei,0,0,0,,Se fosse possível desfazer o que ocorreu naquele dia,
+Dialogue: 0,0:09:46.05,0:09:48.69,Default,Kirei,0,0,0,,...se você pudesse recomeçar tudo do zero...
+Dialogue: 0,0:09:48.69,0:09:51.40,Default,Kirei,0,0,0,,...você não desejaria o Santo Graal?
+Dialogue: 0,0:09:53.69,0:09:56.27,Default,Kirei,0,0,0,,Agora, responda-me.
+Dialogue: 0,0:09:56.27,0:10:00.08,Default,Kirei,0,0,0,,Se você o desejar, eu lhe entregarei o Santo Graal.
+Dialogue: 0,0:10:03.88,0:10:06.20,Default,Shirou,0,0,0,,Eu não preciso... de algo assim.
+Dialogue: 0,0:10:08.61,0:10:11.24,Default,Shirou,0,0,0,,Mesmo que eu realmente pudesse mudar o passado,
+Dialogue: 0,0:10:11.24,0:10:13.98,Default,Shirou,0,0,0,,...seria errado pegar todas as lágrimas, as memórias,
+Dialogue: 0,0:10:13.98,0:10:17.17,Default,Shirou,0,0,0,,...a crueldade da realidade que feriu os nossos corações,
+Dialogue: 0,0:10:18.87,0:10:23.07,Default,Shirou,0,0,0,,...todas as mortes e tristezas que as pessoas suportaram e superaram ao longo dos anos,
+Dialogue: 0,0:10:23.07,0:10:25.20,Default,Shirou,0,0,0,,...e fazer com que tudo tenha sido em vão.
+Dialogue: 0,0:10:26.21,0:10:28.32,Default,Shirou,0,0,0,,Carregar essas dores...
+Dialogue: 0,0:10:28.32,0:10:30.59,Default,Shirou,0,0,0,,...e seguir em frente...
+Dialogue: 0,0:10:30.59,0:10:33.19,Default,Shirou,0,0,0,,Não é essa a única maneira de honrar aqueles que se foram?
+Dialogue: 0,0:10:35.00,0:10:37.19,Default,Shirou,0,0,0,,Assim como fui acorrentado pela morte deles,
+Dialogue: 0,0:10:37.19,0:10:39.77,Default,Shirou,0,0,0,,...e me senti protegido pelas lembranças do Kiritsugu,
+Dialogue: 0,0:10:40.29,0:10:45.20,Default,Shirou,0,0,0,,...acredito que os sentimentos são a chave que permite àqueles que estão vivos mudar.
+Dialogue: 0,0:10:46.32,0:10:47.83,Default,Shirou,0,0,0,,Não importa o quanto doa,
+Dialogue: 0,0:10:47.83,0:10:49.61,Default,Shirou,0,0,0,,mesmo que seja uma ferida que jamais vá cicatrizar,
+Dialogue: 0,0:10:50.30,0:10:53.56,Default,Shirou,0,0,0,,acredito que este caminho não está errado!
+Dialogue: 0,0:10:55.76,0:10:57.17,Default,Kirei,0,0,0,,Compreendo...
+Dialogue: 0,0:10:57.17,0:10:57.76,Default,Kirei,0,0,0,,Em outras palavras...
+Dialogue: 0,0:10:58.25,0:11:00.40,Default,Shirou,0,0,0,,Eu não preciso do Santo Graal...
+Dialogue: 0,0:11:00.87,0:11:06.05,Default,Shirou,0,0,0,,Tenho de permanecer fiel a quem sou, tanto por mim quanto por aqueles que deixei para trás...
+Dialogue: 0,0:11:18.76,0:11:20.95,Default,Kirei,0,0,0,,E quanto a você, Saber?
+Dialogue: 0,0:11:21.38,0:11:26.45,Default,Kirei,0,0,0,,Você não possui um ego tão tolo quanto o de Emiya Shirou, não é?
+Dialogue: 0,0:11:26.63,0:11:27.83,Default,Saber,0,0,0,,Eu...
+Dialogue: 0,0:11:38.80,0:11:40.09,Default,Kirei,0,0,0,,Saber...
+Dialogue: 0,0:11:40.71,0:11:42.93,Default,Kirei,0,0,0,,Mate o seu Mestre.
+Dialogue: 0,0:11:43.77,0:11:46.26,Default,Kirei,0,0,0,,Faça isso e o seu desejo será concedido.
+Dialogue: 0,0:11:46.37,0:11:48.72,Default,Saber,0,0,0,,O meu... desejo...
+Dialogue: 0,0:11:50.18,0:11:53.27,Default,Saber,0,0,0,,...que houvesse alguém mais adequado para ser rei...
+Dialogue: 0,0:11:53.73,0:11:57.77,Default,Saber,0,0,0,,...e que essa pessoa tivesse sido capaz\Nde estabelecer um reino pacífico e duradouro...
+Dialogue: 0,0:11:59.89,0:12:02.53,Default,Saber,0,0,0,,Eu quero refazer a seleção.
+Dialogue: 0,0:12:02.53,0:12:05.22,Default,Saber,0,0,0,,Se o Santo Graal pudesse restaurar tudo ao que era antes,
+Dialogue: 0,0:12:05.22,0:12:07.50,Default,Saber,0,0,0,,então a ruína da minha terra...
+Dialogue: 0,0:12:08.40,0:12:12.00,Default,Shirou,0,0,0,,Acredito que este caminho não está errado.
+Dialogue: 0,0:12:15.31,0:12:16.54,Default,Saber,0,0,0,,É verdade.
+Dialogue: 0,0:12:16.92,0:12:21.59,Default,Saber,0,0,0,,Eu jurei cumprir os deveres de um rei no momento em que desembainhei aquela espada.
+Dialogue: 0,0:12:22.55,0:12:25.93,Default,Saber,0,0,0,,Sacrifiquei inúmeras coisas e lutei pelo meu povo.
+Dialogue: 0,0:12:26.50,0:12:28.43,Default,Saber,0,0,0,,Não há arrependimentos nisso.
+Dialogue: 0,0:12:29.77,0:12:32.11,Default,Saber,0,0,0,,Se eu posso me orgulhar da vida que levei,
+Dialogue: 0,0:12:32.11,0:12:35.28,Default,Saber,0,0,0,,então mesmo que tenha resultado em minha queda,
+Dialogue: 0,0:12:35.28,0:12:37.61,Default,Saber,0,0,0,,eu não devo desejar refazer tudo do começo.
+Dialogue: 0,0:12:39.85,0:12:41.71,Default,Saber,0,0,0,,O rei protegeu o seu país,
+Dialogue: 0,0:12:42.22,0:12:45.06,Default,Saber,0,0,0,,mas o país não protegeu o seu rei.
+Dialogue: 0,0:12:45.38,0:12:46.40,Default,Saber,0,0,0,,Isso é tudo.
+Dialogue: 0,0:12:47.73,0:12:49.49,Default,Saber,0,0,0,,Mesmo que tenha terminado em tragédia,
+Dialogue: 0,0:12:49.49,0:12:52.44,Default,Saber,0,0,0,,se os atos que levaram àquele desfecho foram honrados e justos,
+Dialogue: 0,0:12:52.44,0:12:54.71,Default,Saber,0,0,0,,...não há motivo algum para tentar alterá-los.
+Dialogue: 0,0:12:55.97,0:13:00.17,Default,Saber,0,0,0,,Sacrifiquei muito visando obter esta mudança,
+Dialogue: 0,0:13:00.17,0:13:03.47,Default,Saber,0,0,0,,mas ainda assim, houve algo que protegi até o fim.
+Dialogue: 0,0:13:04.14,0:13:07.55,Default,Saber,0,0,0,,Sim, eu guardei isso dentro do meu coração.
+Dialogue: 0,0:13:07.91,0:13:12.18,Default,Saber,0,0,0,,Ao menos, permita-me contemplar este sonho inacabado até o seu desfecho.
+Dialogue: 0,0:13:15.02,0:13:16.89,Default,Saber,0,0,0,,Eu desejo o Santo Graal,
+Dialogue: 0,0:13:16.89,0:13:18.73,Default,Saber,0,0,0,,mas jamais matarei o Shirou!
+Dialogue: 0,0:13:20.80,0:13:22.48,Default,Saber,0,0,0,,Ainda não entendeu, seu velhaco?
+Dialogue: 0,0:13:22.48,0:13:26.24,Default,Saber,0,0,0,,Eu prefiro o Shirou a qualquer Graal!
+Dialogue: 0,0:13:26.96,0:13:29.56,Default,Saber,0,0,0,,Não preciso de um Santo Graal se ele for manchar a minha alma.
+Dialogue: 0,0:13:30.08,0:13:33.59,Default,Saber,0,0,0,,Eu já conquistei tudo o que sempre almejei.
+Dialogue: 0,0:13:34.47,0:13:37.42,Default,Saber,0,0,0,,Shirou, por favor, segure a minha mão.
+Dialogue: 0,0:13:47.48,0:13:49.39,Default,Shirou,0,0,0,,Minhas forças... voltaram...
+Dialogue: 0,0:13:50.78,0:13:52.43,Default,Shirou,0,0,0,,Saber, isso é...
+Dialogue: 0,0:13:52.67,0:13:55.93,Default,Saber,0,0,0,,A maldição da Gáe Bulg não surte mais efeito em você.
+Dialogue: 0,0:13:57.47,0:13:59.65,Default,Kirei,0,0,0,,Vocês dois são tão cansativos...
+Dialogue: 0,0:14:01.95,0:14:03.94,Default,Kirei,0,0,0,,Farei com que morram aqui mesmo.
+Dialogue: 0,0:14:07.74,0:14:09.11,Default,Kirei,0,0,0,,Permitam-me apresentá-los.
+Dialogue: 0,0:14:10.71,0:14:16.12,Default,Kirei,0,0,0,,Este Espírito Heroico foi meu parceiro durante a Guerra do Santo Graal anterior.
+Dialogue: 0,0:14:17.24,0:14:18.12,Default,Shirou,0,0,0,,Você é...
+Dialogue: 0,0:14:22.11,0:14:24.13,Default,Gil,0,0,0,,O quê? Num lugar imundo como este?
+Dialogue: 0,0:14:24.26,0:14:28.13,Default,Gil,0,0,0,,E com esses estorvos extras? Quer que eu resolva tudo aqui?
+Dialogue: 0,0:14:28.69,0:14:29.97,Default,Lancer,0,0,0,,Qual é o significado disso?
+Dialogue: 0,0:14:30.34,0:14:32.14,Default,Lancer,0,0,0,,Ele é o seu Servo?!
+Dialogue: 0,0:14:32.95,0:14:36.02,Default,Kirei,0,0,0,,Após o encerramento da última Guerra do Santo Graal,
+Dialogue: 0,0:14:36.45,0:14:40.22,Default,Kirei,0,0,0,,com uma refeição adequada para que ele pudesse permanecer neste mundo,
+Dialogue: 0,0:14:40.22,0:14:42.38,Default,Kirei,0,0,0,,nós nos tornamos parceiros.
+Dialogue: 0,0:14:42.38,0:14:43.64,Default,Lancer,0,0,0,,Refeição?
+Dialogue: 0,0:14:43.64,0:14:46.44,Default,Lancer,0,0,0,,Então era para isso que servia aquele quarto asqueroso?!
+Dialogue: 0,0:14:47.55,0:14:49.24,Default,Lancer,0,0,0,,Por que mentiu para mim?
+Dialogue: 0,0:14:49.88,0:14:53.78,Default,Kirei,0,0,0,,Se eu tivesse lhe contado a verdade, você teria lutado ao lado dele?
+Dialogue: 0,0:14:54.93,0:14:56.24,Default,Lancer,0,0,0,,Francamente, eu preferiria morrer.
+Dialogue: 0,0:14:56.76,0:14:59.79,Default,Shirou,0,0,0,,Então mentiu quando disse que não sabia quem ele era?!
+Dialogue: 0,0:15:00.11,0:15:02.41,Default,Kirei,0,0,0,,Ele desobedeceu à minha ordem de permanecer em espera...
+Dialogue: 0,0:15:02.41,0:15:05.46,Default,Kirei,0,0,0,,...e se revelou diante de vocês.
+Dialogue: 0,0:15:05.99,0:15:09.39,Default,Kirei,0,0,0,,Se o seguissem, eventualmente chegariam até mim.
+Dialogue: 0,0:15:09.39,0:15:13.30,Default,Kirei,0,0,0,,Por conseguinte, tive de traçar uma nova estratégia para ele.
+Dialogue: 0,0:15:15.22,0:15:20.02,Default,Kirei,0,0,0,,Pensem bem. Eu nunca disse uma mentira explícita a vocês.
+Dialogue: 0,0:15:22.49,0:15:26.02,Default,Kirei,0,0,0,,Parece que as coisas voltaram a ser como há dez anos, Saber.
+Dialogue: 0,0:15:28.18,0:15:32.41,Default,Kirei,0,0,0,,Embora, claro, o Kiritsugu tenha me derrotado naquela época...
+Dialogue: 0,0:15:34.57,0:15:37.54,Default,Kirei,0,0,0,,...o que me impediu de presenciar a cena final.
+Dialogue: 0,0:15:38.79,0:15:40.78,Default,Kirei,0,0,0,,Estando à beira da morte,
+Dialogue: 0,0:15:41.52,0:15:44.40,Default,Kirei,0,0,0,,toquei no Santo Graal que havia se manifestado.
+Dialogue: 0,0:15:44.40,0:15:49.76,Default,Kirei,0,0,0,,Eu não... sabia que algo daquele tipo iria acontecer.
+Dialogue: 0,0:15:51.47,0:15:52.34,Default,Shirou,0,0,0,,Então...
+Dialogue: 0,0:15:53.06,0:15:54.22,Default,Shirou,0,0,0,,Aquele grande incêndio foi...
+Dialogue: 0,0:15:54.82,0:15:56.97,Default,Saber,0,0,0,,Foi você quem usou o poder do Santo Graal?!
+Dialogue: 0,0:15:57.11,0:16:03.02,Default,Kirei,0,0,0,,Eu apenas desejei que todos ao redor daquela área desaparecessem.
+Dialogue: 0,0:16:03.32,0:16:07.02,Default,Kirei,0,0,0,,O Santo Graal teria feito o mesmo\Nmesmo se eu não tivesse desejado.
+Dialogue: 0,0:16:07.57,0:16:08.90,Default,Saber,0,0,0,,Absurdo!
+Dialogue: 0,0:16:09.35,0:16:11.99,Default,Saber,0,0,0,,O Santo Graal concede o desejo do portador, não concede?!
+Dialogue: 0,0:16:12.46,0:16:16.06,Default,Kirei,0,0,0,,E de que forma esses desejos são concedidos?
+Dialogue: 0,0:16:16.42,0:16:19.33,Default,Kirei,0,0,0,,O Santo Graal é como uma arma colossal.
+Dialogue: 0,0:16:19.81,0:16:24.54,Default,Kirei,0,0,0,,Ele concede os desejos do portador por meio da destruição;
+Dialogue: 0,0:16:26.05,0:16:28.17,Default,Kirei,0,0,0,,um poder puro e descomplicado.
+Dialogue: 0,0:16:29.53,0:16:32.38,Default,Saber,0,0,0,,Então o Santo Graal que eu estive buscando é...
+Dialogue: 0,0:16:32.72,0:16:36.84,Default,Kirei,0,0,0,,...um cálice amaldiçoado que aniquilará todos, com exceção de seu portador.
+Dialogue: 0,0:16:38.85,0:16:40.88,Default,Kirei,0,0,0,,Gilgamesh, Lancer!
+Dialogue: 0,0:16:41.47,0:16:43.02,Default,Kirei,0,0,0,,Deem um fim a esse lixo.
+Dialogue: 0,0:16:53.15,0:16:55.78,Default,Saber,0,0,0,,Não saia do meu lado.
+Dialogue: 0,0:16:55.78,0:16:56.78,Default,Shirou,0,0,0,,Certo.
+Dialogue: 0,0:17:04.73,0:17:08.67,Default,Gil,0,0,0,,A sua presa deveria ser aquele vira-lata ali.
+Dialogue: 0,0:17:09.10,0:17:10.85,Default,Lancer,0,0,0,,Mudei de ideia.
+Dialogue: 0,0:17:10.85,0:17:12.44,Default,Lancer,0,0,0,,Não quero fazer parte disso.
+Dialogue: 0,0:17:12.44,0:17:13.85,Default,Saber,0,0,0,,Lancer, você...
+Dialogue: 0,0:17:13.85,0:17:15.70,Default,Lancer,0,0,0,,Não me entenda mal.
+Dialogue: 0,0:17:15.70,0:17:18.01,Default,Lancer,0,0,0,,Não estou ficando do seu lado nem nada disso.
+Dialogue: 0,0:17:18.01,0:17:19.22,Default,Lancer,0,0,0,,Eu só...
+Dialogue: 0,0:17:19.22,0:17:22.68,Default,Lancer,0,0,0,,...estou seguindo as minhas próprias convicções!
+Dialogue: 0,0:17:23.58,0:17:24.61,Default,Gil,0,0,0,,Ora...
+Dialogue: 0,0:17:25.12,0:17:28.69,Default,Gil,0,0,0,,Vai romper o seu pacto prestes a obter o Santo Graal?
+Dialogue: 0,0:17:28.85,0:17:30.69,Default,Lancer,0,0,0,,Espíritos Heroicos como nós...
+Dialogue: 0,0:17:31.51,0:17:34.69,Default,Lancer,0,0,0,,...para começo de conversa, nem estão interessados numa segunda vida!
+Dialogue: 0,0:17:36.20,0:17:39.20,Default,Saber,0,0,0,,Lancer, mesmo sendo você, um contra um é...
+Dialogue: 0,0:17:40.19,0:17:42.17,Default,Lancer,0,0,0,,Cale a boca e dê o fora daqui de uma vez!
+Dialogue: 0,0:17:42.17,0:17:44.91,Default,Lancer,0,0,0,,Agindo como se fôssemos companheiros só porque defendi vocês...
+Dialogue: 0,0:17:45.95,0:17:49.42,Default,Lancer,0,0,0,,É por isso que não suporto vocês, nobres Reis dos Cavaleiros!
+Dialogue: 0,0:17:51.09,0:17:51.88,Default,Saber,0,0,0,,Boa sorte.
+Dialogue: 0,0:17:53.26,0:17:54.45,Default,Gil,0,0,0,,Para falar a verdade,
+Dialogue: 0,0:17:55.11,0:17:58.55,Default,Gil,0,0,0,,eu também não gostei da ideia de terminar as coisas desse jeito.
+Dialogue: 0,0:17:59.26,0:18:02.06,Default,Gil,0,0,0,,Se você não tivesse agido, eu mesmo agiria.
+Dialogue: 0,0:18:02.44,0:18:04.56,Default,Lancer,0,0,0,,Está dizendo que teria deixado a Saber escapar?
+Dialogue: 0,0:18:05.15,0:18:07.83,Default,Gil,0,0,0,,Aquela mulher é minha posse.
+Dialogue: 0,0:18:07.83,0:18:10.77,Default,Gil,0,0,0,,Mas para completar o ritual de invocação do Santo Graal,
+Dialogue: 0,0:18:11.18,0:18:14.69,Default,Gil,0,0,0,,eu preciso que mais um Servo morra.
+Dialogue: 0,0:18:15.93,0:18:18.20,Default,Lancer,0,0,0,,Essa era a sua intenção desde o princípio, não é?
+Dialogue: 0,0:18:22.82,0:18:25.29,Default,Saber,0,0,0,,Shirou, mostre-me o seu ferimento.
+Dialogue: 0,0:18:32.99,0:18:34.13,Default,Saber,0,0,0,,Com licença.
+Dialogue: 0,0:18:34.56,0:18:35.80,Default,Saber,0,0,0,,Vai doer um pouco, mas...
+Dialogue: 0,0:19:22.47,0:19:25.26,Default,Shirou,0,0,0,,A dor... sumiu...
+Dialogue: 0,0:19:26.97,0:19:29.20,Default,Saber,0,0,0,,Eu reabasteci a mana dentro da bainha.
+Dialogue: 0,0:19:29.20,0:19:31.02,Default,Saber,0,0,0,,As suas feridas devem cicatrizar imediatamente.
+Dialogue: 0,0:19:31.02,0:19:31.88,Default,Shirou,0,0,0,,Bainha?
+Dialogue: 0,0:19:32.40,0:19:34.90,Default,Shirou,0,0,0,,Pela bainha, você quer dizer... a da Excalibur?
+Dialogue: 0,0:19:35.08,0:19:35.81,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:19:35.81,0:19:37.94,Default,Saber,0,0,0,,A bainha que eu havia perdido para sempre.
+Dialogue: 0,0:19:37.94,0:19:40.90,Default,Saber,0,0,0,,Shirou, ela está agora dentro do seu corpo.
+Dialogue: 0,0:19:42.57,0:19:45.78,Default,Saber,0,0,0,,Para você, um mago incompleto, ter conseguido me invocar...
+Dialogue: 0,0:19:46.20,0:19:49.16,Default,Saber,0,0,0,,...foi necessária uma "ligação" para suprir essa deficiência.
+Dialogue: 0,0:19:49.79,0:19:52.50,Default,Saber,0,0,0,,E essa ligação foi a bainha da Excalibur.
+Dialogue: 0,0:19:54.71,0:19:57.55,Default,Shirou,0,0,0,,Por que uma coisa dessas estaria dentro do meu corpo?
+Dialogue: 0,0:19:57.68,0:20:00.41,Default,Saber,0,0,0,,Isso foi provavelmente obra do Kiritsugu.
+Dialogue: 0,0:20:00.41,0:20:01.05,Default,Shirou,0,0,0,,Do meu pai?
+Dialogue: 0,0:20:01.29,0:20:02.75,Default,Saber,0,0,0,,Na guerra anterior,
+Dialogue: 0,0:20:02.75,0:20:07.05,Default,Saber,0,0,0,,o Kiritsugu usou a bainha como catalisador para me invocar.
+Dialogue: 0,0:20:07.29,0:20:11.42,Default,Saber,0,0,0,,A bainha da espada sagrada é um Fantasma Nobre que cura as feridas de quem a porta.
+Dialogue: 0,0:20:11.42,0:20:13.57,Default,Saber,0,0,0,,Em vez de devolvê-la para mim,
+Dialogue: 0,0:20:13.57,0:20:16.56,Default,Saber,0,0,0,,o Kiritsugu provavelmente achou que seria melhor mantê-la consigo mesmo.
+Dialogue: 0,0:20:16.76,0:20:21.57,Default,Shirou,0,0,0,,Ah, então ele conseguiu vencer porque tinha a mesma habilidade que eu?
+Dialogue: 0,0:20:22.71,0:20:24.57,Default,Saber,0,0,0,,E quando a guerra acabou...
+Dialogue: 0,0:20:25.01,0:20:28.58,Default,Saber,0,0,0,,o Kiritsugu encontrou uma criança à beira da morte em meio às cinzas do incêndio...
+Dialogue: 0,0:20:29.70,0:20:33.08,Default,Saber,0,0,0,,...e havia apenas uma forma de salvar aquela criança.
+Dialogue: 0,0:20:34.06,0:20:36.69,Default,Saber,0,0,0,,A bainha da espada sagrada, capaz de curar as feridas do seu portador...
+Dialogue: 0,0:20:36.69,0:20:39.10,Default,Saber,0,0,0,,...ao inseri-la dentro de você,
+Dialogue: 0,0:20:39.10,0:20:41.09,Default,Saber,0,0,0,,o Kiritsugu salvou a sua vida.
+Dialogue: 0,0:20:42.64,0:20:46.22,Default,Saber,0,0,0,,Essa é a verdadeira origem da sua capacidade de regeneração.
+Dialogue: 0,0:20:46.22,0:20:47.14,Default,Shirou,0,0,0,,Desculpe...
+Dialogue: 0,0:20:47.96,0:20:50.10,Default,Shirou,0,0,0,,...por ter usado a sua bainha para algo desse tipo...
+Dialogue: 0,0:20:50.10,0:20:51.02,Default,Saber,0,0,0,,Não...
+Dialogue: 0,0:20:51.86,0:20:54.64,Default,Saber,0,0,0,,Na verdade, fiquei feliz...
+Dialogue: 0,0:20:55.46,0:20:57.56,Default,Saber,0,0,0,,Alguém como eu, que não foi capaz de proteger nada...
+Dialogue: 0,0:20:58.42,0:21:02.15,Default,Saber,0,0,0,,...conseguiu salvar você, Shirou.
+Dialogue: 0,0:21:05.26,0:21:06.91,Default,Saber,0,0,0,,O Kiritsugu tinha razão.
+Dialogue: 0,0:21:07.70,0:21:10.37,Default,Saber,0,0,0,,O Santo Graal não era algo de que eu precisava.
+Dialogue: 0,0:21:11.21,0:21:13.62,Default,Saber,0,0,0,,O Kiritsugu provavelmente sabia muito bem disso...
+Dialogue: 0,0:21:14.21,0:21:16.12,Default,Saber,0,0,0,,...de que não se pode refazer tudo.
+Dialogue: 0,0:21:17.31,0:21:21.75,Default,Saber,0,0,0,,Mas apesar disso, enganei a mim mesma durante todo esse tempo.
+Dialogue: 0,0:21:22.60,0:21:23.58,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:21:26.52,0:21:27.47,Default,Saber,0,0,0,,Obrigada.
+Dialogue: 0,0:21:29.31,0:21:33.14,Default,Saber,0,0,0,,Graças a você, finalmente enxergo o caminho que devo seguir.
+Dialogue: 0,0:21:33.95,0:21:38.98,Default,Saber,0,0,0,,O Santo Graal e eu... ambos somos sonhos que jamais deveriam ter existido.
+Dialogue: 0,0:21:39.66,0:21:43.48,Default,Saber,0,0,0,,Mas ainda assim... por favor, perdoe-me.
+Dialogue: 0,0:21:44.60,0:21:48.99,Default,Saber,0,0,0,,Este foi um desejo equivocado, e estes foram dias que não deveriam ter acontecido.
+Dialogue: 0,0:21:48.99,0:21:53.79,Default,Saber,0,0,0,,No entanto, esta fraqueza foi uma breve utopia vislumbrada por uma jovem donzela.
+Dialogue: 0,0:21:57.63,0:21:58.62,Default,Shirou,0,0,0,,Saber...
+Dialogue: 0,0:21:59.25,0:22:00.54,Default,Shirou,0,0,0,,Vamos destruir o Santo Graal.
+Dialogue: 0,0:22:03.64,0:22:04.35,Default,Saber,0,0,0,,Sim.
+Dialogue: 0,0:22:05.51,0:22:09.68,Default,Saber,0,0,0,,Eu sabia que essa seria a sua decisão, Mestre.
+Dialogue: 0,0:22:12.17,0:22:17.60,Song,,0,0,0,,Bem no fundo da floresta,
+Dialogue: 0,0:22:18.51,0:22:23.85,Song,,0,0,0,,enquanto busco pelo suave aroma...
+Dialogue: 0,0:22:24.85,0:22:30.65,Song,,0,0,0,,...dos vestígios daqueles dias tão queridos,
+Dialogue: 0,0:22:30.98,0:22:36.61,Song,,0,0,0,,de repente escuto o eco do seu riso.
+Dialogue: 0,0:22:37.03,0:22:43.12,Song,,0,0,0,,Desejando tocá-lo, estendi as minhas mãos,
+Dialogue: 0,0:22:43.12,0:22:49.38,Song,,0,0,0,,mas a sua imagem tremulou efêmera pelo ar.
+Dialogue: 0,0:22:49.54,0:22:54.51,Song,,0,0,0,,Sinto tanto a sua falta há tanto tempo,
+Dialogue: 0,0:22:54.59,0:22:59.47,Song,,0,0,0,,anseio por você há tanto tempo.
+Dialogue: 0,0:22:59.80,0:23:04.14,Song,,0,0,0,,Vagando através de noites sem dormir,
+Dialogue: 0,0:23:04.14,0:23:10.82,Song,,0,0,0,,...estou chorando, envolta pela luz
+Dialogue: 0,0:23:13.36,0:23:19.53,Song,,0,0,0,,e pela sombra que você deixou para trás,
+Dialogue: 0,0:23:22.91,0:23:31.34,Song,,0,0,0,,...aqui, na floresta profunda e escura.
+Dialogue: 0,0:23:40.97,0:23:45.98,Signs,,0,0,0,,Prévia
+Dialogue: 0,0:24:04.84,0:24:07.63,Default,Kirei,0,0,0,,No próximo episódio: "O Santo Graal".
+Dialogue: 0,0:24:05.94,0:24:10.99,Signs,,0,0,0,,No Próximo Episódio
+Dialogue: 0,0:24:05.98,0:24:10.99,Signs,,0,0,0,,O Santo Graal

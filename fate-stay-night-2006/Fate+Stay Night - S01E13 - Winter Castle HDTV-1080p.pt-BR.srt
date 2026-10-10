@@ -1,0 +1,1144 @@
+1
+00:00:18,040 --> 00:00:19,950
+Shirou não está por perto.
+
+2
+00:00:23,820 --> 00:00:26,460
+Se eu mantiver a postura defensiva e esperar ela se esgotar...
+
+3
+00:00:27,570 --> 00:00:28,350
+Saber!
+
+4
+00:00:29,600 --> 00:00:30,500
+Saber!!!
+
+5
+00:00:30,740 --> 00:00:31,760
+Shirou...
+
+6
+00:01:41,660 --> 00:01:46,500
+A sombra passageira que contemplei em sonhos...
+
+7
+00:01:47,920 --> 00:01:52,040
+O clamor que não pôde alcançar...
+
+8
+00:01:53,050 --> 00:01:58,300
+Não importa como eu me imagine amanhã,
+
+9
+00:01:59,300 --> 00:02:04,520
+serei envolvido por desejos que jamais desaparecerão.
+
+10
+00:02:07,940 --> 00:02:17,740
+Com a mão que agarra os fragmentos que caem
+
+11
+00:02:19,320 --> 00:02:32,840
+e o coração hesitante, salto em direção à noite...
+
+12
+00:02:33,210 --> 00:02:44,720
+Se for para viver por alguém, que este instante seja tudo,
+
+13
+00:02:44,720 --> 00:02:56,650
+dispa-se suavemente dessa máscara e seja apenas quem você é agora...
+
+14
+00:02:58,570 --> 00:03:04,430
+Episódio 13
+
+15
+00:02:58,740 --> 00:03:04,430
+O Castelo de Inverno
+
+16
+00:03:22,520 --> 00:03:24,670
+Como está a Saber?!
+
+17
+00:03:24,670 --> 00:03:29,640
+Pelo que pude avaliar do estado dela, duvido que acorde tão cedo.
+
+18
+00:03:29,640 --> 00:03:30,540
+...Entendo...
+
+19
+00:03:32,480 --> 00:03:34,150
+Fico muito aliviado por você estar aqui, Tohsaka.
+
+20
+00:03:34,660 --> 00:03:36,020
+Eu não fiz absolutamente nada.
+
+21
+00:03:36,570 --> 00:03:39,340
+O corpo da Saber não vai se recuperar sozinho.
+
+22
+00:03:39,340 --> 00:03:41,760
+Poderia me explicar o que aconteceu?
+
+23
+00:03:41,760 --> 00:03:43,170
+Nós derrotamos a Rider.
+
+24
+00:03:44,200 --> 00:03:46,030
+Nós a derrotamos...
+
+25
+00:03:46,660 --> 00:03:50,540
+A Saber liberou seu Fantasma Nobre e desabou logo em seguida.
+
+26
+00:03:50,840 --> 00:03:54,250
+Hum... Então a Saber usou seu Fantasma Nobre, é?
+
+27
+00:03:54,560 --> 00:03:59,170
+Bem, vou poupar você de ter que me revelar o que era.
+
+28
+00:03:59,170 --> 00:04:02,010
+No momento, vocês dois têm um problema muito mais grave com o que se preocupar.
+
+29
+00:04:02,710 --> 00:04:04,010
+O que quer dizer?
+
+30
+00:04:04,710 --> 00:04:07,580
+Você já devia estar percebendo isso aos poucos, não é?
+
+31
+00:04:07,580 --> 00:04:10,520
+O fato de que, neste ritmo, a Saber vai desaparecer.
+
+32
+00:04:11,170 --> 00:04:12,350
+Desaparecer?!
+
+33
+00:04:12,920 --> 00:04:16,850
+A Saber mal possui resquícios de mana dentro de si.
+
+34
+00:04:16,850 --> 00:04:19,290
+Embora eu não saiba qual Fantasma Nobre ela empunhou,
+
+35
+00:04:19,290 --> 00:04:22,860
+deve ter sido algo que drenou praticamente toda a sua energia mágica.
+
+36
+00:04:23,910 --> 00:04:29,790
+Mana é a fonte essencial que sustenta a forma física dos Servos, que originalmente são apenas entidades espirituais.
+
+37
+00:04:29,790 --> 00:04:33,120
+Se a Saber esgotar todo o seu mana, ela simplesmente desaparecerá deste mundo.
+
+38
+00:04:34,270 --> 00:04:37,380
+Mas... ela esteve tão bem durante todo esse tempo!
+
+39
+00:04:38,520 --> 00:04:42,320
+A própria Saber me garantiu que, se dormisse, conseguiria recuperar seu mana.
+
+40
+00:04:42,320 --> 00:04:45,050
+Isso porque a reserva original de mana que ela possuía era astronômica.
+
+41
+00:04:45,630 --> 00:04:48,880
+É verdade que a Saber ainda preserva uma fração de mana.
+
+42
+00:04:48,880 --> 00:04:52,290
+Acredito que seja o bastante para ela repor o mínimo necessário e manter sua forma.
+
+43
+00:04:52,290 --> 00:04:54,300
+Então ela vai ficar bem?
+
+44
+00:04:54,300 --> 00:04:56,020
+Mas é só isso.
+
+45
+00:04:57,490 --> 00:05:04,780
+A Saber terá de continuar lutando nesse estado deplorável, sem receber qualquer reposição de mana do seu Mestre.
+
+46
+00:05:04,780 --> 00:05:07,450
+Na próxima vez que ousar liberar seu Fantasma Nobre, ela desaparecerá com certeza absoluta.
+
+47
+00:05:07,720 --> 00:05:11,120
+Então basta eu não permitir que ela use o Fantasma Nobre outra vez, certo?!
+
+48
+00:05:11,120 --> 00:05:15,620
+É simplesmente impossível para um Servo sobreviver à Guerra do Santo Graal sem seus Fantasmas Nobres.
+
+49
+00:05:15,620 --> 00:05:17,070
+Droga...
+
+50
+00:05:17,070 --> 00:05:21,460
+Existem apenas duas maneiras para um Servo ferido se recompor.
+
+51
+00:05:22,020 --> 00:05:25,970
+Ou o Mestre lhe transfere mana, ou...
+
+52
+00:05:26,370 --> 00:05:29,470
+...o próprio Servo reabastece seu mana por conta própria...
+
+53
+00:05:29,820 --> 00:05:36,730
+Você está sugerindo roubar as almas de pessoas inocentes e transformar suas vidas em poder, exatamente como a Rider fazia?!
+
+54
+00:05:36,950 --> 00:05:38,310
+De jeito nenhum!
+
+55
+00:05:38,310 --> 00:05:40,490
+Eu jamais permitiria que a Saber fizesse uma atrocidade dessas!
+
+56
+00:05:40,490 --> 00:05:42,950
+Jamais, não é?
+
+57
+00:05:42,950 --> 00:05:48,250
+Nesse caso... você seria capaz de fornecer mana a ela?
+
+58
+00:05:48,250 --> 00:05:51,110
+Eu já teria feito isso se soubesse como!
+
+59
+00:05:51,110 --> 00:05:54,420
+Mas eu não possuo a habilidade necessária para fazer isso...
+
+60
+00:05:54,420 --> 00:06:01,250
+Quando você invocou a Saber, algum tipo de elo mágico deveria ter sido consolidado entre vocês dois.
+
+61
+00:06:01,790 --> 00:06:05,200
+Talvez exista algum outro meio alternativo...
+
+62
+00:06:05,200 --> 00:06:08,760
+...Não, de nada adianta eu ficar tentando te iludir com falsas esperanças...
+
+63
+00:06:08,760 --> 00:06:13,350
+Você já sabe muito bem disso. Só resta uma única saída.
+
+64
+00:06:13,350 --> 00:06:17,980
+Para salvar a vida da Saber, você terá que usar um Feitiço de Comando e ordená-la a atacar seres humanos.
+
+65
+00:06:18,690 --> 00:06:20,880
+Você está me dizendo para assassinar pessoas inocentes...
+
+66
+00:06:20,880 --> 00:06:23,760
+Pelo menos você impediria o pior dos cenários.
+
+67
+00:06:23,760 --> 00:06:27,220
+Se não quiser perder a Saber para sempre, ordene-a com um Feitiço de Comando.
+
+68
+00:06:29,110 --> 00:06:30,610
+Eu não posso fazer isso...
+
+69
+00:06:40,760 --> 00:06:43,690
+A Saber está à beira do seu limite absoluto.
+
+70
+00:06:43,690 --> 00:06:47,890
+É bom tomar uma decisão antes que outro Servo resolva atacar.
+
+71
+00:06:49,550 --> 00:06:52,920
+Usar um Feitiço de Comando para fazê-la caçar seres humanos?
+
+72
+00:06:52,920 --> 00:06:56,710
+Essa é a única forma de salvar a Saber?!
+
+73
+00:07:33,440 --> 00:07:37,390
+Aquele que retirar esta espada desta rocha...
+
+74
+00:07:38,110 --> 00:07:41,870
+...se tornará o verdadeiro Rei da Grã-Bretanha.
+
+75
+00:07:43,020 --> 00:07:50,230
+Ó Artoria, reflete com prudência antes de empunhar esta lâmina.
+
+76
+00:07:50,230 --> 00:07:55,910
+Pois, uma vez que a desembainhares, jamais tornarás a ser humana.
+
+77
+00:07:58,890 --> 00:07:59,550
+Sim.
+
+78
+00:08:00,560 --> 00:08:03,750
+Apresentei-me aqui perante vós com a determinação inabalável de retirar esta espada.
+
+79
+00:08:36,960 --> 00:08:39,340
+O nosso Rei é a própria divindade da guerra!
+
+80
+00:08:39,340 --> 00:08:42,190
+Ele cavalga sempre na linha de frente e desconhece qualquer derrota!
+
+81
+00:08:42,190 --> 00:08:45,390
+Nenhum homem jamais pôde se erguer diante do Rei Arthur!
+
+82
+00:08:45,390 --> 00:08:49,340
+Sua figura imponente jamais mudou desde o instante em que empunhou a Espada da Seleção!
+
+83
+00:08:49,340 --> 00:08:50,870
+O nosso Rei sequer envelhece!
+
+84
+00:08:50,870 --> 00:08:53,740
+Ele é a encarnação sublime de um dragão!
+
+85
+00:08:58,020 --> 00:08:59,660
+Rei?
+
+86
+00:08:59,660 --> 00:09:01,110
+Quem é o Rei?
+
+87
+00:09:03,150 --> 00:09:04,140
+Aquela é a Saber!
+
+88
+00:09:05,910 --> 00:09:08,150
+Aquela espada é diferente da lâmina que a Saber empunhou na noite passada.
+
+89
+00:09:10,900 --> 00:09:12,770
+Onde será que aquela espada está agora?
+
+90
+00:09:20,100 --> 00:09:22,670
+Droga... eu acabei adormecendo?
+
+91
+00:09:26,570 --> 00:09:30,150
+Aquele sonho de agora pouco... revelou uma face da Saber que eu jamais havia conhecido.
+
+92
+00:09:30,150 --> 00:09:33,710
+Será que nós conseguimos enxergar essas coisas através dos sonhos?
+
+93
+00:09:36,220 --> 00:09:37,460
+O que foi aquilo?
+
+94
+00:09:37,460 --> 00:09:40,550
+Por algum motivo, sinto meu corpo ardendo em chamas desde o instante em que vi aquela espada.
+
+95
+00:09:52,070 --> 00:09:54,310
+Não desapareça deste mundo, Saber...
+
+96
+00:09:55,200 --> 00:09:59,170
+Você terá que usar um Feitiço de Comando e ordená-la a atacar seres humanos.
+
+97
+00:10:20,020 --> 00:10:21,530
+O que você quer aqui?
+
+98
+00:10:21,530 --> 00:10:24,390
+Não espere que eu vá tirar dúvidas sobre arco e flecha.
+
+99
+00:10:25,110 --> 00:10:29,390
+Ninguém pretendia falar de arquearia com você.
+
+100
+00:10:29,390 --> 00:10:31,900
+Eu só estava curioso para saber o que você estava tramando.
+
+101
+00:10:33,460 --> 00:10:36,030
+Como pode ver, estou verificando as condições do meu próprio corpo.
+
+102
+00:10:36,870 --> 00:10:39,900
+Os ferimentos que recebi da Saber já cicatrizaram por completo.
+
+103
+00:10:40,770 --> 00:10:44,590
+Não posso permanecer como mero vigia para sempre...
+
+104
+00:10:44,590 --> 00:10:46,910
+...afinal de contas, sou o Servo de Rin.
+
+105
+00:10:48,230 --> 00:10:51,550
+É verdade... Eu já não tenho mais nenhum tempo para hesitar.
+
+106
+00:10:51,550 --> 00:10:54,460
+Agora que ele e a Tohsaka estão completamente recuperados,
+
+107
+00:10:54,460 --> 00:10:56,770
+preciso me decidir o quanto antes.
+
+108
+00:10:56,770 --> 00:10:58,420
+Fiquei sabendo a respeito da Saber.
+
+109
+00:10:58,840 --> 00:11:04,980
+Uma invocação imperfeita somada à incompetência do Mestre em fornecer mana... ela fatalmente desapareceria um dia.
+
+110
+00:11:04,980 --> 00:11:08,280
+Eu já sabia disso desde o primeiro momento.
+
+111
+00:11:08,280 --> 00:11:11,040
+Eu não vou permitir que a Saber desapareça!
+
+112
+00:11:11,040 --> 00:11:13,550
+Já que você ainda não percebeu a gravidade disso, farei o favor de lhe esclarecer.
+
+113
+00:11:13,550 --> 00:11:17,440
+A Saber tinha plena ciência de que, se liberasse seu Fantasma Nobre, deixaria de existir.
+
+114
+00:11:18,140 --> 00:11:22,450
+Ela provavelmente nem sequer planejava recorrer a ele.
+
+115
+00:11:23,140 --> 00:11:26,950
+Ainda assim, existe uma única razão pela qual ela deliberadamente resolveu empunhá-lo.
+
+116
+00:11:27,260 --> 00:11:31,330
+A Saber preferiu proteger a sua vida acima de qualquer outra coisa.
+
+117
+00:11:31,330 --> 00:11:33,420
+Nunca se esqueça desse fato.
+
+118
+00:11:50,040 --> 00:11:51,520
+Para derrotar os demais Mestres...
+
+119
+00:11:52,130 --> 00:11:56,510
+...e dar um fim a esta Guerra do Santo Graal, eu preciso desesperadamente da Saber.
+
+120
+00:11:58,540 --> 00:12:03,660
+Não... mesmo sem esse motivo, eu simplesmente não suporto a ideia de vê-la desaparecer.
+
+121
+00:12:06,520 --> 00:12:12,330
+Se eu gastar isto aqui, mesmo contra a vontade da Saber, ela será forçada a cumprir a ordem.
+
+122
+00:12:12,460 --> 00:12:18,830
+Atacar pessoas inocentes como a Rider fazia e sugar suas almas para continuar viva...
+
+123
+00:12:18,830 --> 00:12:22,510
+Não... Eu jamais poderia sujeitar a Saber a cometer tais atrocidades!
+
+124
+00:12:22,510 --> 00:12:24,340
+E eu que imaginei que você não estaria por aqui...
+
+125
+00:12:24,800 --> 00:12:26,270
+Illya!
+
+126
+00:12:26,270 --> 00:12:27,800
+Olá, Shirou.
+
+127
+00:12:29,430 --> 00:12:32,190
+Você parece tão deprimido. Aconteceu alguma coisa?
+
+128
+00:12:32,190 --> 00:12:35,700
+Você veio até aqui sozinha de novo?
+
+129
+00:12:35,700 --> 00:12:39,400
+Desculpe, mas não tenho tempo para conversar com você agora.
+
+130
+00:12:40,230 --> 00:12:42,400
+A Saber está prestes a desaparecer, não está?
+
+131
+00:12:43,320 --> 00:12:43,900
+Illya...
+
+132
+00:12:47,300 --> 00:12:52,000
+Foi por você ser tão brando desse jeito que o Mestre da Rider conseguiu escapar.
+
+133
+00:12:53,430 --> 00:12:57,550
+Tudo o que se deve fazer com os perdedores é eliminá-los de uma vez por todas.
+
+134
+00:12:57,550 --> 00:12:59,920
+Você estava lá?!
+
+135
+00:13:05,710 --> 00:13:07,630
+Sim, eu estava.
+
+136
+00:13:07,630 --> 00:13:08,640
+O quê?!
+
+137
+00:13:08,640 --> 00:13:13,970
+Embora eu só tenha assistido tudo de camarote do alto do prédio.
+
+138
+00:13:13,970 --> 00:13:15,490
+Illya, você—
+
+139
+00:13:14,290 --> 00:13:17,260
+Ora, já não consegue mais mover suas pernas e braços?
+
+140
+00:13:17,260 --> 00:13:19,940
+Shirou, você é tão indefeso.
+
+141
+00:13:20,340 --> 00:13:25,820
+Ser capturado com tanta facilidade... que gracinha!
+
+142
+00:13:25,820 --> 00:13:26,930
+Illya...
+
+143
+00:13:28,310 --> 00:13:31,430
+É inútil tentar resistir, moço.
+
+144
+00:13:31,430 --> 00:13:33,550
+Em poucos instantes você nem sequer conseguirá pronunciar uma palavra.
+
+145
+00:13:33,550 --> 00:13:39,070
+Não precisa se preocupar. Eu não vim aqui hoje apenas para bater um papo.
+
+146
+00:13:39,070 --> 00:13:41,110
+Você... quer me matar?
+
+147
+00:13:44,860 --> 00:13:47,150
+A Saber vai sumir de qualquer forma mesmo.
+
+148
+00:13:47,150 --> 00:13:49,820
+É bem melhor acelerarmos o processo.
+
+149
+00:13:49,820 --> 00:13:52,230
+Tenha uma boa noite de sono, moço.
+
+150
+00:13:55,580 --> 00:13:57,520
+A espada dourada.
+
+151
+00:13:57,520 --> 00:14:00,980
+Aquela lâmina existe unicamente para ela.
+
+152
+00:14:01,340 --> 00:14:03,310
+Não é como se eu quisesse aquela espada para mim.
+
+153
+00:14:03,310 --> 00:14:05,810
+É apenas... tão deslumbrante.
+
+154
+00:14:05,810 --> 00:14:10,220
+Se me fosse permitido, eu gostaria de segurá-la em minhas próprias mãos.
+
+155
+00:14:10,220 --> 00:14:14,480
+Eu deveria ter a liberdade de fazer isso o quanto quisesse em meus sonhos, certo?
+
+156
+00:14:14,480 --> 00:14:17,470
+Se eu ao menos conseguisse projetar a imagem de mim mesmo segurando aquela lâmina...
+
+157
+00:14:17,470 --> 00:14:19,860
+A magia de Reforço básica não será suficiente.
+
+158
+00:14:19,860 --> 00:14:22,010
+Preciso realizar um processo muito mais sofisticado.
+
+159
+00:14:22,010 --> 00:14:26,010
+Como é que eu deveria materializá-la...
+
+160
+00:14:31,690 --> 00:14:34,350
+O que foi que acabou de acontecer aqui?
+
+161
+00:14:34,520 --> 00:14:38,740
+A Illya paralisou meu corpo, e de repente...
+
+162
+00:14:40,820 --> 00:14:43,120
+O que é isto aqui?!
+
+163
+00:14:43,120 --> 00:14:44,190
+O que está acontecendo?!
+
+164
+00:14:50,630 --> 00:14:52,390
+Já ficou tão tarde assim?
+
+165
+00:14:52,390 --> 00:14:54,160
+Se eu não voltar para casa agora, a Saber vai...
+
+166
+00:14:56,690 --> 00:14:58,710
+Ah, você finalmente acordou.
+
+167
+00:15:00,490 --> 00:15:01,750
+Como está se sentindo?
+
+168
+00:15:01,750 --> 00:15:04,380
+Em breve você já conseguirá falar normalmente.
+
+169
+00:15:04,380 --> 00:15:09,720
+É... e a minha cabeça já está lúcida o suficiente para perceber que fui feito refém.
+
+170
+00:15:09,940 --> 00:15:12,160
+O quê? Não está satisfeito?
+
+171
+00:15:12,160 --> 00:15:16,470
+Normalmente os prisioneiros são jogados nas masmorras subterrâneas, sabia?
+
+172
+00:15:16,470 --> 00:15:19,730
+Eu abri uma exceção especial deixando você ficar bem aqui no meu quarto, Shirou.
+
+173
+00:15:20,830 --> 00:15:23,130
+Este é um castelo erguido no coração de uma floresta densa.
+
+174
+00:15:23,130 --> 00:15:27,060
+Ninguém virá ao seu resgate, e nenhum obstáculo poderá me atrapalhar.
+
+175
+00:15:27,060 --> 00:15:29,550
+Por que você me trouxe para este lugar?
+
+176
+00:15:29,550 --> 00:15:32,740
+Poderia ter me matado bem ali naquele parque.
+
+177
+00:15:33,130 --> 00:15:34,440
+Por quê?
+
+178
+00:15:34,440 --> 00:15:37,300
+Eu não tenho a menor intenção de tirar a sua vida, Shirou.
+
+179
+00:15:37,300 --> 00:15:40,750
+Eu vou aniquilar todos os outros Mestres, mas o Shirou é especial.
+
+180
+00:15:40,980 --> 00:15:44,310
+Você quer se tornar meu servo?
+
+181
+00:15:44,310 --> 00:15:46,250
+Se aceitar, permitirei que continue vivo.
+
+182
+00:15:47,650 --> 00:15:48,760
+O quê?!
+
+183
+00:16:02,360 --> 00:16:03,270
+Shirou...
+
+184
+00:16:13,020 --> 00:16:14,150
+Shirou...
+
+185
+00:16:14,890 --> 00:16:17,620
+Onde... está você...
+
+186
+00:16:27,140 --> 00:16:27,960
+Shirou...
+
+187
+00:16:29,240 --> 00:16:30,630
+O Shirou sumiu?!
+
+188
+00:16:32,100 --> 00:16:35,840
+Sim... Consigo sentir que ele ainda está a salvo,
+
+189
+00:16:35,840 --> 00:16:37,570
+mas encontra-se muito distante daqui,
+
+190
+00:16:37,570 --> 00:16:39,490
+provavelmente capturado pelas mãos do inimigo.
+
+191
+00:16:39,490 --> 00:16:41,130
+Por favor, peço que me emprestem o seu auxílio.
+
+192
+00:16:41,130 --> 00:16:42,770
+Ignore isso, Rin.
+
+193
+00:16:44,720 --> 00:16:49,510
+Com toda a certeza, ele foi capturado enquanto estava com a cabeça nas nuvens.
+
+194
+00:16:49,510 --> 00:16:52,650
+Não temos obrigação alguma de arriscar o pescoço para resgatar um Mestre desse tipo.
+
+195
+00:16:53,110 --> 00:16:53,940
+Como ousa falar de—
+
+196
+00:16:53,940 --> 00:16:55,660
+Éramos inimigos para começo de conversa.
+
+197
+00:16:56,660 --> 00:16:59,810
+Nos poupará um grande trabalho se ele simplesmente morrer por lá.
+
+198
+00:17:01,950 --> 00:17:03,160
+Isso é loucura, Saber!
+
+199
+00:17:03,160 --> 00:17:06,330
+Seu mana está tão esgotado que você nem sequer consegue manifestar sua armadura!
+
+200
+00:17:06,330 --> 00:17:08,000
+Eu sou capaz de lutar.
+
+201
+00:17:08,000 --> 00:17:10,000
+Jamais poderei abandonar o Shirou à própria sorte.
+
+202
+00:17:19,460 --> 00:17:20,350
+Archer...
+
+203
+00:17:26,830 --> 00:17:28,270
+Vamos lá, Shirou.
+
+204
+00:17:28,270 --> 00:17:30,290
+Torne-se meu servo.
+
+205
+00:17:30,290 --> 00:17:32,980
+O quê? Isso é um absurdo!
+
+206
+00:17:32,980 --> 00:17:37,720
+Ora... Assim que a Saber desaparecer, você não terá qualquer meio de lutar, não é?
+
+207
+00:17:37,720 --> 00:17:40,240
+Não sobrará motivo algum para você continuar existindo como um Mestre.
+
+208
+00:17:40,240 --> 00:17:42,870
+Não! A Saber ainda não desapareceu!
+
+209
+00:17:45,180 --> 00:17:48,370
+Mas ela pode ser aniquilada com a maior facilidade agora mesmo.
+
+210
+00:17:49,060 --> 00:17:51,650
+Você só precisa ficar quietinho aqui, Shirou.
+
+211
+00:17:51,650 --> 00:17:54,610
+Eu prometo que vou cuidar de você para todo o sempre.
+
+212
+00:17:54,610 --> 00:17:56,800
+Não... Fique longe de mim, Illya.
+
+213
+00:17:56,800 --> 00:17:58,630
+Não importa o quanto você me peça, eu jamais—
+
+214
+00:17:59,860 --> 00:18:01,760
+Você realmente não entende nada da sua situação, não é?
+
+215
+00:18:01,760 --> 00:18:05,640
+Escute bem: agora você não passa de um passarinho preso na minha gaiola.
+
+216
+00:18:05,840 --> 00:18:07,330
+Sou eu quem decido se você vive ou morre.
+
+217
+00:18:07,330 --> 00:18:12,820
+Portanto, sugiro que não diga nada que vá me tirar do sério.
+
+218
+00:18:12,820 --> 00:18:15,970
+Além disso... eu esperei por isso durante dez longos anos!
+
+219
+00:18:15,970 --> 00:18:19,660
+Matar você rápido demais seria tão sem graça.
+
+220
+00:18:21,550 --> 00:18:24,150
+Vou perguntar mais uma única vez.
+
+221
+00:18:24,150 --> 00:18:27,330
+Shirou, torne-se a minha propriedade.
+
+222
+00:18:27,330 --> 00:18:30,920
+Illya, eu não posso aceitar isso.
+
+223
+00:18:30,920 --> 00:18:32,720
+Eu tenho a Saber ao meu lado,
+
+224
+00:18:32,720 --> 00:18:35,510
+por isso tenho o dever de lutar como um Mestre até o fim.
+
+225
+00:18:36,650 --> 00:18:37,970
+Compreendo...
+
+226
+00:18:38,290 --> 00:18:42,220
+Até você resolveu me trair, não é?
+
+227
+00:18:42,800 --> 00:18:46,530
+Eu deixei você viver até agora, mas a minha paciência acabou.
+
+228
+00:18:46,530 --> 00:18:47,880
+Fique aí bem quietinho esperando.
+
+229
+00:18:47,880 --> 00:18:48,730
+Espere, Illya!
+
+230
+00:18:49,110 --> 00:18:50,320
+O que você planeja fazer?!
+
+231
+00:18:50,320 --> 00:18:52,230
+Eu vou agora mesmo assassinar a Saber!
+
+232
+00:18:52,480 --> 00:18:55,730
+Quem sabe assim você não se arrependa amargamente da sua escolha?
+
+233
+00:18:56,210 --> 00:18:57,490
+Não faça isso!
+
+234
+00:18:57,490 --> 00:18:59,620
+A Saber e a Tohsaka não têm absolutamente nada a ver com isso!
+
+235
+00:18:59,620 --> 00:19:02,240
+Se eu não posso ficar ao seu lado, é exclusivamente por convicção própria!
+
+236
+00:19:02,990 --> 00:19:04,380
+É mesmo?
+
+237
+00:19:04,380 --> 00:19:06,780
+Mas eu ainda pretendo trucidar aquelas duas.
+
+238
+00:19:06,780 --> 00:19:10,150
+E assim que eu terminar com elas, chegará a sua vez, Shirou.
+
+239
+00:19:10,150 --> 00:19:14,600
+Se você se recusa a se tornar minha propriedade, então já não tem serventia alguma.
+
+240
+00:19:14,600 --> 00:19:19,130
+Guarde todo o rancor de mim que você quiser... mas não há razão para tirar a vida da Saber e da Tohsaka...
+
+241
+00:19:19,650 --> 00:19:22,450
+Não posso deixar os outros Mestres vivos.
+
+242
+00:19:22,450 --> 00:19:24,280
+Essa é a regra da Guerra do Santo Graal, não é?
+
+243
+00:19:24,280 --> 00:19:25,120
+Sua tola inconsciente!
+
+244
+00:19:25,120 --> 00:19:27,140
+Não fale sobre tirar vidas humanas com tanta leviandade!
+
+245
+00:19:27,760 --> 00:19:29,480
+Ah, me desculpe.
+
+246
+00:19:29,480 --> 00:19:32,650
+Mas eu já assassinei outro Mestre, sabia?
+
+247
+00:19:33,300 --> 00:19:34,310
+O quê...
+
+248
+00:19:34,900 --> 00:19:36,950
+Foi ontem mesmo...
+
+249
+00:19:36,950 --> 00:19:39,820
+Foi uma surpresa até para mim, eu acho.
+
+250
+00:19:40,140 --> 00:19:45,320
+Imaginei que você teria dado conta daquele sujeito.
+
+251
+00:20:12,710 --> 00:20:17,730
+Como você não fez nada a respeito, eu fui lá e o matei pessoalmente.
+
+252
+00:20:17,940 --> 00:20:21,740
+Não gosto nem um pouco quando roubam o que deveria ser meu.
+
+253
+00:20:23,170 --> 00:20:25,180
+Bem, agora estou de saída.
+
+254
+00:20:25,180 --> 00:20:27,650
+Tente fugir o máximo que puder.
+
+255
+00:20:29,050 --> 00:20:30,890
+Illya! Illya!
+
+256
+00:20:30,890 --> 00:20:32,180
+Espere, Illya!
+
+257
+00:20:35,030 --> 00:20:36,160
+Eu preciso impedi-la a todo custo!
+
+258
+00:20:36,160 --> 00:20:37,840
+Ela realmente vai...
+
+259
+00:20:39,850 --> 00:20:40,720
+Maldição!
+
+260
+00:20:40,720 --> 00:20:45,790
+Meu corpo ainda está sob o efeito dos Olhos Místicos da Illya?!
+
+261
+00:20:45,790 --> 00:20:49,960
+Nesse caso... mesmo sendo perigoso... terei de forçar meu mana a romper isso!
+
+262
+00:20:49,960 --> 00:20:51,270
+Trace, on!
+
+263
+00:20:52,690 --> 00:20:54,940
+Estrutura básica, definida.
+
+264
+00:20:57,070 --> 00:21:00,010
+Composição material, definida.
+
+265
+00:21:01,320 --> 00:21:03,370
+O fluxo de mana está fluindo com velocidade.
+
+266
+00:21:03,370 --> 00:21:05,990
+Será que isso é efeito daquela joia que a Tohsaka me fez engolir?
+
+267
+00:21:30,610 --> 00:21:31,990
+Só mais um pouco...
+
+268
+00:21:31,990 --> 00:21:33,510
+Espere por mim, Saber!
+
+269
+00:22:01,510 --> 00:22:03,710
+Shirou...
+
+270
+00:22:03,710 --> 00:22:05,010
+Por favor, continue a salvo.
+
+271
+00:22:12,210 --> 00:22:17,640
+No mais profundo da floresta,
+
+272
+00:22:18,550 --> 00:22:23,890
+enquanto busco o tênue perfume...
+
+273
+00:22:24,890 --> 00:22:30,690
+...dos vestígios dos dias que me eram tão caros,
+
+274
+00:22:31,020 --> 00:22:36,650
+de repente ouço o som do seu riso.
+
+275
+00:22:37,070 --> 00:22:43,160
+Desejando tocá-lo, estendi minhas mãos,
+
+276
+00:22:43,160 --> 00:22:49,420
+mas a sua imagem desvaneceu no ar efêmera.
+
+277
+00:22:49,580 --> 00:22:54,550
+Senti tanto a sua falta por todo esse tempo,
+
+278
+00:22:54,630 --> 00:22:59,510
+ansiei tanto por você...
+
+279
+00:22:59,840 --> 00:23:04,180
+Vagando através de noites insones,
+
+280
+00:23:04,180 --> 00:23:10,860
+...estou chorando, envolto pela luz
+
+281
+00:23:13,400 --> 00:23:19,570
+e pela sombra que você deixou para trás,
+
+282
+00:23:22,950 --> 00:23:31,380
+...aqui, no mais profundo da escura floresta.
+
+283
+00:23:40,970 --> 00:23:46,020
+Prévia
+
+284
+00:24:04,450 --> 00:24:08,060
+No próximo episódio: "O Fim do Ideal".
+
+285
+00:24:05,980 --> 00:24:10,960
+Próximo Episódio
+
+286
+00:24:06,070 --> 00:24:10,960
+O Fim do Ideal
+
