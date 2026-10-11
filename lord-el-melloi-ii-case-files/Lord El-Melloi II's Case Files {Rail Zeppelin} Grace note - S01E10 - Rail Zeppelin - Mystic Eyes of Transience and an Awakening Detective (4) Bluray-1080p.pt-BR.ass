@@ -1,0 +1,379 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E10 - Rail Zeppelin – Mystic Eyes of Transience and an Awakening Detective (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.99,0:00:06.70,Default,,0,0,0,,Acorde.
+Dialogue: 0,0:00:07.78,0:00:08.99,Default,,0,0,0,,O que é?
+Dialogue: 0,0:00:08.99,0:00:12.33,Default,,0,0,0,,Acorde, Waver Velvet!
+Dialogue: 0,0:00:13.83,0:00:14.96,Default,,0,0,0,,Professor...
+Dialogue: 0,0:00:15.71,0:00:16.83,Default,,0,0,0,,Kayneth!
+Dialogue: 0,0:00:18.92,0:00:23.76,Default,,0,0,0,,Então as minhas aulas são ridículas demais para você prestar atenção?
+Dialogue: 0,0:00:24.72,0:00:26.84,Default,,0,0,0,,Não é exatamente isso.
+Dialogue: 0,0:00:26.84,0:00:28.51,Default,,0,0,0,,Então responda-me a isto!
+Dialogue: 0,0:00:28.80,0:00:32.43,Default,,0,0,0,,Por que você busca entrar na Quinta Guerra do Santo Graal?
+Dialogue: 0,0:00:32.68,0:00:36.31,Default,,0,0,0,,O que você busca com a Relíquia que roubou de mim em mãos,
+Dialogue: 0,0:00:36.31,0:00:38.15,Default,,0,0,0,,e o que você deseja?
+Dialogue: 0,0:00:39.27,0:00:40.32,Default,,0,0,0,,Eu...
+Dialogue: 0,0:00:41.07,0:00:43.78,Default,,0,0,0,,quero vê-lo mais uma vez!
+Dialogue: 0,0:00:43.99,0:00:45.11,Default,,0,0,0,,Tolo.
+Dialogue: 0,0:00:45.36,0:00:47.86,Default,,0,0,0,,Servos não passam de lacaios.
+Dialogue: 0,0:00:47.86,0:00:52.62,Default,,0,0,0,,Da próxima vez que se materializarem, alguém como você nem sequer será lembrado.
+Dialogue: 0,0:00:54.70,0:00:58.17,Default,,0,0,0,,Mesmo assim... Mesmo assim, quero provar a ele...
+Dialogue: 0,0:00:58.67,0:01:00.59,Default,,0,0,0,,que eu era o único inferior.
+Dialogue: 0,0:01:01.25,0:01:02.38,Default,,0,0,0,,Que ele...
+Dialogue: 0,0:01:02.67,0:01:05.67,Default,,0,0,0,,Rider era o herói que deveria ter sido vitorioso!
+Dialogue: 0,0:01:05.97,0:01:08.76,Default,,0,0,0,,Você ainda pensa dessa maneira?
+Dialogue: 0,0:01:09.01,0:01:10.93,Default,,0,0,0,,A Relíquia foi tomada.
+Dialogue: 0,0:01:10.93,0:01:16.43,Default,,0,0,0,,Heféstion, que se materializou, renegou você como um súdito do Rei dos Conquistadores.
+Dialogue: 0,0:01:17.44,0:01:19.73,Default,,0,0,0,,Mesmo assim, você diz que ainda lutará?
+Dialogue: 0,0:01:20.02,0:01:21.23,Default,,0,0,0,,É claro!
+Dialogue: 0,0:01:22.02,0:01:23.48,Default,,0,0,0,,Responda-me mais uma vez.
+Dialogue: 0,0:01:23.82,0:01:26.90,Default,,0,0,0,,O que você acha que é a vitória para um mago?
+Dialogue: 0,0:01:26.90,0:01:31.53,Default,,0,0,0,,Desvencilhar-se de todos os estereótipos e simplesmente alcançar o destino final.
+Dialogue: 0,0:01:31.78,0:01:35.08,Default,,0,0,0,,Então, qual é o seu destino final?
+Dialogue: 0,0:01:35.70,0:01:39.08,Default,,0,0,0,,Responda-me, Lorde El-Melloi II!
+Dialogue: 0,0:01:40.58,0:01:43.13,Default,,0,0,0,,Eu responderei, meu mentor!
+Dialogue: 0,0:01:43.38,0:01:45.51,Default,,0,0,0,,O que eu preciso buscar agora mesmo...
+Dialogue: 0,0:03:24.65,0:03:25.77,Default,,0,0,0,,Por que...
+Dialogue: 0,0:03:26.06,0:03:27.23,Default,,0,0,0,,você me salvou?
+Dialogue: 0,0:03:27.98,0:03:29.48,Default,,0,0,0,,Você era uma guerreira.
+Dialogue: 0,0:03:31.95,0:03:35.16,Default,,0,0,0,,Guerreiros devem morrer no campo de batalha sempre que possível.
+Dialogue: 0,0:03:35.82,0:03:38.83,Default,,0,0,0,,Então você me matará se voltarmos a lutar.
+Dialogue: 0,0:03:39.66,0:03:40.58,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:03:43.00,0:03:46.25,Default,,0,0,0,,Você é de certa forma parecida comigo.
+Dialogue: 0,0:03:47.00,0:03:49.05,Default,,0,0,0,,Consigo perceber ao olhar para essa arma.
+Dialogue: 0,0:03:49.75,0:03:54.05,Default,,0,0,0,,Deve ser uma réplica do Fantasma Nobre de algum grande herói.
+Dialogue: 0,0:03:54.93,0:03:56.80,Default,,0,0,0,,E você, a portadora, também é.
+Dialogue: 0,0:03:58.97,0:04:00.93,Default,,0,0,0,,Uma encarnação viva de um ideal distante.
+Dialogue: 0,0:04:01.18,0:04:03.14,Default,,0,0,0,,Uma falsificação criada para exibição.
+Dialogue: 0,0:04:04.14,0:04:06.31,Default,,0,0,0,,Os humanos nunca mudam, não importa a era.
+Dialogue: 0,0:04:07.86,0:04:10.44,Default,,0,0,0,,No entanto, embora seja uma falsificação,
+Dialogue: 0,0:04:10.90,0:04:13.53,Default,,0,0,0,,você luta pelos seus próprios desejos.
+Dialogue: 0,0:04:13.86,0:04:15.28,Default,,0,0,0,,Você e eu...
+Dialogue: 0,0:04:15.70,0:04:16.78,Default,,0,0,0,,somos iguais.
+Dialogue: 0,0:04:17.78,0:04:19.83,Default,,0,0,0,,Os meus desejos...
+Dialogue: 0,0:04:22.87,0:04:24.16,Default,,0,0,0,,Eu não sei.
+Dialogue: 0,0:04:25.17,0:04:28.71,Default,,0,0,0,,Não se pode lutar assim sem ter desejos próprios.
+Dialogue: 0,0:04:29.25,0:04:30.92,Default,,0,0,0,,O meu desejo atual é...
+Dialogue: 0,0:04:31.42,0:04:32.96,Default,,0,0,0,,estar ao lado do professor...
+Dialogue: 0,0:04:34.63,0:04:35.47,Default,,0,0,0,,Mas...
+Dialogue: 0,0:04:36.09,0:04:40.85,Default,,0,0,0,,Entendo. Você despreza tanto aquele acadêmico mesquinho a ponto de vir ao campo de batalha?
+Dialogue: 0,0:04:42.52,0:04:46.06,Default,,0,0,0,,De fato. Ele morrerá se entrar em uma Guerra do Santo Graal.
+Dialogue: 0,0:04:46.31,0:04:48.15,Default,,0,0,0,,Ele não tem o calibre para sair vitorioso.
+Dialogue: 0,0:04:48.56,0:04:51.40,Default,,0,0,0,,Mas é isso o que ele deseja!
+Dialogue: 0,0:04:51.65,0:04:54.15,Default,,0,0,0,,Eu quero realizar o desejo dele!
+Dialogue: 0,0:04:54.40,0:04:57.36,Default,,0,0,0,,Lealdade e glória às vezes são contraditórias.
+Dialogue: 0,0:04:58.20,0:05:02.87,Default,,0,0,0,,Mas, se você não puder superar essa contradição, tanto o Mestre quanto o Servo perecerão.
+Dialogue: 0,0:05:03.33,0:05:04.62,Default,,0,0,0,,Mestre e Servo...
+Dialogue: 0,0:05:05.04,0:05:06.96,Default,,0,0,0,,Um rei é como o Sol.
+Dialogue: 0,0:05:07.21,0:05:10.29,Default,,0,0,0,,O seu calor incinera qualquer coisa que se aproxime.
+Dialogue: 0,0:05:10.63,0:05:13.88,Default,,0,0,0,,Mas os súditos não conseguem sobreviver sem o Sol.
+Dialogue: 0,0:05:14.51,0:05:20.26,Default,,0,0,0,,Para você, Iskandar, o Rei dos Conquistadores, era alguém assim?
+Dialogue: 0,0:05:20.51,0:05:21.14,Default,,0,0,0,,Sim.
+Dialogue: 0,0:05:21.76,0:05:23.89,Default,,0,0,0,,Jamais haverá outro rei como ele.
+Dialogue: 0,0:05:24.43,0:05:26.39,Default,,0,0,0,,Mesmo sucumbindo à doença,
+Dialogue: 0,0:05:26.64,0:05:31.15,Default,,0,0,0,,ele disse que iria além para contemplar o Mar no Fim do Mundo.
+Dialogue: 0,0:05:32.23,0:05:35.15,Default,,0,0,0,,Um rei grandioso nos impulsionava para a frente!
+Dialogue: 0,0:05:35.86,0:05:38.11,Default,,0,0,0,,Quão ardentes eram todas as palavras dele...
+Dialogue: 0,0:05:38.36,0:05:40.16,Default,,0,0,0,,O quanto elas resplandeciam...
+Dialogue: 0,0:05:43.16,0:05:45.54,Default,,0,0,0,,Eu era a principal confidente dele.
+Dialogue: 0,0:05:45.79,0:05:48.50,Default,,0,0,0,,Isso é algo que não permitirei que ninguém negue.
+Dialogue: 0,0:05:48.75,0:05:50.38,Default,,0,0,0,,Mas por que você...
+Dialogue: 0,0:05:51.13,0:05:55.80,Default,,0,0,0,,Por que você estava repreendendo Iskandar por suas ações sozinha?
+Dialogue: 0,0:05:56.97,0:05:58.97,Default,,0,0,0,,Srta. Heféstion?
+Dialogue: 0,0:05:58.97,0:06:00.89,Default,,0,0,0,,O que você viu?
+Dialogue: 0,0:06:03.68,0:06:05.56,Default,,0,0,0,,Responda-me! O que você viu?
+Dialogue: 0,0:06:06.18,0:06:07.23,Default,,0,0,0,,Em um sonho,
+Dialogue: 0,0:06:07.64,0:06:08.81,Default,,0,0,0,,você estava perguntando:
+Dialogue: 0,0:06:09.23,0:06:12.61,Default,,0,0,0,,"Era isso o que você desejava?"
+Dialogue: 0,0:06:13.15,0:06:16.23,Default,,0,0,0,,"Por que você não deixou isso para trás?"
+Dialogue: 0,0:06:16.73,0:06:19.15,Default,,0,0,0,,Você disse: "Responda-me, Iskandar!"
+Dialogue: 0,0:06:24.91,0:06:26.33,Default,,0,0,0,,Ah, eu deveria saber.
+Dialogue: 0,0:06:26.58,0:06:29.79,Default,,0,0,0,,Você é uma Sibila. Parece ser especialmente versada em possessão espiritual.
+Dialogue: 0,0:06:33.04,0:06:35.00,Default,,0,0,0,,Parece que parou de nevar.
+Dialogue: 0,0:06:35.25,0:06:37.76,Default,,0,0,0,,Quando puder se mover novamente, você pode ir embora daqui.
+Dialogue: 0,0:06:38.26,0:06:40.97,Default,,0,0,0,,Embora não saiba se conseguirá alcançar aquele trem.
+Dialogue: 0,0:06:47.77,0:06:49.27,Default,,0,0,0,,Eu sou Mary Lil Fargo.
+Dialogue: 0,0:06:49.56,0:06:52.94,Default,,0,0,0,,Pode conversar conosco sobre Trisha Fellows?
+Dialogue: 0,0:06:53.23,0:06:55.86,Default,,0,0,0,,Ela é uma velha amiga minha.
+Dialogue: 0,0:06:59.03,0:07:02.11,Default,,0,0,0,,Então ela faleceu... Eu ainda não consigo acreditar.
+Dialogue: 0,0:07:02.49,0:07:06.78,Default,,0,0,0,,Ela estava investigando os assassinatos em série que aconteceram sete anos atrás.
+Dialogue: 0,0:07:06.78,0:07:09.75,Default,,0,0,0,,Você ouviu algo sobre o porquê de ela estar fazendo isso?
+Dialogue: 0,0:07:10.79,0:07:12.62,Default,,0,0,0,,Olga-Marie foi abandonada.
+Dialogue: 0,0:07:14.13,0:07:15.79,Default,,0,0,0,,Foi isso o que a Trisha disse.
+Dialogue: 0,0:07:16.09,0:07:17.71,Default,,0,0,0,,Olga-Marie é, bem...
+Dialogue: 0,0:07:17.71,0:07:20.13,Default,,0,0,0,,Ela é a filha de Lorde Animusphere!
+Dialogue: 0,0:07:20.42,0:07:25.01,Default,,0,0,0,,Foi há cerca de um mês. O último dia em que a encontrei...
+Dialogue: 0,0:07:27.72,0:07:32.14,Default,,0,0,0,,Sete anos atrás, Lorde Animusphere estava pesquisando sobre a Guerra do Santo Graal.
+Dialogue: 0,0:07:32.14,0:07:33.52,Default,,0,0,0,,A Guerra do Santo Graal?
+Dialogue: 0,0:07:33.81,0:07:36.98,Default,,0,0,0,,Sim. Foi bem na época em que os assassinatos em série estavam acontecendo.
+Dialogue: 0,0:07:37.23,0:07:40.65,Default,,0,0,0,,O Lorde obteve informações sobre a Guerra do Santo Graal de algum lugar.
+Dialogue: 0,0:07:40.65,0:07:43.86,Default,,0,0,0,,Mas é um ritual taumatúrgico muito secundário no Extremo Oriente, não é?
+Dialogue: 0,0:07:43.86,0:07:45.45,Default,,0,0,0,,Por que investigar isso depois de tanto tempo?
+Dialogue: 0,0:07:45.70,0:07:48.33,Default,,0,0,0,,Desde que começou a pesquisar sobre a Guerra do Santo Graal,
+Dialogue: 0,0:07:48.58,0:07:52.79,Default,,0,0,0,,pouco tempo depois, o Lorde parou de demonstrar interesse em Olga-Marie.
+Dialogue: 0,0:07:53.54,0:07:56.67,Default,,0,0,0,,Mas um mago não deixar nada para a sua filha não faz sentido...
+Dialogue: 0,0:07:57.13,0:07:59.21,Default,,0,0,0,,Aquele Grande Graal estava corrompido,
+Dialogue: 0,0:07:59.21,0:08:02.67,Default,,0,0,0,,e não importa o que façam, ele não pode realizar o desejo da família.
+Dialogue: 0,0:08:02.92,0:08:04.51,Default,,0,0,0,,Foi isso o que o Lorde disse.
+Dialogue: 0,0:08:04.51,0:08:08.60,Default,,0,0,0,,Mas o que isso tem a ver com ele abandonar a própria filha?
+Dialogue: 0,0:08:08.85,0:08:10.43,Default,,0,0,0,,É isso o que eu quero saber.
+Dialogue: 0,0:08:10.43,0:08:12.68,Default,,0,0,0,,O que o Lorde descobriu sete anos atrás?
+Dialogue: 0,0:08:12.68,0:08:15.60,Default,,0,0,0,,Qual é a relação disso com o caso dos assassinatos em série?
+Dialogue: 0,0:08:15.60,0:08:18.11,Default,,0,0,0,,E por que ele abandonou Olga-Marie?
+Dialogue: 0,0:08:19.69,0:08:22.82,Default,,0,0,0,,Trisha estava pesquisando sobre a Guerra do Santo Graal,
+Dialogue: 0,0:08:22.82,0:08:25.41,Default,,0,0,0,,e ela embarcou no Trem Coletor de Olhos Místicos.
+Dialogue: 0,0:08:25.86,0:08:27.95,Default,,0,0,0,,As vítimas dos assassinatos em série,
+Dialogue: 0,0:08:27.95,0:08:32.12,Default,,0,0,0,,incluindo a própria Trisha, eram portadoras de Olhos Místicos. Mais alguma coisa?
+Dialogue: 0,0:08:32.12,0:08:34.16,Default,,0,0,0,,Um homem sem coração.
+Dialogue: 0,0:08:34.83,0:08:35.87,Default,,0,0,0,,Como assim?
+Dialogue: 0,0:08:36.17,0:08:38.08,Default,,0,0,0,,Alguém com esse apelido
+Dialogue: 0,0:08:38.08,0:08:43.01,Default,,0,0,0,,estava fazendo pesquisas sobre a Guerra do Santo Graal sete anos atrás a pedido de Lorde Animusphere.
+Dialogue: 0,0:08:43.26,0:08:45.34,Default,,0,0,0,,Foi isso o que ela disse.
+Dialogue: 0,0:08:46.05,0:08:47.30,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:08:47.51,0:08:49.43,Default,,0,0,0,,Isso nos ajudou bastante.
+Dialogue: 0,0:08:54.81,0:08:56.64,Default,,0,0,0,,Digno do Rail Zeppelin!
+Dialogue: 0,0:08:56.64,0:09:01.82,Default,,0,0,0,,Se conseguir localizar uma Linha de Ley, nem mesmo a Cria de Einnashe será um obstáculo!
+Dialogue: 0,0:09:01.82,0:09:03.86,Default,,0,0,0,,Essa é hora de comemorar?
+Dialogue: 0,0:09:04.32,0:09:07.24,Default,,0,0,0,,Eu realmente sinto muito pela Gray!
+Dialogue: 0,0:09:07.49,0:09:10.62,Default,,0,0,0,,Mas, sabe, ela parece daquelas que aguentam o tranco!
+Dialogue: 0,0:09:10.62,0:09:12.70,Default,,0,0,0,,Chega de desculpas.
+Dialogue: 0,0:09:15.29,0:09:16.29,Default,,0,0,0,,Aquilo é...
+Dialogue: 0,0:09:16.54,0:09:20.75,Default,,0,0,0,,Ai, está doendo! Está congelando! Estou sendo ralado, lixado, raspado!
+Dialogue: 0,0:09:25.80,0:09:31.01,Default,,0,0,0,,Esperem, ai, dor, ui, dor, estou sendo ralado, lixado, raspado, socorro!
+Dialogue: 0,0:09:34.77,0:09:36.23,Default,,0,0,0,,Abram a porta, por favor!
+Dialogue: 0,0:09:38.65,0:09:39.69,Default,,0,0,0,,E pronto!
+Dialogue: 0,0:09:39.69,0:09:40.90,Default,,0,0,0,,Chegamos a tempo!
+Dialogue: 0,0:09:42.32,0:09:43.57,Default,,0,0,0,,Que alívio!
+Dialogue: 0,0:09:43.57,0:09:45.15,Default,,0,0,0,,Nossa, isso é muito divertido!
+Dialogue: 0,0:09:45.40,0:09:47.57,Default,,0,0,0,,Com certeza valeu a pena derrubar um helicóptero para ver!
+Dialogue: 0,0:09:49.07,0:09:50.49,Default,,0,0,0,,Sr. Caules, como o professor está?
+Dialogue: 0,0:09:50.49,0:09:51.74,Default,,0,0,0,,Ele está bem.
+Dialogue: 0,0:09:51.99,0:09:54.91,Default,,0,0,0,,O estado dele se estabilizou logo após sairmos daquela floresta.
+Dialogue: 0,0:09:55.33,0:09:56.50,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:09:58.00,0:10:00.08,Default,,0,0,0,,O quê, pernas bambas?
+Dialogue: 0,0:10:00.08,0:10:03.00,Default,,0,0,0,,E, tratamento ríspido à parte, você não precisava vir deslizando em cima do escudo!
+Dialogue: 0,0:10:03.00,0:10:04.17,Default,,0,0,0,,Já chega!
+Dialogue: 0,0:10:04.42,0:10:07.34,Default,,0,0,0,,Você deveria ter mais modos na forma como trata uma caixa—
+Dialogue: 0,0:10:08.22,0:10:11.05,Default,,0,0,0,,Gray! Pare! Ei! Pare! Gray! Ei!
+Dialogue: 0,0:10:11.43,0:10:13.18,Default,,0,0,0,,Ei, o que houve, garotinha?
+Dialogue: 0,0:10:14.18,0:10:16.18,Default,,0,0,0,,De repente você ficou com uma cara fechada.
+Dialogue: 0,0:10:16.52,0:10:18.43,Default,,0,0,0,,Um homem sem coração.
+Dialogue: 0,0:10:18.69,0:10:24.11,Default,,0,0,0,,Ouvi boatos de um mago perigoso que certa vez teve o coração roubado por uma Fada.
+Dialogue: 0,0:10:24.36,0:10:25.44,Default,,0,0,0,,Por uma Fada?
+Dialogue: 0,0:10:25.69,0:10:29.90,Default,,0,0,0,,Se for a pessoa que eu conheço, ele tem uma cunhada mais nova.
+Dialogue: 0,0:10:30.36,0:10:33.66,Default,,0,0,0,,E ela está a bordo deste trem agora mesmo.
+Dialogue: 0,0:10:34.74,0:10:35.87,Default,,0,0,0,,Ei, não pode ser!
+Dialogue: 0,0:10:36.24,0:10:37.16,Default,,0,0,0,,Sem chance!
+Dialogue: 0,0:10:38.12,0:10:41.62,Default,,0,0,0,,Estou reunindo todos no vagão social.
+Dialogue: 0,0:10:43.21,0:10:46.50,Default,,0,0,0,,Como o indivíduo de sempre ainda está dormindo preguiçosamente,
+Dialogue: 0,0:10:46.92,0:10:49.92,Default,,0,0,0,,eu bancarei a detetive por enquanto.
+Dialogue: 0,0:10:49.92,0:10:52.93,Signs,,0,0,0,,Lord El-Melloi II's Case Files\n{Rail Zeppelin} Grace note
+Dialogue: 0,0:10:56.35,0:10:58.73,Default,,0,0,0,,Qual no mundo é o motivo para você querer todos nós aqui?
+Dialogue: 0,0:10:59.35,0:11:05.27,Default,,0,0,0,,Há algo que eu gostaria de propor do ponto de vista da divisão de Políticas.
+Dialogue: 0,0:11:05.52,0:11:08.65,Default,,0,0,0,,Sim, é sobre o culpado deste caso.
+Dialogue: 0,0:11:08.65,0:11:10.65,Default,,0,0,0,,Isso aí, Grande Detetive!
+Dialogue: 0,0:11:11.03,0:11:16.12,Default,,0,0,0,,Houve um caso de assassinatos em série que usou o mesmo método sete anos atrás.
+Dialogue: 0,0:11:17.70,0:11:21.12,Default,,0,0,0,,Perdoe-me, mas não me recordo de nenhum caso dessa natureza.
+Dialogue: 0,0:11:21.46,0:11:25.04,Default,,0,0,0,,Nós das Políticas controlamos as informações a respeito.
+Dialogue: 0,0:11:25.04,0:11:27.34,Default,,0,0,0,,Nossa, você admite isso com tanta naturalidade?
+Dialogue: 0,0:11:27.34,0:11:30.88,Default,,0,0,0,,No entanto, não fomos os únicos a interferir nisso.
+Dialogue: 0,0:11:31.13,0:11:33.89,Default,,0,0,0,,A Santa Igreja também interveio.
+Dialogue: 0,0:11:35.47,0:11:39.56,Default,,0,0,0,,O investigador encarregado na época era você, Karabo Frampton, correto?
+Dialogue: 0,0:11:39.89,0:11:41.14,Default,,0,0,0,,Correto.
+Dialogue: 0,0:11:41.14,0:11:43.69,Default,,0,0,0,,Ora, vamos! Se você sabia, podia ter dito!
+Dialogue: 0,0:11:43.69,0:11:46.56,Default,,0,0,0,,Isso iria contra o meu dever de sigilo. Naturalmente.
+Dialogue: 0,0:11:46.94,0:11:47.86,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:11:48.11,0:11:50.99,Default,,0,0,0,,Mesmo com a Visão do Passado do Sr. Karabo,
+Dialogue: 0,0:11:51.24,0:11:53.45,Default,,0,0,0,,a cena do crime não pôde ser visualizada.
+Dialogue: 0,0:11:53.70,0:11:58.24,Default,,0,0,0,,Mesmo com a Premonição da Srta. Trisha, ela não pôde se proteger.
+Dialogue: 0,0:11:58.24,0:11:59.74,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:11:59.74,0:12:03.37,Default,,0,0,0,,Logo, o instante do crime não pôde ser visto nem pelo passado nem pelo futuro.
+Dialogue: 0,0:12:03.67,0:12:07.17,Default,,0,0,0,,Isso nos deixaria com uma resposta, clara e simples.
+Dialogue: 0,0:12:08.17,0:12:10.55,Default,,0,0,0,,Aquele local não era a cena do crime.
+Dialogue: 0,0:12:11.67,0:12:14.38,Default,,0,0,0,,Entendi! Faz todo sentido! Mas é claro!
+Dialogue: 0,0:12:14.76,0:12:17.22,Default,,0,0,0,,Como esperado de uma especialista em Olhos Místicos...
+Dialogue: 0,0:12:17.22,0:12:21.56,Default,,0,0,0,,A Visão do Passado e a Premonição transcendem apenas sobre o eixo temporal.
+Dialogue: 0,0:12:21.93,0:12:24.60,Default,,0,0,0,,Portanto, se você não estiver na cena do crime,
+Dialogue: 0,0:12:24.60,0:12:26.94,Default,,0,0,0,,não conseguirá ver visões por mais que tente.
+Dialogue: 0,0:12:27.19,0:12:30.07,Default,,0,0,0,,A cena do crime não foi aquele quarto?
+Dialogue: 0,0:12:31.57,0:12:34.65,Default,,0,0,0,,Então, quem você está dizendo que assassinou a Srta. Trisha?
+Dialogue: 0,0:12:35.03,0:12:39.53,Default,,0,0,0,,Agora, trarei uma testemunha ao palco.
+Dialogue: 0,0:12:50.96,0:12:52.26,Default,,0,0,0,,Qual é o significado disto?
+Dialogue: 0,0:12:53.30,0:12:56.63,Default,,0,0,0,,A cabeça dela foi escondida usando Magia dos Números Imaginários.
+Dialogue: 0,0:12:57.01,0:13:01.14,Default,,0,0,0,,Presumo que a própria Trisha Fellows a tenha selado.
+Dialogue: 0,0:13:01.14,0:13:03.64,Default,,0,0,0,,Ela selou a própria cabeça?
+Dialogue: 0,0:13:03.98,0:13:08.90,Default,,0,0,0,,Ela provavelmente percebeu que morreria por decapitação graças à sua Premonição.
+Dialogue: 0,0:13:08.90,0:13:14.15,Default,,0,0,0,,Ela criou um bolso Imaginário com antecedência onde a cabeça provavelmente cairia.
+Dialogue: 0,0:13:14.61,0:13:16.86,Default,,0,0,0,,E esta é a parte crucial.
+Dialogue: 0,0:13:17.11,0:13:19.41,Default,,0,0,0,,Dentro de um feitiço de Magia dos Números Imaginários,
+Dialogue: 0,0:13:19.41,0:13:21.16,Default,,0,0,0,,o tempo fica paralisado.
+Dialogue: 0,0:13:21.53,0:13:25.66,Default,,0,0,0,,Portanto, a cabeça dela no momento do resgate ainda estava viva.
+Dialogue: 0,0:13:26.00,0:13:27.96,Default,,0,0,0,,Ainda estava viva?
+Dialogue: 0,0:13:30.04,0:13:33.80,Default,,0,0,0,,Com o último fôlego restante em sua garganta, ela pronunciou apenas uma palavra.
+Dialogue: 0,0:13:34.05,0:13:36.72,Default,,0,0,0,,Qual você acha que foi a palavra que ela deixou?
+Dialogue: 0,0:13:38.72,0:13:40.22,Default,,0,0,0,,"Karabo".
+Dialogue: 0,0:13:42.06,0:13:43.56,Default,,0,0,0,,Karabo Frampton,
+Dialogue: 0,0:13:43.81,0:13:46.98,Default,,0,0,0,,seus Olhos Místicos são os de Observação da Visão do Passado, correto?
+Dialogue: 0,0:13:47.73,0:13:50.02,Default,,0,0,0,,O que é Observação da Visão do Passado?
+Dialogue: 0,0:13:50.31,0:13:52.90,Default,,0,0,0,,São Olhos Místicos capazes de enxergar um passado comum.
+Dialogue: 0,0:13:53.15,0:13:55.69,Default,,0,0,0,,Você consegue perceber um passado que já foi resolvido.
+Dialogue: 0,0:13:55.94,0:13:59.70,Default,,0,0,0,,Mesmo que possa ver o passado, não dá para cometer um assassinato com isso, dá?
+Dialogue: 0,0:14:00.28,0:14:01.32,Default,,0,0,0,,Bem, exato.
+Dialogue: 0,0:14:01.62,0:14:03.45,Default,,0,0,0,,Entre Olhos Místicos poderosos,
+Dialogue: 0,0:14:03.70,0:14:07.71,Default,,0,0,0,,há aqueles capazes de manifestar as visões no mundo como verdade.
+Dialogue: 0,0:14:07.96,0:14:10.38,Default,,0,0,0,,Por exemplo, "Os Olhos Místicos de Percepção da Morte".
+Dialogue: 0,0:14:10.63,0:14:11.75,Default,,0,0,0,,Os lendários?
+Dialogue: 0,0:14:12.00,0:14:14.42,Default,,0,0,0,,Mas esses são classe Arco-íris ou classe Joia!
+Dialogue: 0,0:14:14.42,0:14:16.55,Default,,0,0,0,,É claro, isso apenas se os boatos forem verdadeiros.
+Dialogue: 0,0:14:17.09,0:14:21.68,Default,,0,0,0,,Mas os seus Olhos Místicos são bastante próximos disso, não são, Padre Karabo?
+Dialogue: 0,0:14:29.98,0:14:33.19,Default,,0,0,0,,Vou registrar um corte como este e guardá-lo.
+Dialogue: 0,0:14:33.65,0:14:37.19,Default,,0,0,0,,Então, se o portador dos Olhos Místicos o tiver observado,
+Dialogue: 0,0:14:37.19,0:14:41.70,Default,,0,0,0,,o alvo será cortado exatamente da mesma maneira do corte registrado.
+Dialogue: 0,0:14:45.33,0:14:46.45,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:14:46.83,0:14:49.41,Default,,0,0,0,,Sendo assim, não foi você quem fez isso?
+Dialogue: 0,0:14:50.21,0:14:53.13,Default,,0,0,0,,Não foi você quem fez isso, Karabo Frampton?
+Dialogue: 0,0:14:53.63,0:14:56.05,Default,,0,0,0,,Está dizendo que fui eu?
+Dialogue: 0,0:14:56.50,0:15:00.80,Default,,0,0,0,,Um trem seguindo os trilhos trabalhou a seu favor.
+Dialogue: 0,0:15:01.05,0:15:04.80,Default,,0,0,0,,Você apenas desferiu um golpe no ar vazio no vagão social logo à frente.
+Dialogue: 0,0:15:06.31,0:15:11.23,Default,,0,0,0,,Seria fácil ver em qual posição a cadeira estaria com a sua Visão do Passado.
+Dialogue: 0,0:15:11.64,0:15:13.69,Default,,0,0,0,,Porque quando o cadáver dela foi encontrado,
+Dialogue: 0,0:15:13.69,0:15:17.61,Default,,0,0,0,,o trem havia parado na floresta, e você estava do lado de fora.
+Dialogue: 0,0:15:18.57,0:15:21.99,Default,,0,0,0,,Você só precisava espiar pela janela do lado de fora.
+Dialogue: 0,0:15:22.66,0:15:25.74,Default,,0,0,0,,Então, arrastado pelo passado que você observou,
+Dialogue: 0,0:15:25.99,0:15:28.08,Default,,0,0,0,,o ar vazio se abriria novamente...
+Dialogue: 0,0:15:29.50,0:15:32.04,Default,,0,0,0,,junto com a cabeça de Trisha Fellows.
+Dialogue: 0,0:15:35.38,0:15:39.71,Default,,0,0,0,,Espere? Isso significa que os assassinatos em série de sete anos atrás também foram assim?
+Dialogue: 0,0:15:40.88,0:15:44.55,Default,,0,0,0,,Não posso imaginar que haja mais alguém com Olhos Místicos como esses!
+Dialogue: 0,0:15:44.55,0:15:48.51,Default,,0,0,0,,E esse indivíduo esteve envolvido na investigação, hein?
+Dialogue: 0,0:15:48.51,0:15:49.68,Default,,0,0,0,,Espere, eu...
+Dialogue: 0,0:15:50.14,0:15:53.10,Default,,0,0,0,,Não concluirei que você é o culpado,
+Dialogue: 0,0:15:53.52,0:15:56.94,Default,,0,0,0,,mas isso dá motivos de sobra para tomarmos certas medidas contra você.
+Dialogue: 0,0:15:57.32,0:15:58.48,Default,,0,0,0,,Espere um instante!
+Dialogue: 0,0:16:00.11,0:16:00.99,Default,,0,0,0,,Ora?
+Dialogue: 0,0:16:01.44,0:16:05.11,Default,,0,0,0,,Finalmente acordou, Lorde El-Melloi II?
+Dialogue: 0,0:16:05.37,0:16:06.53,Default,,0,0,0,,Waver!
+Dialogue: 0,0:16:06.53,0:16:09.87,Default,,0,0,0,,Não imaginei que você estaria aqui também, Melvin.
+Dialogue: 0,0:16:10.12,0:16:13.71,Default,,0,0,0,,Ora! É natural que eu venha correndo quando meu melhor amigo está em perigo!
+Dialogue: 0,0:16:13.71,0:16:15.08,Default,,0,0,0,,Apenas cuide da sua própria vida.
+Dialogue: 0,0:16:15.92,0:16:16.96,Default,,0,0,0,,Senhorita Adashino...
+Dialogue: 0,0:16:17.29,0:16:19.84,Default,,0,0,0,,Tenho várias dúvidas sobre a sua dedução.
+Dialogue: 0,0:16:22.01,0:16:25.01,Default,,0,0,0,,Já vai me agraciar com o seu maravilhoso trabalho de detetive?
+Dialogue: 0,0:16:25.51,0:16:29.64,Default,,0,0,0,,A dedução que você acabou de expor carece do elemento do motivo para começar.
+Dialogue: 0,0:16:29.64,0:16:32.06,Default,,0,0,0,,"Whydunit", o seu favorito?
+Dialogue: 0,0:16:32.06,0:16:35.06,Default,,0,0,0,,Correto. Nenhum crime existe sem um motivo.
+Dialogue: 0,0:16:35.81,0:16:38.57,Default,,0,0,0,,Se você realmente precisa de um motivo,
+Dialogue: 0,0:16:38.82,0:16:41.40,Default,,0,0,0,,que tal imaginar você e o assassino sanguinário
+Dialogue: 0,0:16:41.40,0:16:43.70,Default,,0,0,0,,como um só através dos Olhos Místicos de Visão do Passado?
+Dialogue: 0,0:16:43.90,0:16:44.65,Default,,0,0,0,,O quê?
+Dialogue: 0,0:16:44.99,0:16:47.49,Default,,0,0,0,,Conforme ele continuava observando os assassinatos sete anos atrás,
+Dialogue: 0,0:16:47.49,0:16:50.54,Default,,0,0,0,,a sensação de si mesmo e a do assassino se fundiram.
+Dialogue: 0,0:16:50.87,0:16:54.04,Default,,0,0,0,,Isso não seria possível se ele não mais conseguisse controlar seus Olhos Místicos?
+Dialogue: 0,0:16:54.29,0:16:55.67,Default,,0,0,0,,Você está falando sério?
+Dialogue: 0,0:16:55.87,0:16:57.38,Default,,0,0,0,,Teria problema se eu estivesse falando sério?
+Dialogue: 0,0:16:57.63,0:17:00.71,Default,,0,0,0,,Não há muita diferença entre seriedade e absurdo.
+Dialogue: 0,0:17:00.71,0:17:02.88,Default,,0,0,0,,Afinal, somos magos.
+Dialogue: 0,0:17:03.17,0:17:05.01,Default,,0,0,0,,Então esse é o seu cenário.
+Dialogue: 0,0:17:05.26,0:17:09.80,Default,,0,0,0,,Mas os Olhos Místicos do Padre Karabo realmente têm esse tipo de poder?
+Dialogue: 0,0:17:10.01,0:17:11.72,Default,,0,0,0,,O que quer dizer com isso?
+Dialogue: 0,0:17:11.72,0:17:18.65,Default,,0,0,0,,Quem provou que os Olhos Místicos dele poderiam materializar uma visão registrada do passado?
+Dialogue: 0,0:17:19.15,0:17:21.65,Default,,0,0,0,,Está dizendo que isso não passa de uma dedução minha?
+Dialogue: 0,0:17:22.15,0:17:25.65,Default,,0,0,0,,Não vale a pena chamar isso nem de presunção ou evidência circunstancial.
+Dialogue: 0,0:17:25.65,0:17:27.53,Default,,0,0,0,,Para ser direto, é apenas um delírio.
+Dialogue: 0,0:17:27.78,0:17:30.91,Default,,0,0,0,,Você vai incriminá-lo com base em algo desse tipo?
+Dialogue: 0,0:17:31.20,0:17:33.62,Default,,0,0,0,,Você não precisa se preocupar com isso.
+Dialogue: 0,0:17:33.87,0:17:38.00,Default,,0,0,0,,Tudo o que precisamos fazer é ter os Olhos Místicos avaliados pelo Rail Zeppelin.
+Dialogue: 0,0:17:38.00,0:17:40.42,Default,,0,0,0,,Sim. Seria possível com aqueles Olhos Místicos.
+Dialogue: 0,0:17:43.13,0:17:48.26,Default,,0,0,0,,De fato, eles conseguem projetar um golpe perdido no passado de volta ao presente.
+Dialogue: 0,0:17:49.43,0:17:52.97,Default,,0,0,0,,Senhoras e senhores, este é o vice-gerente deste trem.
+Dialogue: 0,0:17:53.26,0:17:55.14,Default,,0,0,0,,Chegou o horário combinado.
+Dialogue: 0,0:17:55.14,0:17:58.19,Default,,0,0,0,,Estou aqui para recolher os seus Olhos Místicos antes do leilão.
+Dialogue: 0,0:17:58.56,0:18:00.19,Default,,0,0,0,,Horário combinado?
+Dialogue: 0,0:18:00.19,0:18:02.86,Default,,0,0,0,,A equipe já deveria ter lhe informado...
+Dialogue: 0,0:18:03.11,0:18:07.15,Default,,0,0,0,,que nós extraímos os Olhos Místicos meio dia antes do leilão.
+Dialogue: 0,0:18:07.95,0:18:10.45,Default,,0,0,0,,Entendo, então você achou que este seria o momento perfeito
+Dialogue: 0,0:18:10.45,0:18:13.54,Default,,0,0,0,,para o Rail Zeppelin respaldar as suas deduções!
+Dialogue: 0,0:18:14.29,0:18:15.54,Default,,0,0,0,,Você é perspicaz.
+Dialogue: 0,0:18:17.83,0:18:19.33,Default,,0,0,0,,M-Mas espere!
+Dialogue: 0,0:18:19.54,0:18:20.58,Default,,0,0,0,,Ainda não!
+Dialogue: 0,0:18:30.47,0:18:32.18,Default,,0,0,0,,Vice-gerente...
+Dialogue: 0,0:18:42.81,0:18:44.19,Default,,0,0,0,,Isto é maravilhoso!
+Dialogue: 0,0:18:44.65,0:18:48.57,Default,,0,0,0,,Fica aquém da classe Arco-íris, mas certamente alcançará ao menos a classe Joia.
+Dialogue: 0,0:18:48.57,0:18:49.95,Default,,0,0,0,,Então eles realmente conseguem?
+Dialogue: 0,0:18:50.20,0:18:55.45,Default,,0,0,0,,Uma sombra do passado há muito desaparecida pode ser trazida de volta ao presente como espuma do mar.
+Dialogue: 0,0:18:55.70,0:18:58.58,Default,,0,0,0,,Devemos batizá-los de "Olhos Místicos da Transitoriedade"?
+Dialogue: 0,0:19:00.04,0:19:04.04,Default,,0,0,0,,Peço sinceras desculpas a todos por tomar o seu precioso tempo.
+Dialogue: 0,0:19:04.42,0:19:10.22,Default,,0,0,0,,Espero que possam retomar uma viagem agradável a bordo do Rail Zeppelin.
+Dialogue: 0,0:19:19.98,0:19:22.15,Default,,0,0,0,,Então, por que você está vindo atrás?
+Dialogue: 0,0:19:22.40,0:19:25.36,Default,,0,0,0,,É claro que eu viria atrás! Eu sou o seu melhor amigo!
+Dialogue: 0,0:19:25.36,0:19:29.15,Default,,0,0,0,,Vou chorar se você continuar tão frio comigo! Vou tossir sangue!
+Dialogue: 0,0:19:30.24,0:19:35.49,Default,,0,0,0,,O senhor realmente acha que o Sr. Karabo foi quem matou a Srta. Trisha?
+Dialogue: 0,0:19:36.74,0:19:39.66,Default,,0,0,0,,Há uma grande diferença entre possibilidade e execução de fato.
+Dialogue: 0,0:19:45.59,0:19:48.80,Default,,0,0,0,,Lamento profundamente. Vamos mantê-lo contido por enquanto.
+Dialogue: 0,0:19:48.80,0:19:49.84,Default,,0,0,0,,Compreendo perfeitamente.
+Dialogue: 0,0:19:50.47,0:19:51.84,Default,,0,0,0,,Gostaria de lhe perguntar...
+Dialogue: 0,0:19:52.09,0:19:56.10,Default,,0,0,0,,Você esteve realmente envolvido em um assassinato em série sete anos atrás?
+Dialogue: 0,0:19:57.68,0:19:58.93,Default,,0,0,0,,Eu não sei.
+Dialogue: 0,0:20:00.10,0:20:05.52,Default,,0,0,0,,Sinceramente, até instantes atrás, eu havia esquecido que estive envolvido naquele caso.
+Dialogue: 0,0:20:05.86,0:20:07.77,Default,,0,0,0,,Os efeitos dos seus Olhos Místicos.
+Dialogue: 0,0:20:08.15,0:20:09.40,Default,,0,0,0,,Eu consigo ver o passado.
+Dialogue: 0,0:20:09.65,0:20:11.49,Default,,0,0,0,,Isso é imposto a mim mesmo que eu não queira ver.
+Dialogue: 0,0:20:11.49,0:20:13.61,Default,,0,0,0,,Quer meus olhos estejam abertos ou fechados,
+Dialogue: 0,0:20:13.61,0:20:17.41,Default,,0,0,0,,as imagens inundam a minha mente como se zombassem de que minhas pálpebras não importam.
+Dialogue: 0,0:20:17.83,0:20:22.75,Default,,0,0,0,,Contudo, em um ritmo ainda mais acelerado, as minhas próprias memórias se despedaçam.
+Dialogue: 0,0:20:22.75,0:20:24.79,Default,,0,0,0,,Esse é o tipo de Olhos Místicos que eles eram.
+Dialogue: 0,0:20:25.17,0:20:29.05,Default,,0,0,0,,Em outras palavras, você era totalmente incapaz de controlar esses Olhos Místicos.
+Dialogue: 0,0:20:29.67,0:20:31.13,Default,,0,0,0,,Acho que sim.
+Dialogue: 0,0:20:33.22,0:20:35.64,Default,,0,0,0,,Mas agora, se eu tivesse aqueles Olhos Místicos...
+Dialogue: 0,0:20:37.30,0:20:41.56,Default,,0,0,0,,Se eu os tivesse, talvez finalmente conseguisse desvendar a verdade!
+Dialogue: 0,0:20:41.81,0:20:44.77,Default,,0,0,0,,Então você pode recomprar os Olhos Místicos no leilão!
+Dialogue: 0,0:20:44.77,0:20:48.48,Default,,0,0,0,,Talvez, mas não será uma quantia pela qual eu consiga dar um lance vencedor.
+Dialogue: 0,0:20:48.86,0:20:51.23,Default,,0,0,0,,Entendi. Então você só quer comprá-los de volta?
+Dialogue: 0,0:20:51.65,0:20:52.61,Default,,0,0,0,,Melvin...
+Dialogue: 0,0:20:52.61,0:20:56.41,Default,,0,0,0,,Não posso garantir, porque tenho certeza de que serão o item mais caro desta vez.
+Dialogue: 0,0:20:56.41,0:20:58.95,Default,,0,0,0,,Mas pode ser divertido ao menos me desafiar a tentar.
+Dialogue: 0,0:20:58.95,0:21:03.00,Default,,0,0,0,,É claro, apenas se houver diversão suficiente envolvida nisso.
+Dialogue: 0,0:21:03.00,0:21:04.46,Default,,0,0,0,,O que você acha, Waver?
+Dialogue: 0,0:21:04.83,0:21:06.88,Default,,0,0,0,,Não tenho intenção alguma de vender minha alma ao diabo.
+Dialogue: 0,0:21:07.13,0:21:08.00,Default,,0,0,0,,Que pena...
+Dialogue: 0,0:21:08.50,0:21:12.55,Default,,0,0,0,,Não há nada para deixar este caso um pouco mais emocionante?
+Dialogue: 0,0:21:12.88,0:21:15.30,Default,,0,0,0,,A propósito, quando encontrei a Srta. Trisha...
+Dialogue: 0,0:21:17.72,0:21:18.60,Default,,0,0,0,,Bem...
+Dialogue: 0,0:21:18.85,0:21:22.06,Default,,0,0,0,,Guardado nas roupas dela havia, bem, hum...
+Dialogue: 0,0:21:22.31,0:21:23.68,Default,,0,0,0,,algo obsceno.
+Dialogue: 0,0:21:23.89,0:21:24.85,Default,,0,0,0,,O que era?
+Dialogue: 0,0:21:24.85,0:21:27.10,Default,,0,0,0,,Conte de novo! O que você viu?
+Dialogue: 0,0:21:27.48,0:21:28.77,Default,,0,0,0,,Bem...
+Dialogue: 0,0:21:29.19,0:21:32.65,Default,,0,0,0,,Vi um homem e uma mulher entrelaçados—
+Dialogue: 0,0:21:33.48,0:21:35.61,Default,,0,0,0,,Não é incomum trazer algo assim consigo.
+Dialogue: 0,0:21:35.86,0:21:38.49,Default,,0,0,0,,Eu mesmo tomei várias medidas defensivas.
+Dialogue: 0,0:21:38.95,0:21:41.83,Default,,0,0,0,,Mas não havia nada desse tipo na cena do crime.
+Dialogue: 0,0:21:42.16,0:21:43.95,Default,,0,0,0,,Mesmo que fosse uma medida defensiva,
+Dialogue: 0,0:21:43.95,0:21:46.75,Default,,0,0,0,,não é nem de longe tão estável quanto um neutralizador de Olhos Místicos.
+Dialogue: 0,0:21:47.58,0:21:52.00,Default,,0,0,0,,Então isso significa que ela tinha uma maneira diferente de usá-lo.
+Dialogue: 0,0:21:52.34,0:21:53.46,Default,,0,0,0,,Professor?
+Dialogue: 0,0:21:53.46,0:21:56.01,Default,,0,0,0,,Isto não é uma dedução. Não posso chamar isto de dedução de forma alguma.
+Dialogue: 0,0:21:56.42,0:21:57.22,Default,,0,0,0,,Contudo,
+Dialogue: 0,0:21:57.47,0:21:59.84,Default,,0,0,0,,se o que imagino for verdade, posso afirmar isto...
+Dialogue: 0,0:22:00.30,0:22:01.72,Default,,0,0,0,,O culpado é...
+Dialogue: 0,0:22:02.51,0:22:03.85,Default,,0,0,0,,o meu inimigo!
+Dialogue: 0,0:22:06.60,0:22:07.94,Default,,0,0,0,,Eu vou desvendar...
+Dialogue: 0,0:22:07.94,0:22:10.94,Signs,,0,0,0,,EPISÓDIO 10: Rail Zeppelin 4/6\nOlhos Místicos da Transitoriedade e o Despertar do Detetive
+Dialogue: 0,0:22:08.44,0:22:10.94,Default,,0,0,0,,este caso!

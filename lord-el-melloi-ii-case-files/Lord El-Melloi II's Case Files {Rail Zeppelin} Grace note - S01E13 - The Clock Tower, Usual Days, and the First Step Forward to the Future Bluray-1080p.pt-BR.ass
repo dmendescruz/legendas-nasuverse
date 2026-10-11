@@ -1,0 +1,342 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E13 - The Clock Tower, Usual Days, and the First Step Forward to the Future (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.81,0:00:07.56,Default,,0,0,0,,O que aconteceu com aquele caso?
+Dialogue: 0,0:00:08.02,0:00:10.78,Default,,0,0,0,,Foi tratado como um conflito\Nentre Apóstolos da Morte.
+Dialogue: 0,0:00:11.36,0:00:14.82,Default,,0,0,0,,Sem penalidades para nós nem para Políticas.
+Dialogue: 0,0:00:15.70,0:00:17.45,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:00:18.45,0:00:20.45,Default,,0,0,0,,Então, você soube da minha irmã mais velha?
+Dialogue: 0,0:00:21.41,0:00:22.79,Default,,0,0,0,,Hum, bem...
+Dialogue: 0,0:00:23.20,0:00:24.33,Default,,0,0,0,,Sinto muito.
+Dialogue: 0,0:00:24.71,0:00:26.67,Default,,0,0,0,,Ah, não, tudo bem!
+Dialogue: 0,0:00:27.13,0:00:29.38,Default,,0,0,0,,Eu já contei ao Flat e aos outros há muito tempo.
+Dialogue: 0,0:00:30.34,0:00:32.38,Default,,0,0,0,,É mesmo?
+Dialogue: 0,0:00:35.88,0:00:38.85,Default,,0,0,0,,Minha irmã mais velha tinha\Nmuito mais talento do que eu.
+Dialogue: 0,0:00:39.51,0:00:41.89,Default,,0,0,0,,Às vezes fico pensando:\N"E se ela tivesse conhecido o professor?"
+Dialogue: 0,0:00:42.47,0:00:44.89,Default,,0,0,0,,Mas eu gosto daqui.
+Dialogue: 0,0:00:47.94,0:00:50.57,Default,,0,0,0,,Fico feliz por ter vindo para cá,
+Dialogue: 0,0:00:51.02,0:00:53.82,Default,,0,0,0,,e por ter conhecido todos vocês.
+Dialogue: 0,0:00:55.36,0:00:56.65,Default,,0,0,0,,Eu também.
+Dialogue: 0,0:00:57.49,0:01:00.37,Default,,0,0,0,,Todos estão esperando\Npor você e pelo professor voltarem.
+Dialogue: 0,0:01:00.62,0:01:04.95,Default,,0,0,0,,Quando o Svin soube que você se feriu,\Nele ficou com uma cara daquelas!
+Dialogue: 0,0:01:04.95,0:01:06.79,Default,,0,0,0,,Uma cara daquelas?
+Dialogue: 0,0:01:07.04,0:01:10.25,Default,,0,0,0,,Então talvez ele realmente me deteste.
+Dialogue: 0,0:01:10.75,0:01:14.13,Default,,0,0,0,,A Gray-tan está bem? Gray-tan...
+Dialogue: 0,0:01:14.51,0:01:20.39,Default,,0,0,0,,Se eu pudesse, queria inalar o doce, lindo\Ne sutilmente melancólico aroma da Gray-tan agora mesmo!
+Dialogue: 0,0:01:21.97,0:01:25.06,Default,,0,0,0,,É por isso que você é proibido\Nde entrar no quarto dela, Le Chien!
+Dialogue: 0,0:01:25.06,0:01:28.02,Default,,0,0,0,,Não me chame de Le Chien!\NPara começo de conversa, porque você...
+Dialogue: 0,0:01:28.60,0:01:30.56,Default,,0,0,0,,Se vão fazer escândalo, saiam daqui!\NOs dois!
+Dialogue: 0,0:01:30.56,0:01:33.36,Default,,0,0,0,,Especialmente você, Svin!\NTenha compostura!
+Dialogue: 0,0:01:33.69,0:01:35.53,Default,,0,0,0,,S-Sinto muito, professor!
+Dialogue: 0,0:01:38.15,0:01:39.45,Default,,0,0,0,,Ah, é verdade!
+Dialogue: 0,0:01:39.99,0:01:41.12,Default,,0,0,0,,Aqui está, professor!
+Dialogue: 0,0:01:41.87,0:01:43.28,Default,,0,0,0,,O que é isto?
+Dialogue: 0,0:01:43.58,0:01:46.58,Default,,0,0,0,,O quê? É um livro\Nque você vai adorar ver!
+Dialogue: 0,0:01:47.00,0:01:48.50,Default,,0,0,0,,Um livro que os homens simplesmente amam!
+Dialogue: 0,0:01:48.75,0:01:49.50,Default,,0,0,0,,Isso mesmo!
+Dialogue: 0,0:01:48.92,0:01:51.17,Signs,,0,0,0,,GUIA OFICIAL DE JOGO\NEXCITING LOVE
+Dialogue: 0,0:01:49.75,0:01:51.17,Default,,0,0,0,,Um detonado de Gal-ge!
+Dialogue: 0,0:01:51.88,0:01:55.05,Default,,0,0,0,,Professor, soube que você é um pesquisador\Napaxonado por jogos japoneses!
+Dialogue: 0,0:01:55.26,0:01:57.05,Default,,0,0,0,,Deixe-me ajudá-lo!
+Dialogue: 0,0:01:59.51,0:02:02.22,Default,,0,0,0,,Uau, parece que o clima está esquentando!
+Dialogue: 0,0:02:02.22,0:02:04.56,Default,,0,0,0,,Não posso ignorar isso como espiã!
+Dialogue: 0,0:02:04.76,0:02:07.77,Default,,0,0,0,,Você não estava detida por Políticas?
+Dialogue: 0,0:02:07.77,0:02:11.10,Default,,0,0,0,,Fiz um acordo de delação,\Nentão me soltaram!
+Dialogue: 0,0:02:11.52,0:02:13.27,Default,,0,0,0,,Enfim,
+Dialogue: 0,0:02:13.48,0:02:16.53,Default,,0,0,0,,alguém real, em comparação a um jogo...
+Dialogue: 0,0:02:17.03,0:02:20.99,Default,,0,0,0,,Não me importo! Fora todos vocês! O que\Ncuraria normalmente não vai sarar com vocês aqui!
+Dialogue: 0,0:02:22.57,0:02:23.41,Default,,0,0,0,,Céus.
+Dialogue: 0,0:02:23.66,0:02:27.62,Default,,0,0,0,,Se eles não fizessem tanto tumulto,\Neu teria recebido alta bem mais cedo.
+Dialogue: 0,0:02:27.87,0:02:31.54,Default,,0,0,0,,Eles só não estão ansiosos\Npara tê-lo de volta, professor?
+Dialogue: 0,0:02:33.08,0:02:36.80,Default,,0,0,0,,Foi graças ao Padre Karabo\Nque nós dois voltamos com vida.
+Dialogue: 0,0:02:38.59,0:02:39.80,Default,,0,0,0,,Sim.
+Dialogue: 0,0:02:40.22,0:02:42.30,Default,,0,0,0,,Ele nos salvou até o último momento.
+Dialogue: 0,0:02:43.47,0:02:46.01,Default,,0,0,0,,Mas eu não fui capaz de salvá-lo.
+Dialogue: 0,0:02:47.22,0:02:48.52,Default,,0,0,0,,Professor...
+Dialogue: 0,0:02:52.19,0:02:54.73,Default,,0,0,0,,Parabéns pela sua recuperação.
+Dialogue: 0,0:02:55.61,0:02:56.94,Default,,0,0,0,,Agradeço por ter vindo me dizer isso.
+Dialogue: 0,0:02:58.15,0:03:01.95,Default,,0,0,0,,O caso de sete anos atrás\Nficará sob sigilo no final das contas.
+Dialogue: 0,0:03:02.78,0:03:03.95,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:03:03.95,0:03:07.95,Default,,0,0,0,,A Santa Igreja não parecia querer que ele\Nvoltasse aos holofotes depois de tanto tempo.
+Dialogue: 0,0:03:11.25,0:03:13.71,Default,,0,0,0,,Havia uma coisa que eu queria lhe perguntar.
+Dialogue: 0,0:03:14.63,0:03:15.71,Default,,0,0,0,,O que é?
+Dialogue: 0,0:03:16.13,0:03:19.42,Default,,0,0,0,,Você certamente deve estar ciente\Ndas falhas na sua própria dedução?
+Dialogue: 0,0:03:19.42,0:03:22.34,Default,,0,0,0,,O motivo pelo qual ele invocou\Num Servo, não é?
+Dialogue: 0,0:03:22.34,0:03:25.60,Default,,0,0,0,,É verdade que Ghost Liners\Nsão recursos preciosos.
+Dialogue: 0,0:03:25.60,0:03:29.22,Default,,0,0,0,,Compreendo por que alguém iria\Ntão longe para invocar um.
+Dialogue: 0,0:03:29.56,0:03:33.14,Default,,0,0,0,,Se fosse apenas uma questão de raridade,\NOlhos Místicos de classe Joia bastariam.
+Dialogue: 0,0:03:33.60,0:03:36.02,Default,,0,0,0,,Por que teria de ser um Espírito Heroico?
+Dialogue: 0,0:03:36.77,0:03:38.90,Default,,0,0,0,,O que você pensa a respeito?
+Dialogue: 0,0:03:40.40,0:03:42.49,Default,,0,0,0,,Tenho certeza de que há mais neste caso.
+Dialogue: 0,0:03:44.36,0:03:48.12,Default,,0,0,0,,Ele disse que ficaria em apuros\Nse eu morresse agora.
+Dialogue: 0,0:03:48.37,0:03:50.58,Default,,0,0,0,,Trata-se de sermos peças necessárias\Npara o futuro.
+Dialogue: 0,0:03:50.58,0:03:52.37,Default,,0,0,0,,Tanto eu quanto aquela Faker.
+Dialogue: 0,0:03:53.04,0:03:54.00,Default,,0,0,0,,Sim.
+Dialogue: 0,0:03:54.33,0:03:57.46,Default,,0,0,0,,No devido momento, enfrentarei aquele homem novamente.
+Dialogue: 0,0:03:58.09,0:03:59.21,Default,,0,0,0,,Tenho certeza disso.
+Dialogue: 0,0:04:03.34,0:04:04.47,Default,,0,0,0,,Reverta-se!
+Dialogue: 0,0:04:09.10,0:04:11.02,Default,,0,0,0,,Eu também queria lhe fazer uma pergunta.
+Dialogue: 0,0:04:11.39,0:04:12.35,Default,,0,0,0,,Vá em frente.
+Dialogue: 0,0:04:13.48,0:04:15.02,Default,,0,0,0,,O pingente da Trisha...
+Dialogue: 0,0:04:15.65,0:04:17.90,Default,,0,0,0,,Por que você o deixou para trás?
+Dialogue: 0,0:04:19.48,0:04:22.99,Default,,0,0,0,,Tenho certeza de que você também tem\Nalguma hipótese sobre isso.
+Dialogue: 0,0:04:23.24,0:04:26.03,Default,,0,0,0,,Você disse que estava naquele trem\Npor assuntos pessoais.
+Dialogue: 0,0:04:26.36,0:04:31.24,Default,,0,0,0,,Tomar medidas tão drásticas, confundir\Na todos com uma dedução errônea...
+Dialogue: 0,0:04:31.24,0:04:33.79,Default,,0,0,0,,Não havia alguém\Nque você queria atrair?
+Dialogue: 0,0:04:34.37,0:04:37.63,Default,,0,0,0,,Está dizendo que\Ntudo saiu como eu planejei?
+Dialogue: 0,0:04:38.17,0:04:39.29,Default,,0,0,0,,Então não foi?
+Dialogue: 0,0:04:40.46,0:04:42.05,Default,,0,0,0,,Você está me superestimando.
+Dialogue: 0,0:04:44.26,0:04:47.59,Default,,0,0,0,,Claro, o motivo é exatamente o que deduziu.
+Dialogue: 0,0:04:47.84,0:04:50.43,Default,,0,0,0,,Afinal de contas, eu ajudei você, não ajudei?
+Dialogue: 0,0:04:50.43,0:04:52.72,Default,,0,0,0,,Sim. Sem a sua ajuda,
+Dialogue: 0,0:04:52.72,0:04:55.31,Default,,0,0,0,,eu não teria sido capaz\Nde conter aquele falso Caules.
+Dialogue: 0,0:04:55.56,0:04:57.31,Default,,0,0,0,,Eu salvei a sua vida.
+Dialogue: 0,0:04:57.31,0:04:58.40,Default,,0,0,0,,Olhando em retrospecto!
+Dialogue: 0,0:05:00.15,0:05:01.90,Default,,0,0,0,,A resposta para a sua pergunta...
+Dialogue: 0,0:05:02.61,0:05:05.49,Default,,0,0,0,,é algo semelhante a você e à Srta. Reines.
+Dialogue: 0,0:05:07.03,0:05:11.20,Default,,0,0,0,,O Doutor Heartless é meu cunhado.
+Dialogue: 0,0:05:12.49,0:05:15.16,Default,,0,0,0,,Nós dois fomos filhos adotivos de Norwich.
+Dialogue: 0,0:05:16.79,0:05:18.00,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:05:18.83,0:05:20.46,Default,,0,0,0,,A propósito, tenho\Nmais uma pergunta a fazer.
+Dialogue: 0,0:05:21.71,0:05:22.84,Default,,0,0,0,,Mais alguma coisa?
+Dialogue: 0,0:05:23.21,0:05:27.47,Default,,0,0,0,,Por que desistiu dos lances\Ne se retirou na fase final?
+Dialogue: 0,0:05:27.72,0:05:30.22,Default,,0,0,0,,Se a Reines levasse mais cinco minutos\Npara chegar, eu...
+Dialogue: 0,0:05:30.47,0:05:31.51,Default,,0,0,0,,Ora, ora.
+Dialogue: 0,0:05:31.85,0:05:35.48,Default,,0,0,0,,Por acaso você estava confiando em Políticas?
+Dialogue: 0,0:05:51.66,0:05:55.83,Default,,0,0,0,,Ora? O meu irmão e a Gray\Nacabaram de receber alta.
+Dialogue: 0,0:05:58.87,0:06:02.34,Default,,0,0,0,,Costumam dizer que você tem o dom de se atrasar?
+Dialogue: 0,0:06:03.09,0:06:06.38,Default,,0,0,0,,Não é como se eu tivesse vindo aqui\Npara ver os dois!
+Dialogue: 0,0:06:07.09,0:06:08.63,Default,,0,0,0,,Perdoe-me, então.
+Dialogue: 0,0:06:09.34,0:06:12.60,Default,,0,0,0,,Soube que você ajudou\Nno tratamento do meu irmão.
+Dialogue: 0,0:06:12.60,0:06:15.72,Default,,0,0,0,,Eu não podia permitir que os Animusphere\Nficassem devendo um favor.
+Dialogue: 0,0:06:15.97,0:06:17.27,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:06:18.48,0:06:21.02,Default,,0,0,0,,Eu realmente aprecio o que ele fez pela Trisha.
+Dialogue: 0,0:06:21.02,0:06:24.27,Default,,0,0,0,,Lorde El-Melloi transmitiu as palavras dela\Nem seu nome.
+Dialogue: 0,0:06:24.48,0:06:28.82,Default,,0,0,0,,Se fosse o meu irmão aqui,\Nele diria: "Por favor, adicione o II no final."
+Dialogue: 0,0:06:30.53,0:06:31.87,Default,,0,0,0,,Meu pai...
+Dialogue: 0,0:06:32.45,0:06:34.16,Default,,0,0,0,,nem sequer me receberia.
+Dialogue: 0,0:06:34.41,0:06:35.41,Default,,0,0,0,,Oh?
+Dialogue: 0,0:06:35.87,0:06:38.08,Default,,0,0,0,,Se o Grande Graal correspondesse...
+Dialogue: 0,0:06:38.79,0:06:41.33,Default,,0,0,0,,às expectativas de Marisbury,
+Dialogue: 0,0:06:42.21,0:06:44.96,Default,,0,0,0,,tenho certeza de que o sonho dele se realizaria.
+Dialogue: 0,0:06:45.55,0:06:49.72,Default,,0,0,0,,Mas essa é uma época e um mundo\Ndesconhecidos para mim.
+Dialogue: 0,0:06:51.22,0:06:53.26,Default,,0,0,0,,Não esperava que você fosse tão poética.
+Dialogue: 0,0:06:54.85,0:06:55.97,Default,,0,0,0,,Gostei de você.
+Dialogue: 0,0:06:56.22,0:06:59.35,Default,,0,0,0,,Em outras palavras, quer uma troca justa\Nde informações, não é?
+Dialogue: 0,0:07:00.48,0:07:03.27,Default,,0,0,0,,Nós duas estamos na linha\Npara herdar o título de Lorde.
+Dialogue: 0,0:07:05.06,0:07:10.03,Default,,0,0,0,,Não acho ruim aproveitar esta chance\Npara estreitar os nossos laços.
+Dialogue: 0,0:07:10.57,0:07:13.99,Default,,0,0,0,,Você é bem diferente\Ndaquele seu irmão mais velho.
+Dialogue: 0,0:07:13.99,0:07:17.29,Default,,0,0,0,,Bem, é claro.\NAfinal, não temos laços de sangue.
+Dialogue: 0,0:07:18.83,0:07:21.96,Default,,0,0,0,,Entendo. Acho que posso me tornar\Numa grande amiga sua.
+Dialogue: 0,0:07:22.17,0:07:27.50,Default,,0,0,0,,Será um prazer, contanto que sejamos\Núteis uma para a outra.
+Dialogue: 0,0:07:50.11,0:07:51.53,Default,,0,0,0,,Sr. Melvin?
+Dialogue: 0,0:08:04.96,0:08:08.13,Default,,0,0,0,,Houve uma reunião extraordinária de acionistas\Nno hotel da mamãe.
+Dialogue: 0,0:08:08.38,0:08:09.96,Default,,0,0,0,,Foi uma tremenda confusão.
+Dialogue: 0,0:08:10.21,0:08:12.13,Default,,0,0,0,,Você parece bem ocupado.
+Dialogue: 0,0:08:12.72,0:08:15.43,Default,,0,0,0,,Magos também têm vida própria, afinal.
+Dialogue: 0,0:08:17.55,0:08:19.35,Default,,0,0,0,,Então, bem...
+Dialogue: 0,0:08:19.60,0:08:24.44,Default,,0,0,0,,Eu afino o Brasão principal danificado\Nda facção El-Melloi.
+Dialogue: 0,0:08:25.14,0:08:27.81,Default,,0,0,0,,Mas, além disso,\Neu também estou de posse...
+Dialogue: 0,0:08:28.73,0:08:31.90,Default,,0,0,0,,do Brasão Mágico do Waver,\Nda Família Velvet.
+Dialogue: 0,0:08:32.44,0:08:36.20,Default,,0,0,0,,Brasão Mágico! Aquilo que os magos herdam\Nde geração em geração!
+Dialogue: 0,0:08:36.95,0:08:37.70,Default,,0,0,0,,Exato.
+Dialogue: 0,0:08:38.24,0:08:41.20,Default,,0,0,0,,O que se poderia chamar\Nde maior relíquia de família.
+Dialogue: 0,0:08:42.58,0:08:44.66,Default,,0,0,0,,Por que está com ele, Sr. Melvin?
+Dialogue: 0,0:08:45.29,0:08:49.63,Default,,0,0,0,,Você sabe que o Waver assumiu todas as dívidas\Ndos El-Melloi da Lady Reines, certo?
+Dialogue: 0,0:08:49.63,0:08:53.26,Default,,0,0,0,,O que ele usou como garantia para isso\Nfoi o seu Brasão Mágico.
+Dialogue: 0,0:08:54.34,0:08:57.47,Default,,0,0,0,,Se alguém tinha que guardá-lo,\Neu seria a escolha natural como Afinador, não é?
+Dialogue: 0,0:08:58.14,0:08:59.26,Default,,0,0,0,,Então o professor...
+Dialogue: 0,0:09:00.01,0:09:02.10,Default,,0,0,0,,pegou algo tão importante para ele...
+Dialogue: 0,0:09:03.68,0:09:08.35,Default,,0,0,0,,É a melhor garantia a se recolher\Npara impedir que um mago o traia!
+Dialogue: 0,0:09:08.69,0:09:11.61,Default,,0,0,0,,Digo, equivale a arrancar\No propósito de vida deles.
+Dialogue: 0,0:09:15.82,0:09:17.16,Default,,0,0,0,,O propósito de vida...
+Dialogue: 0,0:09:21.87,0:09:24.95,Default,,0,0,0,,Hum, estive curiosa sobre uma coisa há algum tempo.
+Dialogue: 0,0:09:26.54,0:09:30.38,Default,,0,0,0,,Por que o senhor o chama de "Waver", Sr. Melvin?
+Dialogue: 0,0:09:32.55,0:09:35.26,Default,,0,0,0,,Porque seria solitário\Nse ninguém mais o chamasse de Waver
+Dialogue: 0,0:09:35.26,0:09:38.64,Default,,0,0,0,,quando ele abdicar do título de Lorde.
+Dialogue: 0,0:09:38.89,0:09:40.39,Default,,0,0,0,,Solitário?
+Dialogue: 0,0:09:40.64,0:09:45.52,Default,,0,0,0,,Pode ser verdade que a Guerra do Santo Graal\Ntenha marcado o Waver profundamente.
+Dialogue: 0,0:09:46.23,0:09:47.35,Default,,0,0,0,,Mas...
+Dialogue: 0,0:09:47.69,0:09:52.48,Default,,0,0,0,,os 19 anos que antecederam aquilo\Ndevem ter sido valiosos para ele também.
+Dialogue: 0,0:09:53.15,0:09:57.49,Default,,0,0,0,,Isso, e o tempo após ele deixar de ser um Lorde,\Nque certamente chegará em algum momento.
+Dialogue: 0,0:09:57.49,0:10:00.41,Default,,0,0,0,,Quando ele não for mais um Lorde?
+Dialogue: 0,0:10:02.20,0:10:05.87,Default,,0,0,0,,Você parece nunca ter pensado nisso.
+Dialogue: 0,0:10:09.50,0:10:13.92,Default,,0,0,0,,Ele tem mudado até agora,\Nmotivado por coisas triviais, não tem?
+Dialogue: 0,0:10:14.50,0:10:16.55,Default,,0,0,0,,Tenho certeza de que continuará mudando.
+Dialogue: 0,0:10:17.38,0:10:19.76,Default,,0,0,0,,Por exemplo, com algo\Ncomo a Quinta Guerra do Santo Graal.
+Dialogue: 0,0:10:21.05,0:10:25.43,Default,,0,0,0,,E se isso acontecer, ele talvez\Nparta deste lugar de vez.
+Dialogue: 0,0:10:28.85,0:10:30.69,Default,,0,0,0,,Mesmo que isso aconteça,
+Dialogue: 0,0:10:31.56,0:10:32.81,Default,,0,0,0,,para mim,
+Dialogue: 0,0:10:33.06,0:10:34.90,Default,,0,0,0,,o professor ainda será o professor.
+Dialogue: 0,0:10:35.19,0:10:37.19,Default,,0,0,0,,E será assim para todos da sala de aula também.
+Dialogue: 0,0:10:39.03,0:10:41.66,Default,,0,0,0,,É. Acho que isso é ótimo à sua própria maneira.
+Dialogue: 0,0:10:42.03,0:10:44.70,Default,,0,0,0,,Pessoas diferentes têm\Nfacetas diferentes.
+Dialogue: 0,0:10:45.37,0:10:47.08,Default,,0,0,0,,Foi divertido conversar com você.
+Dialogue: 0,0:10:47.62,0:10:49.16,Default,,0,0,0,,Bem, estou indo nessa.
+Dialogue: 0,0:11:00.97,0:11:03.97,Signs,,0,0,0,,Lord El-Melloi II's Case Files\N{Rail Zeppelin} Grace note
+Dialogue: 0,0:11:09.93,0:11:12.69,Default,,0,0,0,,Criança errante à deriva na escuridão,
+Dialogue: 0,0:11:13.10,0:11:13.98,Default,,0,0,0,,dê um passo à frente!
+Dialogue: 0,0:11:17.19,0:11:21.40,Default,,0,0,0,,Responde com o teu nome que te estabelece\Nneste mundo transitório.
+Dialogue: 0,0:11:21.65,0:11:24.16,Default,,0,0,0,,Meu nome é Svin Glascheit.
+Dialogue: 0,0:11:24.41,0:11:27.62,Default,,0,0,0,,Busco alcançar a Raiz\Natravés da sabedoria das feras.
+Dialogue: 0,0:11:28.20,0:11:30.50,Default,,0,0,0,,Tu és um filho das estrelas.
+Dialogue: 0,0:11:31.08,0:11:37.38,Default,,0,0,0,,Neste instante, tu renasces da escuridão\Ne recebes a vida sob a luz.
+Dialogue: 0,0:11:47.81,0:11:51.06,Default,,0,0,0,,Em meu nome como Lorde El-Melloi,
+Dialogue: 0,0:11:51.31,0:11:54.73,Default,,0,0,0,,concedo a ti, Svin Glascheit,\No posto de Pride.
+Dialogue: 0,0:11:58.32,0:12:01.99,Default,,0,0,0,,Mais um dos meus alunos\Nme superou.
+Dialogue: 0,0:12:02.99,0:12:06.53,Default,,0,0,0,,Tenho confiança na agilidade dos meus pés.
+Dialogue: 0,0:12:08.87,0:12:12.21,Default,,0,0,0,,Cheguei até aqui graças ao senhor, professor.
+Dialogue: 0,0:12:13.12,0:12:15.54,Default,,0,0,0,,Eu e, provavelmente, o Flat também.
+Dialogue: 0,0:12:16.42,0:12:19.80,Default,,0,0,0,,É graças a termos sido ensinados\Npor ninguém menos que o senhor.
+Dialogue: 0,0:12:21.80,0:12:24.30,Default,,0,0,0,,Com isso, concluímos o ritual.
+Dialogue: 0,0:12:24.55,0:12:30.01,Default,,0,0,0,,Todas as testemunhas, aplaudam com entusiasmo\No nosso abençoado filho em busca da Raiz!
+Dialogue: 0,0:12:38.15,0:12:43.78,Default,,0,0,0,,E mais um dos alunos dele ascende\Nao terceiro posto da Torre do Relógio.
+Dialogue: 0,0:12:44.90,0:12:50.79,Default,,0,0,0,,Nossa Senhora, os seus resultados\Nsão quase assustadores, Lorde El-Melloi II.
+Dialogue: 0,0:12:52.16,0:12:54.79,Default,,0,0,0,,Cara, você é incrível mesmo, Svin!
+Dialogue: 0,0:12:54.79,0:12:57.25,Default,,0,0,0,,Nunca vou me esquecer de você, gênio!
+Dialogue: 0,0:12:58.42,0:13:00.71,Default,,0,0,0,,Cara, não é como se\Neu estivesse me formando nem nada.
+Dialogue: 0,0:13:02.26,0:13:07.05,Default,,0,0,0,,Você só está pronto para cair do posto\Nde criança prodígio para pessoa comum aos 20 anos!
+Dialogue: 0,0:13:07.05,0:13:09.76,Default,,0,0,0,,Você não está me elogiando\Nnada com isso, né?
+Dialogue: 0,0:13:13.14,0:13:15.81,Default,,0,0,0,,Você não está dando broncas\Ncomo de costume.
+Dialogue: 0,0:13:15.81,0:13:19.06,Default,,0,0,0,,Você está num humor surpreendentemente bom,\Nirmão mais velho.
+Dialogue: 0,0:13:19.31,0:13:20.15,Default,,0,0,0,,É.
+Dialogue: 0,0:13:20.40,0:13:23.15,Default,,0,0,0,,Finalmente sinto que um fardo\Nfoi tirado dos meus ombros.
+Dialogue: 0,0:13:25.03,0:13:26.86,Default,,0,0,0,,Fico preocupada se você falar como um velho
+Dialogue: 0,0:13:26.86,0:13:29.66,Default,,0,0,0,,só porque você tem\Nmais um aluno com o posto de Pride.
+Dialogue: 0,0:13:29.95,0:13:32.24,Default,,0,0,0,,Como meu tutor, você precisa...
+Dialogue: 0,0:13:32.24,0:13:33.45,Default,,0,0,0,,Isso mesmo!
+Dialogue: 0,0:13:33.45,0:13:37.37,Default,,0,0,0,,Devo continuar bem de perto\Ne íntima do meu alvo de espionagem!
+Dialogue: 0,0:13:37.62,0:13:39.08,Default,,0,0,0,,Sabe...
+Dialogue: 0,0:13:40.50,0:13:43.34,Default,,0,0,0,,Ele talvez parta\Ndeste lugar de vez.
+Dialogue: 0,0:13:45.17,0:13:46.30,Default,,0,0,0,,Professor!
+Dialogue: 0,0:13:48.43,0:13:49.47,Default,,0,0,0,,Não pode ser!
+Dialogue: 0,0:13:58.90,0:14:01.48,Default,,0,0,0,,Talvez o senhor esteja bebendo um pouco demais.
+Dialogue: 0,0:14:01.81,0:14:06.95,Default,,0,0,0,,Garota, posso ser fraco para bebida,\Nmas essa quantia não me afeta.
+Dialogue: 0,0:14:07.86,0:14:12.99,Default,,0,0,0,,Para começar, a Reines estava bebendo\Ndez vezes mais durante aquela festa.
+Dialogue: 0,0:14:13.20,0:14:17.83,Default,,0,0,0,,Acho que a Srta. Reines aguenta bebida\Nbem até demais.
+Dialogue: 0,0:14:18.62,0:14:20.50,Default,,0,0,0,,Isso vai prejudicar o seu rendimento amanhã!
+Dialogue: 0,0:14:23.42,0:14:25.80,Default,,0,0,0,,A comemoração foi muito animada.
+Dialogue: 0,0:14:26.17,0:14:31.51,Default,,0,0,0,,É. Não é sempre que se vê alguém\Nascender a Pride ainda na adolescência.
+Dialogue: 0,0:14:32.39,0:14:33.81,Default,,0,0,0,,Assim como o meu predecessor.
+Dialogue: 0,0:14:36.52,0:14:38.52,Default,,0,0,0,,Com isso, o meu antecessor,
+Dialogue: 0,0:14:39.19,0:14:43.86,Default,,0,0,0,,Kayneth El-Melloi Archibald,\Nconsagrou-se como uma criança prodígio.
+Dialogue: 0,0:14:44.36,0:14:49.15,Default,,0,0,0,,E deixando todas as outras facções para trás,\Nreinou como um grande Lorde.
+Dialogue: 0,0:14:50.74,0:14:54.74,Default,,0,0,0,,Isso provavelmente porque todos tiveram que admitir...
+Dialogue: 0,0:14:54.99,0:15:00.58,Default,,0,0,0,,o panorama que ele contemplava\Nera o ideal supremo para os magos.
+Dialogue: 0,0:15:01.71,0:15:06.05,Default,,0,0,0,,É um panorama que não consegui compartilhar\Naté o fim. Nem uma única vez.
+Dialogue: 0,0:15:11.01,0:15:14.30,Default,,0,0,0,,Eu fico apenas com o papel de comemorar
+Dialogue: 0,0:15:14.64,0:15:16.93,Default,,0,0,0,,e encaminhar meus alunos como sempre.
+Dialogue: 0,0:15:16.93,0:15:17.77,Default,,0,0,0,,Hum...
+Dialogue: 0,0:15:19.89,0:15:23.65,Default,,0,0,0,,Eu fui salva graças ao senhor!
+Dialogue: 0,0:15:24.27,0:15:28.11,Default,,0,0,0,,Porque o senhor me tirou daquele vilarejo!
+Dialogue: 0,0:15:29.65,0:15:35.49,Default,,0,0,0,,Tenho certeza de que todos são gratos ao senhor\Npelos mais diversos motivos.
+Dialogue: 0,0:15:36.20,0:15:37.08,Default,,0,0,0,,Por isso...
+Dialogue: 0,0:15:37.95,0:15:39.08,Default,,0,0,0,,Por isso...
+Dialogue: 0,0:15:40.29,0:15:43.83,Default,,0,0,0,,O Svin me disse a mesma coisa mais cedo.
+Dialogue: 0,0:15:46.34,0:15:53.34,Default,,0,0,0,,Eternamente um Lorde medíocre, incapaz\Nde realizar algo à altura do seu grande antecessor...
+Dialogue: 0,0:15:53.68,0:15:57.35,Default,,0,0,0,,Ainda penso dessa forma sobre mim mesmo.
+Dialogue: 0,0:15:58.10,0:16:00.60,Default,,0,0,0,,Mas se todos vocês me dizem isso,
+Dialogue: 0,0:16:00.98,0:16:02.85,Default,,0,0,0,,talvez apenas um pouquinho...
+Dialogue: 0,0:16:05.81,0:16:06.65,Default,,0,0,0,,Professor,
+Dialogue: 0,0:16:07.19,0:16:08.78,Default,,0,0,0,,o senhor vai mesmo partir afinal?
+Dialogue: 0,0:16:10.61,0:16:12.74,Default,,0,0,0,,Quanto à Quinta Guerra do Santo Graal...
+Dialogue: 0,0:16:14.28,0:16:15.45,Default,,0,0,0,,eu formalmente...
+Dialogue: 0,0:16:16.70,0:16:18.12,Default,,0,0,0,,renunciei à disputa.
+Dialogue: 0,0:16:19.24,0:16:20.04,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:16:21.12,0:16:24.71,Default,,0,0,0,,Participar de uma Guerra do Santo Graal\Né resolver pendências pessoais minhas.
+Dialogue: 0,0:16:25.04,0:16:27.29,Default,,0,0,0,,Não é resolver as pendências\Ndo Espírito Heroico Iskandar.
+Dialogue: 0,0:16:28.50,0:16:29.92,Default,,0,0,0,,Tenho os meus arrependimentos,
+Dialogue: 0,0:16:30.34,0:16:31.80,Default,,0,0,0,,mas não é algo para me apegar obsessivamente.
+Dialogue: 0,0:16:32.84,0:16:34.34,Default,,0,0,0,,Como um dos seus súditos
+Dialogue: 0,0:16:34.84,0:16:37.05,Default,,0,0,0,,e como um Lorde da Torre do Relógio,
+Dialogue: 0,0:16:37.80,0:16:42.81,Default,,0,0,0,,o campo de batalha onde devo acertar as contas\Nnão fica do outro lado do mundo!
+Dialogue: 0,0:16:43.35,0:16:47.94,Default,,0,0,0,,Desmantelarei o estratagema que ele tenta alcançar\Nusando o poder de Faker,
+Dialogue: 0,0:16:48.19,0:16:51.69,Default,,0,0,0,,ou seja, o próprio poder de Iskandar!
+Dialogue: 0,0:16:53.82,0:16:56.36,Default,,0,0,0,,Esse, de fato, é o meu dever.
+Dialogue: 0,0:16:57.07,0:16:58.49,Default,,0,0,0,,Professor...
+Dialogue: 0,0:16:59.37,0:17:01.83,Default,,0,0,0,,Gray, você pode me dar licença?
+Dialogue: 0,0:17:02.62,0:17:03.62,Default,,0,0,0,,Sim!
+Dialogue: 0,0:17:04.16,0:17:06.12,Default,,0,0,0,,Vou tomar um ar fresco.
+Dialogue: 0,0:17:06.12,0:17:07.13,Default,,0,0,0,,Hum,
+Dialogue: 0,0:17:07.58,0:17:08.38,Default,,0,0,0,,isto...
+Dialogue: 0,0:17:08.38,0:17:10.75,Default,,0,0,0,,comprei na loja de departamentos\Ncom a Srta. Reines e os outros...
+Dialogue: 0,0:17:12.92,0:17:16.97,Default,,0,0,0,,Na verdade, eu estava pensando\Nem entregar isto ao senhor mais cedo!
+Dialogue: 0,0:17:20.89,0:17:22.14,Default,,0,0,0,,Sinto muito!
+Dialogue: 0,0:17:22.35,0:17:24.02,Default,,0,0,0,,Tenho certeza de que aceitar algo assim não...
+Dialogue: 0,0:17:24.93,0:17:27.31,Default,,0,0,0,,Eu não digo sempre a você, garota?
+Dialogue: 0,0:17:28.02,0:17:29.52,Default,,0,0,0,,O whydunit.
+Dialogue: 0,0:17:30.19,0:17:31.32,Default,,0,0,0,,O que importa...
+Dialogue: 0,0:17:32.36,0:17:34.61,Default,,0,0,0,,é a razão pela qual você fez isso.
+Dialogue: 0,0:17:39.07,0:17:40.07,Default,,0,0,0,,Gray,
+Dialogue: 0,0:17:40.33,0:17:44.45,Default,,0,0,0,,sinto muito, mas tenho certeza\Nde que os meus poderes não serão suficientes.
+Dialogue: 0,0:17:45.29,0:17:46.83,Default,,0,0,0,,Quero que você lute junto comigo.
+Dialogue: 0,0:17:48.67,0:17:49.83,Default,,0,0,0,,Se você...
+Dialogue: 0,0:17:51.04,0:17:52.42,Default,,0,0,0,,aceitar alguém como eu.
+Dialogue: 0,0:17:53.80,0:17:54.76,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:17:55.38,0:17:58.18,Default,,0,0,0,,E conto com o senhor daqui em diante.
+Dialogue: 0,0:18:01.89,0:18:04.47,Default,,0,0,0,,Neve... Chegou mais cedo este ano.
+Dialogue: 0,0:18:04.85,0:18:06.48,Default,,0,0,0,,Sabe de uma coisa, Le Chien?
+Dialogue: 0,0:18:06.48,0:18:11.40,Default,,0,0,0,,Dizem que quando neva no Japão, cachorros correm\Npelo canto inferior direito da tela.
+Dialogue: 0,0:18:11.40,0:18:13.82,Default,,0,0,0,,Tenho certeza de que você está misturando\Nduas coisas diferentes nessa frase.
+Dialogue: 0,0:18:14.07,0:18:17.95,Default,,0,0,0,,Que novidade. Não vai retrucar com o habitual\N"Não me chame de cachorro"?
+Dialogue: 0,0:18:17.95,0:18:21.87,Default,,0,0,0,,Bem, fui instruído a manter a calma\Nà altura do meu posto de Pride.
+Dialogue: 0,0:18:22.20,0:18:23.95,Default,,0,0,0,,Olha só, você amadureceu!
+Dialogue: 0,0:18:24.20,0:18:27.41,Default,,0,0,0,,Mas isso não foi só comigo, foi?
+Dialogue: 0,0:18:27.62,0:18:30.54,Default,,0,0,0,,É. Todos aprenderam com ele.
+Dialogue: 0,0:18:32.71,0:18:33.84,Default,,0,0,0,,Ah, é a Gray!
+Dialogue: 0,0:18:34.80,0:18:37.55,Default,,0,0,0,,Onde, onde, onde? Onde está a Gray-tan?
+Dialogue: 0,0:18:38.38,0:18:41.43,Default,,0,0,0,,E o que houve com manter a calma\Nà altura do seu posto de Pride?
+Dialogue: 0,0:18:45.01,0:18:45.89,Default,,0,0,0,,Sim.
+Dialogue: 0,0:18:47.43,0:18:49.06,Default,,0,0,0,,Finalmente,
+Dialogue: 0,0:18:50.31,0:18:52.15,Default,,0,0,0,,um dos meus alunos...
+Dialogue: 0,0:18:52.56,0:18:53.73,Default,,0,0,0,,está indo para lá.
+Dialogue: 0,0:19:12.42,0:19:14.42,Default,,0,0,0,,Você pode atacar ele\No quanto quiser agora!
+Dialogue: 0,0:19:14.42,0:19:17.38,Default,,0,0,0,,Por que não aproveita\Ne rouba os lábios dele de vez?
+Dialogue: 0,0:19:43.32,0:19:45.16,Default,,0,0,0,,O que houve, garoto?
+Dialogue: 0,0:19:45.87,0:19:47.16,Default,,0,0,0,,Não vem para cá?
+Dialogue: 0,0:19:49.87,0:19:52.04,Default,,0,0,0,,Isto é apenas um sonho.
+Dialogue: 0,0:19:52.58,0:19:56.67,Default,,0,0,0,,Mera ilusão criada pelo meu cérebro\Ne pelas minhas memórias.
+Dialogue: 0,0:19:58.55,0:20:03.55,Default,,0,0,0,,O que é isso? Agora você dá explicações\Nde forma lógica?
+Dialogue: 0,0:20:03.97,0:20:05.26,Default,,0,0,0,,É claro.
+Dialogue: 0,0:20:05.60,0:20:07.68,Default,,0,0,0,,É o que leciono o tempo todo.
+Dialogue: 0,0:20:09.02,0:20:11.56,Default,,0,0,0,,Mas pensar que você viraria professor...
+Dialogue: 0,0:20:12.31,0:20:14.69,Default,,0,0,0,,E com a testa franzida e tudo.
+Dialogue: 0,0:20:15.10,0:20:19.23,Default,,0,0,0,,Mesmo com o fim da Guerra do Santo Graal,\Na vida continua...
+Dialogue: 0,0:20:19.82,0:20:21.90,Default,,0,0,0,,a ponto de ser um absurdo.
+Dialogue: 0,0:20:24.07,0:20:27.70,Default,,0,0,0,,Talvez eu tenha mudado um pouco desde então.
+Dialogue: 0,0:20:29.16,0:20:31.58,Default,,0,0,0,,Ou talvez eu não tenha mudado nada.
+Dialogue: 0,0:20:32.25,0:20:34.04,Default,,0,0,0,,No entanto, a única coisa que posso afirmar,
+Dialogue: 0,0:20:34.79,0:20:39.46,Default,,0,0,0,,é que ainda não sou digno de marchar ao seu lado!
+Dialogue: 0,0:20:42.30,0:20:48.18,Default,,0,0,0,,Pois a dor do caminho que leva até lá\Ne a glória no seu final
+Dialogue: 0,0:20:48.81,0:20:51.14,Default,,0,0,0,,precisam ser conquistadas na vida real.
+Dialogue: 0,0:20:52.02,0:20:53.35,Default,,0,0,0,,Não aqui,
+Dialogue: 0,0:20:53.77,0:20:54.81,Default,,0,0,0,,mas no meu...
+Dialogue: 0,0:20:55.31,0:20:57.86,Default,,0,0,0,,no campo de batalha de Lorde El-Melloi II!
+Dialogue: 0,0:20:58.44,0:20:59.48,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:21:00.36,0:21:04.70,Default,,0,0,0,,Então, eu, como um sonho efêmero,\Nousarei perguntar isto...
+Dialogue: 0,0:21:08.78,0:21:12.12,Default,,0,0,0,,A sua jornada até aqui tem sido divertida?
+Dialogue: 0,0:21:13.45,0:21:14.41,Default,,0,0,0,,Sim.
+Dialogue: 0,0:21:16.50,0:21:17.83,Default,,0,0,0,,É claro...
+Dialogue: 0,0:21:19.54,0:21:20.80,Default,,0,0,0,,Rider.
+Dialogue: 0,0:21:22.80,0:21:24.38,Default,,0,0,0,,Esta é uma jornada...
+Dialogue: 0,0:21:25.18,0:21:26.84,Default,,0,0,0,,para seguir os passos do seu legado!
+Dialogue: 0,0:22:07.47,0:22:10.97,Signs,,0,0,0,,Lord El-Melloi II's Case Files\N{Rail Zeppelin} Grace note
+Dialogue: 0,0:22:08.84,0:22:10.97,Default,,0,0,0,,Vamos começar a aula agora!

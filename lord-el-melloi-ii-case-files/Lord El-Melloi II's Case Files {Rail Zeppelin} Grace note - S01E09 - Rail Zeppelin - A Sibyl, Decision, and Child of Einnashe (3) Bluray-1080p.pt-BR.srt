@@ -1,0 +1,1268 @@
+1
+00:00:03,660 --> 00:00:04,530
+Não.
+
+2
+00:00:05,070 --> 00:00:07,910
+Nem uma única pessoa alcançou\num lugar como este.
+
+3
+00:00:14,250 --> 00:00:16,580
+Por que você buscou um lugar assim?
+
+4
+00:00:16,840 --> 00:00:19,050
+Por que você não deixou isso para trás?
+
+5
+00:00:19,500 --> 00:00:23,420
+Você sabia que tudo não passava de um sonho.\nPor que não reconheceu que era apenas um sonho?
+
+6
+00:00:24,340 --> 00:00:26,550
+Responda-me, Iskandar!
+
+7
+00:00:27,600 --> 00:00:30,350
+Heféstion?
+
+8
+00:00:32,310 --> 00:00:33,560
+Um sonho?
+
+9
+00:00:33,980 --> 00:00:34,770
+Professor!
+
+10
+00:00:36,440 --> 00:00:37,520
+Ele está bem.
+
+11
+00:00:37,980 --> 00:00:39,610
+Já passou pelo pior.
+
+12
+00:00:40,570 --> 00:00:41,860
+Que alívio!
+
+13
+00:00:42,320 --> 00:00:45,110
+Entendo. Parece que ele não conseguiu morrer.
+
+14
+00:00:46,700 --> 00:00:48,780
+Você tem boas habilidades, ao contrário do que eu esperava.
+
+15
+00:00:48,780 --> 00:00:51,490
+Magia de cura é o seu forte?
+
+16
+00:00:51,740 --> 00:00:53,410
+Sendo o meu forte ou não,
+
+17
+00:00:53,660 --> 00:00:57,790
+ele me ensinou Magia Elétrica há algumas semanas.
+
+18
+00:00:58,380 --> 00:00:59,881
+Algumas semanas?
+
+19
+00:01:01,341 --> 00:01:03,971
+Ouvi boatos sobre a Classe El-Melloi, mas...
+
+20
+00:01:05,591 --> 00:01:07,141
+Um Servo atacou vocês?
+
+21
+00:01:08,721 --> 00:01:11,181
+O fenômeno de invocar um Espírito Heroico
+
+22
+00:01:11,181 --> 00:01:13,221
+com a sua personalidade original intacta
+
+23
+00:01:13,481 --> 00:01:16,901
+não tem como acontecer fora da Guerra do Santo Graal em Fuyuki.
+
+24
+00:01:17,441 --> 00:01:18,981
+"Invocação mediúnica".
+
+25
+00:01:19,231 --> 00:01:23,491
+É a magia que pega corpos astrais conhecidos como "Espíritos Heroicos" ou "Espíritos Divinos"
+
+26
+00:01:23,491 --> 00:01:26,111
+e os projeta sobre si mesmo para tomar emprestado seus poderes.
+
+27
+00:01:26,321 --> 00:01:27,531
+Ah, professor!
+
+28
+00:01:27,781 --> 00:01:30,201
+Se você invocasse o deus do mangá,
+
+29
+00:01:30,201 --> 00:01:32,241
+ficaria bom em desenhar mangás?
+
+30
+00:01:32,241 --> 00:01:34,291
+Ei, por que tem que ser mangá?
+
+31
+00:01:34,751 --> 00:01:38,501
+O autor do mangá que comprei recentemente no sebo está morto,
+
+32
+00:01:38,501 --> 00:01:40,171
+e eu quero ler a continuação.
+
+33
+00:01:42,091 --> 00:01:44,091
+Em tese, é possível.
+
+34
+00:01:44,461 --> 00:01:49,431
+Abrigar a alma do falecido em si mesmo na tentativa de revivê-la artificialmente...
+
+35
+00:01:49,431 --> 00:01:51,431
+É o que se chama de "Magia da Sibila".
+
+36
+00:01:51,761 --> 00:01:54,971
+Muitas sibilas que têm alta afinidade com corpos astrais
+
+37
+00:01:55,231 --> 00:02:00,652
+não têm consciência de seus elos com as memórias e a consciência de tais corpos.
+
+38
+00:02:00,652 --> 00:02:03,982
+Então é uma possessão divina, exatamente como o Animalismo.
+
+39
+00:02:03,982 --> 00:02:04,732
+Correto.
+
+40
+00:02:05,112 --> 00:02:07,572
+Não dá para materializar o Espírito Heroico ou Espírito Divino
+
+41
+00:02:07,822 --> 00:02:10,992
+e deixá-los desenhar mangás loucamente?
+
+42
+00:02:11,202 --> 00:02:13,582
+Eu diria apenas que não é impossível teoricamente,
+
+43
+00:02:13,582 --> 00:02:19,582
+mas conseguir energia mágica suficiente para sustentar tal feitiço é surreal.
+
+44
+00:02:19,832 --> 00:02:22,382
+Agora, sobre a invocação na prática...
+
+45
+00:02:22,382 --> 00:02:26,212
+Vejamos o exemplo da crença dos nativos americanos nos Animais de Poder...
+
+46
+00:02:27,922 --> 00:02:31,972
+Aquele era sem dúvida um Espírito Heroico materializado.
+
+47
+00:02:32,602 --> 00:02:35,222
+Tamanho poder não pode ser o de um mago.
+
+48
+00:02:35,522 --> 00:02:38,982
+Mais um motivo para ela ter algo a ver com tudo isso.
+
+49
+00:02:39,192 --> 00:02:42,982
+Se era um Servo, deve haver um Mestre que o invocou.
+
+50
+00:04:13,454 --> 00:04:16,454
+E talvez tenha sido ela quem assassinou a Trisha.
+
+51
+00:04:16,744 --> 00:04:20,584
+Energia mágica precisa ser fornecida a Espíritos Heroicos invocados...
+
+52
+00:04:20,834 --> 00:04:22,084
+Mais alguma característica?
+
+53
+00:04:22,464 --> 00:04:23,874
+Heféstion.
+
+54
+00:04:24,174 --> 00:04:28,884
+"Sou a principal confidente do maior Rei dos Conquistadores da história, Iskandar!"
+
+55
+00:04:29,424 --> 00:04:31,134
+Foi assim que ela se apresentou.
+
+56
+00:04:31,134 --> 00:04:34,264
+Um Espírito Heroico que chegou a ser apelidado de "o outro Iskandar"...
+
+57
+00:04:34,844 --> 00:04:37,974
+Entendo. Agora tudo faz sentido.
+
+58
+00:04:37,974 --> 00:04:41,894
+Vocês não embarcaram neste trem para comprar Olhos Místicos, não é?
+
+59
+00:04:42,854 --> 00:04:45,024
+Um Lorde que não tem interesse no leilão,
+
+60
+00:04:45,274 --> 00:04:47,984
+o Rei dos Conquistadores que já foi o seu lacaio,
+
+61
+00:04:47,984 --> 00:04:50,155
+e o súdito que o atacou.
+
+62
+00:04:51,155 --> 00:04:55,535
+Vejamos. Então a Relíquia de Iskandar foi roubada de você.
+
+63
+00:04:55,535 --> 00:04:56,915
+É basicamente isso?
+
+64
+00:04:58,415 --> 00:04:59,625
+É sim.
+
+65
+00:04:59,875 --> 00:05:03,755
+Assim como a Trisha disse, este Lorde é apegado ao Rei dos Conquistadores.
+
+66
+00:05:03,755 --> 00:05:05,005
+Compreendo.
+
+67
+00:05:05,295 --> 00:05:08,085
+Se é um Espírito Heroico visto no mesmo nível que Iskandar,
+
+68
+00:05:08,085 --> 00:05:11,055
+é possível invocá-la a partir da Relíquia do Rei dos Conquistadores.
+
+69
+00:05:11,055 --> 00:05:14,765
+Isso também significa que o Mestre dela está a bordo deste trem?
+
+70
+00:05:14,975 --> 00:05:16,765
+É bastante provável.
+
+71
+00:05:17,015 --> 00:05:20,515
+Mas, quanto a Heféstion, é o oposto do normal.
+
+72
+00:05:20,515 --> 00:05:22,935
+Oposto? O que é o oposto?
+
+73
+00:05:23,275 --> 00:05:26,695
+Normalmente, os Servos ocultam seus Verdadeiros Nomes quando possível,
+
+74
+00:05:26,695 --> 00:05:28,945
+porque isso revela suas fraquezas e habilidades.
+
+75
+00:05:29,405 --> 00:05:33,035
+Em vez disso, costumam ser chamados pela classe para a qual o Espírito Heroico foi designado,
+
+76
+00:05:33,035 --> 00:05:36,245
+como "Saber" ou "Lancer".
+
+77
+00:05:37,165 --> 00:05:41,585
+Então sabemos o Verdadeiro Nome, mas não sabemos a classe, hein?
+
+78
+00:05:48,796 --> 00:05:51,096
+O que houve, Sir Rodin?
+
+79
+00:05:51,346 --> 00:05:53,556
+Há uma anomalia no trajeto do trem.
+
+80
+00:05:54,846 --> 00:05:58,186
+É difícil de acreditar, mas alguém adulterou os trilhos.
+
+81
+00:05:58,516 --> 00:06:01,606
+Este trem está indo em direção à Cria de Einnashe.
+
+82
+00:06:01,606 --> 00:06:02,516
+Podemos frear?
+
+83
+00:06:03,776 --> 00:06:05,236
+A potência não diminui.
+
+84
+00:06:10,446 --> 00:06:11,826
+Entendo.
+
+85
+00:06:11,826 --> 00:06:13,616
+Digno do meu antigo paradeiro.
+
+86
+00:06:14,486 --> 00:06:16,246
+Se a Premonição é apenas uma previsão,
+
+87
+00:06:16,246 --> 00:06:19,206
+ela não consegue enxergar incidentes que não têm nada que os preceda.
+
+88
+00:06:19,456 --> 00:06:20,536
+Contudo...
+
+89
+00:06:42,806 --> 00:06:45,106
+Temos um comunicado para todos os passageiros.
+
+90
+00:06:45,356 --> 00:06:49,647
+Lamento informar que este trem adentrou a Cria de Einnashe.
+
+91
+00:06:49,647 --> 00:06:50,447
+O quê...
+
+92
+00:06:51,027 --> 00:06:52,237
+Einnashe?
+
+93
+00:06:52,237 --> 00:06:54,277
+Mentira! A Floresta dos Apóstolos da Morte?
+
+94
+00:06:54,527 --> 00:06:57,077
+Pedimos desculpas pelo transtorno até retomarmos o curso.
+
+95
+00:06:57,077 --> 00:07:01,917
+Mas solicitamos que cada passageiro garanta a sua própria segurança enquanto isso.
+
+96
+00:07:02,167 --> 00:07:03,587
+Que floresta é essa?
+
+97
+00:07:06,707 --> 00:07:07,837
+Eu gostaria de verificar lá fora!
+
+98
+00:07:07,837 --> 00:07:09,087
+Espere aí!
+
+99
+00:07:09,337 --> 00:07:11,837
+Você quer morrer? Olhe.
+
+100
+00:07:15,677 --> 00:07:18,977
+Esta floresta está distorcendo a Linha de Ley.
+
+101
+00:07:19,227 --> 00:07:20,137
+Vamos nessa!
+
+102
+00:07:20,807 --> 00:07:24,937
+Ó nobre espírito que materializa os grandes desejos...
+
+103
+00:07:25,817 --> 00:07:26,977
+Entendi.
+
+104
+00:07:27,227 --> 00:07:30,607
+Eles estão tentando incendiar a floresta em direção à qual os trilhos seguem.
+
+105
+00:07:30,857 --> 00:07:33,197
+Mas duvido que algo assim faça algum efeito...
+
+106
+00:07:33,407 --> 00:07:38,577
+Receba a nossa orientação e mostre as chamas da origem!
+
+107
+00:07:42,957 --> 00:07:44,918
+Mesmo que a chamem de "Floresta dos Apóstolos da Morte",
+
+108
+00:07:44,918 --> 00:07:48,458
+não passa de um subproduto decepado do corpo principal. Isto deve—
+
+109
+00:08:12,648 --> 00:08:15,158
+Elas atacam em reação aos golpes?
+
+110
+00:08:17,158 --> 00:08:18,028
+Para onde você vai?
+
+111
+00:08:18,988 --> 00:08:20,408
+Para o meu quarto.
+
+112
+00:08:20,658 --> 00:08:23,958
+Vou erguer um campo delimitado e me trancar lá até que a situação seja resolvida.
+
+113
+00:08:24,168 --> 00:08:27,088
+Não pode ser! Podemos unir forças para escapar ou algo assim!
+
+114
+00:08:27,088 --> 00:08:29,798
+Eu nem sei quem matou a Trisha!
+
+115
+00:08:30,048 --> 00:08:32,918
+E dar um jeito nesta floresta numa situação dessas?
+
+116
+00:08:32,918 --> 00:08:34,928
+Isso só criaria mais cadáveres.
+
+117
+00:08:34,928 --> 00:08:38,678
+Deixe-me dizer uma coisa: eu não sou sua aliada nem nada do tipo!
+
+118
+00:08:39,508 --> 00:08:41,429
+Eu farei isso sozinha.
+
+119
+00:08:41,719 --> 00:08:43,179
+Eu me basto sozinha.
+
+120
+00:08:43,429 --> 00:08:44,189
+Não.
+
+121
+00:08:45,059 --> 00:08:46,649
+É melhor se eu estiver sozinha.
+
+122
+00:08:47,809 --> 00:08:49,359
+Senhorita Olga-Marie...
+
+123
+00:08:49,609 --> 00:08:54,199
+A Trisha me ensinou direitinho para que eu pudesse fazer tudo sozinha.
+
+124
+00:08:55,319 --> 00:08:58,619
+Melhor dizendo: você é capaz de proteger o seu mentor em meio a tudo isso?
+
+125
+00:09:07,999 --> 00:09:10,999
+Lord El-Melloi II's Case Files\n Grace note
+
+126
+00:09:21,009 --> 00:09:25,639
+Culinária Zumbi com Jean-Mario Supinerra!
+
+127
+00:09:26,019 --> 00:09:30,399
+Hoje, vamos nos deliciar assando zumbis inteiros juntos com o Jean-Mario.
+
+128
+00:09:30,939 --> 00:09:31,899
+Aqui vamos nós.
+
+129
+00:09:32,399 --> 00:09:34,069
+E com isso,
+
+130
+00:09:34,319 --> 00:09:36,649
+está pronto!
+
+131
+00:09:40,580 --> 00:09:41,530
+Uau!
+
+132
+00:09:41,780 --> 00:09:44,910
+E assim encerramos a Culinária Zumbi!
+
+133
+00:09:44,910 --> 00:09:45,790
+Corta!
+
+134
+00:09:50,420 --> 00:09:52,130
+Isso foi ótimo, Jean-Mario.
+
+135
+00:09:52,130 --> 00:09:53,800
+Obrigado, Kairi!
+
+136
+00:09:54,090 --> 00:09:58,050
+Essa pessoa é realmente versada nos assuntos da Torre do Relógio?
+
+137
+00:09:58,300 --> 00:10:03,060
+Sim. Deixe-me apresentá-la, Luvia: este é Jean-Mario Supinerra.
+
+138
+00:10:03,060 --> 00:10:04,430
+Ele é um velho conhecido.
+
+139
+00:10:04,430 --> 00:10:08,940
+Prazer em conhecê-la, senhorita. Pode deixar a mídia e a gastronomia nas minhas mãos.
+
+140
+00:10:09,940 --> 00:10:12,860
+Antes de mais nada, que tal uma refeição?
+
+141
+00:10:18,490 --> 00:10:19,860
+Delicioso!
+
+142
+00:10:20,110 --> 00:10:24,240
+Carne maturada macia com um molho perfeitamente temperado!
+
+143
+00:10:24,450 --> 00:10:26,200
+Muito obrigado.
+
+144
+00:10:26,200 --> 00:10:30,500
+Adicionei um pouco de molho de soja ao vinho Madeira para o molho.
+
+145
+00:10:30,500 --> 00:10:34,130
+Molho de soja é ótimo e tudo mais, mas posso ir direto ao ponto?
+
+146
+00:10:34,130 --> 00:10:35,170
+Vá em frente.
+
+147
+00:10:35,420 --> 00:10:40,801
+Lembra-se daquele caso de sete anos atrás, onde vários corpos decapitados foram achados em Londres?
+
+148
+00:10:40,801 --> 00:10:42,141
+Eu me lembro.
+
+149
+00:10:42,391 --> 00:10:45,891
+Nenhum mago que mexe com a mídia ignoraria isso.
+
+150
+00:10:46,101 --> 00:10:50,561
+Um assassinato usando o mesmo método aconteceu no Trem Coletor de Olhos Místicos.
+
+151
+00:10:50,941 --> 00:10:52,191
+Compreendo.
+
+152
+00:10:52,441 --> 00:10:54,691
+Naquela época, foram sete vítimas.
+
+153
+00:10:54,691 --> 00:10:57,571
+Diziam que todas eram portadoras de Olhos Místicos.
+
+154
+00:10:57,781 --> 00:11:01,991
+Mas não me lembro de tal incidente ter saído no noticiário.
+
+155
+00:11:02,241 --> 00:11:06,491
+A Torre do Relógio fez pressão, e a Santa Igreja também.
+
+156
+00:11:06,491 --> 00:11:10,121
+Na mídia, limitou-se a uma ou duas transmissões em emissoras locais,
+
+157
+00:11:10,121 --> 00:11:14,001
+e as fitas dessas transmissões foram confiscadas pela Torre do Relógio.
+
+158
+00:11:14,001 --> 00:11:16,001
+O caso chegou a ser resolvido?
+
+159
+00:11:16,251 --> 00:11:20,881
+Com certeza o caso foi encerrado como resultado de uma investigação conjunta com a Santa Igreja.
+
+160
+00:11:20,881 --> 00:11:24,641
+Tenho certeza disso porque recebi a informação de um amigo na Scotland Yard.
+
+161
+00:11:24,971 --> 00:11:26,391
+De qualquer forma...
+
+162
+00:11:26,761 --> 00:11:27,601
+O que houve?
+
+163
+00:11:27,601 --> 00:11:30,941
+Bem, esse caso virou moda agora por acaso?
+
+164
+00:11:31,191 --> 00:11:35,772
+Uma garota da Astromancia quis saber sobre isso outro dia mesmo.
+
+165
+00:11:36,402 --> 00:11:38,782
+Poderia nos dizer qual era o nome dela?
+
+166
+00:11:40,902 --> 00:11:42,412
+Trisha Fellows.
+
+167
+00:11:50,622 --> 00:11:53,172
+Está tão frio lá fora quanto na Sibéria.
+
+168
+00:11:53,422 --> 00:11:56,292
+Não sei quanto tempo aguentaremos com os aquecedores deste trem.
+
+169
+00:11:56,962 --> 00:11:58,052
+O professor...
+
+170
+00:11:58,052 --> 00:12:00,472
+Ele parece bem por enquanto, mas...
+
+171
+00:12:11,812 --> 00:12:12,732
+Ei!
+
+172
+00:12:13,272 --> 00:12:14,352
+U-Uma pessoa?
+
+173
+00:12:22,492 --> 00:12:26,322
+Bem, ouvi dizer que o Waver estava aqui,
+
+174
+00:12:26,322 --> 00:12:28,582
+então vim de helicóptero para ver,
+
+175
+00:12:28,792 --> 00:12:32,213
+mas uma floresta surgiu do nada e acabei sendo engolido.
+
+176
+00:12:32,463 --> 00:12:34,373
+Achei que fosse morrer.
+
+177
+00:12:34,623 --> 00:12:36,173
+Bem, isso...
+
+178
+00:12:42,723 --> 00:12:44,383
+Que idiota...
+
+179
+00:12:44,683 --> 00:12:46,183
+Não mudou nada.
+
+180
+00:12:46,183 --> 00:12:48,893
+Continua o mesmo idiota de sempre.
+
+181
+00:12:50,183 --> 00:12:54,023
+Certamente haveria maneiras muito mais fáceis de viver para você.
+
+182
+00:12:59,823 --> 00:13:02,573
+Posso lhe fazer uma pergunta, senhorita Gray?
+
+183
+00:13:03,073 --> 00:13:03,903
+Claro!
+
+184
+00:13:04,153 --> 00:13:08,033
+Quem feriu o Waver com tanta gravidade?
+
+185
+00:13:09,623 --> 00:13:11,703
+Quem mais seria além de mim?
+
+186
+00:13:14,043 --> 00:13:15,423
+Isso é...
+
+187
+00:13:20,633 --> 00:13:23,013
+Entendo que vocês estejam ocupados,
+
+188
+00:13:23,263 --> 00:13:24,673
+mas precisamos conversar.
+
+189
+00:13:25,633 --> 00:13:29,553
+Vocês precisam que a gente dê uma mãozinha para mover o trem?
+
+190
+00:13:29,803 --> 00:13:34,564
+Lamentavelmente, precisamos considerar a possibilidade de cancelar o leilão.
+
+191
+00:13:34,894 --> 00:13:40,404
+Se isso acontecer, não poderei extrair esses Olhos Místicos até o próximo leilão.
+
+192
+00:13:40,654 --> 00:13:44,744
+Por isso queremos que a pequena aprendiz e o Caules nos ajudem.
+
+193
+00:13:44,944 --> 00:13:46,324
+Mas como?
+
+194
+00:13:46,324 --> 00:13:49,454
+Tenho um pouco de conhecimento sobre esta floresta.
+
+195
+00:13:49,704 --> 00:13:53,454
+Este lugar também é assunto de conversas na Santa Igreja.
+
+196
+00:13:53,664 --> 00:13:55,464
+Na Santa Igreja?
+
+197
+00:13:55,664 --> 00:13:57,004
+A Floresta de Einnashe.
+
+198
+00:13:57,294 --> 00:14:01,214
+A floresta é um organismo predador pensante, considerado talvez um Mármore de Realidade
+
+199
+00:14:01,214 --> 00:14:05,844
+controlado por um Apóstolo da Morte de alto escalão com o mesmo nome.
+
+200
+00:14:05,844 --> 00:14:08,094
+Se pudermos encontrar as Linhas de Ley principais
+
+201
+00:14:08,384 --> 00:14:13,224
+e fixar alguns marcadores-guia do nosso lado, poderemos ativá-las.
+
+202
+00:14:13,434 --> 00:14:16,434
+E fazendo isso, devemos ser capazes de mover o trem.
+
+203
+00:14:16,774 --> 00:14:20,614
+Mas a maioria dos magos está se barricando em seus compartimentos.
+
+204
+00:14:20,944 --> 00:14:24,534
+Aquela mulher-cobra das Políticas também recusou!
+
+205
+00:14:24,784 --> 00:14:26,534
+Ela é tão teimosa!
+
+206
+00:14:26,824 --> 00:14:29,035
+Quanto mais gente tivermos para lutar, melhor.
+
+207
+00:14:29,285 --> 00:14:30,825
+Vocês podem nos ajudar?
+
+208
+00:14:31,285 --> 00:14:32,285
+Eu vou!
+
+209
+00:14:32,285 --> 00:14:33,585
+Senhorita Gray...
+
+210
+00:14:33,835 --> 00:14:37,215
+O professor não resistirá se ficar exposto a este frio.
+
+211
+00:14:37,465 --> 00:14:40,005
+Tudo bem. Deixem-no comigo.
+
+212
+00:14:40,255 --> 00:14:43,045
+Então, posso me juntar a vocês?
+
+213
+00:14:43,755 --> 00:14:47,095
+Posso parecer assim, mas sou um Afinador de Brasões Mágicos.
+
+214
+00:14:47,095 --> 00:14:51,515
+Você não pode ser o Melvin Weins! O lendário Afinador?
+
+215
+00:14:51,765 --> 00:14:54,565
+Temos boas chances com tanta gente.
+
+216
+00:15:11,415 --> 00:15:13,205
+Meu corpo está ficando quente.
+
+217
+00:15:15,455 --> 00:15:21,215
+Os sons estão ressoando com os nossos Circuitos Mágicos e os ativando!
+
+218
+00:15:24,505 --> 00:15:26,596
+A sensação é maravilhosa!
+
+219
+00:15:32,596 --> 00:15:36,396
+Melhorei seus Circuitos Mágicos em cerca de vinte por cento.
+
+220
+00:15:36,646 --> 00:15:38,646
+Deve ser de alguma utilidade, não?
+
+221
+00:15:38,646 --> 00:15:40,236
+Muito obrigada.
+
+222
+00:15:40,696 --> 00:15:41,776
+Mas por quê?
+
+223
+00:15:41,986 --> 00:15:48,036
+Eu dou o meu máximo para testemunhar coisas divertidas.
+
+224
+00:16:15,436 --> 00:16:16,686
+Este é um.
+
+225
+00:16:17,066 --> 00:16:19,606
+Detectarei todas as outras Linhas de Ley juntas!
+
+226
+00:16:19,606 --> 00:16:21,276
+Estamos contando com você!
+
+227
+00:16:21,276 --> 00:16:24,607
+Bem, estou me sentindo muito bem graças à Afinação,
+
+228
+00:16:24,857 --> 00:16:26,197
+então deixe comigo!
+
+229
+00:16:26,447 --> 00:16:29,907
+Gostaria de encontrar pelo menos mais dois pontos de pressão para as Linhas de Ley. Vamos rápido!
+
+230
+00:16:29,907 --> 00:16:31,197
+Certo!
+
+231
+00:16:32,867 --> 00:16:33,997
+Ei, Gray!
+
+232
+00:16:33,997 --> 00:16:35,667
+O que foi, Add?
+
+233
+00:16:35,667 --> 00:16:38,627
+Mau pressentimento! A coisa ruim está olhando para cá!
+
+234
+00:16:38,627 --> 00:16:40,257
+Fugir agora mesmo!
+
+235
+00:16:40,797 --> 00:16:41,667
+Não pode ser!
+
+236
+00:16:43,377 --> 00:16:44,837
+O que foi, pequena aprendiz?
+
+237
+00:16:45,047 --> 00:16:47,427
+Sinto muito. Por favor, vão na frente sem mim.
+
+238
+00:16:47,427 --> 00:16:49,507
+Espere, na frente?
+
+239
+00:16:49,507 --> 00:16:51,977
+Por favor! Prometo que vou alcançá-los!
+
+240
+00:16:52,227 --> 00:16:53,347
+O que devemos fazer?
+
+241
+00:16:53,847 --> 00:16:54,847
+Entendido.
+
+242
+00:16:55,227 --> 00:16:57,767
+Isso parece divertido, de qualquer forma.
+
+243
+00:17:10,157 --> 00:17:13,197
+Ora, você me notou?
+
+244
+00:17:13,497 --> 00:17:14,327
+Add...
+
+245
+00:17:14,577 --> 00:17:18,327
+Droga, achei que as coisas pudessem acabar assim.
+
+246
+00:17:22,418 --> 00:17:26,008
+É uma pena que aquele homem mesquinho não esteja aqui.
+
+247
+00:17:26,008 --> 00:17:28,138
+Por que você atacou o professor?
+
+248
+00:17:28,388 --> 00:17:30,678
+Eu disse que era porque não gostava dele.
+
+249
+00:17:30,678 --> 00:17:34,308
+Mesmo assim, você deve ter algum outro motivo para tê-lo atraído até lá!
+
+250
+00:17:34,308 --> 00:17:37,018
+Então você pode arrancar isso de mim com essa lâmina.
+
+251
+00:17:37,348 --> 00:17:39,308
+É isso o que eu sempre fiz.
+
+252
+00:17:39,518 --> 00:17:41,228
+Não faz o meu estilo.
+
+253
+00:17:41,478 --> 00:17:45,148
+Você pisa no campo de batalha não pela força, mas pelo diálogo.
+
+254
+00:17:45,858 --> 00:17:47,988
+Então por que empunha essa lâmina?
+
+255
+00:17:49,408 --> 00:17:50,408
+Eu...
+
+256
+00:17:52,038 --> 00:17:55,118
+Não posso me render a você!
+
+257
+00:17:55,368 --> 00:17:58,628
+Eu só quero falar de igual para igual e fazer você devolver a Relíquia!
+
+258
+00:17:58,628 --> 00:18:01,338
+Entendo. Então essa é a sua determinação!
+
+259
+00:18:07,338 --> 00:18:11,048
+Parece que aquele poste-guia anterior nos marcou como intrusos.
+
+260
+00:18:11,048 --> 00:18:12,098
+Deixem comigo!
+
+261
+00:18:12,968 --> 00:18:13,968
+Tcharã!
+
+262
+00:18:13,968 --> 00:18:17,138
+Olhos Místicos Processados da Yvette, Versão Chamas Ardentes!
+
+263
+00:18:20,809 --> 00:18:21,979
+Incrível!
+
+264
+00:18:22,189 --> 00:18:24,229
+Mas não vai durar muito!
+
+265
+00:18:24,979 --> 00:18:26,189
+Então corram!
+
+266
+00:18:28,199 --> 00:18:29,989
+A próxima reação vem da direita!
+
+267
+00:18:30,739 --> 00:18:32,619
+Uma grande rocha à uma hora!
+
+268
+00:18:32,619 --> 00:18:33,619
+Aquela ali!
+
+269
+00:18:40,829 --> 00:18:45,169
+Achei que os guerreiros estivessem extintos nesta era!
+
+270
+00:18:48,589 --> 00:18:50,759
+Mas você tem bom potencial.
+
+271
+00:18:51,009 --> 00:18:51,889
+Potencial?
+
+272
+00:18:52,259 --> 00:18:53,299
+Exatamente.
+
+273
+00:18:53,299 --> 00:18:57,849
+O seu brilho está tentando se agarrar à vida, em algum lugar entre a vida e a morte.
+
+274
+00:18:58,059 --> 00:19:02,689
+A dor pela qual o professor está passando tem muito mais valor do que qualquer coisa como esta!
+
+275
+00:19:05,069 --> 00:19:09,199
+Então dê tudo de si pela sua lealdade!
+
+276
+00:19:12,779 --> 00:19:14,829
+Acho que estou no meu limite!
+
+277
+00:19:14,829 --> 00:19:16,620
+Estamos escorregando!
+
+278
+00:19:17,790 --> 00:19:18,750
+Ai, caramba!
+
+279
+00:19:18,750 --> 00:19:21,620
+É por isso que dizemos que a Santa Igreja é bárbara!
+
+280
+00:19:21,620 --> 00:19:24,130
+Isto parece uma montanha-russa!
+
+281
+00:19:28,170 --> 00:19:29,800
+Ali, no centro do vórtice!
+
+282
+00:19:33,390 --> 00:19:34,300
+Muito bem!
+
+283
+00:19:34,470 --> 00:19:37,890
+Tivemos uma resposta! A Linha de Ley está sendo ativada!
+
+284
+00:19:42,690 --> 00:19:45,820
+É realmente estranho. Muito estranho.
+
+285
+00:19:58,750 --> 00:20:00,580
+Um feitiço bem nestas coordenadas?
+
+286
+00:20:00,830 --> 00:20:02,580
+Não no chão ou no teto,
+
+287
+00:20:02,830 --> 00:20:05,500
+mas incorporado nas coordenadas relativas do trem?
+
+288
+00:20:05,840 --> 00:20:07,460
+Mas se fosse algo assim,
+
+289
+00:20:07,460 --> 00:20:10,510
+alguém como aquele Lorde detestável já teria encontrado há muito tempo.
+
+290
+00:20:11,800 --> 00:20:14,841
+Está reagindo ao meu Brasão Mágico?
+
+291
+00:20:15,261 --> 00:20:19,521
+Este feitiço pertence à Família Fellows, que se ramificou da Animusphere.
+
+292
+00:20:21,351 --> 00:20:22,351
+É isso!
+
+293
+00:20:22,601 --> 00:20:24,811
+Um bolso dimensional com o atributo de Números Imaginários!
+
+294
+00:20:25,061 --> 00:20:27,771
+Se for assim, a senha deve abri-lo.
+
+295
+00:20:31,531 --> 00:20:33,531
+"Mariezinha boba, endireite-se."
+
+296
+00:20:40,451 --> 00:20:42,331
+O que é isto?
+
+297
+00:20:42,711 --> 00:20:45,751
+Estranho! Isto é muito estranho! O que está acontecendo aqui?
+
+298
+00:20:45,751 --> 00:20:47,791
+Qual é o significado disto, Trisha?
+
+299
+00:20:50,131 --> 00:20:51,511
+Tinha alguém vigiando?
+
+300
+00:21:01,811 --> 00:21:05,231
+Ah, que bom. Você encontrou.
+
+301
+00:21:06,401 --> 00:21:10,021
+Digno da herdeira do nome Animusphere.
+
+302
+00:21:16,952 --> 00:21:17,912
+Onde está a senhorita Gray?
+
+303
+00:21:19,992 --> 00:21:21,242
+Não pode ser!
+
+304
+00:21:21,242 --> 00:21:25,332
+Maravilhoso! Não imaginei que você pudesse cruzar espadas comigo tão bem!
+
+305
+00:21:25,332 --> 00:21:27,252
+Provavelmente além dos limites dos homens comuns!
+
+306
+00:21:27,632 --> 00:21:29,002
+Você é digna de aplausos!
+
+307
+00:21:32,422 --> 00:21:33,342
+Uma avalanche?
+
+308
+00:21:33,342 --> 00:21:36,262
+Não passava de um fragmento dividido de um monstro.
+
+309
+00:21:36,512 --> 00:21:40,892
+Com o domínio da Linha de Ley retirado, tornou-se insustentável rapidamente.
+
+310
+00:21:43,982 --> 00:21:46,642
+O que foi? Se você não escapar, vai morrer também.
+
+311
+00:21:46,852 --> 00:21:51,822
+Se eu deixar você escapar aqui, o professor será ferido! Isso, acima de tudo...
+
+312
+00:21:53,192 --> 00:21:53,992
+Add!
+
+313
+00:21:53,992 --> 00:21:57,492
+Primeira restrição praticamente revogada!
+
+314
+00:21:58,662 --> 00:22:00,242
+Acho que não temos outra escolha!
+
+315
+00:22:01,492 --> 00:22:03,832
+Não deixarei você chegar até ele!
+
+316
+00:22:03,832 --> 00:22:05,252
+Como você sabe latir bem!
+
+317
+00:22:08,002 --> 00:22:11,003
+EPISÓDIO 9: Rail Zeppelin 3/6\nUma Sibila, Decisão e a Cria de Einnashe
+

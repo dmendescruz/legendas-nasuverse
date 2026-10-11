@@ -140,6 +140,27 @@ A adaptação clássica inaugural que introduziu a lenda do Santo Graal, focando
 
 ---
 
+### 7. Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note (2019) — Série Completa (14 Episódios)
+Os casos investigativos e mistérios de Taumaturgia na Torre do Relógio conduzidos por Waver Velvet (Lorde El-Melloi II), situados temporalmente após a Quarta Guerra (*Fate/Zero*) e na antevéspera da Quinta Guerra do Santo Graal:
+* **S00E01 — A Grave Keeper, a Cat, and a Mage (Um Guardião de Túmulo, um Gato e um Mago):** 400 eventos. A introdução de Gray, a caixa mística Add e a partida do cemitério de Blackmore rumo a Londres.
+* **S01E01 — Babylon, the Condemned, and the Memories of the King:** 400 eventos. O passado de Waver após a Quarta Guerra, a sucessão da linhagem Archibald através de Reines El-Melloi Archisorte e a assunção das dívidas e do título de Lorde.
+* **S01E02 — The Seven Stars and the Eternal Cage:** 368 eventos. O assassinato na mansão da família Wills, a intervenção do Departamento de Astromancia e a aparição de Lorde Marisbury Animusphere.
+* **S01E03 — Thunder and the Underground Labyrinth:** 365 eventos. A expedição ao labirinto subterrâneo sob a Torre do Relógio com Flat Escardos e Svin Glascheit.
+* **S01E04 — A Workshop, a Grave, and a Necromancer:** 321 eventos. O assassinato do chefe de Necromancia e a decifração dos mecanismos ocultos de ateliê taumatúrgico.
+* **S01E05 — The Lance that Shines to the End of the World and the Fairy Eyes:** 335 eventos. O combate na floresta de fadas, o despertar dos Olhos de Fada e a liberação de *Rhongomyniad* por Gray.
+* **S01E06 — A Girl, a Department Store, and a Gift:** 328 eventos. Um dia de compras em Londres com Reines e Luviagelita Edelfelt, culminando no presente para o professor.
+* **S01E07 — Rail Zeppelin – A Train Whistle of Departure and the First Murder (1):** 327 eventos. O embarque no Trem Coletor de Olhos Místicos (*Rail Zeppelin*), o furto da relíquia de Iskandar e o assassinato de Trisha Fellows.
+* **S01E08 — Rail Zeppelin – Gordius Wheel and the Memory of the King of Conquerors (2):** 368 eventos. O ataque da Serva Faker (Heféstion), o confronto com a *Carruagem Hecática* e as lembranças do Rei dos Conquistadores.
+* **S01E09 — Rail Zeppelin – A Sibyl, Decision, and Child of Einnashe (3):** 317 eventos. A manifestação da Floresta de Sangue dos Apóstolos da Morte (*Cria de Einnashe*) e o sacrifício do Padre Karabo Frampton.
+* **S01E10 — Rail Zeppelin – Mystic Eyes of Transience and an Awakening Detective (4):** 358 eventos. Os *Olhos Místicos da Transitoriedade*, a dedução do mistério do crime e o despertar resoluto de Lorde El-Melloi II.
+* **S01E11 — Rail Zeppelin – The Residual Image and Auctions (5):** 355 eventos. O leilão de Olhos Místicos no vagão central, o desmascaramento do Doutor Heartless e a revelação da classe Faker.
+* **S01E12 — Rail Zeppelin – Lightning and Shooting Star (6):** 366 eventos. A grande projeção mágica do Rail Zeppelin, o encantamento astromântico de Olga-Marie Animusphere e o destravamento do terceiro estágio dos Treze Selos de *Rhongomyniad*.
+* **S01E13 — The Clock Tower, Usual Days, and the First Step Forward to the Future:** 321 eventos. A consagração de Svin no posto de *Pride*, as conversas afetuosas com Melvin e Gray, o encontro espiritual em sonho com Rider e o início dos preparativos de Fuyuki.
+
+> **Total em Lord El-Melloi II:** 14 episódios completos em padrão duplo (.ass estilizado e .srt limpo), somando 4.909 eventos de fala, rituais e placas milimetricamente sincronizados.
+
+---
+
 ## Formato dos Arquivos: O Padrão Duplo
 
 Cada episódio e filme é disponibilizado em dois formatos distintos, atendendo a diferentes necessidades de reprodução:

@@ -1,0 +1,387 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E12 - Rail Zeppelin – Lightning and Shooting Star (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.74,0:00:05.78,Default,,0,0,0,,Professor, o que quer dizer com isso?
+Dialogue: 0,0:00:06.11,0:00:07.20,Default,,0,0,0,,Exatamente o que parece.
+Dialogue: 0,0:00:10.24,0:00:12.70,Default,,0,0,0,,Você é o verdadeiro culpado.
+Dialogue: 0,0:00:12.70,0:00:15.92,Default,,0,0,0,,Você controlou o Padre Karabo para assassinar Trisha Fellows.
+Dialogue: 0,0:00:15.92,0:00:17.79,Default,,0,0,0,,Não pode ser, professor!
+Dialogue: 0,0:00:18.08,0:00:20.55,Default,,0,0,0,,Acho que o senhor não possui nem um motivo nem evidências.
+Dialogue: 0,0:00:20.75,0:00:23.72,Default,,0,0,0,,É verdade. Por isso eu estava esperando por ele.
+Dialogue: 0,0:00:23.97,0:00:26.43,Default,,0,0,0,,Passei por maus bocados, professor.
+Dialogue: 0,0:00:26.76,0:00:28.72,Default,,0,0,0,,Se o Svin não tivesse conseguido me encontrar,
+Dialogue: 0,0:00:28.72,0:00:30.47,Default,,0,0,0,,eu não sei o que teria acontecido.
+Dialogue: 0,0:00:30.81,0:00:32.39,Default,,0,0,0,,Sr. Caules?
+Dialogue: 0,0:00:32.39,0:00:34.60,Default,,0,0,0,,Desta vez você se superou, Waver!
+Dialogue: 0,0:00:34.85,0:00:37.02,Default,,0,0,0,,O que diabos está acontecendo aqui?
+Dialogue: 0,0:00:37.02,0:00:39.06,Default,,0,0,0,,É isto o que significa.
+Dialogue: 0,0:00:39.31,0:00:40.48,Default,,0,0,0,,Srta. Reines!
+Dialogue: 0,0:00:40.73,0:00:43.86,Default,,0,0,0,,Foi realmente exaustivo voar até aqui usando a Viagem de Touko.
+Dialogue: 0,0:00:46.61,0:00:49.74,Default,,0,0,0,,Bem, quem passou pelo pior foi o Flat, com certeza.
+Dialogue: 0,0:00:52.62,0:00:55.41,Default,,0,0,0,,Essa aula extracurricular foi emocionante demais!
+Dialogue: 0,0:00:55.71,0:00:58.88,Default,,0,0,0,,Caramba! Pré-determinar um destino,
+Dialogue: 0,0:00:58.88,0:01:03.30,Default,,0,0,0,,e então forçar um feitiço de voo como se esticasse um elástico super longo...
+Dialogue: 0,0:01:03.63,0:01:09.30,Default,,0,0,0,,Não achei que fosse possível voar através de magia desse jeito.
+Dialogue: 0,0:01:09.30,0:01:11.51,Default,,0,0,0,,Parecia que eles estavam a pelo menos Mach 1.
+Dialogue: 0,0:01:11.76,0:01:13.10,Default,,0,0,0,,Fico pensando se ainda estão vivos.
+Dialogue: 0,0:01:13.35,0:01:18.10,Default,,0,0,0,,Dessa forma eles certamente conseguiriam chegar ao Rail Zeppelin sem convite.
+Dialogue: 0,0:01:18.35,0:01:22.15,Default,,0,0,0,,É tão lógico que os meios e os fins foram completamente invertidos!
+Dialogue: 0,0:01:22.40,0:01:24.15,Default,,0,0,0,,É um truque genial!
+Dialogue: 0,0:01:24.15,0:01:27.40,Default,,0,0,0,,Eu nunca mais farei uma coisa dessas!
+Dialogue: 0,0:01:28.74,0:01:30.32,Default,,0,0,0,,Quando você percebeu?
+Dialogue: 0,0:01:30.57,0:01:33.79,Default,,0,0,0,,Achei que tivesse imitado perfeitamente o verdadeiro Caules.
+Dialogue: 0,0:01:34.16,0:01:36.16,Default,,0,0,0,,Você cometeu apenas um erro.
+Dialogue: 0,0:01:36.41,0:01:38.21,Default,,0,0,0,,Foi quando cuidou dos meus ferimentos.
+Dialogue: 0,0:01:38.21,0:01:41.08,Default,,0,0,0,,Seria impossível para o Caules realizar um tratamento tão esplêndido.
+Dialogue: 0,0:01:43.00,0:01:47.30,Default,,0,0,0,,Entendo. Exagerei porque ficaria em apuros se você morresse.
+Dialogue: 0,0:01:47.67,0:01:51.30,Default,,0,0,0,,Então você já havia feito a troca quando embarcamos no trem.
+Dialogue: 0,0:01:51.30,0:01:53.81,Default,,0,0,0,,Os meus preparativos foram perfeitos.
+Dialogue: 0,0:01:54.10,0:01:55.81,Default,,0,0,0,,Você não suspeitou de nada, não é?
+Dialogue: 0,0:01:56.22,0:01:59.14,Default,,0,0,0,,E a fonte de todas essas informações foi você,
+Dialogue: 0,0:01:59.39,0:02:00.31,Default,,0,0,0,,não foi?
+Dialogue: 0,0:02:01.35,0:02:05.94,Default,,0,0,0,,Ele me prometeu que eu poderia analisar os Olhos Místicos assim que vencêssemos o leilão!
+Dialogue: 0,0:02:06.23,0:02:10.07,Default,,0,0,0,,Por isso pedi à Srta. Adashino que encenasse para nós.
+Dialogue: 0,0:02:12.03,0:02:13.37,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:02:13.37,0:02:16.33,Default,,0,0,0,,Então tudo não passava de ganhar tempo para isso.
+Dialogue: 0,0:02:16.33,0:02:17.83,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:02:18.12,0:02:20.25,Default,,0,0,0,,Você já não imagina quem seja?
+Dialogue: 0,0:02:20.50,0:02:23.17,Default,,0,0,0,,Sim. É um prazer conhecê-lo,
+Dialogue: 0,0:02:23.38,0:02:26.59,Default,,0,0,0,,antigo Chefe de Departamento das Teorias da Magia Moderna...
+Dialogue: 0,0:02:30.26,0:02:32.01,Default,,0,0,0,,Doutor Heartless!
+Dialogue: 0,0:04:05.90,0:04:10.61,Default,,0,0,0,,Doutor Heartless. O homem cujo coração foi roubado por Fadas.
+Dialogue: 0,0:04:10.86,0:04:13.70,Default,,0,0,0,,Apenas você conseguiria abrir com facilidade o cofre das Teorias da Magia Moderna
+Dialogue: 0,0:04:13.70,0:04:17.20,Default,,0,0,0,,e também fornecer fundos para a Yvette.
+Dialogue: 0,0:04:17.57,0:04:18.78,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:04:19.03,0:04:20.87,Default,,0,0,0,,Eu estava ansioso para conhecê-lo.
+Dialogue: 0,0:04:21.12,0:04:23.71,Default,,0,0,0,,Não pode ser apenas isso. — Ora?
+Dialogue: 0,0:04:24.16,0:04:28.71,Default,,0,0,0,,Esse feitiço de transformação é semelhante ao estilo mágico de Gueldoa Davenant.
+Dialogue: 0,0:04:29.34,0:04:32.96,Default,,0,0,0,,O patrocinador de Sir Davenant financiou a Oficina Marbury,
+Dialogue: 0,0:04:33.38,0:04:35.13,Default,,0,0,0,,e estava tentando fazer algo
+Dialogue: 0,0:04:35.13,0:04:37.64,Default,,0,0,0,,usando o poder das Linhas de Ley.
+Dialogue: 0,0:04:38.22,0:04:41.06,Default,,0,0,0,,Você esteve deixando pistas o tempo todo,
+Dialogue: 0,0:04:41.31,0:04:44.43,Default,,0,0,0,,como se fosse um examinador observando alunos com baixo desempenho.
+Dialogue: 0,0:04:44.77,0:04:48.44,Default,,0,0,0,,Entendo. Mas você não tem mais deduções a fazer?
+Dialogue: 0,0:04:48.94,0:04:51.94,Default,,0,0,0,,Exatamente. O que aconteceu com o whydunit?
+Dialogue: 0,0:04:52.19,0:04:57.11,Default,,0,0,0,,Este caso não passa de uma imagem residual. Já alcançou o seu objetivo há muito tempo.
+Dialogue: 0,0:04:57.11,0:05:01.08,Default,,0,0,0,,Então não era para obter os Olhos Místicos da Srta. Trisha?
+Dialogue: 0,0:05:01.08,0:05:02.45,Default,,0,0,0,,O objetivo principal reside em outro lugar.
+Dialogue: 0,0:05:03.33,0:05:04.79,Default,,0,0,0,,A Guerra do Santo Graal.
+Dialogue: 0,0:05:05.25,0:05:07.75,Default,,0,0,0,,Heartless busca a Guerra do Santo Graal?
+Dialogue: 0,0:05:08.17,0:05:11.21,Default,,0,0,0,,Tenho que tirar o chapéu para a Luvia. Ela fez uma ótima pesquisa.
+Dialogue: 0,0:05:11.59,0:05:13.30,Default,,0,0,0,,Pensar que você,
+Dialogue: 0,0:05:13.30,0:05:17.26,Default,,0,0,0,,que supostamente estava desaparecido, estava investigando junto com Lorde Animusphere...
+Dialogue: 0,0:05:17.59,0:05:21.05,Default,,0,0,0,,Então este homem foi a quem meu pai solicitou a investigação?
+Dialogue: 0,0:05:21.26,0:05:24.77,Default,,0,0,0,,Você uniu forças secretamente com a Astromancia sete anos atrás,
+Dialogue: 0,0:05:25.18,0:05:28.02,Default,,0,0,0,,e controlou Karabo para executar os assassinatos em série.
+Dialogue: 0,0:05:28.39,0:05:31.56,Default,,0,0,0,,E, colhendo os Olhos Místicos deles, com cabeça e tudo ainda com vida,
+Dialogue: 0,0:05:31.56,0:05:36.03,Default,,0,0,0,,usou seus poderes para obter, monopolizar e ocultar informações sobre a Guerra do Santo Graal.
+Dialogue: 0,0:05:36.44,0:05:39.03,Default,,0,0,0,,Muito bem. Muito bem mesmo.
+Dialogue: 0,0:05:39.28,0:05:42.58,Default,,0,0,0,,Mas isso não passa de evidências circunstanciais e especulação.
+Dialogue: 0,0:05:42.83,0:05:44.54,Default,,0,0,0,,Você não tem nada de concreto.
+Dialogue: 0,0:05:44.87,0:05:47.04,Default,,0,0,0,,O Grande Graal não pode se tornar um realizador de desejos.
+Dialogue: 0,0:05:47.04,0:05:50.67,Default,,0,0,0,,Esse fato levou Lorde Animusphere ao desespero.
+Dialogue: 0,0:05:51.00,0:05:54.63,Default,,0,0,0,,Contudo, isso não significa que o Grande Graal seja inútil.
+Dialogue: 0,0:05:55.34,0:05:56.38,Default,,0,0,0,,O que quer dizer?
+Dialogue: 0,0:05:56.88,0:06:00.26,Default,,0,0,0,,Espíritos Heroicos, senhorita. O fato de ser possível invocar Espíritos Heroicos...
+Dialogue: 0,0:06:00.26,0:06:02.43,Default,,0,0,0,,Não há falsidade alguma nessa função.
+Dialogue: 0,0:06:02.80,0:06:05.97,Default,,0,0,0,,Heartless, você criou um Santo Graal.
+Dialogue: 0,0:06:06.43,0:06:07.68,Default,,0,0,0,,Excelente!
+Dialogue: 0,0:06:08.06,0:06:10.90,Default,,0,0,0,,O Trem Coletor de Olhos Místicos e a Cria de Einnashe.
+Dialogue: 0,0:06:11.35,0:06:16.65,Default,,0,0,0,,Ao colocar ambos sobre a mesma Linha de Ley, certamente criará uma distorção.
+Dialogue: 0,0:06:16.90,0:06:19.28,Default,,0,0,0,,O nascimento de outro Santo Graal.
+Dialogue: 0,0:06:19.57,0:06:22.95,Default,,0,0,0,,Entendo. Pode-se chamar de uma variante do Santo Graal.
+Dialogue: 0,0:06:23.28,0:06:26.95,Default,,0,0,0,,É claro que isso sozinho não se materializaria como na Guerra do Santo Graal.
+Dialogue: 0,0:06:27.62,0:06:32.17,Default,,0,0,0,,Você precisava de algum artifício, como conectar esta Linha de Ley ao Japão.
+Dialogue: 0,0:06:32.17,0:06:36.71,Default,,0,0,0,,Mas ele precisava de algo mais do que tudo para fingir ser um Grande Graal.
+Dialogue: 0,0:06:37.51,0:06:39.88,Default,,0,0,0,,Ele precisava de Waver Velvet,
+Dialogue: 0,0:06:40.13,0:06:41.76,Default,,0,0,0,,um homem que outrora foi um Mestre.
+Dialogue: 0,0:06:43.05,0:06:46.76,Default,,0,0,0,,Um antigo Mestre e uma variante do Santo Graal vinculada ao Grande Graal...
+Dialogue: 0,0:06:46.76,0:06:49.43,Default,,0,0,0,,Esse era o mecanismo de palco que você precisava.
+Dialogue: 0,0:06:49.43,0:06:54.48,Default,,0,0,0,,Em outras palavras, o seu crime de invocar um Servo já foi consumado há muito tempo. Certo?
+Dialogue: 0,0:06:54.73,0:06:57.36,Default,,0,0,0,,A Guerra do Santo Graal era verdadeiramente fascinante.
+Dialogue: 0,0:06:57.36,0:07:00.82,Default,,0,0,0,,Como era um conto de fadas impossível até para magos,
+Dialogue: 0,0:07:00.82,0:07:03.16,Default,,0,0,0,,fiquei encantado por ela mais do que por qualquer outra coisa.
+Dialogue: 0,0:07:03.53,0:07:05.99,Default,,0,0,0,,O assassinato da Trisha não passou de um mero adendo.
+Dialogue: 0,0:07:06.24,0:07:10.58,Default,,0,0,0,,Eliminar os Olhos Místicos de Premonição que tinham a possibilidade de alcançar o seu disfarce,
+Dialogue: 0,0:07:10.58,0:07:12.21,Default,,0,0,0,,e obtê-los se possível...
+Dialogue: 0,0:07:12.62,0:07:15.13,Default,,0,0,0,,Junto com os Olhos Místicos de Sir Karabo.
+Dialogue: 0,0:07:15.38,0:07:19.42,Default,,0,0,0,,No entanto, ela previu o assassinato e escondeu a própria cabeça.
+Dialogue: 0,0:07:21.01,0:07:24.59,Default,,0,0,0,,A determinação dela me guiou até aqui.
+Dialogue: 0,0:07:25.05,0:07:27.22,Default,,0,0,0,,Que comovente!
+Dialogue: 0,0:07:27.64,0:07:29.39,Default,,0,0,0,,Eu compreendi a situação.
+Dialogue: 0,0:07:29.89,0:07:34.60,Default,,0,0,0,,Foi você quem invocou a Cria de Einnashe e atacou este trem?
+Dialogue: 0,0:07:34.60,0:07:36.56,Default,,0,0,0,,Imagino que tenha sido isso mesmo.
+Dialogue: 0,0:07:36.56,0:07:39.40,Default,,0,0,0,,Se for determinado que você atacou este trem,
+Dialogue: 0,0:07:39.40,0:07:41.99,Default,,0,0,0,,perderá o direito de participar do leilão.
+Dialogue: 0,0:07:42.28,0:07:46.28,Default,,0,0,0,,Puxa vida. Então as coisas acabaram assim. Mas...
+Dialogue: 0,0:07:46.91,0:07:48.83,Default,,0,0,0,,isto não é suficiente.
+Dialogue: 0,0:07:49.37,0:07:50.25,Default,,0,0,0,,Adashino!
+Dialogue: 0,0:07:51.54,0:07:53.08,Default,,0,0,0,,Eu lhe ordeno com o meu Selo de Comando!
+Dialogue: 0,0:07:54.12,0:07:54.96,Default,,0,0,0,,Venha até mim!
+Dialogue: 0,0:08:07.60,0:08:08.60,Default,,0,0,0,,Adashino!
+Dialogue: 0,0:08:13.18,0:08:15.56,Default,,0,0,0,,Finalmente me chamou, Mestre.
+Dialogue: 0,0:08:17.44,0:08:21.19,Default,,0,0,0,,O Lorde estava com uma história tão interessante que não pude deixar de ouvir até o fim.
+Dialogue: 0,0:08:21.48,0:08:23.32,Default,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:08:23.74,0:08:25.74,Default,,0,0,0,,Aquilo é um Espírito Heroico!
+Dialogue: 0,0:08:26.16,0:08:28.53,Default,,0,0,0,,Eu estive pensando sobre o que você exatamente era.
+Dialogue: 0,0:08:28.78,0:08:30.91,Default,,0,0,0,,Apresentei-me como Heféstion.
+Dialogue: 0,0:08:31.29,0:08:32.75,Default,,0,0,0,,É uma questão de qual é a sua classe,
+Dialogue: 0,0:08:33.00,0:08:37.29,Default,,0,0,0,,como o motivo de não ter revelado sua classe apesar de revelar seu Verdadeiro Nome.
+Dialogue: 0,0:08:37.29,0:08:42.17,Default,,0,0,0,,O Santo Graal é falso, o Mestre é falso, os Selos de Comando são falsos!
+Dialogue: 0,0:08:42.17,0:08:45.68,Default,,0,0,0,,Normalmente, um feitiço tão absurdo não teria sucesso.
+Dialogue: 0,0:08:45.93,0:08:47.68,Default,,0,0,0,,Em outras palavras, ela é...
+Dialogue: 0,0:08:47.93,0:08:51.64,Default,,0,0,0,,Sim. A classe dela é algo na linha de um falso Espírito Heroico.
+Dialogue: 0,0:08:51.89,0:08:56.56,Default,,0,0,0,,Exatamente. Eu batizei essa nova classe de "Faker".
+Dialogue: 0,0:08:56.81,0:08:59.40,Default,,0,0,0,,Então, quem você está dizendo que eu sou?
+Dialogue: 0,0:08:59.98,0:09:02.03,Default,,0,0,0,,O dublê de sombra de Iskandar.
+Dialogue: 0,0:09:02.28,0:09:03.61,Default,,0,0,0,,Não é mesmo?
+Dialogue: 0,0:09:04.03,0:09:07.24,Default,,0,0,0,,Espere aí, irmão mais velho! Isso é absurdo demais!
+Dialogue: 0,0:09:07.49,0:09:09.24,Default,,0,0,0,,Ora? Com isso você quer dizer...
+Dialogue: 0,0:09:09.49,0:09:11.74,Default,,0,0,0,,Pelas histórias que o meu irmão me contou,
+Dialogue: 0,0:09:11.99,0:09:16.75,Default,,0,0,0,,o Rei dos Conquistadores era um gigante ruivo de mais de dois metros de altura!
+Dialogue: 0,0:09:17.17,0:09:19.00,Default,,0,0,0,,Exato. No entanto,
+Dialogue: 0,0:09:19.29,0:09:23.59,Default,,0,0,0,,dito rei originalmente na lenda supostamente tinha um porte pequeno com cabelos negros,
+Dialogue: 0,0:09:23.59,0:09:27.68,Default,,0,0,0,,e heterocromia com um olho abraçando as sombras da noite
+Dialogue: 0,0:09:27.68,0:09:30.09,Default,,0,0,0,,e o outro abraçando os céus azuis.
+Dialogue: 0,0:09:31.18,0:09:33.97,Default,,0,0,0,,Faker é uma imagem residual do rei,
+Dialogue: 0,0:09:34.22,0:09:36.85,Default,,0,0,0,,um dublê mágico que protegeu o rei
+Dialogue: 0,0:09:36.85,0:09:40.27,Default,,0,0,0,,fabricando gênero, aparência e toda a sua existência!
+Dialogue: 0,0:09:40.52,0:09:42.44,Default,,0,0,0,,Você está correto, mago.
+Dialogue: 0,0:09:42.44,0:09:45.57,Default,,0,0,0,,E não tenho intenção alguma de ouvir mais de suas bobagens.
+Dialogue: 0,0:09:45.94,0:09:48.57,Default,,0,0,0,,Eu não me importaria de lutar aqui mesmo.
+Dialogue: 0,0:09:48.57,0:09:52.08,Default,,0,0,0,,Mas muitos Olhos Místicos serão sacrificados se fizermos isso.
+Dialogue: 0,0:09:52.53,0:09:55.45,Default,,0,0,0,,Poderia, por gentileza, abrir o Pandemônio para nós?
+Dialogue: 0,0:09:57.04,0:09:58.29,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:10:03.84,0:10:06.26,Default,,0,0,0,,Yvette, o que planeja fazer?
+Dialogue: 0,0:10:06.26,0:10:08.68,Default,,0,0,0,,Vou aceitar minha sentença de bom grado.
+Dialogue: 0,0:10:08.93,0:10:11.26,Default,,0,0,0,,Não quero passar a vida como fugitiva.
+Dialogue: 0,0:10:11.47,0:10:14.47,Default,,0,0,0,,Ora, fui rejeitado. Pois bem...
+Dialogue: 0,0:10:19.64,0:10:21.02,Default,,0,0,0,,Você não vai escapar!
+Dialogue: 0,0:10:21.02,0:10:24.02,Signs,,0,0,0,,Lord El-Melloi II's Case Files\n{Rail Zeppelin} Grace note
+Dialogue: 0,0:10:26.40,0:10:30.24,Default,,0,0,0,,Puxa vida... Acho que seria prudente nos separarmos aqui.
+Dialogue: 0,0:10:30.57,0:10:32.53,Default,,0,0,0,,Você ainda não me devolveu a Relíquia!
+Dialogue: 0,0:10:32.87,0:10:34.91,Default,,0,0,0,,Ah, é verdade!
+Dialogue: 0,0:10:37.33,0:10:38.50,Default,,0,0,0,,Tome.
+Dialogue: 0,0:10:48.80,0:10:49.92,Default,,0,0,0,,Pois bem...
+Dialogue: 0,0:10:50.43,0:10:51.30,Default,,0,0,0,,Espere aí!
+Dialogue: 0,0:10:53.01,0:10:55.89,Default,,0,0,0,,Faker, há algo que quero perguntar a você também.
+Dialogue: 0,0:10:56.14,0:10:58.56,Default,,0,0,0,,Eu disse que não pretendia ouvir suas bobagens!
+Dialogue: 0,0:10:58.56,0:11:01.27,Default,,0,0,0,,Presumo que você não tenha nome algum
+Dialogue: 0,0:11:01.60,0:11:04.40,Default,,0,0,0,,para poder agir como um dublê mágico.
+Dialogue: 0,0:11:07.32,0:11:09.32,Default,,0,0,0,,Sim, isso mesmo.
+Dialogue: 0,0:11:09.57,0:11:11.11,Default,,0,0,0,,Eu não tenho nome.
+Dialogue: 0,0:11:11.36,0:11:15.62,Default,,0,0,0,,Nasci como a irmã gêmea de Heféstion e fui sacrificada aos deuses.
+Dialogue: 0,0:11:15.62,0:11:20.91,Default,,0,0,0,,Se você não tiver nome, pode absorver todas as maldições direcionadas a Iskandar.
+Dialogue: 0,0:11:20.91,0:11:23.63,Default,,0,0,0,,Uma poderosa adaptação do conceito de correspondência.
+Dialogue: 0,0:11:23.63,0:11:27.42,Default,,0,0,0,,Aquele rei tentou diversas vezes me dar um nome,
+Dialogue: 0,0:11:27.42,0:11:30.13,Default,,0,0,0,,e eu recusei veementemente a cada vez.
+Dialogue: 0,0:11:30.13,0:11:33.68,Default,,0,0,0,,É só isso. Isso é tudo o que há, mago.
+Dialogue: 0,0:11:33.97,0:11:36.05,Default,,0,0,0,,Então, ainda resta um problema.
+Dialogue: 0,0:11:36.30,0:11:39.56,Default,,0,0,0,,A razão pela qual você não apareceu como parte do Ionioi Hetairoi!
+Dialogue: 0,0:11:39.22,0:11:39.97,Default,,0,0,0,,Cale-se!
+Dialogue: 0,0:11:39.97,0:11:40.81,Default,,0,0,0,,Add!
+Dialogue: 0,0:11:43.94,0:11:45.27,Default,,0,0,0,,Desculpe por isso, Gray!
+Dialogue: 0,0:11:45.65,0:11:48.78,Default,,0,0,0,,Professor, por favor, ataque-a com tudo o que tem a dizer!
+Dialogue: 0,0:11:48.98,0:11:50.65,Default,,0,0,0,,Maldito seja!
+Dialogue: 0,0:11:52.24,0:11:54.95,Default,,0,0,0,,Faker, creio que ordenei uma retirada.
+Dialogue: 0,0:11:54.95,0:11:57.49,Default,,0,0,0,,Isso só depois de arrancar a cabeça dele!
+Dialogue: 0,0:11:58.41,0:11:59.24,Default,,0,0,0,,Um feitiço?
+Dialogue: 0,0:11:59.45,0:12:00.70,Default,,0,0,0,,Add, devore!
+Dialogue: 0,0:12:02.12,0:12:03.58,Default,,0,0,0,,Este é um grande poder mágico!
+Dialogue: 0,0:12:04.17,0:12:05.25,Default,,0,0,0,,Que incômodo!
+Dialogue: 0,0:12:05.63,0:12:09.09,Default,,0,0,0,,Você disse que o rei tentou lhe dar um nome, certo?
+Dialogue: 0,0:12:10.55,0:12:14.47,Default,,0,0,0,,Se foi assim, ele não aceitava as suas circunstâncias!
+Dialogue: 0,0:12:14.72,0:12:18.81,Default,,0,0,0,,De forma alguma ele permitiria que você fosse tratada como uma coisa sem nome!
+Dialogue: 0,0:12:19.31,0:12:22.68,Default,,0,0,0,,E o motivo pelo qual você não fazia parte do exército de Iskandar...
+Dialogue: 0,0:12:22.68,0:12:25.56,Default,,0,0,0,,era porque você mesma nutre ódio pelo exército dele!
+Dialogue: 0,0:12:27.11,0:12:28.23,Default,,0,0,0,,Seu desgraçado!
+Dialogue: 0,0:12:29.36,0:12:32.24,Default,,0,0,0,,Você não moverá mais essa sua língua!
+Dialogue: 0,0:12:36.74,0:12:39.28,Default,,0,0,0,,Árvore Forjada! Cheguei a tempo!
+Dialogue: 0,0:12:42.83,0:12:45.33,Default,,0,0,0,,Uma magia que é brincadeira de criança!
+Dialogue: 0,0:12:45.87,0:12:46.62,Default,,0,0,0,,Caules!
+Dialogue: 0,0:12:46.96,0:12:48.71,Default,,0,0,0,,Srta. Gray, cuide do resto!
+Dialogue: 0,0:12:48.71,0:12:49.54,Default,,0,0,0,,Certo!
+Dialogue: 0,0:12:54.97,0:12:56.93,Default,,0,0,0,,Doutor Heartless!
+Dialogue: 0,0:12:57.34,0:13:00.43,Default,,0,0,0,,Desvendar o mistério de Faker foi divertido.
+Dialogue: 0,0:13:00.85,0:13:02.27,Default,,0,0,0,,Quanta gentileza sua.
+Dialogue: 0,0:13:02.68,0:13:06.02,Default,,0,0,0,,Desmantelamento, Lorde El-Melloi II...
+Dialogue: 0,0:13:06.31,0:13:09.52,Default,,0,0,0,,Você não consegue evitar desmantelar tudo e qualquer coisa ligada ao Misticismo.
+Dialogue: 0,0:13:09.52,0:13:12.65,Default,,0,0,0,,Eu farei o mesmo com os seus experimentos agora mesmo.
+Dialogue: 0,0:13:12.65,0:13:16.20,Default,,0,0,0,,Entendo. Então acho que devo resistir.
+Dialogue: 0,0:13:16.65,0:13:17.91,Default,,0,0,0,,Reverta-se...
+Dialogue: 0,0:13:18.36,0:13:19.82,Default,,0,0,0,,meu coração.
+Dialogue: 0,0:13:25.79,0:13:26.75,Default,,0,0,0,,Aquilo é...
+Dialogue: 0,0:13:27.83,0:13:28.63,Default,,0,0,0,,Sim.
+Dialogue: 0,0:13:28.88,0:13:30.75,Default,,0,0,0,,Eu libertei a Cria de Einnashe!
+Dialogue: 0,0:13:52.36,0:13:54.86,Default,,0,0,0,,Ela pretende devorar este trem inteiro?
+Dialogue: 0,0:13:54.86,0:13:57.61,Default,,0,0,0,,As cortinas cairão sobre o seu show de palhaço agora!
+Dialogue: 0,0:13:59.49,0:14:00.49,Default,,0,0,0,,Professor!
+Dialogue: 0,0:14:00.49,0:14:03.54,Default,,0,0,0,,Ele mencionou que foi muito difícil quando percebeu que a Terra era redonda,
+Dialogue: 0,0:14:03.79,0:14:08.12,Default,,0,0,0,,e que não havia um Mar no Fim do Mundo.
+Dialogue: 0,0:14:08.71,0:14:10.46,Default,,0,0,0,,Acho que rei e súdito são bastante parecidos.
+Dialogue: 0,0:14:10.71,0:14:15.92,Default,,0,0,0,,O império que buscava Oceanus ruiu, e tudo o que sonhamos foi perdido.
+Dialogue: 0,0:14:15.92,0:14:18.22,Default,,0,0,0,,Onde mais se vê um desfecho tão terrível?
+Dialogue: 0,0:14:22.55,0:14:24.06,Default,,0,0,0,,O que é tão engraçado?
+Dialogue: 0,0:14:24.35,0:14:27.43,Default,,0,0,0,,Nada. Apenas achei que era a cara dele.
+Dialogue: 0,0:14:27.68,0:14:30.90,Default,,0,0,0,,De um jeito ou de outro, ele sempre deixa passar algo no final.
+Dialogue: 0,0:14:30.90,0:14:33.23,Default,,0,0,0,,Talvez ele realmente não tenha talento algum.
+Dialogue: 0,0:14:33.23,0:14:34.44,Default,,0,0,0,,Professor...
+Dialogue: 0,0:14:35.19,0:14:36.36,Default,,0,0,0,,Obrigado.
+Dialogue: 0,0:14:36.36,0:14:37.94,Default,,0,0,0,,O que você disse?
+Dialogue: 0,0:14:38.28,0:14:42.16,Default,,0,0,0,,Não houve um único dia nos últimos dez anos em que não me sentisse angustiado com tudo isso.
+Dialogue: 0,0:14:42.16,0:14:46.74,Default,,0,0,0,,Mesmo que seguisse os passos dele, eu não sabia o que precisava fazer!
+Dialogue: 0,0:14:46.74,0:14:50.50,Default,,0,0,0,,Mas se eu dissesse a ele que pude revidar contra o seu outro eu,
+Dialogue: 0,0:14:50.71,0:14:54.84,Default,,0,0,0,,tenho certeza de que ele rolaria de tanto rir.
+Dialogue: 0,0:14:55.04,0:14:57.80,Default,,0,0,0,,Você acredita que pode vencer contra mim?
+Dialogue: 0,0:14:58.05,0:15:00.22,Default,,0,0,0,,Gray, você me ajudará?
+Dialogue: 0,0:15:00.47,0:15:01.59,Default,,0,0,0,,Sim! Eu vou com tudo!
+Dialogue: 0,0:15:04.55,0:15:05.76,Default,,0,0,0,,Perdoe-me, Mestre!
+Dialogue: 0,0:15:05.76,0:15:08.02,Default,,0,0,0,,Eu pretendia ser leal à minha aliança, mas...
+Dialogue: 0,0:15:08.52,0:15:09.93,Default,,0,0,0,,Não há muito o que fazer quanto a isto.
+Dialogue: 0,0:15:10.81,0:15:12.23,Default,,0,0,0,,Uma provocação magnífica,
+Dialogue: 0,0:15:12.48,0:15:15.15,Default,,0,0,0,,como esperado de alguém que vivenciou a Guerra do Santo Graal.
+Dialogue: 0,0:15:15.40,0:15:19.69,Default,,0,0,0,,É raro a vontade de um Servo coincidir com a do Mestre.
+Dialogue: 0,0:15:19.99,0:15:22.11,Default,,0,0,0,,Sinto muito, mas vou prendê-la ao chão!
+Dialogue: 0,0:15:22.41,0:15:24.57,Default,,0,0,0,,Acha que pode me deter?
+Dialogue: 0,0:15:24.82,0:15:27.37,Default,,0,0,0,,Não, esse é o meu trabalho!
+Dialogue: 0,0:15:31.16,0:15:32.75,Default,,0,0,0,,Karabo Frampton?
+Dialogue: 0,0:15:33.08,0:15:34.42,Default,,0,0,0,,Mas você está cego.
+Dialogue: 0,0:15:34.67,0:15:36.54,Default,,0,0,0,,Eles me foram devolvidos
+Dialogue: 0,0:15:36.54,0:15:39.88,Default,,0,0,0,,já que o leilão foi anulado!
+Dialogue: 0,0:15:41.88,0:15:43.05,Default,,0,0,0,,Sr. Karabo?
+Dialogue: 0,0:15:43.34,0:15:44.89,Default,,0,0,0,,Seu velho decrépito!
+Dialogue: 0,0:15:58.48,0:15:59.53,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:16:01.53,0:16:04.91,Default,,0,0,0,,Contanto que o fato de que houve um golpe ressurja do passado,
+Dialogue: 0,0:16:04.91,0:16:08.99,Default,,0,0,0,,uma vez dentro do alcance, nada astral ou físico pode se defender!
+Dialogue: 0,0:16:20.26,0:16:23.72,Default,,0,0,0,,Você pagará por me controlar, Heartless!
+Dialogue: 0,0:16:24.13,0:16:25.18,Default,,0,0,0,,Ora?
+Dialogue: 0,0:16:32.64,0:16:36.02,Default,,0,0,0,,No entanto, o que você fará contra tantos galhos?
+Dialogue: 0,0:16:36.27,0:16:37.90,Default,,0,0,0,,Não há nada que possamos fazer...
+Dialogue: 0,0:16:38.15,0:16:40.02,Default,,0,0,0,,se estivéssemos sozinhos.
+Dialogue: 0,0:16:41.48,0:16:43.11,Default,,0,0,0,,A forma das estrelas.
+Dialogue: 0,0:16:44.03,0:16:45.78,Default,,0,0,0,,A forma do espaço.
+Dialogue: 0,0:16:46.61,0:16:48.03,Default,,0,0,0,,A forma de Deus.
+Dialogue: 0,0:16:48.03,0:16:50.45,Default-Top,,0,0,0,,Certo. Isso mesmo!
+Dialogue: 0,0:16:49.24,0:16:50.45,Default,,0,0,0,,A forma de si mesmo.
+Dialogue: 0,0:16:50.79,0:16:52.33,Default-Top,,0,0,0,,Finalmente eu compreendi!
+Dialogue: 0,0:16:51.95,0:16:54.04,Default,,0,0,0,,Os corpos celestes são ocos.
+Dialogue: 0,0:16:53.66,0:16:56.67,Default-Top,,0,0,0,,Eu deveria ficar brava. Não há problema\Nem me zangar de vez em quando.
+Dialogue: 0,0:16:55.00,0:16:56.67,Default,,0,0,0,,O vazio é o espaço desocupado.
+Dialogue: 0,0:16:57.75,0:17:00.04,Default,,0,0,0,,Deus reside no espaço vazio.
+Dialogue: 0,0:16:58.33,0:17:02.88,Default-Top,,0,0,0,,Você estava esperando que eu ficasse com raiva algum dia, Trisha?
+Dialogue: 0,0:17:00.84,0:17:02.01,Default,,0,0,0,,Estrelas.
+Dialogue: 0,0:17:02.46,0:17:03.30,Default,,0,0,0,,Cosmos.
+Dialogue: 0,0:17:03.88,0:17:04.80,Default,,0,0,0,,Deuses.
+Dialogue: 0,0:17:05.13,0:17:06.13,Default,,0,0,0,,Animus.
+Dialogue: 0,0:17:06.55,0:17:07.51,Default,,0,0,0,,Antrum.
+Dialogue: 0,0:17:08.05,0:17:09.05,Default,,0,0,0,,Unverse.
+Dialogue: 0,0:17:09.47,0:17:11.68,Default,,0,0,0,,Anima, Animusphere!
+Dialogue: 0,0:17:22.78,0:17:24.69,Default,,0,0,0,,O feitiço da Srta. Olga-Marie?
+Dialogue: 0,0:17:25.70,0:17:27.45,Default,,0,0,0,,Exatamente como organizei.
+Dialogue: 0,0:17:28.20,0:17:29.45,Default,,0,0,0,,Que surpresa.
+Dialogue: 0,0:17:29.82,0:17:31.53,Default,,0,0,0,,Você também previu isto?
+Dialogue: 0,0:17:31.78,0:17:34.33,Default,,0,0,0,,É uma dedução elementar.
+Dialogue: 0,0:17:38.63,0:17:40.46,Default,,0,0,0,,Um bom momento para a segunda flecha!
+Dialogue: 0,0:17:53.93,0:17:55.77,Default,,0,0,0,,Carregamento dos Olhos Místicos concluído.
+Dialogue: 0,0:17:56.10,0:17:58.52,Default,,0,0,0,,Iniciando sequência para a Grande Projeção de Olhos Místicos.
+Dialogue: 0,0:17:59.10,0:18:02.61,Default,,0,0,0,,Vagão-Âncora Rilcabellow concluiu a conexão com os Olhos Místicos!
+Dialogue: 0,0:18:02.86,0:18:07.49,Default,,0,0,0,,Análise completa em 3... 2... 1.
+Dialogue: 0,0:18:07.70,0:18:08.53,Default,,0,0,0,,Concluído.
+Dialogue: 0,0:18:08.95,0:18:11.91,Default,,0,0,0,,Implantando Lente Giratória Espiritual Rose-Eye!
+Dialogue: 0,0:18:16.79,0:18:18.54,Default,,0,0,0,,Grande Projeção de Olhos Místicos!
+Dialogue: 0,0:18:48.74,0:18:49.95,Default,,0,0,0,,Que horrível.
+Dialogue: 0,0:18:50.45,0:18:52.16,Default,,0,0,0,,Que final mais anticlimático.
+Dialogue: 0,0:18:54.37,0:18:56.12,Default,,0,0,0,,Estamos indo embora, Faker.
+Dialogue: 0,0:18:56.49,0:18:57.41,Default,,0,0,0,,Não!
+Dialogue: 0,0:18:57.87,0:18:58.87,Default,,0,0,0,,Ainda não!
+Dialogue: 0,0:19:00.92,0:19:02.04,Default,,0,0,0,,Não permitirei!
+Dialogue: 0,0:19:11.97,0:19:13.01,Default,,0,0,0,,Você viu.
+Dialogue: 0,0:19:17.27,0:19:18.68,Default,,0,0,0,,Começarei por você primeiro!
+Dialogue: 0,0:19:51.63,0:19:53.80,Default,,0,0,0,,Então você estava esperando por esta oportunidade,
+Dialogue: 0,0:19:54.05,0:19:56.64,Default,,0,0,0,,quando eu estivesse dependente dos meus Olhos Místicos?
+Dialogue: 0,0:19:56.97,0:19:58.14,Default,,0,0,0,,Sim.
+Dialogue: 0,0:19:58.47,0:20:00.27,Default,,0,0,0,,Embora, sem o Padre Karabo,
+Dialogue: 0,0:20:00.52,0:20:03.27,Default,,0,0,0,,eu não ache que o feitiço teria chegado a tempo.
+Dialogue: 0,0:20:10.15,0:20:11.95,Default,,0,0,0,,"A glória repousa além do horizonte.
+Dialogue: 0,0:20:12.78,0:20:14.99,Default,,0,0,0,,Desafie-a porque sabe que é inalcançável.
+Dialogue: 0,0:20:15.24,0:20:17.62,Default,,0,0,0,,Fale sobre a conquista e torne-a real.
+Dialogue: 0,0:20:17.87,0:20:20.54,Default,,0,0,0,,Pelos meus homens que observam atrás de mim."
+Dialogue: 0,0:20:21.45,0:20:23.46,Default,,0,0,0,,Foi isso o que ele disse.
+Dialogue: 0,0:20:23.96,0:20:27.63,Default,,0,0,0,,Você é apenas um subordinado que bajulou por meio mês!
+Dialogue: 0,0:20:27.88,0:20:29.96,Default,,0,0,0,,Você não tem o direito de falar do nosso rei caído!
+Dialogue: 0,0:20:30.59,0:20:32.09,Default,,0,0,0,,Ó sombra do rei,
+Dialogue: 0,0:20:32.34,0:20:34.47,Default,,0,0,0,,mesmo que você tenha sido apagada da história,
+Dialogue: 0,0:20:34.72,0:20:37.18,Default,,0,0,0,,o seu significado jamais será perdido!
+Dialogue: 0,0:20:37.55,0:20:38.85,Default,,0,0,0,,É por isso...
+Dialogue: 0,0:20:39.18,0:20:41.89,Default,,0,0,0,,que estou de pé bem aqui!
+Dialogue: 0,0:20:42.23,0:20:45.56,Default,,0,0,0,,Se é assim, tente sobreviver daqui em diante também!
+Dialogue: 0,0:20:49.36,0:20:50.32,Default,,0,0,0,,Céus.
+Dialogue: 0,0:20:53.07,0:20:54.11,Default,,0,0,0,,Gray...
+Dialogue: 0,0:20:55.36,0:20:56.87,Default,,0,0,0,,Estou deixando isto com você.
+Dialogue: 0,0:20:56.87,0:20:57.62,Default,,0,0,0,,Professor?
+Dialogue: 0,0:21:00.12,0:21:01.24,Default,,0,0,0,,Aquilo foi...
+Dialogue: 0,0:21:02.83,0:21:04.66,Default,,0,0,0,,tudo o que eu tinha.
+Dialogue: 0,0:21:06.92,0:21:08.67,Default,,0,0,0,,Confio a minha vida a você.
+Dialogue: 0,0:21:10.63,0:21:13.01,Default,,0,0,0,,A minha lealdade é para com o meu rei!
+Dialogue: 0,0:21:13.26,0:21:16.93,Default,,0,0,0,,Por este instante, permita-me tomar emprestado o nome do trovão!
+Dialogue: 0,0:21:20.22,0:21:21.39,Default,,0,0,0,,Gray.
+Dialogue: 0,0:21:21.97,0:21:23.18,Default,,0,0,0,,Delire.
+Dialogue: 0,0:21:25.52,0:21:26.44,Default,,0,0,0,,Anseie.
+Dialogue: 0,0:21:29.19,0:21:30.44,Default,,0,0,0,,Deprave.
+Dialogue: 0,0:21:32.32,0:21:33.44,Default,,0,0,0,,Sepulte...
+Dialogue: 0,0:21:35.24,0:21:36.20,Default,,0,0,0,,-me.
+Dialogue: 0,0:21:41.95,0:21:45.21,Default,,0,0,0,,Aquela lança está repleta de orações.
+Dialogue: 0,0:21:45.66,0:21:48.42,Default,,0,0,0,,Uma oração consolidada em treze formas.
+Dialogue: 0,0:21:49.54,0:21:52.46,Default,,0,0,0,,Ouça com atenção as vozes da lança.
+Dialogue: 0,0:21:52.46,0:21:55.92,Default,,0,0,0,,Às maneiras com que, em tempos antigos, alguém orou.
+Dialogue: 0,0:21:57.55,0:22:01.68,Default,,0,0,0,,Ele disse "maneiras"! Ei, Gray! Você esteve de cabeça baixa,
+Dialogue: 0,0:22:01.68,0:22:03.93,Default,,0,0,0,,com os joelhos abraçados num canto da sala esse tempo todo!
+Dialogue: 0,0:22:05.02,0:22:08.02,Default,,0,0,0,,Mas, sabe, está na hora de você perguntar!
+Dialogue: 0,0:22:08.27,0:22:10.40,Default,,0,0,0,,O que você mesma quer fazer!
+Dialogue: 0,0:22:10.40,0:22:12.69,Default,,0,0,0,,Ninguém saberá se você não disser!
+Dialogue: 0,0:22:12.94,0:22:14.57,Default,,0,0,0,,Eu quero...
+Dialogue: 0,0:22:15.15,0:22:17.82,Default,,0,0,0,,proteger o professor e todos os outros!
+Dialogue: 0,0:22:18.07,0:22:20.95,Default,,0,0,0,,Quero ser alguém capaz de proteger!
+Dialogue: 0,0:22:23.03,0:22:26.00,Default,,0,0,0,,Com certeza, eu ouvi, Gray Lerda!
+Dialogue: 0,0:22:29.37,0:22:30.75,Default,,0,0,0,,Pseudo-personalidade suspensa.
+Dialogue: 0,0:22:31.00,0:22:33.63,Default,,0,0,0,,Rendimento de mana excede a regulação.
+Dialogue: 0,0:22:33.88,0:22:36.34,Default,,0,0,0,,Restrição do segundo estágio revogada.
+Dialogue: 0,0:22:36.59,0:22:39.63,Default,,0,0,0,,Treze Selos... Decisão, iniciar!
+Dialogue: 0,0:22:42.39,0:22:44.64,Default,,0,0,0,,Esta é uma batalha que não ferirá nenhum Elemental.
+Dialogue: 0,0:22:44.64,0:22:45.64,Default,,0,0,0,,Aprovado.
+Dialogue: 0,0:22:46.64,0:22:49.85,Default,,0,0,0,,Esta é uma batalha contra um inimigo mais forte que si mesmo.
+Dialogue: 0,0:22:49.85,0:22:50.85,Default,,0,0,0,,Aprovado.
+Dialogue: 0,0:22:51.31,0:22:53.69,Default,,0,0,0,,Esta é uma batalha para viver.
+Dialogue: 0,0:22:53.69,0:22:54.69,Default,,0,0,0,,Aprovado.
+Dialogue: 0,0:22:55.15,0:22:57.90,Default,,0,0,0,,Esta é uma batalha que não se opõe à humanidade.
+Dialogue: 0,0:22:57.90,0:22:58.90,Default,,0,0,0,,Aprovado.
+Dialogue: 0,0:22:59.40,0:23:01.82,Default,,0,0,0,,Esta é uma batalha pela verdade.
+Dialogue: 0,0:23:02.07,0:23:02.99,Default,,0,0,0,,Aprovado.
+Dialogue: 0,0:23:04.08,0:23:06.87,Default,,0,0,0,,Restrição do terceiro estágio revogada.
+Dialogue: 0,0:23:07.12,0:23:10.25,Default,,0,0,0,,Um túmulo para ti.
+Dialogue: 0,0:23:10.50,0:23:12.08,Default,,0,0,0,,Antigo Misticismo.
+Dialogue: 0,0:23:12.08,0:23:14.92,Default,,0,0,0,,Extermine doces mistérios!
+Dialogue: 0,0:23:15.30,0:23:17.21,Default,,0,0,0,,Tudo retornará ao vazio!
+Dialogue: 0,0:23:18.59,0:23:21.59,Default,,0,0,0,,Agora, avance veloz... Carruagem Hecática!
+Dialogue: 0,0:23:23.01,0:23:24.10,Default,,0,0,0,,Lança sagrada,
+Dialogue: 0,0:23:24.60,0:23:25.72,Default,,0,0,0,,removendo restrições!
+Dialogue: 0,0:23:26.47,0:23:29.48,Default,,0,0,0,,Rhongomyniad!
+Dialogue: 0,0:23:38.03,0:23:41.03,Signs,,0,0,0,,EPISÓDIO 12: Rail Zeppelin 6/6\nO Raio e a Estrela Cadente

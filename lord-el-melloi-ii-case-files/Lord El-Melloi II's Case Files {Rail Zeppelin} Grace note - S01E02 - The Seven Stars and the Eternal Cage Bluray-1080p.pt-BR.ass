@@ -1,0 +1,389 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E02 - The Seven Stars and the Eternal Cage (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.36,0:00:07.45,Default,,0,0,0,,Você se lembra de Mary Lil Fargo,\nirmão mais velho?
+Dialogue: 0,0:00:08.20,0:00:11.37,Default,,0,0,0,,A única filha da Família Fargo, um ramo da Família Animusphere,
+Dialogue: 0,0:00:11.37,0:00:13.25,Default,,0,0,0,,que comanda o Departamento de Astromancia.
+Dialogue: 0,0:00:13.25,0:00:15.71,Default,,0,0,0,,Ela foi minha aluna.
+Dialogue: 0,0:00:16.17,0:00:17.54,Default,,0,0,0,,O que tem ela?
+Dialogue: 0,0:00:17.75,0:00:20.92,Default,,0,0,0,,Mais cedo, veio um mensageiro\nda Família Animusphere até aqui.
+Dialogue: 0,0:00:21.59,0:00:25.63,Default,,0,0,0,,Ele disse que o pai da Mary,\nErnest Fargo, faleceu de repente.
+Dialogue: 0,0:00:25.97,0:00:29.39,Default,,0,0,0,,Não apenas morreu, mas o corpo dele\nfoi esquartejado dentro da própria mansão.
+Dialogue: 0,0:00:30.10,0:00:33.85,Default,,0,0,0,,Muitos magos já jogaram a toalha,
+Dialogue: 0,0:00:34.10,0:00:37.35,Default,,0,0,0,,por isso ela insistiu em consultar\no Lorde de Teorias da Magia Moderna.
+Dialogue: 0,0:00:37.60,0:00:39.19,Default,,0,0,0,,Tem uma coisa que eu gostaria de perguntar.
+Dialogue: 0,0:00:39.48,0:00:42.57,Default,,0,0,0,,Por que eu tenho que me envolver nesse caso?
+Dialogue: 0,0:00:42.82,0:00:45.36,Default,,0,0,0,,Ora, essa é muito fácil.
+Dialogue: 0,0:00:45.61,0:00:49.62,Default,,0,0,0,,Todos os magos de primeira classe\nsão ricos, com exceção de você.
+Dialogue: 0,0:00:49.87,0:00:54.00,Default,,0,0,0,,Portanto, a considerável herança dele\ncairá direto no colo da Mary.
+Dialogue: 0,0:00:54.00,0:00:57.08,Default,,0,0,0,,Se tudo der certo,\nvocê pode esperar uma generosa recompensa.
+Dialogue: 0,0:00:57.33,0:01:01.34,Default,,0,0,0,,Quem sabe assim não abate um pouco\ndessa sua dívida imensa?
+Dialogue: 0,0:01:02.59,0:01:03.80,Default,,0,0,0,,Que dor de cabeça...
+Dialogue: 0,0:01:04.13,0:01:08.09,Default,,0,0,0,,Vamos lá, o mínimo que você pode fazer\né reunir algum entusiasmo
+Dialogue: 0,0:01:08.09,0:01:11.51,Default,,0,0,0,,para se vingar do assassino\ndo pai da sua aluna, irmão mais velho.
+Dialogue: 0,0:01:11.51,0:01:13.93,Default,,0,0,0,,Eu não sou nenhum super-herói.
+Dialogue: 0,0:01:14.77,0:01:18.19,Default,,0,0,0,,E nunca desejei me tornar um.
+Dialogue: 0,0:01:18.52,0:01:19.19,Default,,0,0,0,,Gray...
+Dialogue: 0,0:01:20.06,0:01:21.11,Default,,0,0,0,,Posso contar com você?
+Dialogue: 0,0:01:21.86,0:01:22.98,Default,,0,0,0,,Sim.
+Dialogue: 0,0:02:53.03,0:02:57.08,Signs,,0,0,0,,MANSÃO FARGO, INGLATERRA
+Dialogue: 0,0:03:03.96,0:03:05.08,Default,,0,0,0,,Uma rotunda...
+Dialogue: 0,0:03:05.46,0:03:06.75,Default,,0,0,0,,O que é isso, senhor?
+Dialogue: 0,0:03:06.96,0:03:10.13,Default,,0,0,0,,Uma construção com uma abóbada como aquela.
+Dialogue: 0,0:03:10.38,0:03:11.51,Default,,0,0,0,,O teto representa o céu,
+Dialogue: 0,0:03:11.97,0:03:14.30,Default,,0,0,0,,enquanto o interior simboliza a Terra.
+Dialogue: 0,0:03:14.30,0:03:17.81,Default,,0,0,0,,Em outras palavras, a construção inteira\nrepresenta o mundo.
+Dialogue: 0,0:03:18.18,0:03:21.18,Default,,0,0,0,,Pode-se dizer que o mestre da casa\né o deus daquele mundo por um período.
+Dialogue: 0,0:03:22.02,0:03:23.44,Default,,0,0,0,,Deus daquele mundo...
+Dialogue: 0,0:03:23.73,0:03:27.86,Default,,0,0,0,,Mesmo com uma pista tão óbvia\ndiante deles, por que não conseguiram resolver?
+Dialogue: 0,0:03:27.86,0:03:29.23,Default,,0,0,0,,Senhor?
+Dialogue: 0,0:03:29.48,0:03:30.86,Default,,0,0,0,,Deixa para lá.
+Dialogue: 0,0:03:31.11,0:03:31.99,Default,,0,0,0,,Vamos entrar.
+Dialogue: 0,0:03:34.32,0:03:36.57,Default,,0,0,0,,Sou responsável por cuidar\ndesta mansão.
+Dialogue: 0,0:03:36.82,0:03:38.28,Default,,0,0,0,,Meu nome é Claire, a criada.
+Dialogue: 0,0:03:41.25,0:03:42.16,Default,,0,0,0,,Senhorita,
+Dialogue: 0,0:03:42.50,0:03:45.04,Default,,0,0,0,,o Lorde El-Melloi está aqui para vê-la.
+Dialogue: 0,0:03:45.67,0:03:47.00,Default,,0,0,0,,Professor!
+Dialogue: 0,0:03:47.46,0:03:49.13,Default,,0,0,0,,Muito obrigada por ter vindo!
+Dialogue: 0,0:03:49.59,0:03:51.71,Default,,0,0,0,,Eu já não sei mais o que fazer!
+Dialogue: 0,0:03:51.92,0:03:53.68,Default,,0,0,0,,Não se desespere.
+Dialogue: 0,0:03:54.22,0:03:55.34,Default,,0,0,0,,Lembra-se do que eu lhe ensinei?
+Dialogue: 0,0:03:55.34,0:03:59.43,Default,,0,0,0,,Um mago deve manter a cabeça fria,\nespecialmente em momentos de crise.
+Dialogue: 0,0:04:00.31,0:04:02.18,Default,,0,0,0,,Sim, professor.
+Dialogue: 0,0:04:03.10,0:04:04.06,Default,,0,0,0,,Quem é ela?
+Dialogue: 0,0:04:04.39,0:04:05.85,Default,,0,0,0,,Ela é a Gray. Minha aprendiz.
+Dialogue: 0,0:04:06.10,0:04:09.32,Default,,0,0,0,,Perdoe a falta de cortesia\nde ela permanecer de capuz.
+Dialogue: 0,0:04:09.52,0:04:13.11,Default,,0,0,0,,Agora, conte-me todos\nos detalhes do ocorrido.
+Dialogue: 0,0:04:14.07,0:04:16.36,Default,,0,0,0,,Eu cuidarei dessa explicação.
+Dialogue: 0,0:04:16.74,0:04:17.57,Default,,0,0,0,,E quem seria você...
+Dialogue: 0,0:04:17.82,0:04:20.79,Default,,0,0,0,,É uma honra conhecê-lo, Lorde El-Melloi.
+Dialogue: 0,0:04:20.79,0:04:25.37,Default,,0,0,0,,Sou Fernando Li, amigo de Ernest\ne colega de pesquisa.
+Dialogue: 0,0:04:28.25,0:04:29.67,Default,,0,0,0,,Sou um Espiritualista Evocador.
+Dialogue: 0,0:04:31.05,0:04:35.18,Default,,0,0,0,,Então, por que não usa a Evocação Espiritual\npara interrogar a própria vítima?
+Dialogue: 0,0:04:35.18,0:04:37.80,Default,,0,0,0,,Eu sabia que não funcionaria, mas tentei.
+Dialogue: 0,0:04:38.05,0:04:41.51,Default,,0,0,0,,Infelizmente, há um campo delimitado\nna mansão.
+Dialogue: 0,0:04:41.76,0:04:45.27,Default,,0,0,0,,Eu não confiaria nesse sujeito se fosse você.
+Dialogue: 0,0:04:45.48,0:04:46.73,Default,,0,0,0,,Alec!
+Dialogue: 0,0:04:47.02,0:04:51.11,Default,,0,0,0,,Afinal, pode muito bem ter sido ele\nquem assassinou o tio Ernest.
+Dialogue: 0,0:04:51.36,0:04:54.11,Default,,0,0,0,,Alec! Como pode falar assim com o Fernando?
+Dialogue: 0,0:04:54.36,0:04:57.24,Default,,0,0,0,,Você é o sobrinho do senhor Fargo, Alec?
+Dialogue: 0,0:04:58.16,0:04:59.32,Default,,0,0,0,,Fico lisonjeado!
+Dialogue: 0,0:04:59.57,0:05:02.62,Default,,0,0,0,,Você conhece um mago fracassado como eu?
+Dialogue: 0,0:05:02.62,0:05:05.25,Default,,0,0,0,,Acha que eu sou suspeito?
+Dialogue: 0,0:05:05.62,0:05:06.96,Default,,0,0,0,,Quando se trata de magos,
+Dialogue: 0,0:05:06.96,0:05:11.75,Default,,0,0,0,,colegas de pesquisa não são diferentes de assassinos\nprontos para cortar sua garganta enquanto dorme, certo?
+Dialogue: 0,0:05:11.75,0:05:13.21,Default,,0,0,0,,É verdade.
+Dialogue: 0,0:05:13.84,0:05:17.68,Default,,0,0,0,,Mas ouvi dizer que você devia\nquantias astronômicas a Ernest.
+Dialogue: 0,0:05:18.80,0:05:19.51,Default,,0,0,0,,Sim.
+Dialogue: 0,0:05:20.43,0:05:22.47,Default,,0,0,0,,No dia do incidente,
+Dialogue: 0,0:05:22.72,0:05:25.48,Default,,0,0,0,,Alec estava discutindo com o patrão\npor causa disso.
+Dialogue: 0,0:05:25.48,0:05:27.48,Default,,0,0,0,,Claire, sua desgraçada!
+Dialogue: 0,0:05:27.73,0:05:29.60,Default,,0,0,0,,Alec, pare com isso!
+Dialogue: 0,0:05:30.69,0:05:32.94,Default,,0,0,0,,Claire, chega disso você também.
+Dialogue: 0,0:05:33.19,0:05:36.69,Default,,0,0,0,,Você não tem o direito de se meter nesse assunto.
+Dialogue: 0,0:05:37.20,0:05:39.82,Default,,0,0,0,,Peço desculpas, senhorita.
+Dialogue: 0,0:05:40.07,0:05:43.70,Default,,0,0,0,,Você estava aqui\nna noite em que Ernest Fargo morreu?
+Dialogue: 0,0:05:44.08,0:05:45.45,Default,,0,0,0,,Sim. Certamente.
+Dialogue: 0,0:05:45.70,0:05:49.08,Default,,0,0,0,,Apenas nós quatro estávamos aqui naquela noite.
+Dialogue: 0,0:05:49.62,0:05:50.58,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:05:50.58,0:05:55.42,Default,,0,0,0,,Agora, gostaria de ver o local\nda morte de Ernest Fargo.
+Dialogue: 0,0:05:57.01,0:05:59.80,Default,,0,0,0,,O relatório diz que partes do corpo do senhor Fargo\nforam encontradas em cinco locais aqui dentro,
+Dialogue: 0,0:06:00.26,0:06:02.26,Default,,0,0,0,,e em outros dois pontos pela mansão,
+Dialogue: 0,0:06:02.60,0:06:06.14,Default,,0,0,0,,totalizando sete locais distintos.
+Dialogue: 0,0:06:08.48,0:06:12.52,Default,,0,0,0,,A estrutura deste corredor se adequa\nà magia que utiliza corpos celestes.
+Dialogue: 0,0:06:12.98,0:06:15.02,Default,,0,0,0,,Presumo que sejam os Sete Planetas.
+Dialogue: 0,0:06:15.48,0:06:17.03,Default,,0,0,0,,Os Sete Planetas?
+Dialogue: 0,0:06:17.36,0:06:23.83,Default,,0,0,0,,Lembro-me de suas aulas que os Sete Planetas\ncorrespondem a partes do corpo humano.
+Dialogue: 0,0:06:24.03,0:06:24.83,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:06:25.12,0:06:27.83,Default,,0,0,0,,E ao analisar como as partes foram dispostas,
+Dialogue: 0,0:06:28.16,0:06:32.71,Default,,0,0,0,,deverá ficar claro quem as usou\npara a feitiçaria e com qual objetivo.
+Dialogue: 0,0:06:36.25,0:06:38.72,Default,,0,0,0,,É só isso o que o infame Lorde tem a oferecer?
+Dialogue: 0,0:06:39.09,0:06:42.47,Default,,0,0,0,,Até um bebê recém-nascido na magia\nseria capaz de deduzir isso.
+Dialogue: 0,0:06:42.68,0:06:45.68,Default,,0,0,0,,Se as coisas fossem tão simples,
+Dialogue: 0,0:06:45.93,0:06:48.81,Default,,0,0,0,,eu não teria incomodado a família principal\npara chamá-lo até aqui.
+Dialogue: 0,0:06:51.85,0:06:55.02,Default,,0,0,0,,Usamos nossa magia para preservar\na cena do crime intacta.
+Dialogue: 0,0:06:55.86,0:06:57.19,Default,,0,0,0,,Vou dar uma olhada.
+Dialogue: 0,0:07:12.67,0:07:13.63,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:07:13.63,0:07:15.71,Default,,0,0,0,,Agora compreende o que dissemos, Lorde?
+Dialogue: 0,0:07:15.71,0:07:16.84,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:07:17.63,0:07:20.13,Default,,0,0,0,,Não o culpo por estar perplexo.
+Dialogue: 0,0:07:20.42,0:07:22.97,Default,,0,0,0,,Como um ramo da Família Animusphere,
+Dialogue: 0,0:07:23.34,0:07:25.35,Default,,0,0,0,,nós somos astrólogos.
+Dialogue: 0,0:07:25.68,0:07:29.31,Default,,0,0,0,,Tudo o que disse até agora\nfoi a primeira coisa em que pensamos.
+Dialogue: 0,0:07:29.52,0:07:33.73,Default,,0,0,0,,A disposição das partes do corpo\nnão condiz com as tradições que conhecemos.
+Dialogue: 0,0:07:33.73,0:07:35.19,Default,,0,0,0,,Trata-se de Magia Moderna.
+Dialogue: 0,0:07:35.65,0:07:39.98,Default,,0,0,0,,Então pensaram que, por ser Magia Moderna,\neu seria capaz de desvendar isto?
+Dialogue: 0,0:07:39.98,0:07:40.94,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:07:41.86,0:07:43.49,Default,,0,0,0,,Farei o que estiver ao meu alcance.
+Dialogue: 0,0:07:43.49,0:07:46.62,Default,,0,0,0,,Por favor, professor.
+Dialogue: 0,0:07:50.08,0:07:51.50,Default,,0,0,0,,Esta construção...
+Dialogue: 0,0:07:52.16,0:07:54.00,Default,,0,0,0,,Parece tão sufocante.
+Dialogue: 0,0:07:54.42,0:07:57.21,Default,,0,0,0,,É como se fosse uma jaula.
+Dialogue: 0,0:07:57.54,0:08:02.05,Default,,0,0,0,,Senhorita, "jaula" é a definição perfeita para este lugar.
+Dialogue: 0,0:08:02.30,0:08:06.09,Default,,0,0,0,,Professor, algum deles é o assassino?
+Dialogue: 0,0:08:06.34,0:08:10.14,Default,,0,0,0,,Disseram que um campo delimitado foi erguido\nna mansão na noite do assassinato.
+Dialogue: 0,0:08:10.14,0:08:12.60,Default,,0,0,0,,É muito improvável que um invasor externo\ntenha feito isso.
+Dialogue: 0,0:08:12.60,0:08:15.69,Default,,0,0,0,,Para Fernando, o motivo seriam as pesquisas do senhor Fargo.
+Dialogue: 0,0:08:15.69,0:08:17.19,Default,,0,0,0,,Para Alec, a sua fortuna.
+Dialogue: 0,0:08:17.44,0:08:19.40,Default,,0,0,0,,Ambos têm motivos claros.
+Dialogue: 0,0:08:19.69,0:08:24.53,Default,,0,0,0,,E com a morte do pai,\nMary herdaria ambas as coisas.
+Dialogue: 0,0:08:24.53,0:08:28.12,Default,,0,0,0,,O quê? O senhor suspeita da Mary também?
+Dialogue: 0,0:08:28.45,0:08:31.54,Default,,0,0,0,,Estou apenas avaliando as possibilidades, senhorita.
+Dialogue: 0,0:08:31.83,0:08:34.29,Default,,0,0,0,,Então os três são suspeitos?
+Dialogue: 0,0:08:34.29,0:08:36.37,Default,,0,0,0,,Não, na verdade há mais uma pessoa.
+Dialogue: 0,0:08:36.62,0:08:38.96,Default,,0,0,0,,Não está falando da criada, Claire?
+Dialogue: 0,0:08:39.21,0:08:41.71,Default,,0,0,0,,Mas ela nem é uma maga, é?
+Dialogue: 0,0:08:42.26,0:08:44.72,Default,,0,0,0,,A esmagadora maioria dos homicídios com esquartejamento\nem todo o mundo
+Dialogue: 0,0:08:44.97,0:08:47.97,Default,,0,0,0,,é cometida por pessoas normais,\nque não são magos.
+Dialogue: 0,0:08:48.30,0:08:53.10,Default,,0,0,0,,Não posso ter certeza absoluta, mas creio\nque Claire sofria abusos físicos do senhor Fargo.
+Dialogue: 0,0:08:54.89,0:08:55.85,Default,,0,0,0,,Abusos físicos...
+Dialogue: 0,0:08:56.23,0:08:58.40,Default,,0,0,0,,Os movimentos bruscos dela eram lentos.
+Dialogue: 0,0:08:58.65,0:09:01.73,Default,,0,0,0,,É o reflexo típico de alguém\ncom ferimentos sob as roupas.
+Dialogue: 0,0:09:02.07,0:09:04.36,Default,,0,0,0,,Roupas compridas para esconder as marcas dos hematomas.
+Dialogue: 0,0:09:04.36,0:09:05.36,Default,,0,0,0,,Que horror...
+Dialogue: 0,0:09:05.78,0:09:07.36,Default,,0,0,0,,Acha que a Mary sabia disso?
+Dialogue: 0,0:09:07.86,0:09:09.99,Default,,0,0,0,,Ela pode muito bem ter sabido.
+Dialogue: 0,0:09:10.24,0:09:12.24,Default,,0,0,0,,Mas isso não significa que pudesse impedir.
+Dialogue: 0,0:09:12.66,0:09:13.83,Default,,0,0,0,,Por que não?
+Dialogue: 0,0:09:15.08,0:09:18.21,Default,,0,0,0,,Para um mago, os próprios filhos são mera propriedade.
+Dialogue: 0,0:09:19.04,0:09:21.25,Default,,0,0,0,,Ela jamais ousaria desafiar o pai.
+Dialogue: 0,0:09:25.05,0:09:29.30,Default,,0,0,0,,Quem sabe quais segredos repugnantes\nestão escondidos no lar de um mago?
+Dialogue: 0,0:09:29.55,0:09:32.31,Default,,0,0,0,,Não posso afirmar com certeza\nque Mary não tenha um motivo.
+Dialogue: 0,0:09:32.81,0:09:35.06,Default,,0,0,0,,Então todos os quatro têm motivos.
+Dialogue: 0,0:09:35.98,0:09:41.73,Default,,0,0,0,,Sim. Magos produzem fenômenos\nsobrenaturais imprevisíveis.
+Dialogue: 0,0:09:42.07,0:09:42.82,Default,,0,0,0,,Por essa razão,
+Dialogue: 0,0:09:43.07,0:09:44.32,Default,,0,0,0,,o howdunit...
+Dialogue: 0,0:09:44.69,0:09:47.82,Default,,0,0,0,,Como foi feito?\nNão há muito espaço para conjecturas.
+Dialogue: 0,0:09:48.20,0:09:52.33,Default,,0,0,0,,Mas o whydunit...\nPor que fizeram isso? Isso é diferente.
+Dialogue: 0,0:09:54.29,0:09:57.83,Default,,0,0,0,,Sim, essa é a chave para solucionar o mistério.
+Dialogue: 0,0:09:59.21,0:10:02.34,Default,,0,0,0,,De qualquer forma, parece que ainda\nnão temos informações suficientes.
+Dialogue: 0,0:10:02.71,0:10:04.05,Default,,0,0,0,,Vou dar uma caminhada.
+Dialogue: 0,0:10:04.50,0:10:05.59,Default,,0,0,0,,Espere por mim!
+Dialogue: 0,0:10:05.92,0:10:07.13,Default,,0,0,0,,Eu vou com o senhor!
+Dialogue: 0,0:10:11.05,0:10:14.06,Signs,,0,0,0,,Lord El-Melloi II's Case Files\nGrace note
+Dialogue: 0,0:10:15.72,0:10:19.10,Default,,0,0,0,,Sim. Ele gozava de perfeita saúde.
+Dialogue: 0,0:10:19.35,0:10:20.60,Default,,0,0,0,,Era um fumante inveterado,
+Dialogue: 0,0:10:20.94,0:10:23.73,Default,,0,0,0,,mas muito jovial para a sua idade.
+Dialogue: 0,0:10:24.11,0:10:27.24,Default,,0,0,0,,E o meu pai costumava dizer com frequência:
+Dialogue: 0,0:10:28.90,0:10:33.49,Default,,0,0,0,,"A vida é curta demais para alcançar a Raiz."
+Dialogue: 0,0:10:35.37,0:10:38.75,Default,,0,0,0,,Alcançar a Raiz é o sonho de todo mago.
+Dialogue: 0,0:10:39.00,0:10:42.38,Default,,0,0,0,,É por isso que os magos herdam um Brasão Mágico
+Dialogue: 0,0:10:42.63,0:10:45.25,Default,,0,0,0,,e confiam esse sonho à próxima geração.
+Dialogue: 0,0:10:45.25,0:10:50.01,Default,,0,0,0,,Até o fim, o meu pai desejava\nalcançar a Raiz com as próprias mãos.
+Dialogue: 0,0:10:50.26,0:10:52.30,Default,,0,0,0,,Por isso, jamais teria sido suicídio!
+Dialogue: 0,0:10:52.76,0:10:53.72,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:10:54.10,0:10:58.27,Default,,0,0,0,,E a pesquisa de Ernest estava ligada a isso?
+Dialogue: 0,0:10:58.52,0:11:00.39,Default,,0,0,0,,Sim. Pelo que consigo me lembrar,
+Dialogue: 0,0:11:00.94,0:11:04.65,Default,,0,0,0,,meu pai repetia com frequência a palavra "eterno".
+Dialogue: 0,0:11:06.07,0:11:07.48,Default,,0,0,0,,"Eterno"?
+Dialogue: 0,0:11:08.03,0:11:11.07,Default,,0,0,0,,Ele buscava aquilo que dura para sempre.
+Dialogue: 0,0:11:11.65,0:11:15.58,Default,,0,0,0,,Foi nisso que acreditei por toda a minha vida,\nsem sombra de dúvida...
+Dialogue: 0,0:11:15.91,0:11:17.41,Default,,0,0,0,,até conhecer o senhor.
+Dialogue: 0,0:11:17.91,0:11:18.91,Default,,0,0,0,,A mim?
+Dialogue: 0,0:11:19.62,0:11:23.58,Default,,0,0,0,,Na antiguidade, acreditava-se que\nos planetas eram imutáveis.
+Dialogue: 0,0:11:24.13,0:11:27.34,Default,,0,0,0,,Mas hoje sabemos que não é bem assim.
+Dialogue: 0,0:11:27.71,0:11:29.88,Default,,0,0,0,,Como o senhor bem sabe, até mesmo o modelo geocêntrico,
+Dialogue: 0,0:11:30.13,0:11:32.68,Default,,0,0,0,,a premissa fundamental da Astromancia,
+Dialogue: 0,0:11:33.05,0:11:36.97,Default,,0,0,0,,foi refutado no século XVII. Por conseguinte...
+Dialogue: 0,0:11:37.39,0:11:40.48,Default,,0,0,0,,Nem mesmo o brilho das estrelas dura para sempre.
+Dialogue: 0,0:11:42.77,0:11:44.23,Default,,0,0,0,,Esse é o meu professor.
+Dialogue: 0,0:11:44.56,0:11:45.40,Default,,0,0,0,,Bem,
+Dialogue: 0,0:11:45.65,0:11:49.48,Default,,0,0,0,,fico impressionado que se lembre\ndo que ensinei em sala de aula.
+Dialogue: 0,0:11:49.82,0:11:52.82,Default,,0,0,0,,Mesmo naquela época, você já era uma aluna brilhante.
+Dialogue: 0,0:11:54.28,0:11:56.45,Default,,0,0,0,,Eu já estava de olho nestes aqui há um bom tempo.
+Dialogue: 0,0:11:56.70,0:12:00.37,Default,,0,0,0,,Tomos raros de magia devem me render\numa bela fortuna.
+Dialogue: 0,0:12:00.62,0:12:03.67,Default,,0,0,0,,Procurar assassino uma ova.\nQue bobagem.
+Dialogue: 0,0:12:05.54,0:12:08.63,Default,,0,0,0,,Devo conseguir todas as peças logo, mas...
+Dialogue: 0,0:12:11.76,0:12:14.43,Default,,0,0,0,,Professor, há algo que está me intrigando.
+Dialogue: 0,0:12:14.68,0:12:17.80,Default,,0,0,0,,Qual é o problema com aquele salão?
+Dialogue: 0,0:12:17.80,0:12:20.06,Default,,0,0,0,,Ah, sim.
+Dialogue: 0,0:12:21.10,0:12:22.68,Default,,0,0,0,,Vou explicar para você.
+Dialogue: 0,0:12:23.06,0:12:24.73,Default,,0,0,0,,Como também expliquei em sala de aula,
+Dialogue: 0,0:12:25.14,0:12:29.11,Default,,0,0,0,,as partes do corpo humano\ncorrespondem aos Sete Planetas.
+Dialogue: 0,0:12:29.11,0:12:29.77,Default,,0,0,0,,Sim.
+Dialogue: 0,0:12:30.11,0:12:30.94,Default,,0,0,0,,Por exemplo,
+Dialogue: 0,0:12:31.19,0:12:32.49,Default,,0,0,0,,Marte corresponde à cabeça,
+Dialogue: 0,0:12:32.94,0:12:34.82,Default,,0,0,0,,Mercúrio ao tórax e aos braços,
+Dialogue: 0,0:12:35.07,0:12:36.70,Default,,0,0,0,,e o Sol ao coração.
+Dialogue: 0,0:12:37.62,0:12:41.54,Default,,0,0,0,,A cabeça, o tronco, os braços\ne o coração estavam no salão.
+Dialogue: 0,0:12:41.79,0:12:45.42,Default,,0,0,0,,Os ossos e o cabelo estavam na biblioteca.\nAs pernas, no depósito.
+Dialogue: 0,0:12:45.75,0:12:49.92,Default,,0,0,0,,Com efeito, o senhor disse que a disposição\nnão batia com a teoria.
+Dialogue: 0,0:12:50.34,0:12:51.21,Default,,0,0,0,,Correto.
+Dialogue: 0,0:12:51.67,0:12:54.67,Default,,0,0,0,,O ponto decisivo foi o coração,\nassociado ao Sol,
+Dialogue: 0,0:12:54.92,0:12:56.97,Default,,0,0,0,,ter sido colocado no centro da sala.
+Dialogue: 0,0:12:57.39,0:13:00.39,Default,,0,0,0,,Se o Sol estiver no centro, não funciona?
+Dialogue: 0,0:13:00.64,0:13:02.02,Default,,0,0,0,,Nesse tipo de magia,
+Dialogue: 0,0:13:02.27,0:13:03.98,Default,,0,0,0,,o mago fica no centro da sala,
+Dialogue: 0,0:13:04.27,0:13:08.98,Default,,0,0,0,,e ao redor dele são dispostos os itens\nque cumprem as funções do Código.
+Dialogue: 0,0:13:10.32,0:13:12.36,Default,,0,0,0,,No entanto, aqui,
+Dialogue: 0,0:13:12.61,0:13:14.94,Default,,0,0,0,,o coração foi posto no centro do cômodo.
+Dialogue: 0,0:13:25.21,0:13:28.83,Default,,0,0,0,,É como se o próprio cadáver estivesse usando a magia!
+Dialogue: 0,0:13:32.00,0:13:34.38,Default,,0,0,0,,Há algo de errado, professor?
+Dialogue: 0,0:13:35.51,0:13:37.26,Default,,0,0,0,,Lorde, venha rápido!
+Dialogue: 0,0:13:41.60,0:13:43.22,Default,,0,0,0,,Alec! Por quê?
+Dialogue: 0,0:13:43.56,0:13:46.73,Default,,0,0,0,,Foi assim que eu o encontrei.
+Dialogue: 0,0:13:46.98,0:13:49.31,Default,,0,0,0,,Um segundo caso de assassinato, hein?
+Dialogue: 0,0:13:50.06,0:13:52.07,Default,,0,0,0,,Parece até história de mistério de terceira categoria.
+Dialogue: 0,0:13:55.15,0:13:56.28,Default,,0,0,0,,Ei, estou sentindo um cheiro!
+Dialogue: 0,0:13:57.49,0:13:59.07,Default,,0,0,0,,Quem disse isso?
+Dialogue: 0,0:13:59.82,0:14:02.08,Default,,0,0,0,,Se o Add reagiu a alguma coisa...
+Dialogue: 0,0:14:02.28,0:14:03.16,Default,,0,0,0,,Sim.
+Dialogue: 0,0:14:03.49,0:14:07.04,Default,,0,0,0,,Ainda há vestígios de mortos-vivos por aqui.
+Dialogue: 0,0:14:07.04,0:14:08.41,Default,,0,0,0,,Mortos-vivos, você diz?
+Dialogue: 0,0:14:08.83,0:14:10.67,Default,,0,0,0,,Os ossos e o cabelo são símbolos de Saturno,
+Dialogue: 0,0:14:10.92,0:14:14.30,Default,,0,0,0,,que governa os domínios dos mortos.
+Dialogue: 0,0:14:14.50,0:14:19.05,Default,,0,0,0,,Resíduos da mana de Saturno\ninvocaram os mortos-vivos.
+Dialogue: 0,0:14:19.43,0:14:20.76,Default,,0,0,0,,Necromancia.
+Dialogue: 0,0:14:21.76,0:14:23.68,Default,,0,0,0,,Essa é a sua especialidade, não é?
+Dialogue: 0,0:14:23.93,0:14:25.18,Default,,0,0,0,,Ridículo!
+Dialogue: 0,0:14:25.43,0:14:27.48,Default,,0,0,0,,Está dizendo que eu invoquei os mortos-vivos?
+Dialogue: 0,0:14:27.81,0:14:32.40,Default,,0,0,0,,Não. Mas a sua pesquisa está definitivamente\nsendo aplicada.
+Dialogue: 0,0:14:33.11,0:14:34.40,Default,,0,0,0,,A minha?
+Dialogue: 0,0:14:36.65,0:14:38.32,Default,,0,0,0,,Vamos até o salão central.
+Dialogue: 0,0:14:39.99,0:14:43.12,Default,,0,0,0,,Vou revelar tudo lá.
+Dialogue: 0,0:14:47.50,0:14:48.29,Default,,0,0,0,,E então?
+Dialogue: 0,0:14:48.29,0:14:49.37,Default,,0,0,0,,Professor,
+Dialogue: 0,0:14:49.37,0:14:50.62,Default,,0,0,0,,quem é o assassino?
+Dialogue: 0,0:14:51.62,0:14:54.13,Default,,0,0,0,,Explicarei tudo passo a passo.
+Dialogue: 0,0:14:54.54,0:15:00.63,Default,,0,0,0,,Primeiro, a magia montada nesta mansão\nera realmente a dos Sete Planetas.
+Dialogue: 0,0:15:01.13,0:15:04.47,Default,,0,0,0,,É por isso que o corpo foi esquartejado\ne espalhado por sete locais.
+Dialogue: 0,0:15:04.76,0:15:06.43,Default,,0,0,0,,Espere um minuto!
+Dialogue: 0,0:15:06.68,0:15:09.06,Default,,0,0,0,,Nós já dissemos que isso seria impossível!
+Dialogue: 0,0:15:09.27,0:15:11.39,Default,,0,0,0,,Aquilo era uma armadilha.
+Dialogue: 0,0:15:12.31,0:15:13.52,Default,,0,0,0,,Uma armadilha?
+Dialogue: 0,0:15:13.81,0:15:16.40,Default,,0,0,0,,Quando a sua família, um ramo da Família Animusphere,
+Dialogue: 0,0:15:16.65,0:15:21.03,Default,,0,0,0,,usa Astromancia, vocês seguem\no modelo geocêntrico, não é?
+Dialogue: 0,0:15:21.24,0:15:22.53,Default,,0,0,0,,Está correto.
+Dialogue: 0,0:15:22.53,0:15:26.37,Default,,0,0,0,,A magia que segue a teoria heliocêntrica,\nonde a Terra não está no centro,
+Dialogue: 0,0:15:26.62,0:15:29.29,Default,,0,0,0,,não passa de uma técnica recente com pouca história!
+Dialogue: 0,0:15:29.29,0:15:31.79,Default,,0,0,0,,Ela vai contra as nossas tradições!
+Dialogue: 0,0:15:31.79,0:15:35.08,Default,,0,0,0,,Sim. Essa é a estética dos Animusphere.
+Dialogue: 0,0:15:35.67,0:15:38.30,Default,,0,0,0,,Mas houve alguém que abandonou essa crença.
+Dialogue: 0,0:15:38.55,0:15:41.55,Default,,0,0,0,,Foi o próprio Ernest Fargo.
+Dialogue: 0,0:15:41.55,0:15:42.63,Default,,0,0,0,,O quê?
+Dialogue: 0,0:15:43.05,0:15:44.76,Default,,0,0,0,,Ele queria buscar algo...
+Dialogue: 0,0:15:45.01,0:15:49.06,Default,,0,0,0,,mesmo que precisasse distorcer tradição,\nestética ou crença.
+Dialogue: 0,0:15:49.31,0:15:51.27,Default,,0,0,0,,Esse algo era o sonho que ele desejava realizar.
+Dialogue: 0,0:15:58.15,0:15:59.15,Default,,0,0,0,,Como eu pensei.
+Dialogue: 0,0:16:02.82,0:16:04.49,Default,,0,0,0,,I-Isso é...
+Dialogue: 0,0:16:05.03,0:16:09.20,Default,,0,0,0,,O coração, que simboliza o Sol,\nfoi colocado no centro da mansão.
+Dialogue: 0,0:16:09.45,0:16:11.58,Default,,0,0,0,,Em seguida, em um padrão circular,\nvêm os braços de Mercúrio,
+Dialogue: 0,0:16:11.83,0:16:14.00,Default,,0,0,0,,continuando com a garganta de Vênus.
+Dialogue: 0,0:16:14.00,0:16:18.04,Default,,0,0,0,,O Sol, Mercúrio, Vênus e o próximo...
+Dialogue: 0,0:16:18.42,0:16:19.46,Default,,0,0,0,,A Terra?
+Dialogue: 0,0:16:20.09,0:16:20.92,Default,,0,0,0,,Sim.
+Dialogue: 0,0:16:21.30,0:16:24.55,Default,,0,0,0,,Mas não há parte do corpo\nque corresponda à Terra.
+Dialogue: 0,0:16:24.80,0:16:26.72,Default,,0,0,0,,A alma corresponde a ela.
+Dialogue: 0,0:16:27.10,0:16:31.52,Default,,0,0,0,,Portanto, deduzi que algo aqui\ndeveria conter a alma dele.
+Dialogue: 0,0:16:50.33,0:16:53.04,Default,,0,0,0,,Como suspeitava, a mansão inteira\né uma oficina
+Dialogue: 0,0:16:53.04,0:16:56.17,Default,,0,0,0,,projetada para lhe conceder a existência eterna!
+Dialogue: 0,0:16:59.13,0:17:00.34,Default,,0,0,0,,Pai!
+Dialogue: 0,0:17:01.09,0:17:04.42,Default,,0,0,0,,Mary, minha filha...
+Dialogue: 0,0:17:05.09,0:17:09.39,Default,,0,0,0,,Entregue-me a sua vida!
+Dialogue: 0,0:17:09.39,0:17:11.93,Default,,0,0,0,,Ainda não tenho o bastante para a eternidade!
+Dialogue: 0,0:17:12.27,0:17:13.39,Default,,0,0,0,,Vida...
+Dialogue: 0,0:17:13.64,0:17:14.98,Default,,0,0,0,,Conhecimento...
+Dialogue: 0,0:17:15.23,0:17:17.94,Default,,0,0,0,,Poder!
+Dialogue: 0,0:17:19.48,0:17:20.32,Default,,0,0,0,,Ei!
+Dialogue: 0,0:17:20.32,0:17:22.03,Default,,0,0,0,,Esse sujeito é encrenca das grandes!
+Dialogue: 0,0:17:22.82,0:17:23.86,Default,,0,0,0,,Pai...
+Dialogue: 0,0:17:24.36,0:17:25.32,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:17:25.32,0:17:27.20,Default,,0,0,0,,O ritual foi imperfeito.
+Dialogue: 0,0:17:27.95,0:17:29.49,Default,,0,0,0,,Tratava-se de um feitiço experimental,
+Dialogue: 0,0:17:29.87,0:17:31.53,Default,,0,0,0,,algo totalmente novo para a tradição da sua família.
+Dialogue: 0,0:17:31.78,0:17:33.33,Default,,0,0,0,,Naturalmente, jamais seria estável.
+Dialogue: 0,0:17:33.33,0:17:34.54,Default,,0,0,0,,Além do mais,
+Dialogue: 0,0:17:34.79,0:17:36.33,Default,,0,0,0,,ele não buscava apenas prolongar a vida,
+Dialogue: 0,0:17:36.33,0:17:37.83,Default,,0,0,0,,mas a própria imortalidade!
+Dialogue: 0,0:17:38.21,0:17:39.21,Default,,0,0,0,,Ernest!
+Dialogue: 0,0:17:39.58,0:17:44.38,Default,,0,0,0,,Em vez de confiar o sonho à próxima geração\ncomo fazem os outros magos,
+Dialogue: 0,0:17:45.05,0:17:48.22,Default,,0,0,0,,ele quis alcançar a Raiz pessoalmente,\na qualquer custo.
+Dialogue: 0,0:17:48.59,0:17:50.64,Default,,0,0,0,,Assim, usando o céu e a Terra como modelo,
+Dialogue: 0,0:17:50.64,0:17:52.76,Default,,0,0,0,,espalhou pedaços de seu próprio corpo,
+Dialogue: 0,0:17:53.01,0:17:56.60,Default,,0,0,0,,simbolizando os Sete Planetas,\ndentro desta mansão, um microcosmo do mundo.
+Dialogue: 0,0:17:56.81,0:17:58.27,Default,,0,0,0,,O que você fez?
+Dialogue: 0,0:17:58.27,0:18:02.32,Default,,0,0,0,,Ao fazer isso, ele pretendia se fundir\nao cosmo desta mansão,
+Dialogue: 0,0:18:02.32,0:18:04.90,Default,,0,0,0,,alcançando assim uma existência eterna!
+Dialogue: 0,0:18:08.61,0:18:10.16,Default,,0,0,0,,O meu sonho...
+Dialogue: 0,0:18:10.99,0:18:11.99,Default,,0,0,0,,A Raiz...
+Dialogue: 0,0:18:12.24,0:18:13.66,Default,,0,0,0,,Além deste mundo!
+Dialogue: 0,0:18:19.62,0:18:21.67,Default,,0,0,0,,Professor, acho que é tarde demais para...
+Dialogue: 0,0:18:22.04,0:18:22.92,Default,,0,0,0,,Eu sei.
+Dialogue: 0,0:18:24.75,0:18:26.42,Default,,0,0,0,,Consegue fazer isso, Gray?
+Dialogue: 0,0:18:28.76,0:18:29.51,Default,,0,0,0,,Sim.
+Dialogue: 0,0:18:30.80,0:18:32.22,Default,,0,0,0,,E-Ei, o que vocês estão...
+Dialogue: 0,0:18:32.43,0:18:33.81,Default,,0,0,0,,Ela sozinha? É perigoso demais!
+Dialogue: 0,0:18:34.06,0:18:35.47,Default,,0,0,0,,Nós devíamos ajudá-la!
+Dialogue: 0,0:18:35.47,0:18:36.47,Default,,0,0,0,,Desnecessário.
+Dialogue: 0,0:18:36.72,0:18:38.10,Default,,0,0,0,,Na verdade, devemos nos afastar.
+Dialogue: 0,0:18:38.89,0:18:40.48,Default,,0,0,0,,Caso contrário, seremos pegos no fogo cruzado!
+Dialogue: 0,0:18:41.06,0:18:41.86,Default,,0,0,0,,Add!
+Dialogue: 0,0:18:41.86,0:18:42.69,Default,,0,0,0,,É para já!
+Dialogue: 0,0:18:43.90,0:18:46.65,Default,,0,0,0,,Primeiro estágio de restrição revogado!
+Dialogue: 0,0:18:59.50,0:19:00.37,Default,,0,0,0,,Aquilo é...
+Dialogue: 0,0:19:00.37,0:19:04.88,Default,,0,0,0,,Seria um Código Místico contra mortos-vivos?
+Dialogue: 0,0:19:11.47,0:19:14.05,Default,,0,0,0,,Adorei! Um banquete!
+Dialogue: 0,0:19:14.39,0:19:15.31,Default,,0,0,0,,Gray.
+Dialogue: 0,0:19:16.06,0:19:16.85,Default,,0,0,0,,Rave.
+Dialogue: 0,0:19:17.81,0:19:18.81,Default,,0,0,0,,Crave.
+Dialogue: 0,0:19:20.14,0:19:21.19,Default,,0,0,0,,Deprave.
+Dialogue: 0,0:19:27.94,0:19:30.53,Default,,0,0,0,,Ela está devorando a mana ao redor dela?
+Dialogue: 0,0:19:30.86,0:19:33.36,Default,,0,0,0,,Professor, quem afinal é a sua aprendiz?
+Dialogue: 0,0:19:33.36,0:19:36.78,Default,,0,0,0,,Acha mesmo que vou deixar você me destruir?
+Dialogue: 0,0:19:37.29,0:19:41.79,Default,,0,0,0,,Eu sou eterno!
+Dialogue: 0,0:19:45.13,0:19:47.13,Default,,0,0,0,,Grave me.
+Dialogue: 0,0:19:51.34,0:19:53.47,Default,,0,0,0,,Grave for you.
+Dialogue: 0,0:20:28.21,0:20:29.71,Default,,0,0,0,,Está tudo bem agora.
+Dialogue: 0,0:20:30.13,0:20:32.09,Default,,0,0,0,,Deixe o restante com a família principal.
+Dialogue: 0,0:20:32.34,0:20:35.13,Default,,0,0,0,,Obrigada por tudo.
+Dialogue: 0,0:20:35.43,0:20:37.10,Default,,0,0,0,,Eu não fiz muita coisa.
+Dialogue: 0,0:20:37.89,0:20:42.43,Default,,0,0,0,,Ainda assim, não acredito que ele se arriscou\na testar uma magia tão incompleta.
+Dialogue: 0,0:20:42.43,0:20:47.11,Default,,0,0,0,,Alcançar a imortalidade\nsempre foi o maior desejo do meu pai.
+Dialogue: 0,0:20:47.86,0:20:52.36,Default,,0,0,0,,Bem, há uma dedução que fiz\ne que não compartilhei lá dentro.
+Dialogue: 0,0:20:52.36,0:20:53.28,Default,,0,0,0,,Professor?
+Dialogue: 0,0:20:53.28,0:20:56.11,Default,,0,0,0,,Mary, você sabia, não sabia?
+Dialogue: 0,0:20:56.41,0:20:59.53,Default,,0,0,0,,Que o ritual do seu pai terminaria em fracasso.
+Dialogue: 0,0:21:00.20,0:21:02.25,Default,,0,0,0,,Você é uma maga brilhante.
+Dialogue: 0,0:21:03.04,0:21:05.42,Default,,0,0,0,,Mesmo que ele não tenha lhe contado tudo,
+Dialogue: 0,0:21:05.67,0:21:10.59,Default,,0,0,0,,tenho certeza de que tinha meios de descobrir\na natureza da pesquisa e o objetivo dele.
+Dialogue: 0,0:21:11.84,0:21:14.59,Default,,0,0,0,,É claro que você não tinha intenção assassina.
+Dialogue: 0,0:21:14.88,0:21:19.85,Default,,0,0,0,,Mas também não impediu o seu pai\nde realizar um ritual defeituoso.
+Dialogue: 0,0:21:19.85,0:21:21.06,Default,,0,0,0,,Estou errado?
+Dialogue: 0,0:21:22.85,0:21:25.52,Default,,0,0,0,,Se estiver certo, e daí?
+Dialogue: 0,0:21:26.14,0:21:28.73,Default,,0,0,0,,Nada. Não há nada que eu possa fazer.
+Dialogue: 0,0:21:28.98,0:21:30.90,Default,,0,0,0,,Eu não tenho provas.
+Dialogue: 0,0:21:31.15,0:21:32.86,Default,,0,0,0,,É apenas uma hipótese.
+Dialogue: 0,0:21:33.11,0:21:35.32,Default,,0,0,0,,Mas quanto ao whydunit...
+Dialogue: 0,0:21:35.57,0:21:38.28,Default,,0,0,0,,Fiquei curioso sobre o motivo de você não o ter impedido.
+Dialogue: 0,0:21:40.28,0:21:43.16,Default,,0,0,0,,Se o meu pai alcançasse a imortalidade,
+Dialogue: 0,0:21:43.41,0:21:46.54,Default,,0,0,0,,a minha situação jamais mudaria.
+Dialogue: 0,0:21:47.92,0:21:51.54,Default,,0,0,0,,Meu pai me manteria prisioneira\nna jaula desta mansão pelo resto da vida.
+Dialogue: 0,0:21:52.21,0:21:56.42,Default,,0,0,0,,Então, tudo o que fiz foi provar para ele\nque nada é eterno.
+Dialogue: 0,0:21:57.01,0:21:58.80,Default,,0,0,0,,Exatamente como o senhor me ensinou.
+Dialogue: 0,0:22:01.89,0:22:06.18,Default,,0,0,0,,Muito obrigada, professor. Muito obrigada por tudo.
+Dialogue: 0,0:22:06.85,0:22:07.94,Default,,0,0,0,,Cuide-se.
+Dialogue: 0,0:22:16.24,0:22:18.11,Default,,0,0,0,,Nada é eterno.
+Dialogue: 0,0:22:18.36,0:22:20.28,Default,,0,0,0,,Tudo muda.
+Dialogue: 0,0:22:20.53,0:22:22.87,Default,,0,0,0,,E as pessoas não são exceção.
+Dialogue: 0,0:22:22.87,0:22:24.20,Default,,0,0,0,,Professor...
+Dialogue: 0,0:22:26.08,0:22:27.71,Default,,0,0,0,,Vamos para casa.
+Dialogue: 0,0:22:28.29,0:22:29.92,Default,,0,0,0,,Sim, senhor.
+Dialogue: 0,0:22:38.09,0:22:41.09,Signs,,0,0,0,,EPISÓDIO 2: As Sete Estrelas e a Jaula Eterna

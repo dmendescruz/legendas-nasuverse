@@ -1,0 +1,386 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E03 - Thunder and the Underground Labyrinth (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.35,0:00:04.98,Default,,0,0,0,,Ouvi dizer que o Departamento de Zoologia estava em polvorosa.
+Dialogue: 0,0:00:05.23,0:00:09.02,Default,,0,0,0,,Não imaginei que o Sir Kharadron fosse ser assassinado.
+Dialogue: 0,0:00:09.44,0:00:13.07,Default,,0,0,0,,Há tantas pessoas obcecadas tentando tomar o lugar dele.
+Dialogue: 0,0:00:13.86,0:00:18.49,Default,,0,0,0,,A ponto de idiotas se agarrarem\nao meu irmão mais velho implorando por ajuda.
+Dialogue: 0,0:00:18.49,0:00:21.91,Default,,0,0,0,,E como ele está lidando com isso?
+Dialogue: 0,0:00:22.16,0:00:27.25,Default,,0,0,0,,Meu irmão mais velho continua tão fascinado\npela Guerra do Santo Graal como sempre.
+Dialogue: 0,0:00:27.50,0:00:30.75,Default,,0,0,0,,O Grande Cálice de Fuyuki, hein?
+Dialogue: 0,0:00:30.96,0:00:34.59,Default,,0,0,0,,Sete magos em busca\ndo realizador onipotente de desejos
+Dialogue: 0,0:00:34.84,0:00:38.51,Default,,0,0,0,,invocam sete Servos para lutar.
+Dialogue: 0,0:00:38.85,0:00:41.01,Default,,0,0,0,,Vingando o que aconteceu há dez anos?
+Dialogue: 0,0:00:41.01,0:00:43.64,Default,,0,0,0,,Ou buscando vingança pelo mentor dele, Kayneth?
+Dialogue: 0,0:00:43.89,0:00:45.10,Default,,0,0,0,,Ele é um homem bastante curioso.
+Dialogue: 0,0:00:46.94,0:00:47.94,Default,,0,0,0,,Algum problema?
+Dialogue: 0,0:00:48.19,0:00:51.52,Default,,0,0,0,,Não. Apenas achei um pouco estranho.
+Dialogue: 0,0:00:52.07,0:00:53.57,Default,,0,0,0,,O Grande Cálice...
+Dialogue: 0,0:00:53.90,0:00:55.57,Default,,0,0,0,,Se ele realmente existe,
+Dialogue: 0,0:00:55.82,0:01:01.58,Default,,0,0,0,,mesmo sendo um ritual taumatúrgico local no Extremo Oriente,\ndeveria ter causado um alvoroço muito maior.
+Dialogue: 0,0:01:01.91,0:01:06.16,Default,,0,0,0,,Para a morte de um Lorde,\nestá quieto até demais.
+Dialogue: 0,0:01:06.54,0:01:08.25,Default,,0,0,0,,O mesmo vale para o seu\nDepartamento de Evocação Espiritual.
+Dialogue: 0,0:01:08.25,0:01:12.67,Default,,0,0,0,,Considerando que a filha do diretor morreu, certo?
+Dialogue: 0,0:01:13.05,0:01:17.09,Default,,0,0,0,,Será que alguém está abafando as informações?
+Dialogue: 0,0:01:17.09,0:01:18.97,Default,,0,0,0,,É mera especulação.
+Dialogue: 0,0:01:19.22,0:01:23.10,Default,,0,0,0,,Mas foi descuido seu não ter chegado a essa conclusão.
+Dialogue: 0,0:01:23.52,0:01:28.06,Default,,0,0,0,,Bem, deixaremos o meu querido irmão mais velho\npassar por todas as provações.
+Dialogue: 0,0:02:59.78,0:03:01.95,Default,,0,0,0,,Ai, ai, ai, ui!
+Dialogue: 0,0:03:00.11,0:03:02.57,Default,,0,0,0,,Flat, você é tão...
+Dialogue: 0,0:03:02.57,0:03:07.95,Default,,0,0,0,,Qual era o problema de usar pirita\nsó porque eu não tinha sal-gema?
+Dialogue: 0,0:03:07.95,0:03:09.20,Default,,0,0,0,,O problema é tudo!
+Dialogue: 0,0:03:09.20,0:03:11.33,Default,,0,0,0,,Em uma aula para criar um feitiço de erguer campos delimitados,
+Dialogue: 0,0:03:11.33,0:03:13.96,Default,,0,0,0,,por que diabos você criaria um feitiço para destruí-los?!
+Dialogue: 0,0:03:14.46,0:03:17.59,Default,,0,0,0,,É verdade que tanto o sal-gema quanto a pirita\npossuem cristais cúbicos
+Dialogue: 0,0:03:17.59,0:03:19.42,Default,,0,0,0,,e simbolizam o domínio da Terra.
+Dialogue: 0,0:03:19.80,0:03:25.72,Default,,0,0,0,,Mas a pirita também possui o elemento Fogo,\ncomo indicado pelo "pyr" em seu nome!
+Dialogue: 0,0:03:25.35,0:03:28.22,Default,,0,0,0,,Aí está, o golpe supremo dele: a Garra de Ferro!
+Dialogue: 0,0:03:25.72,0:03:29.68,Default,,0,0,0,,Se você tivesse continuado o ritual,\nnão teria criado um campo delimitado,
+Dialogue: 0,0:03:29.68,0:03:31.89,Default,,0,0,0,,Me aperte mais forte, professor!
+Dialogue: 0,0:03:29.68,0:03:33.69,Default,,0,0,0,,mas sim arruinado o equilíbrio de mana ao redor,\nfazendo-o explodir descontroladamente!
+Dialogue: 0,0:03:32.94,0:03:37.27,Default,,0,0,0,,Ele ainda está longe do nível de Flitz Von Erik.
+Dialogue: 0,0:03:34.06,0:03:38.73,Default,,0,0,0,,Para começar, se jogar pirita em ácido nítrico,\nvocê cria gás venenoso!
+Dialogue: 0,0:03:37.27,0:03:38.73,Default,,0,0,0,,Você entende mesmo de luta livre.
+Dialogue: 0,0:03:39.19,0:03:41.53,Default,,0,0,0,,Toda dama refinada deveria entender de luta livre.
+Dialogue: 0,0:03:41.90,0:03:42.90,Default,,0,0,0,,Contudo...
+Dialogue: 0,0:03:45.24,0:03:46.87,Default,,0,0,0,,Eu me rendo! Eu me rendo, professor!
+Dialogue: 0,0:03:46.87,0:03:48.33,Default,,0,0,0,,Você... Seu moleque!
+Dialogue: 0,0:03:48.58,0:03:51.41,Default,,0,0,0,,Todas as vezes você esbanja o seu talento\npara fazer o que bem entende!
+Dialogue: 0,0:03:52.21,0:03:56.17,Default,,0,0,0,,Se o meu eu do passado tivesse um talento como o seu,
+Dialogue: 0,0:03:56.54,0:03:58.29,Default,,0,0,0,,eu seria...
+Dialogue: 0,0:04:00.80,0:04:01.92,Default,,0,0,0,,Professor?
+Dialogue: 0,0:04:06.85,0:04:09.01,Default,,0,0,0,,Ai! Ai!
+Dialogue: 0,0:04:09.31,0:04:10.56,Default,,0,0,0,,Eu me exaltei.
+Dialogue: 0,0:04:10.81,0:04:12.39,Default,,0,0,0,,Continuarei com a aula.
+Dialogue: 0,0:04:12.77,0:04:17.06,Default,,0,0,0,,Agora, sobre o equilíbrio do campo\nem um domínio de justiça...
+Dialogue: 0,0:04:18.36,0:04:22.15,Default,,0,0,0,,O que significa esse estado deplorável\nem que o Lorde El-Melloi II se encontra?
+Dialogue: 0,0:04:22.36,0:04:24.03,Default,,0,0,0,,P-Peço desculpas.
+Dialogue: 0,0:04:24.03,0:04:28.24,Default,,0,0,0,,Eu vim desde a Finlândia para assistir a uma palestra!
+Dialogue: 0,0:04:29.99,0:04:34.12,Default,,0,0,0,,Mas se ele está assim, não posso chamá-lo\nde tutor de Luviagelita Edelfelt!
+Dialogue: 0,0:04:34.54,0:04:38.17,Default,,0,0,0,,Onde foi parar o brilhantismo\nque ele demonstrou no Castelo da Separação?
+Dialogue: 0,0:04:38.79,0:04:40.42,Default,,0,0,0,,Responda-me, Gray.
+Dialogue: 0,0:04:42.30,0:04:44.42,Default,,0,0,0,,N-Na verdade...
+Dialogue: 0,0:04:44.63,0:04:46.59,Default,,0,0,0,,Uma casa de chá fechou?
+Dialogue: 0,0:04:46.59,0:04:47.51,Default,,0,0,0,,Hã?
+Dialogue: 0,0:04:47.97,0:04:54.06,Default,,0,0,0,,Sim. A casa de chá favorita dele fechou\ndevido a um defeito elétrico.
+Dialogue: 0,0:04:54.43,0:04:58.19,Default,,0,0,0,,Eu sei que os ingleses amam chá,\nmas todo esse drama por uma casa de chá...
+Dialogue: 0,0:04:58.65,0:05:03.57,Default,,0,0,0,,Não há outros estabelecimentos\nonde ele possa comer perto de casa.
+Dialogue: 0,0:05:03.57,0:05:07.41,Default,,0,0,0,,Para escrever artigos, para eu comprar o almoço...
+Dialogue: 0,0:05:07.99,0:05:11.37,Default,,0,0,0,,O trabalho dele simplesmente não anda sem aquele lugar.
+Dialogue: 0,0:05:11.62,0:05:13.16,Default,,0,0,0,,Essa é a razão?
+Dialogue: 0,0:05:13.58,0:05:16.62,Default,,0,0,0,,Essa é a coisa mais mesquinha\nda história da Torre do Relógio!
+Dialogue: 0,0:05:16.92,0:05:21.29,Default,,0,0,0,,Mas ele disse que iria perguntar ao dono\nsobre a situação esta noite,
+Dialogue: 0,0:05:21.67,0:05:22.92,Default,,0,0,0,,então tenho certeza de que...
+Dialogue: 0,0:05:24.92,0:05:26.30,Default,,0,0,0,,Estou contando com você.
+Dialogue: 0,0:05:26.59,0:05:27.68,Default,,0,0,0,,Nossa!
+Dialogue: 0,0:05:34.64,0:05:35.81,Default,,0,0,0,,Reines!
+Dialogue: 0,0:05:36.06,0:05:39.44,Default,,0,0,0,,Poderia me conceder um momento,\njovem senhorita dos Edelfelt?
+Dialogue: 0,0:05:42.32,0:05:44.94,Default,,0,0,0,,É sobre a Guerra do Santo Graal.
+Dialogue: 0,0:05:46.03,0:05:47.28,Default,,0,0,0,,Isto é terrível.
+Dialogue: 0,0:05:47.70,0:05:49.86,Default,,0,0,0,,Acho que é um rato.
+Dialogue: 0,0:05:50.11,0:05:51.66,Default,,0,0,0,,Aparentemente, há uma fuga de eletricidade.
+Dialogue: 0,0:05:51.91,0:05:55.54,Default,,0,0,0,,A conta de luz veio em um valor\nque preferimos nem comentar.
+Dialogue: 0,0:05:55.54,0:05:57.16,Default,,0,0,0,,Um roedor?
+Dialogue: 0,0:05:57.50,0:06:00.00,Default,,0,0,0,,Não. E quanto ao departamento público?
+Dialogue: 0,0:06:00.25,0:06:04.38,Default,,0,0,0,,Nós os consultamos, mas bem,\neles não sabem quanto tempo vai levar.
+Dialogue: 0,0:06:04.38,0:06:06.88,Default,,0,0,0,,Então contratamos dedetizadores de roedores, mas...
+Dialogue: 0,0:06:06.88,0:06:07.76,Default,,0,0,0,,O que aconteceu?
+Dialogue: 0,0:06:10.18,0:06:11.72,Default,,0,0,0,,Um deles desapareceu.
+Dialogue: 0,0:06:12.18,0:06:15.93,Default,,0,0,0,,O outro disse que viu algo horrível
+Dialogue: 0,0:06:16.18,0:06:19.19,Default,,0,0,0,,e quer fazer qualquer outro trabalho,\nmenos este.
+Dialogue: 0,0:06:20.60,0:06:22.27,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:06:22.77,0:06:25.65,Default,,0,0,0,,Posso dar uma olhada nas coisas?
+Dialogue: 0,0:06:29.53,0:06:31.41,Default,,0,0,0,,Esta é uma magia de Zoologia.
+Dialogue: 0,0:06:32.82,0:06:34.66,Default,,0,0,0,,A eletricidade está vazando daqui.
+Dialogue: 0,0:06:34.91,0:06:36.91,Default,,0,0,0,,Não, ela está sendo absorvida.
+Dialogue: 0,0:06:37.62,0:06:39.04,Default,,0,0,0,,Uma criatura peluda.
+Dialogue: 0,0:06:39.29,0:06:40.12,Default,,0,0,0,,Eletricidade.
+Dialogue: 0,0:06:40.37,0:06:41.42,Default,,0,0,0,,Azul.
+Dialogue: 0,0:06:42.17,0:06:43.71,Default,,0,0,0,,Então é isso o que significa.
+Dialogue: 0,0:06:48.72,0:06:50.34,Default,,0,0,0,,Descobriu alguma coisa?
+Dialogue: 0,0:06:50.59,0:06:53.55,Default,,0,0,0,,Sim. Identifiquei o problema principal.
+Dialogue: 0,0:06:53.80,0:06:55.39,Default,,0,0,0,,Vou descer lá embaixo agora mesmo.
+Dialogue: 0,0:06:55.89,0:06:58.98,Default,,0,0,0,,Os professores universitários vão tão longe assim?
+Dialogue: 0,0:06:58.98,0:07:01.14,Default,,0,0,0,,E se algo acontecer com o senhor também...
+Dialogue: 0,0:07:03.77,0:07:09.19,Default,,0,0,0,,Se esta loja continuar fechada,\neu causarei problemas aos meus aprendizes.
+Dialogue: 0,0:07:16.20,0:07:18.66,Default,,0,0,0,,Um sistema de esgoto do século XIX.
+Dialogue: 0,0:07:23.96,0:07:25.59,Default,,0,0,0,,É maior do que eu esperava.
+Dialogue: 0,0:07:26.17,0:07:29.13,Default,,0,0,0,,Não. Ele está se expandindo?
+Dialogue: 0,0:07:36.18,0:07:38.01,Default,,0,0,0,,Um campo delimitado de raios, hein?
+Dialogue: 0,0:07:38.43,0:07:40.77,Default,,0,0,0,,Então a oficina de algum mago\nestá aqui embaixo, afinal.
+Dialogue: 0,0:07:41.56,0:07:45.94,Default,,0,0,0,,Sistema de esgoto, oficina e raios.
+Dialogue: 0,0:07:47.94,0:07:49.36,Default,,0,0,0,,Traz tantas lembranças.
+Dialogue: 0,0:07:56.87,0:07:58.24,Default,,0,0,0,,Professor...
+Dialogue: 0,0:08:01.83,0:08:02.66,Default,,0,0,0,,Alô?
+Dialogue: 0,0:08:04.29,0:08:05.38,Default,,0,0,0,,O professor...
+Dialogue: 0,0:08:05.38,0:08:08.34,Default,,0,0,0,,Incrível! Você é incrível, novato!
+Dialogue: 0,0:08:08.34,0:08:11.17,Default,,0,0,0,,Então é isso que vocês chamam de Internet!
+Dialogue: 0,0:08:12.30,0:08:15.09,Default,,0,0,0,,Caules, não é? Você é o melhor!
+Dialogue: 0,0:08:15.34,0:08:17.51,Default,,0,0,0,,Não é nada demais, na verdade.
+Dialogue: 0,0:08:17.51,0:08:20.97,Default,,0,0,0,,Bem, nós estávamos com muito medo\nde mexer no computador do Flat.
+Dialogue: 0,0:08:21.22,0:08:22.35,Default,,0,0,0,,O quê, o quê?
+Dialogue: 0,0:08:22.35,0:08:24.10,Default,,0,0,0,,Nossa, é um PC novinho em folha!
+Dialogue: 0,0:08:24.35,0:08:25.31,Default,,0,0,0,,É tão incrível assim?
+Dialogue: 0,0:08:25.31,0:08:27.27,Default,,0,0,0,,E ele tem múltiplos monitores!
+Dialogue: 0,0:08:27.52,0:08:29.73,Default,,0,0,0,,Que máquina maravilhosa! Foi você quem montou?
+Dialogue: 0,0:08:29.73,0:08:30.94,Default,,0,0,0,,S-Sim.
+Dialogue: 0,0:08:31.19,0:08:33.65,Default,,0,0,0,,É especializado em buscas e gestão de bancos de dados.
+Dialogue: 0,0:08:33.65,0:08:35.07,Default,,0,0,0,,Eu interliguei os monitores através de uma rede local.
+Dialogue: 0,0:08:35.07,0:08:38.28,Default,,0,0,0,,Tão maneiro! Que inveja! Qual placa de vídeo você usa?
+Dialogue: 0,0:08:39.12,0:08:39.87,Default,,0,0,0,,Hã?
+Dialogue: 0,0:08:41.04,0:08:42.45,Default,,0,0,0,,Alô, aqui é o Flat.
+Dialogue: 0,0:08:42.83,0:08:44.08,Default,,0,0,0,,Ah, Gray?
+Dialogue: 0,0:08:44.37,0:08:45.50,Default,,0,0,0,,Sim, sim.
+Dialogue: 0,0:08:45.83,0:08:47.00,Default,,0,0,0,,Ele acabou de dizer "Gray-tan"?
+Dialogue: 0,0:08:49.17,0:08:50.96,Default,,0,0,0,,O professor ainda não voltou?
+Dialogue: 0,0:08:51.34,0:08:53.01,Default,,0,0,0,,Recebi uma ligação da casa de chá.
+Dialogue: 0,0:08:53.51,0:08:56.84,Default,,0,0,0,,Disseram que o professor desceu nos esgotos\ne ainda não retornou.
+Dialogue: 0,0:08:57.05,0:08:58.64,Default,,0,0,0,,Certo, entendi!
+Dialogue: 0,0:08:58.64,0:09:01.89,Default,,0,0,0,,Não se preocupe, deixe o resto comigo.\nVou para aí agora mesmo.
+Dialogue: 0,0:09:02.14,0:09:02.97,Default,,0,0,0,,Até mais!
+Dialogue: 0,0:09:02.97,0:09:03.89,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:09:04.23,0:09:07.56,Default,,0,0,0,,Por que não fui eu? Por que você\nrecebe um telefonema da Gray-tan?
+Dialogue: 0,0:09:07.81,0:09:09.15,Default,,0,0,0,,Me diga agora mesmo!
+Dialogue: 0,0:09:09.40,0:09:12.82,Default,,0,0,0,,Ouvir a voz da Gray-tan bem pertinho do seu ouvido...
+Dialogue: 0,0:09:10.36,0:09:12.82,Default,,0,0,0,,Ei, pare com isso! Vai quebrar meu computador!
+Dialogue: 0,0:09:12.82,0:09:14.86,Default,,0,0,0,,Me dá essa orelha! Que inveja!
+Dialogue: 0,0:09:13.19,0:09:14.86,Default,,0,0,0,,Por favor, pare com isso!
+Dialogue: 0,0:09:15.49,0:09:20.62,Default,,0,0,0,,O que aconteceu entre você e aquela Gray-tan\namarela, redonda e com cheirinho fofo?!
+Dialogue: 0,0:09:21.91,0:09:22.87,Default,,0,0,0,,Isso é porque...
+Dialogue: 0,0:09:23.16,0:09:24.62,Default,,0,0,0,,Porque o quê?
+Dialogue: 0,0:09:25.29,0:09:29.13,Default,,0,0,0,,porque você não tem um celular, Le Chien?
+Dialogue: 0,0:09:32.00,0:09:34.63,Default,,0,0,0,,E-Entendo. Um celular...
+Dialogue: 0,0:09:34.88,0:09:38.38,Default,,0,0,0,,Se eu tiver um celular,\npoderei ligar para a Gray-tan.
+Dialogue: 0,0:09:38.84,0:09:40.97,Default,,0,0,0,,Vou assinar um plano de celular agora mesmo!
+Dialogue: 0,0:09:40.97,0:09:42.10,Default,,0,0,0,,Não, não, não.
+Dialogue: 0,0:09:42.68,0:09:46.10,Default,,0,0,0,,A loja de celulares já fechou por hoje.\nVamos logo!
+Dialogue: 0,0:09:43.39,0:09:46.10,Default,,0,0,0,,Gray-tan... G-G-G-Gray-tan... Gray-tan!
+Dialogue: 0,0:09:46.39,0:09:48.98,Default,,0,0,0,,Gray-tan!
+Dialogue: 0,0:09:48.98,0:09:54.03,Default,,0,0,0,,Irmã mais velha, sinto que vim parar\nem um lugar inacreditável.
+Dialogue: 0,0:09:58.40,0:09:59.86,Default,,0,0,0,,E então, consegue farejar o rastro?
+Dialogue: 0,0:09:59.86,0:10:03.37,Default,,0,0,0,,Sim. O aroma da Gray-tan é verdadeiramente maravilhoso!
+Dialogue: 0,0:10:03.91,0:10:06.62,Default,,0,0,0,,É tão suave e aveludado!
+Dialogue: 0,0:10:12.84,0:10:14.42,Default,,0,0,0,,Calma, calma, Svin.
+Dialogue: 0,0:10:14.67,0:10:18.63,Default,,0,0,0,,O professor não mandou você ficar longe da Gray\no máximo possível?
+Dialogue: 0,0:10:19.18,0:10:22.01,Default,,0,0,0,,P-Peço desculpas, senhorita Gray.
+Dialogue: 0,0:10:22.26,0:10:23.81,Default,,0,0,0,,A-Ah, não se preocupe.
+Dialogue: 0,0:10:27.10,0:10:28.73,Default,,0,0,0,,É o cheiro do professor!
+Dialogue: 0,0:10:40.74,0:10:41.87,Default,,0,0,0,,Professor!
+Dialogue: 0,0:10:43.07,0:10:46.08,Signs,,0,0,0,,Lord El-Melloi II's Case Files\nGrace note
+Dialogue: 0,0:10:48.54,0:10:52.46,Default,,0,0,0,,Ele tem o poder de se tornar gigantesco\nabsorvendo eletricidade.
+Dialogue: 0,0:10:52.71,0:10:54.29,Default,,0,0,0,,Tentei cancelar o efeito, mas...
+Dialogue: 0,0:10:56.88,0:11:00.59,Default,,0,0,0,,Em termos puramente de força bruta,\nnão sou páreo para ele.
+Dialogue: 0,0:11:00.93,0:11:02.59,Default,,0,0,0,,Onde essa criatura está agora?
+Dialogue: 0,0:11:02.84,0:11:04.30,Default,,0,0,0,,Eu consegui repeli-la.
+Dialogue: 0,0:11:04.55,0:11:06.47,Default,,0,0,0,,Gostaria de dizer que foi um empate,
+Dialogue: 0,0:11:07.18,0:11:09.23,Default,,0,0,0,,mas provavelmente só a afastei por enquanto.
+Dialogue: 0,0:11:10.85,0:11:11.77,Default,,0,0,0,,Aquela coisa...
+Dialogue: 0,0:11:12.81,0:11:13.90,Default,,0,0,0,,Flat...
+Dialogue: 0,0:11:15.06,0:11:16.94,Default,,0,0,0,,Assuma o equilíbrio da mana...
+Dialogue: 0,0:11:17.78,0:11:19.24,Default,,0,0,0,,e inver...
+Dialogue: 0,0:11:20.82,0:11:21.70,Default,,0,0,0,,Professor!
+Dialogue: 0,0:11:21.70,0:11:23.99,Default,,0,0,0,,Está tudo bem. Ele apenas desmaiou.
+Dialogue: 0,0:11:24.24,0:11:26.12,Default,,0,0,0,,Então acho que nós assumimos a partir daqui.
+Dialogue: 0,0:11:26.12,0:11:26.87,Default,,0,0,0,,Certo.
+Dialogue: 0,0:11:27.16,0:11:29.41,Default,,0,0,0,,Nesse caso, Le Chien,\nleve o professor ao hospital.
+Dialogue: 0,0:11:29.41,0:11:30.79,Default,,0,0,0,,Por que eu fico com esse trabalho?
+Dialogue: 0,0:11:31.04,0:11:32.67,Default,,0,0,0,,E não me chame de "Le Chien"!
+Dialogue: 0,0:11:32.96,0:11:36.25,Default,,0,0,0,,Se vamos lidar com um corpo astral,\nprecisaremos dos poderes da Gray aqui.
+Dialogue: 0,0:11:36.75,0:11:37.67,Default,,0,0,0,,Além do mais,
+Dialogue: 0,0:11:37.92,0:11:41.51,Default,,0,0,0,,o professor não disse para você\nnão ficar muito perto da Gray?
+Dialogue: 0,0:11:49.10,0:11:50.35,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:11:50.60,0:11:53.60,Default,,0,0,0,,Mas certifique-se de que não haja\nsequer um arranhão na senhorita Gray.
+Dialogue: 0,0:11:53.98,0:11:55.23,Default,,0,0,0,,Custe o que custar.
+Dialogue: 0,0:11:55.23,0:11:56.52,Default,,0,0,0,,Deixe comigo!
+Dialogue: 0,0:12:06.37,0:12:07.99,Default,,0,0,0,,Hum... / O que foi?
+Dialogue: 0,0:12:08.41,0:12:11.50,Default,,0,0,0,,O Svin não gosta de mim?
+Dialogue: 0,0:12:13.12,0:12:15.12,Default,,0,0,0,,Ele está sempre me encarando,
+Dialogue: 0,0:12:15.54,0:12:18.25,Default,,0,0,0,,e a respiração dele fica tão pesada\nquando ele olha para mim.
+Dialogue: 0,0:12:18.59,0:12:20.67,Default,,0,0,0,,Ele parece nunca conseguir se acalmar perto de mim.
+Dialogue: 0,0:12:22.34,0:12:25.84,Default,,0,0,0,,Não acho que o Le Chien não goste de você, Gray.
+Dialogue: 0,0:12:25.84,0:12:27.22,Default,,0,0,0,,É mesmo?
+Dialogue: 0,0:12:28.14,0:12:31.22,Default,,0,0,0,,Bem, ele não é muito bom com distâncias interpessoais.
+Dialogue: 0,0:12:31.56,0:12:33.64,Default,,0,0,0,,Embora, se sou eu dizendo isso, estamos perdidos!
+Dialogue: 0,0:12:35.48,0:12:36.35,Default,,0,0,0,,Para mim,
+Dialogue: 0,0:12:37.02,0:12:41.07,Default,,0,0,0,,fosse em casa ou na Torre do Relógio,\nninguém nunca me levou a sério.
+Dialogue: 0,0:12:41.53,0:12:45.15,Default,,0,0,0,,O professor e os meus colegas foram os únicos\nque me chamaram de idiota
+Dialogue: 0,0:12:45.41,0:12:47.66,Default,,0,0,0,,e me trataram como um ser humano descente.
+Dialogue: 0,0:12:49.78,0:12:52.62,Default,,0,0,0,,Tratado como um ser humano...
+Dialogue: 0,0:12:53.54,0:12:54.79,Default,,0,0,0,,E não sou só eu.
+Dialogue: 0,0:12:55.04,0:12:57.46,Default,,0,0,0,,O Le Chien e todos os outros...
+Dialogue: 0,0:12:58.42,0:13:02.51,Default,,0,0,0,,Sem o professor, tenho certeza\nde que seríamos todos apenas párias.
+Dialogue: 0,0:13:02.80,0:13:07.30,Default,,0,0,0,,Sim. O professor está sempre\ncuidando de todos nós.
+Dialogue: 0,0:13:07.64,0:13:12.89,Default,,0,0,0,,Então, bem, o Le Chien é desse jeito,\ne eu sou assim!
+Dialogue: 0,0:13:13.14,0:13:14.77,Default,,0,0,0,,É algo com o qual você simplesmente precisa ceder.
+Dialogue: 0,0:13:15.02,0:13:16.85,Default,,0,0,0,,Espere, eu acabei de falar algo profundo?
+Dialogue: 0,0:13:19.36,0:13:22.98,Default,,0,0,0,,Bem, vamos nos apressar, derrotar esse monstro\ne voltar para ver o professor.
+Dialogue: 0,0:13:22.98,0:13:24.69,Default,,0,0,0,,Sim! Vamos!
+Dialogue: 0,0:13:34.45,0:13:36.12,Default,,0,0,0,,Svin...
+Dialogue: 0,0:13:36.83,0:13:40.00,Default,,0,0,0,,Professor, não fale nada. Vou chamar\no médico imediatamente.
+Dialogue: 0,0:13:40.25,0:13:43.05,Default,,0,0,0,,Antes do médico, me entregue o telefone.
+Dialogue: 0,0:13:43.42,0:13:45.38,Default,,0,0,0,,Há um lugar para onde preciso ligar.
+Dialogue: 0,0:13:51.35,0:13:52.26,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:13:52.89,0:13:55.64,Default,,0,0,0,,O exterminador de roedores\nde quem o professor falou.
+Dialogue: 0,0:13:57.98,0:14:00.94,Default,,0,0,0,,É um esqueleto recente!\nApenas a carne foi devorada!
+Dialogue: 0,0:14:01.90,0:14:03.23,Default,,0,0,0,,Há outro logo ali.
+Dialogue: 0,0:14:04.40,0:14:06.36,Default,,0,0,0,,Parece um local de alimentação.
+Dialogue: 0,0:14:09.99,0:14:10.82,Default,,0,0,0,,Está aqui.
+Dialogue: 0,0:14:11.41,0:14:12.41,Default,,0,0,0,,Eu o encontrei.
+Dialogue: 0,0:14:16.08,0:14:18.21,Default,,0,0,0,,Lá vai! Exatamente como planejamos! / Certo!
+Dialogue: 0,0:14:24.00,0:14:25.00,Default,,0,0,0,,Caiu na armadilha!
+Dialogue: 0,0:14:33.18,0:14:34.01,Default,,0,0,0,,Agora!
+Dialogue: 0,0:14:34.01,0:14:36.18,Default,,0,0,0,,Primeiro estágio de restrição revogado!
+Dialogue: 0,0:14:49.24,0:14:50.24,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:14:51.20,0:14:53.16,Default,,0,0,0,,Exatamente o que o professor disse.
+Dialogue: 0,0:14:53.41,0:14:56.24,Default,,0,0,0,,Um campo delimitado formado pela energia mágica\nsubterrânea e por aquela criatura.
+Dialogue: 0,0:14:56.66,0:15:00.00,Default,,0,0,0,,Portanto, se tomarmos esse fluxo,\no desestabilizarmos e o invertermos...
+Dialogue: 0,0:15:03.33,0:15:05.00,Default,,0,0,0,,Então, mais adiante...
+Dialogue: 0,0:15:05.00,0:15:07.55,Default,,0,0,0,,Sim. Devemos encontrar o covil do monstro.
+Dialogue: 0,0:15:08.55,0:15:09.76,Default,,0,0,0,,Vamos!
+Dialogue: 0,0:15:13.05,0:15:15.85,Default,,0,0,0,,Esta é a oficina de um mago, não é?
+Dialogue: 0,0:15:16.10,0:15:18.52,Default,,0,0,0,,Aquele coelho veio daqui
+Dialogue: 0,0:15:18.89,0:15:21.27,Default,,0,0,0,,para trazer o alimento roubado\nde volta ao seu dono.
+Dialogue: 0,0:15:21.90,0:15:22.77,Default,,0,0,0,,Alimento...
+Dialogue: 0,0:15:23.06,0:15:25.86,Default,,0,0,0,,Não compreendo muito bem,\nmas não acho que seja nada bom.
+Dialogue: 0,0:15:26.32,0:15:28.36,Default,,0,0,0,,Que audácia.
+Dialogue: 0,0:15:29.19,0:15:31.40,Default,,0,0,0,,Como ousam invadir o meu domínio?
+Dialogue: 0,0:15:31.65,0:15:33.49,Default,,0,0,0,,Olá! Desculpe pela interrupção!
+Dialogue: 0,0:15:33.74,0:15:36.08,Default,,0,0,0,,Nós batemos na porta, mas você não ouviu, né?
+Dialogue: 0,0:15:37.20,0:15:40.58,Default,,0,0,0,,Vocês invadem a Oficina de Gueldoa Davenant,
+Dialogue: 0,0:15:41.08,0:15:43.96,Default,,0,0,0,,e chamam isso de "bater na porta"?
+Dialogue: 0,0:15:45.13,0:15:47.05,Default,,0,0,0,,Quem são esses joões-ninguém?
+Dialogue: 0,0:15:47.30,0:15:50.84,Default,,0,0,0,,Sim! Nós somos da turma do Lorde El-Melloi II!
+Dialogue: 0,0:15:51.09,0:15:53.09,Default,,0,0,0,,Somos Flat Escardos e Gray!
+Dialogue: 0,0:15:53.47,0:15:55.55,Default,,0,0,0,,Lorde El-Melloi II?
+Dialogue: 0,0:15:55.80,0:15:59.14,Default,,0,0,0,,Aquele suposto almofadinha\nde Teorias da Magia Moderna?
+Dialogue: 0,0:15:59.14,0:16:00.81,Default,,0,0,0,,Não seja grosseiro com ele!
+Dialogue: 0,0:16:01.06,0:16:02.35,Default,,0,0,0,,Grosseiro?
+Dialogue: 0,0:16:02.35,0:16:05.06,Default,,0,0,0,,O professor não é qualquer almofadinha!
+Dialogue: 0,0:16:05.44,0:16:09.61,Default,,0,0,0,,Ele é o maior prodígio da Torre do Relógio\nque ascendeu a Lorde em sua própria vida!
+Dialogue: 0,0:16:10.07,0:16:17.24,Default,,0,0,0,,Então a aprendiz daquele arrivista veio até aqui\npara destruir uma criação da minha oficina.
+Dialogue: 0,0:16:17.24,0:16:20.45,Default,,0,0,0,,Isso é porque aquele monstro\nestá sequestrando pessoas inocentes!
+Dialogue: 0,0:16:20.45,0:16:21.91,Default,,0,0,0,,Inocentes?
+Dialogue: 0,0:16:23.25,0:16:29.38,Default,,0,0,0,,Dezenas de milhares de vidas comuns\nnão passam de combustível para eu alcançar a Raiz!
+Dialogue: 0,0:16:29.38,0:16:33.76,Default,,0,0,0,,Vocês se infiltraram na minha oficina\npor causa de um assunto tão insignificante?
+Dialogue: 0,0:16:35.26,0:16:38.05,Default,,0,0,0,,Vidas humanas são mais importantes que a Terra!
+Dialogue: 0,0:16:38.05,0:16:40.60,Default,,0,0,0,,Além disso, vidas humanas não são lá muito efic—
+Dialogue: 0,0:16:40.60,0:16:42.64,Default,,0,0,0,,O meu objetivo não é matar!
+Dialogue: 0,0:16:42.89,0:16:45.94,Default,,0,0,0,,Estou dizendo que é meramente\numa etapa do processo!
+Dialogue: 0,0:16:48.94,0:16:52.53,Default,,0,0,0,,Desta vez, vocês não têm a ajuda\ndo seu mentor, novatos.
+Dialogue: 0,0:16:52.86,0:16:55.99,Default,,0,0,0,,Arrancarei seus membros e estriparei seus órgãos,
+Dialogue: 0,0:16:56.24,0:16:59.45,Default,,0,0,0,,para então expor os pecados do seu mentor!
+Dialogue: 0,0:16:59.66,0:17:02.70,Default,,0,0,0,,A Magia Moderna nada mais é\ndo que a técnica de um ladrão!
+Dialogue: 0,0:17:03.71,0:17:05.29,Default,,0,0,0,,A coisa ficou feia.
+Dialogue: 0,0:17:05.75,0:17:09.00,Default,,0,0,0,,Vou dar um show bem chamativo,\nentão aproveite para fugir enquanto isso, Gray!
+Dialogue: 0,0:17:09.00,0:17:09.84,Default,,0,0,0,,Hã? Mas...
+Dialogue: 0,0:17:10.09,0:17:13.13,Default,,0,0,0,,Eu sempre quis dizer algo assim!
+Dialogue: 0,0:17:13.13,0:17:14.51,Default,,0,0,0,,Não há necessidade disso.
+Dialogue: 0,0:17:20.60,0:17:21.85,Default,,0,0,0,,Ai, ai.
+Dialogue: 0,0:17:22.93,0:17:25.56,Default,,0,0,0,,Não dava para ser um pouco mais delicado, Svin?
+Dialogue: 0,0:17:26.19,0:17:27.56,Default,,0,0,0,,Peço desculpas.
+Dialogue: 0,0:17:27.98,0:17:30.57,Default,,0,0,0,,Suas ordens foram para vir em velocidade máxima.
+Dialogue: 0,0:17:31.32,0:17:32.23,Default,,0,0,0,,Bem, sim.
+Dialogue: 0,0:17:33.44,0:17:34.57,Default,,0,0,0,,Você deve ser...
+Dialogue: 0,0:17:34.94,0:17:37.82,Default,,0,0,0,,Lorde El-Melloi II.
+Dialogue: 0,0:17:38.24,0:17:40.83,Default,,0,0,0,,Então você é Sir Gueldoa Davenant.
+Dialogue: 0,0:17:41.20,0:17:42.20,Default,,0,0,0,,De fato.
+Dialogue: 0,0:17:42.20,0:17:45.16,Default,,0,0,0,,Veio até aqui se desculpar\npela má conduta de seus aprendizes?
+Dialogue: 0,0:17:45.16,0:17:46.33,Default,,0,0,0,,Você só pode estar brincando.
+Dialogue: 0,0:17:46.79,0:17:50.17,Default,,0,0,0,,Estou aqui para denunciar os seus crimes...
+Dialogue: 0,0:17:50.42,0:17:52.71,Default,,0,0,0,,e para resgatar os meus aprendizes ali.
+Dialogue: 0,0:17:52.92,0:17:54.51,Default,,0,0,0,,"Crimes", você diz?
+Dialogue: 0,0:17:54.51,0:17:58.72,Default,,0,0,0,,A sua magia utiliza raios e uma criatura peluda.
+Dialogue: 0,0:17:58.72,0:18:02.31,Default,,0,0,0,,Em outras palavras, ela se enquadra\nno domínio de Júpiter.
+Dialogue: 0,0:18:02.64,0:18:04.31,Default,,0,0,0,,Como você sabe disso?
+Dialogue: 0,0:18:04.68,0:18:07.23,Default,,0,0,0,,Você pegou uma Besta Fantasmagórica com elementos de Júpiter,
+Dialogue: 0,0:18:07.23,0:18:10.31,Default,,0,0,0,,ou seja, um monstro leporino, para acumular relâmpagos,
+Dialogue: 0,0:18:10.77,0:18:13.57,Default,,0,0,0,,e então converteu isso no poder do Deus do Trovão, Zeus.
+Dialogue: 0,0:18:13.57,0:18:17.32,Default,,0,0,0,,Este altar é um Código Místico para você\ntomar o controle sobre os outros!
+Dialogue: 0,0:18:17.65,0:18:18.91,Default,,0,0,0,,Maldito seja!
+Dialogue: 0,0:18:19.16,0:18:21.28,Default,,0,0,0,,Ouvi dizer que uma das autoridades\nda Zoologia foi assassinada,
+Dialogue: 0,0:18:21.28,0:18:23.91,Default,,0,0,0,,e a disputa pela vaga dele se intensificou.
+Dialogue: 0,0:18:24.24,0:18:27.54,Default,,0,0,0,,O que você busca é distinção\natravés dos poderes de Zeus?
+Dialogue: 0,0:18:27.54,0:18:29.08,Default,,0,0,0,,Como você sabe tanto?
+Dialogue: 0,0:18:29.33,0:18:33.38,Default,,0,0,0,,Já entendi! Você deve estar usando\nseus aprendizes para roubar a minha pesquisa!
+Dialogue: 0,0:18:33.38,0:18:34.67,Default,,0,0,0,,Quem enviou vocês aqui?
+Dialogue: 0,0:18:34.92,0:18:39.13,Default,,0,0,0,,Dificilmente. Qualquer tolo incompetente\ncompreenderia com uma única olhada neste lugar.
+Dialogue: 0,0:18:39.38,0:18:41.64,Default,,0,0,0,,Mesmo um Lorde substituto sem talento algum.
+Dialogue: 0,0:18:42.14,0:18:44.10,Default,,0,0,0,,E este é o consumo de eletricidade deste distrito.
+Dialogue: 0,0:18:45.27,0:18:46.68,Default,,0,0,0,,É nitidamente elevado.
+Dialogue: 0,0:18:46.93,0:18:49.98,Default,,0,0,0,,O suficiente para abastecer uma pequena fábrica.
+Dialogue: 0,0:18:50.40,0:18:53.31,Default,,0,0,0,,Ah, entendi! É a comida\ndesse coelho elétrico!
+Dialogue: 0,0:18:53.61,0:18:54.73,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:18:54.94,0:18:57.24,Default,,0,0,0,,E este é um artigo de jornal
+Dialogue: 0,0:18:57.24,0:18:59.99,Default,,0,0,0,,sobre os assassinatos em série ocorridos por aqui.
+Dialogue: 0,0:19:00.20,0:19:02.53,Default,,0,0,0,,"O caso dos desaparecidos da Rua Druid!
+Dialogue: 0,0:19:02.78,0:19:04.41,Default,,0,0,0,,Seria um Jack, o Estripador dos tempos modernos?"
+Dialogue: 0,0:19:04.70,0:19:06.91,Default,,0,0,0,,E daí? O que tem isso?
+Dialogue: 0,0:19:07.16,0:19:10.92,Default,,0,0,0,,Pode ter sido possível no século XX,\nmas vivemos em uma sociedade da informação.
+Dialogue: 0,0:19:11.54,0:19:13.88,Default,,0,0,0,,Se você juntar todas as peças,
+Dialogue: 0,0:19:14.17,0:19:17.17,Default,,0,0,0,,perceberá imediatamente\nque há algo acontecendo aqui.
+Dialogue: 0,0:19:17.84,0:19:20.38,Default,,0,0,0,,Tomarei a liberdade de contê-lo, Sir Gueldoa.
+Dialogue: 0,0:19:20.63,0:19:23.14,Default,,0,0,0,,Você pisoteou o maior tabu da Torre do Relógio.
+Dialogue: 0,0:19:23.14,0:19:25.26,Default,,0,0,0,,A Ocultação do Misticismo!
+Dialogue: 0,0:19:26.51,0:19:28.64,Default,,0,0,0,,Apenas com isso?
+Dialogue: 0,0:19:28.89,0:19:30.44,Default,,0,0,0,,Apenas com isso!
+Dialogue: 0,0:19:30.69,0:19:33.65,Default,,0,0,0,,De forma alguma o Misticismo virá a público!
+Dialogue: 0,0:19:33.65,0:19:35.65,Default,,0,0,0,,Sugiro que pare por aí!
+Dialogue: 0,0:19:36.02,0:19:39.28,Default,,0,0,0,,Eu já o denunciei ao Departamento de Políticas,
+Dialogue: 0,0:19:39.28,0:19:41.36,Default,,0,0,0,,e a Zoologia aceitou a acusação!
+Dialogue: 0,0:19:41.82,0:19:46.91,Default,,0,0,0,,Todos na Zoologia ficaram exultantes\npor você perder o seu cargo.
+Dialogue: 0,0:19:47.95,0:19:49.37,Default,,0,0,0,,Eu...
+Dialogue: 0,0:19:49.62,0:19:51.83,Default,,0,0,0,,A minha magia!
+Dialogue: 0,0:19:52.71,0:19:55.42,Default,,0,0,0,,O meu grandioso Código!
+Dialogue: 0,0:19:55.96,0:19:59.34,Default,,0,0,0,,Tudo isso seria trivial cem anos atrás!
+Dialogue: 0,0:20:00.55,0:20:05.35,Default,,0,0,0,,Cem anos atrás, você teria sido\napenas um mago ordinário.
+Dialogue: 0,0:20:05.85,0:20:08.18,Default,,0,0,0,,É isto que os tempos modernos exigem.
+Dialogue: 0,0:20:08.85,0:20:14.48,Default,,0,0,0,,Nós em Norwich existimos para harmonizar\na magia com os tempos modernos.
+Dialogue: 0,0:20:27.53,0:20:28.99,Default,,0,0,0,,Fomos poupados.
+Dialogue: 0,0:20:30.25,0:20:32.58,Default,,0,0,0,,Metade de tudo aquilo era blefe.
+Dialogue: 0,0:20:32.96,0:20:36.42,Default,,0,0,0,,Honestamente, se Sir Gueldoa\ntivesse recorrido à força bruta,
+Dialogue: 0,0:20:36.42,0:20:38.63,Default,,0,0,0,,eu não teria sido capaz de fazer nada.
+Dialogue: 0,0:20:38.63,0:20:40.17,Default,,0,0,0,,Era esse o caso?
+Dialogue: 0,0:20:40.67,0:20:43.30,Default,,0,0,0,,Pensei que o senhor tivesse algum plano.
+Dialogue: 0,0:20:44.43,0:20:48.10,Default,,0,0,0,,Um ladrão covarde foge esgueirando-se pela noite.
+Dialogue: 0,0:20:48.35,0:20:52.56,Default,,0,0,0,,Se você se afasta a passos largos entoando uma canção,\nentão você é um rei conquistador.
+Dialogue: 0,0:20:52.93,0:20:55.14,Default,,0,0,0,,Nunca vi esse filme.
+Dialogue: 0,0:20:55.52,0:20:58.40,Default,,0,0,0,,Essas são as palavras ditas\npor um certo tolo no passado.
+Dialogue: 0,0:20:59.44,0:21:04.65,Default,,0,0,0,,Às vezes, agir com dignidade traz melhores resultados\ndo que aquilo de que você é realmente...
+Dialogue: 0,0:21:05.28,0:21:06.16,Default,,0,0,0,,...capaz.
+Dialogue: 0,0:21:07.20,0:21:08.07,Default,,0,0,0,,Professor!
+Dialogue: 0,0:21:08.95,0:21:11.08,Default,,0,0,0,,Mas já tive o bastante.
+Dialogue: 0,0:21:11.45,0:21:14.33,Signs,,0,0,0,,Coisas como essa simplesmente...
+Dialogue: 0,0:21:14.62,0:21:15.83,Default,,0,0,0,,...não fazem o meu estilo.
+Dialogue: 0,0:21:17.54,0:21:18.50,Default,,0,0,0,,Professor,
+Dialogue: 0,0:21:19.00,0:21:22.01,Default,,0,0,0,,obrigada por todo o empenho esta noite.
+Dialogue: 0,0:21:25.05,0:21:28.05,Default,,0,0,0,,EPISÓDIO 3: O Trovão e o Labirinto Subterrâneo
+Dialogue: 0,0:22:58.98,0:23:00.90,Default,,0,0,0,,Por favor, fiquem à vontade para comer!
+Dialogue: 0,0:23:01.06,0:23:03.27,Default,,0,0,0,,O senhor é o salvador desta loja.
+Dialogue: 0,0:23:03.61,0:23:07.15,Default,,0,0,0,,Não sabia que professores universitários\ntambém caçavam ratos.
+Dialogue: 0,0:23:07.53,0:23:09.36,Default,,0,0,0,,Bem, faz parte.
+Dialogue: 0,0:23:11.45,0:23:14.20,Default,,0,0,0,,Isto está delicioso! Agora poderei\nme concentrar no meu artigo!
+Dialogue: 0,0:23:14.45,0:23:17.91,Default,,0,0,0,,Irmão mais velho, você tem uma mente tão simplória.
+Dialogue: 0,0:23:17.91,0:23:18.62,Default,,0,0,0,,Cale a boca!
+Dialogue: 0,0:23:18.91,0:23:22.96,Default,,0,0,0,,Você veio até aqui no horário de almoço!\nO que você quer?
+Dialogue: 0,0:23:23.33,0:23:28.26,Default,,0,0,0,,Vim até aqui para lhe informar sobre o que pedi\npara a Luvia investigar.
+Dialogue: 0,0:23:28.26,0:23:30.18,Default,,0,0,0,,Embora sejam más notícias.
+Dialogue: 0,0:23:30.63,0:23:32.89,Default,,0,0,0,,A Guerra do Santo Graal, não é?
+Dialogue: 0,0:23:33.26,0:23:37.22,Default,,0,0,0,,Ao que parece, duas vagas para participantes\nda Associação acabaram de ser preenchidas.

@@ -1,0 +1,349 @@
+[Script Info]
+; Script generated for Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Lord El-Melloi II's Case Files - S01E06 - A Girl, a Department Store, and a Gift (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Top,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+Style: Song,Georgia,70,&H00FFF0FA,&H000000FF,&H003A1230,&HA01B0515,-1,-1,0,0,100,100,0,0,1,3.2,1.8,2,100,100,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.72,0:00:04.85,Default,,0,0,0,,Entendo, este é um campo delimitado formidável.
+Dialogue: 0,0:00:05.10,0:00:07.81,Default,,0,0,0,,Parece impossível atravessá-lo à força.
+Dialogue: 0,0:00:08.11,0:00:11.15,Default,,0,0,0,,Eu não esperava nada menos\nde uma propriedade dos Edelfelt.
+Dialogue: 0,0:00:11.15,0:00:13.74,Default,,0,0,0,,Sinto-me honrada em receber tais elogios.
+Dialogue: 0,0:00:13.99,0:00:18.91,Default,,0,0,0,,Afinal, nem mesmo a Princesa dos El-Melloi\nconsegue encontrar uma saída.
+Dialogue: 0,0:00:24.29,0:00:25.37,Default,,0,0,0,,Desde os tempos antigos,
+Dialogue: 0,0:00:25.92,0:00:31.42,Default,,0,0,0,,vários mitos e lendas afirmam\nque a riqueza brota do subterrâneo.
+Dialogue: 0,0:00:31.92,0:00:36.68,Default,,0,0,0,,Túmulos e o submundo possuem outro aspecto:\no de armazéns de tesouros.
+Dialogue: 0,0:00:36.68,0:00:37.43,Default,,0,0,0,,Professor!
+Dialogue: 0,0:00:37.84,0:00:41.89,Default,,0,0,0,,Em outras palavras, o senhor deveria esconder\na sua preciosa coleção embaixo do assoalho!
+Dialogue: 0,0:00:41.89,0:00:45.64,Default,,0,0,0,,Como jogos e aquelas notas promissórias\nem cofres escondidos em labirintos subterrâneos!
+Dialogue: 0,0:00:45.85,0:00:47.44,Default,,0,0,0,,E segredos que adultos guardam?
+Dialogue: 0,0:00:47.81,0:00:51.86,Default,,0,0,0,,Mas, professor, o senhor não tem necessidade disso,\npois tem a mim.
+Dialogue: 0,0:00:52.11,0:00:56.45,Default,,0,0,0,,Estou sempre disponível para aulas particulares,\nou melhor, quero ser a sua amante!
+Dialogue: 0,0:00:57.32,0:01:02.20,Default,,0,0,0,,Muito bem, calem a boca agora mesmo\nou levem o triplo de lição de casa. Escolham.
+Dialogue: 0,0:01:06.21,0:01:08.88,Default,,0,0,0,,Reis acumulavam fortunas imensas em seus túmulos
+Dialogue: 0,0:01:09.13,0:01:11.34,Default,,0,0,0,,para continuar seu reinado no pós-vida.
+Dialogue: 0,0:01:11.59,0:01:14.17,Default,,0,0,0,,Por exemplo, os faraós do Egito...
+Dialogue: 0,0:01:16.34,0:01:18.80,Default,,0,0,0,,O Rei dos Heróis da Babilônia...
+Dialogue: 0,0:01:19.43,0:01:20.80,Default,,0,0,0,,Gilgamesh...
+Dialogue: 0,0:01:26.10,0:01:28.06,Default,,0,0,0,,Desculpem, continuarei com a aula.
+Dialogue: 0,0:01:29.48,0:01:32.32,Default,,0,0,0,,Desde os tempos antigos, dizia-se\nque a riqueza brotava do subterrâneo.
+Dialogue: 0,0:01:32.57,0:01:35.44,Default,,0,0,0,,Espere aí, o senhor já falou essa parte.
+Dialogue: 0,0:01:36.15,0:01:39.07,Default,,0,0,0,,Ah, é mesmo? Perdão. Vejamos...
+Dialogue: 0,0:01:39.45,0:01:42.49,Default,,0,0,0,,Não sei o que ele viu na Guerra do Santo Graal.
+Dialogue: 0,0:01:42.74,0:01:46.87,Default,,0,0,0,,Mas, no ritmo em que ele vai,\nacabará se metendo em encrencas ainda piores.
+Dialogue: 0,0:01:48.92,0:01:52.04,Default,,0,0,0,,A Guerra do Santo Graal...
+Dialogue: 0,0:03:25.09,0:03:25.93,Default,,0,0,0,,Então...
+Dialogue: 0,0:03:27.68,0:03:29.60,Default,,0,0,0,,sobre o que você queria conversar?
+Dialogue: 0,0:03:29.89,0:03:31.60,Default,,0,0,0,,Bem, é que...
+Dialogue: 0,0:03:31.98,0:03:35.73,Default,,0,0,0,,Você está enrolando.\nHá algo que queira perguntar, não é?
+Dialogue: 0,0:03:36.15,0:03:37.36,Default,,0,0,0,,E é sobre o seu mentor,
+Dialogue: 0,0:03:37.82,0:03:40.61,Default,,0,0,0,,o meu querido irmão mais velho.
+Dialogue: 0,0:03:44.36,0:03:46.53,Default,,0,0,0,,É sobre a Guerra do Santo Graal.
+Dialogue: 0,0:03:47.62,0:03:50.95,Default,,0,0,0,,O professor participou dessa tal\nGuerra do Santo Graal no passado.
+Dialogue: 0,0:03:51.29,0:03:54.33,Default,,0,0,0,,O que aconteceu com ele lá?
+Dialogue: 0,0:03:54.67,0:03:56.79,Default,,0,0,0,,É isso o que eu gostaria de saber.
+Dialogue: 0,0:03:57.09,0:03:58.29,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:03:59.88,0:04:02.22,Default,,0,0,0,,Bem, eu não me importo de contar para você,
+Dialogue: 0,0:04:02.67,0:04:04.97,Default,,0,0,0,,mas seria um tanto sem graça se eu dissesse de graça.
+Dialogue: 0,0:04:05.22,0:04:08.30,Default,,0,0,0,,Obter informações exige uma compensação adequada.
+Dialogue: 0,0:04:08.60,0:04:09.72,Default,,0,0,0,,Já que você está aqui,
+Dialogue: 0,0:04:09.93,0:04:13.14,Default,,0,0,0,,por que não me acompanha nos meus passatempos?
+Dialogue: 0,0:04:15.81,0:04:17.06,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:04:23.78,0:04:26.36,Default,,0,0,0,,Isto ficou ótimo em você, como eu imaginava!
+Dialogue: 0,0:04:26.36,0:04:29.53,Default,,0,0,0,,N-Não é verdade! E dá para ver meu rosto também!
+Dialogue: 0,0:04:29.53,0:04:33.20,Default,,0,0,0,,Não tem problema. Só nós duas estamos no provador.
+Dialogue: 0,0:04:33.45,0:04:35.46,Default,,0,0,0,,Você me prometeu, lembra?
+Dialogue: 0,0:04:36.79,0:04:39.46,Default,,0,0,0,,Com mais de 150 anos de tradição,
+Dialogue: 0,0:04:39.46,0:04:43.55,Default,,0,0,0,,a Carnac é uma das maiores lojas\nde departamentos de Londres.
+Dialogue: 0,0:04:44.84,0:04:48.97,Default,,0,0,0,,Como compensação, você concordou\nem vir comigo nas minhas compras.
+Dialogue: 0,0:04:49.22,0:04:51.72,Default,,0,0,0,,Mas nós só estamos vendo coisas para mim!
+Dialogue: 0,0:04:51.72,0:04:53.35,Default,,0,0,0,,Está tudo bem! Não se preocupe!
+Dialogue: 0,0:04:53.60,0:04:55.73,Default,,0,0,0,,Você vai precisar de roupas de inverno em breve, né?
+Dialogue: 0,0:04:56.10,0:04:58.65,Default,,0,0,0,,Eu mesma vou escolher roupas para você.
+Dialogue: 0,0:05:02.36,0:05:04.53,Default,,0,0,0,,Isto não é um pouco ousado demais?
+Dialogue: 0,0:05:04.53,0:05:09.20,Default,,0,0,0,,Ora, uma maga precisa experimentar de tudo.\nExperiência!
+Dialogue: 0,0:05:11.87,0:05:15.29,Default,,0,0,0,,É! Isto combinou com você ainda mais do que imaginei!
+Dialogue: 0,0:05:18.17,0:05:20.63,Default,,0,0,0,,Como dizem, o hábito faz a monja!
+Dialogue: 0,0:05:26.76,0:05:28.01,Default,,0,0,0,,Parem com isso, vocês duas!
+Dialogue: 0,0:05:28.80,0:05:30.51,Default,,0,0,0,,O que é todo esse alvoroço?
+Dialogue: 0,0:05:31.85,0:05:33.26,Default,,0,0,0,,S-Srta. Luvia!
+Dialogue: 0,0:05:33.72,0:05:34.85,Default,,0,0,0,,Por que está aqui?
+Dialogue: 0,0:05:35.10,0:05:37.02,Default,,0,0,0,,Por que, você pergunta?
+Dialogue: 0,0:05:37.02,0:05:41.02,Default,,0,0,0,,Eu sou a dona deste estabelecimento, a Carnac.
+Dialogue: 0,0:05:48.15,0:05:52.08,Default,,0,0,0,,Então esta loja inteira pertence à Srta. Luvia.
+Dialogue: 0,0:05:52.41,0:05:58.16,Default,,0,0,0,,O proprietário original era Sir Davenant,\nque foi preso naquele incidente outro dia.
+Dialogue: 0,0:05:58.46,0:05:59.79,Default,,0,0,0,,Aquele mago...
+Dialogue: 0,0:06:00.46,0:06:03.29,Default,,0,0,0,,Por isso a arquitetura é tão peculiar.
+Dialogue: 0,0:06:03.50,0:06:06.84,Default,,0,0,0,,É magia projetada para estimular\no ímpeto de compra dos clientes.
+Dialogue: 0,0:06:07.09,0:06:11.30,Default,,0,0,0,,Embora eu tenha reformado bastante a decoração interna\npara se adequar à minha estética.
+Dialogue: 0,0:06:14.85,0:06:16.06,Default,,0,0,0,,Então foi por isso.
+Dialogue: 0,0:06:16.72,0:06:19.19,Default,,0,0,0,,Não está um pouco exagerado?
+Dialogue: 0,0:06:21.40,0:06:24.23,Default,,0,0,0,,Eu também adaptei parte da minha Magia de Joias aqui.
+Dialogue: 0,0:06:24.48,0:06:29.74,Default,,0,0,0,,Já que vocês duas estão aqui, darei uma visita guiada\npela recém-renascida Carnac.
+Dialogue: 0,0:06:30.95,0:06:33.28,Default,,0,0,0,,Ora, você está sendo um pouco insistente.
+Dialogue: 0,0:06:33.53,0:06:35.41,Default,,0,0,0,,Vocês estão entediadas, não estão?
+Dialogue: 0,0:06:35.41,0:06:39.79,Default,,0,0,0,,Não é todo dia que nós três\nnos reunimos por coincidência no mesmo lugar.
+Dialogue: 0,0:06:40.04,0:06:43.21,Default,,0,0,0,,Entendo. Está nos convidando para uma tarde de garotas.
+Dialogue: 0,0:06:43.46,0:06:45.63,Default,,0,0,0,,Tudo bem. Você também topa, não topa, Gray?
+Dialogue: 0,0:06:46.75,0:06:47.76,Default,,0,0,0,,Sim!
+Dialogue: 0,0:06:48.88,0:06:50.76,Default,,0,0,0,,Então isto é uma tarde de garotas.
+Dialogue: 0,0:06:51.05,0:06:51.76,Default,,0,0,0,,Eu...
+Dialogue: 0,0:06:51.97,0:06:53.14,Default,,0,0,0,,Vou dar o meu melhor!
+Dialogue: 0,0:07:09.15,0:07:12.16,Default,,0,0,0,,Talvez isto seja um pouco provocante demais?
+Dialogue: 0,0:07:12.61,0:07:15.41,Default,,0,0,0,,Digo, o professor ainda parece ser virgem.
+Dialogue: 0,0:07:29.96,0:07:31.42,Default,,0,0,0,,Há algum problema?
+Dialogue: 0,0:07:33.05,0:07:35.76,Default,,0,0,0,,Talvez esteja mesmo um pouco exagerado?
+Dialogue: 0,0:07:38.89,0:07:41.06,Default,,0,0,0,,Ah, você quer aquilo?
+Dialogue: 0,0:07:41.85,0:07:43.31,Default,,0,0,0,,Ah, não, isto é...
+Dialogue: 0,0:07:43.31,0:07:44.60,Default,,0,0,0,,Eu sei.
+Dialogue: 0,0:07:44.85,0:07:47.94,Default,,0,0,0,,Eu estragaria tudo para você se comprasse aquilo.
+Dialogue: 0,0:07:55.24,0:07:58.12,Default,,0,0,0,,Bem, tenho alguns assuntos para resolver,
+Dialogue: 0,0:07:58.37,0:08:01.16,Default,,0,0,0,,então fiquem à vontade aqui na sala da proprietária.
+Dialogue: 0,0:08:04.75,0:08:05.75,Default,,0,0,0,,Você está cansada?
+Dialogue: 0,0:08:06.88,0:08:09.17,Default,,0,0,0,,Eu estava vivenciando tudo pela primeiríssima vez,
+Dialogue: 0,0:08:09.17,0:08:10.67,Default,,0,0,0,,então fiquei um pouco sobrecarregada.
+Dialogue: 0,0:08:10.92,0:08:12.80,Default,,0,0,0,,Londres é bastante estimulante, não é?
+Dialogue: 0,0:08:13.05,0:08:13.93,Default,,0,0,0,,Sim.
+Dialogue: 0,0:08:15.30,0:08:17.18,Default,,0,0,0,,Na minha terra natal,
+Dialogue: 0,0:08:18.18,0:08:20.31,Default,,0,0,0,,não havia realmente nada por lá.
+Dialogue: 0,0:08:23.31,0:08:27.06,Default,,0,0,0,,Agora que a Luvia saiu, é o momento perfeito.
+Dialogue: 0,0:08:27.90,0:08:30.82,Default,,0,0,0,,Vamos conversar sobre o que você queria saber.
+Dialogue: 0,0:08:32.03,0:08:33.53,Default,,0,0,0,,A Guerra do Santo Graal.
+Dialogue: 0,0:08:33.78,0:08:38.32,Default,,0,0,0,,Uma batalha taumatúrgica no Extremo Oriente,\ndisputando o realizador de desejos onipotente.
+Dialogue: 0,0:08:38.58,0:08:42.41,Default,,0,0,0,,Sete magos e sete heróis famosos na história da humanidade,
+Dialogue: 0,0:08:42.41,0:08:45.75,Default,,0,0,0,,servindo a eles como Servos, lutaram entre si.
+Dialogue: 0,0:08:46.62,0:08:50.75,Default,,0,0,0,,Ao lado de que tipo de Servo o professor lutou?
+Dialogue: 0,0:08:54.13,0:08:55.26,Default,,0,0,0,,Iskandar.
+Dialogue: 0,0:08:57.43,0:09:00.01,Default,,0,0,0,,Também conhecido como Alexandre, o Grande.
+Dialogue: 0,0:09:00.60,0:09:03.02,Default,,0,0,0,,É realmente um conto de fadas absurdo.
+Dialogue: 0,0:09:03.39,0:09:05.77,Default,,0,0,0,,O suposto Rei dos Conquistadores,
+Dialogue: 0,0:09:06.02,0:09:08.73,Default,,0,0,0,,que criou um dos impérios mais proeminentes\nda história humana...
+Dialogue: 0,0:09:09.65,0:09:12.44,Default,,0,0,0,,O Rei dos Conquistadores, Iskandar...
+Dialogue: 0,0:09:12.90,0:09:15.70,Default,,0,0,0,,Ele é muito renomado entre os grandes Espíritos Heroicos.
+Dialogue: 0,0:09:16.07,0:09:18.45,Default,,0,0,0,,Provavelmente foi por isso que o meu incompetente irmão mais velho
+Dialogue: 0,0:09:18.45,0:09:20.95,Default,,0,0,0,,conseguiu sobreviver à Guerra do Santo Graal.
+Dialogue: 0,0:09:20.95,0:09:25.66,Default,,0,0,0,,O que exatamente o professor viu naquela batalha?
+Dialogue: 0,0:09:26.29,0:09:28.33,Default,,0,0,0,,Isso é algo que nem eu mesma sei.
+Dialogue: 0,0:09:28.58,0:09:31.92,Default,,0,0,0,,Mas um rapaz chamado Waver Velvet, que sobreviveu à provação,
+Dialogue: 0,0:09:32.63,0:09:35.92,Default,,0,0,0,,escolheu o caminho do sofrimento ao herdar o nome "El-Melloi".
+Dialogue: 0,0:09:36.76,0:09:41.51,Default,,0,0,0,,Então foi uma experiência tão marcante para o professor\nque mudou o próprio rumo da vida dele?
+Dialogue: 0,0:09:41.76,0:09:43.43,Default,,0,0,0,,É exatamente isso.
+Dialogue: 0,0:09:43.60,0:09:47.52,Default,,0,0,0,,Mas querer participar de outra Guerra do Santo Graal...
+Dialogue: 0,0:09:47.52,0:09:51.44,Default,,0,0,0,,O meu irmão parece ser bastante apegado àquela lembrança.
+Dialogue: 0,0:09:52.11,0:09:53.53,Default,,0,0,0,,Lembrança...
+Dialogue: 0,0:09:56.36,0:09:57.15,Default,,0,0,0,,Falta de energia?
+Dialogue: 0,0:09:58.24,0:09:59.16,Default,,0,0,0,,Srta. Reines?
+Dialogue: 0,0:09:59.57,0:10:01.24,Default,,0,0,0,,Vocês estão bem?
+Dialogue: 0,0:10:01.62,0:10:02.87,Default,,0,0,0,,O que foi isso agora?
+Dialogue: 0,0:10:10.08,0:10:11.46,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:10:12.63,0:10:14.96,Default,,0,0,0,,Mas o que no mundo...
+Dialogue: 0,0:10:14.96,0:10:17.97,Signs,,0,0,0,,Lord El-Melloi II's Case Files\n{Rail Zeppelin} Grace note
+Dialogue: 0,0:10:21.09,0:10:22.68,Default,,0,0,0,,Não há ninguém aqui?
+Dialogue: 0,0:10:24.01,0:10:26.14,Default,,0,0,0,,Um campo delimitado de natureza mágica.
+Dialogue: 0,0:10:26.72,0:10:31.94,Default,,0,0,0,,Tão extraordinário que os meus Olhos Místicos\nestão reagindo excessivamente a ele.
+Dialogue: 0,0:10:32.61,0:10:36.99,Default,,0,0,0,,Parece que isto não é uma de suas travessuras, Luviagelita.
+Dialogue: 0,0:10:37.24,0:10:41.16,Default,,0,0,0,,É claro que não é! Eu devolvo essa acusação a você!
+Dialogue: 0,0:10:42.37,0:10:43.66,Default,,0,0,0,,D-De qualquer forma,
+Dialogue: 0,0:10:44.24,0:10:46.04,Default,,0,0,0,,devemos sair deste prédio.
+Dialogue: 0,0:10:49.41,0:10:50.21,Default,,0,0,0,,Trimmau.
+Dialogue: 0,0:10:55.17,0:10:58.72,Default,,0,0,0,,Verifique o que há além da porta, mas com cuidado.
+Dialogue: 0,0:10:58.97,0:11:00.34,Default,,0,0,0,,Sim, Mestra.
+Dialogue: 0,0:11:10.89,0:11:11.73,Default,,0,0,0,,Será que...
+Dialogue: 0,0:11:12.27,0:11:13.73,Default,,0,0,0,,Exatamente como pensei.
+Dialogue: 0,0:11:14.23,0:11:15.90,Default,,0,0,0,,Este é um tipo de espaço alternativo.
+Dialogue: 0,0:11:16.15,0:11:18.48,Default,,0,0,0,,Parece que fomos isoladas do mundo real.
+Dialogue: 0,0:11:18.90,0:11:20.99,Default,,0,0,0,,Tenho certeza de que as outras saídas se comportarão da mesma forma.
+Dialogue: 0,0:11:21.28,0:11:23.95,Default,,0,0,0,,Isso significa que estamos presas aqui dentro?
+Dialogue: 0,0:11:24.45,0:11:27.62,Default,,0,0,0,,Mas por que apenas nós três...
+Dialogue: 0,0:11:27.87,0:11:32.21,Default,,0,0,0,,Talvez uma tentativa de assassinato contra a próxima chefe dos El-Melloi,
+Dialogue: 0,0:11:32.21,0:11:35.38,Default,,0,0,0,,uma família que possui inúmeros inimigos na Torre do Relógio?
+Dialogue: 0,0:11:35.38,0:11:36.71,Default,,0,0,0,,Ora, vamos!
+Dialogue: 0,0:11:36.71,0:11:41.55,Default,,0,0,0,,Você também deve colecionar rancores por todas as atitudes agressivas que toma, não?
+Dialogue: 0,0:11:42.59,0:11:45.22,Default,,0,0,0,,Por enquanto, vamos pensar em uma maneira de escapar.
+Dialogue: 0,0:11:45.47,0:11:47.39,Default,,0,0,0,,Não conseguimos contatar ninguém lá fora?
+Dialogue: 0,0:11:47.89,0:11:49.02,Default,,0,0,0,,Sem chances.
+Dialogue: 0,0:11:49.27,0:11:51.77,Default,,0,0,0,,Nenhum sinal eletromagnético consegue conexão há algum tempo.
+Dialogue: 0,0:11:52.02,0:11:55.56,Default,,0,0,0,,Isso significa que teremos que passar por tudo isso sozinhas.
+Dialogue: 0,0:11:55.81,0:11:59.28,Default,,0,0,0,,Ou acham que deveríamos apostar em ficar sentadas esperando socorro?
+Dialogue: 0,0:11:59.28,0:12:01.65,Default,,0,0,0,,É óbvio que a resposta para isso é "não".
+Dialogue: 0,0:12:01.90,0:12:06.12,Default,,0,0,0,,Farei quem quer que tenha planejado algo tão absurdo se arrepender!
+Dialogue: 0,0:12:09.08,0:12:10.66,Default,,0,0,0,,Parece que concordamos nisso.
+Dialogue: 0,0:12:15.25,0:12:17.92,Default,,0,0,0,,Chame azul, vermelho, verde...
+Dialogue: 0,0:12:18.38,0:12:19.42,Default,,0,0,0,,para a sua rainha!
+Dialogue: 0,0:12:26.09,0:12:27.35,Default,,0,0,0,,Inútil afinal.
+Dialogue: 0,0:12:27.85,0:12:30.01,Default,,0,0,0,,Isto já está ficando irritante.
+Dialogue: 0,0:12:30.27,0:12:32.68,Default,,0,0,0,,Isso me lembra o que aconteceu no Castelo da Separação.
+Dialogue: 0,0:12:32.93,0:12:34.06,Default,,0,0,0,,Pensando bem,
+Dialogue: 0,0:12:34.06,0:12:37.31,Default,,0,0,0,,Srta. Luvia, você também ficou presa dentro de um campo delimitado naquela época.
+Dialogue: 0,0:12:38.11,0:12:40.11,Default,,0,0,0,,Gostaria de ouvir os detalhes sobre isso.
+Dialogue: 0,0:12:40.11,0:12:41.57,Default,,0,0,0,,Eu recuso esse pedido!
+Dialogue: 0,0:12:41.57,0:12:45.49,Default,,0,0,0,,E Gray, não diga coisas desnecessárias! Entendeu?
+Dialogue: 0,0:12:45.86,0:12:46.61,Default,,0,0,0,,Sim!
+Dialogue: 0,0:12:47.66,0:12:49.83,Default,,0,0,0,,Mas não estamos saindo do lugar.
+Dialogue: 0,0:12:50.08,0:12:54.29,Default,,0,0,0,,É impossível abrir uma rota de fuga com a magia que temos em mãos.
+Dialogue: 0,0:12:54.62,0:12:57.38,Default,,0,0,0,,Naquela época, o professor estava conosco.
+Dialogue: 0,0:12:58.84,0:13:01.50,Default,,0,0,0,,Se o professor estivesse aqui numa hora dessas...
+Dialogue: 0,0:13:02.38,0:13:03.76,Default,,0,0,0,,É isso, Gray!
+Dialogue: 0,0:13:04.80,0:13:07.30,Default,,0,0,0,,De fato, se dito El-Melloi II estivesse aqui,
+Dialogue: 0,0:13:07.30,0:13:11.64,Default,,0,0,0,,seria o forte dele, a especialidade dele desmantelar uma crise dessas.
+Dialogue: 0,0:13:11.64,0:13:12.47,Default,,0,0,0,,O que você...
+Dialogue: 0,0:13:12.47,0:13:20.06,Default,,0,0,0,,E felizmente conhecemos um pouco de como aquele homem ensina. Sua lógica, suas táticas.
+Dialogue: 0,0:13:20.36,0:13:24.82,Default,,0,0,0,,Quer dizer que devemos tentar imitar o que o professor faria?
+Dialogue: 0,0:13:25.03,0:13:26.40,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:13:26.61,0:13:29.41,Default,,0,0,0,,Parece que não temos nenhuma outra opção em mente.
+Dialogue: 0,0:13:30.03,0:13:31.24,Default,,0,0,0,,Pois bem, Gray...
+Dialogue: 0,0:13:31.62,0:13:33.20,Default,,0,0,0,,E-Eu?
+Dialogue: 0,0:13:33.20,0:13:37.00,Default,,0,0,0,,Você é quem melhor conhece a maneira dele de agir.
+Dialogue: 0,0:13:37.25,0:13:40.67,Default,,0,0,0,,Num momento como este, qual seria o ponto de partida da lógica dele?
+Dialogue: 0,0:13:41.79,0:13:43.67,Default,,0,0,0,,Se fosse o professor...
+Dialogue: 0,0:13:45.67,0:13:47.01,Default,,0,0,0,,Seria o "whydunit".
+Dialogue: 0,0:13:47.68,0:13:50.05,Default,,0,0,0,,Isso significa o motivo.
+Dialogue: 0,0:13:50.51,0:13:54.06,Default,,0,0,0,,Por que apenas nós três fomos presas aqui dentro?
+Dialogue: 0,0:13:54.06,0:13:55.93,Default,,0,0,0,,Nem vale a pena pensar nisso.
+Dialogue: 0,0:13:55.93,0:13:58.90,Default,,0,0,0,,Há motivos de sobra para alguém nos ter como alvo.
+Dialogue: 0,0:13:58.90,0:13:59.52,Default,,0,0,0,,Bem...
+Dialogue: 0,0:14:00.23,0:14:04.28,Default,,0,0,0,,Ao contrário de vocês duas, eu não sou uma pessoa tão importante assim.
+Dialogue: 0,0:14:05.99,0:14:07.61,Default,,0,0,0,,Você é só uma estudante pobre
+Dialogue: 0,0:14:07.61,0:14:09.82,Default,,0,0,0,,comparada a estas damas!
+Dialogue: 0,0:14:10.11,0:14:12.20,Default,,0,0,0,,Não acho que seja o caso.
+Dialogue: 0,0:14:12.49,0:14:15.62,Default,,0,0,0,,Mas se fosse um plano visando uma de nós,
+Dialogue: 0,0:14:15.62,0:14:18.08,Default,,0,0,0,,seria antinatural reunir nós três juntas.
+Dialogue: 0,0:14:18.08,0:14:22.46,Default,,0,0,0,,Além disso, é estranho que apenas nos capturaram sem tomar nenhuma outra atitude.
+Dialogue: 0,0:14:22.67,0:14:27.17,Default,,0,0,0,,Exato. Em comparação com o quão grandioso é este campo delimitado, é um trabalho meio descuidado.
+Dialogue: 0,0:14:27.67,0:14:30.39,Default,,0,0,0,,É como se o culpado não estivesse pensando em nada.
+Dialogue: 0,0:14:30.84,0:14:31.68,Default,,0,0,0,,Com licença...
+Dialogue: 0,0:14:32.05,0:14:36.06,Default,,0,0,0,,E se não houver culpado desde o início?
+Dialogue: 0,0:14:36.52,0:14:38.06,Default,,0,0,0,,O que você quer dizer com isso?
+Dialogue: 0,0:14:38.39,0:14:43.73,Default,,0,0,0,,Talvez não tenha sido um plano de alguém nos atacando e nos trancando aqui dentro.
+Dialogue: 0,0:14:43.98,0:14:47.40,Default,,0,0,0,,Entendo. Então não foi um atentado, mas meramente um acidente.
+Dialogue: 0,0:14:47.65,0:14:52.20,Default,,0,0,0,,Está sugerindo que a estrutura mágica deste prédio saiu do controle?
+Dialogue: 0,0:14:52.45,0:14:56.20,Default,,0,0,0,,Está dizendo que havia defeitos na decoração que eu ajustei?
+Dialogue: 0,0:14:56.20,0:15:00.00,Default,,0,0,0,,Em nome da minha família, jamais usei feitiços baratos que causassem tal coisa.
+Dialogue: 0,0:15:00.25,0:15:01.83,Default,,0,0,0,,É o oposto, "Proprietária".
+Dialogue: 0,0:15:02.96,0:15:04.46,Default,,0,0,0,,Não que estivesse faltando algo,
+Dialogue: 0,0:15:04.46,0:15:07.59,Default,,0,0,0,,mas havia em excesso, gerando uma reação desmedida.
+Dialogue: 0,0:15:07.96,0:15:09.92,Default,,0,0,0,,Não podemos pensar por esse lado?
+Dialogue: 0,0:15:10.22,0:15:11.13,Default,,0,0,0,,Mas o que...
+Dialogue: 0,0:15:11.51,0:15:13.14,Default,,0,0,0,,I-Isso não pode...
+Dialogue: 0,0:15:14.93,0:15:16.18,Default,,0,0,0,,Então você tem uma ideia...
+Dialogue: 0,0:15:16.89,0:15:18.77,Default,,0,0,0,,do que estou falando?
+Dialogue: 0,0:15:25.69,0:15:28.23,Default,,0,0,0,,Há algo de errado neste saguão?
+Dialogue: 0,0:15:29.24,0:15:31.49,Default,,0,0,0,,Eu disse que o prédio estava encantado com magia
+Dialogue: 0,0:15:31.49,0:15:34.37,Default,,0,0,0,,para estimular o desejo de compras dos clientes, certo?
+Dialogue: 0,0:15:34.62,0:15:37.37,Default,,0,0,0,,O elemento central do feitiço está bem aqui.
+Dialogue: 0,0:15:37.37,0:15:38.41,Default,,0,0,0,,Compreendo.
+Dialogue: 0,0:15:38.66,0:15:42.29,Default,,0,0,0,,Na magia, a riqueza brota do subterrâneo,
+Dialogue: 0,0:15:42.54,0:15:44.50,Default,,0,0,0,,por isso estamos no subsolo.
+Dialogue: 0,0:15:45.04,0:15:46.00,Default,,0,0,0,,É ali.
+Dialogue: 0,0:15:50.84,0:15:53.93,Default,,0,0,0,,Aquilo é Magia de Joias?
+Dialogue: 0,0:15:53.93,0:15:55.76,Default,,0,0,0,,Sim, e bem exagerada.
+Dialogue: 0,0:15:57.14,0:16:01.18,Default,,0,0,0,,É exatamente como se empolgar e colocar coberturas demais em um parfait!
+Dialogue: 0,0:16:01.18,0:16:02.77,Default,,0,0,0,,C-Cale-se!
+Dialogue: 0,0:16:03.60,0:16:06.19,Default,,0,0,0,,De qualquer forma, se pudermos dar um jeito naquilo...
+Dialogue: 0,0:16:16.91,0:16:17.83,Default,,0,0,0,,Isto é...
+Dialogue: 0,0:16:18.70,0:16:21.12,Default,,0,0,0,,Então o sistema de segurança também saiu do controle?
+Dialogue: 0,0:16:21.12,0:16:23.25,Default,,0,0,0,,Eu já percebi sem você precisar falar.
+Dialogue: 0,0:16:23.50,0:16:25.17,Default,,0,0,0,,Não consegue desativá-lo de alguma forma?
+Dialogue: 0,0:16:25.71,0:16:28.17,Default,,0,0,0,,Os meus sistemas são perfeitos!
+Dialogue: 0,0:16:28.42,0:16:31.34,Default,,0,0,0,,De forma alguma uma intervenção externa será autorizada!
+Dialogue: 0,0:16:31.59,0:16:33.22,Default,,0,0,0,,Tudo bem, já entendi.
+Dialogue: 0,0:16:33.51,0:16:34.22,Default,,0,0,0,,Trim.
+Dialogue: 0,0:16:34.51,0:16:35.18,Default,,0,0,0,,Sim?
+Dialogue: 0,0:16:35.18,0:16:36.01,Default,,0,0,0,,Espere aí.
+Dialogue: 0,0:16:36.26,0:16:38.01,Default,,0,0,0,,Esta é a minha loja.
+Dialogue: 0,0:16:38.51,0:16:41.60,Default,,0,0,0,,Eu resolverei tudo sozinha.
+Dialogue: 0,0:16:42.85,0:16:43.56,Default,,0,0,0,,Abaixem-se.
+Dialogue: 0,0:17:04.75,0:17:06.17,Default,,0,0,0,,L-Luta livre profissional?
+Dialogue: 0,0:17:08.59,0:17:09.88,Default,,0,0,0,,Olhem só para aquilo!
+Dialogue: 0,0:17:09.88,0:17:13.88,Default,,0,0,0,,Um porte gracioso desfere uma loja de departamentos cheia de técnicas mortais!
+Dialogue: 0,0:17:13.88,0:17:16.38,Default,,0,0,0,,Uma empilhadeira humana escandinava!
+Dialogue: 0,0:17:16.63,0:17:21.72,Default,,0,0,0,,Ou poderíamos chamá-la de "Hércules revivido nos dias modernos"!
+Dialogue: 0,0:17:23.73,0:17:27.40,Default,,0,0,0,,O que diabos aquele Flat anda ensinando para a Trim?
+Dialogue: 0,0:17:28.52,0:17:31.98,Default,,0,0,0,,Toda dama deveria entender de catch-as-catch-can!
+Dialogue: 0,0:17:33.69,0:17:34.74,Default,,0,0,0,,Incrível!
+Dialogue: 0,0:17:34.99,0:17:37.41,Default,,0,0,0,,Então é disso que toda dama refinada deveria entender!
+Dialogue: 0,0:17:37.66,0:17:40.12,Default,,0,0,0,,Ei, não vá acreditando nela, ouviu?
+Dialogue: 0,0:17:42.54,0:17:44.66,Default,,0,0,0,,Tudo o que precisamos fazer agora é quebrar isto?
+Dialogue: 0,0:17:44.91,0:17:48.63,Default,,0,0,0,,Mas você está certa disso? Deve ter custado uma fortuna.
+Dialogue: 0,0:17:49.00,0:17:52.46,Default,,0,0,0,,É um preço barato a se pagar pela lição que aprendi.
+Dialogue: 0,0:17:52.71,0:17:57.63,Default,,0,0,0,,Às vezes, é preciso descartar até o que é precioso para seguir em frente.
+Dialogue: 0,0:17:59.22,0:18:02.14,Default,,0,0,0,,Até mesmo coisas importantes...
+Dialogue: 0,0:18:02.47,0:18:05.43,Default,,0,0,0,,Digno da líder da família Edelfelt.
+Dialogue: 0,0:18:06.39,0:18:07.52,Default,,0,0,0,,Pois bem, Trimmau?
+Dialogue: 0,0:18:07.81,0:18:09.15,Default,,0,0,0,,Sim, Mestra.
+Dialogue: 0,0:18:23.95,0:18:25.41,Default,,0,0,0,,Nossa...
+Dialogue: 0,0:18:25.66,0:18:27.54,Default,,0,0,0,,Essa foi uma aventura e tanto.
+Dialogue: 0,0:18:27.87,0:18:29.71,Default,,0,0,0,,Agora, para comemorar o nosso retorno...
+Dialogue: 0,0:18:29.96,0:18:32.67,Default,,0,0,0,,Que tal tomarmos outra rodada de chá da tarde?
+Dialogue: 0,0:18:32.67,0:18:35.84,Default,,0,0,0,,Preciso ter cuidado com a quantidade de coberturas que coloco.
+Dialogue: 0,0:18:44.93,0:18:48.10,Default,,0,0,0,,Nos metemos numa grande enrascada hoje.
+Dialogue: 0,0:18:48.31,0:18:51.35,Default,,0,0,0,,Sim, mas de alguma forma acabou sendo divertido.
+Dialogue: 0,0:18:52.44,0:18:54.77,Default,,0,0,0,,Contudo, há algo que não compreendi.
+Dialogue: 0,0:18:55.61,0:18:58.57,Default,,0,0,0,,Se foi a magia de um prédio que saiu do controle,
+Dialogue: 0,0:18:58.57,0:19:00.95,Default,,0,0,0,,o que causou a ativação dela?
+Dialogue: 0,0:19:01.20,0:19:06.37,Default,,0,0,0,,Bem, eu posso ao menos formular uma teoria no estilo do meu irmão.
+Dialogue: 0,0:19:07.16,0:19:11.17,Default,,0,0,0,,A Carnac estava encantada com magia para reunir riquezas.
+Dialogue: 0,0:19:11.50,0:19:15.04,Default,,0,0,0,,Em outras palavras, era um feitiço que não permitia que a fortuna escapasse.
+Dialogue: 0,0:19:15.67,0:19:17.42,Default,,0,0,0,,Não permitia que escapasse?
+Dialogue: 0,0:19:18.42,0:19:19.30,Default,,0,0,0,,Poderia ser—
+Dialogue: 0,0:19:19.30,0:19:22.43,Default,,0,0,0,,Exato. Fomos vistas como tesouros que não deveriam sair lá fora,
+Dialogue: 0,0:19:22.43,0:19:25.47,Default,,0,0,0,,mesmo que para isso fosse preciso erguer um campo delimitado.
+Dialogue: 0,0:19:25.81,0:19:29.31,Default,,0,0,0,,Eu até consigo entender quanto à Srta. Reines ou à Srta. Luvia,
+Dialogue: 0,0:19:29.56,0:19:31.27,Default,,0,0,0,,mas eu não sou nada de...
+Dialogue: 0,0:19:34.94,0:19:37.40,Default,,0,0,0,,Ora, do que você está falando?
+Dialogue: 0,0:19:37.82,0:19:40.28,Default,,0,0,0,,Você possui o mais místico dos Misticismos.
+Dialogue: 0,0:19:40.74,0:19:44.03,Default,,0,0,0,,Você carrega um dos Fantasmas Nobres mais proeminentes da história humana!
+Dialogue: 0,0:19:45.62,0:19:49.54,Default,,0,0,0,,Nossa. Ter baixa autoestima demais também é questionável, viu?
+Dialogue: 0,0:19:50.46,0:19:51.75,Default,,0,0,0,,T-Tudo bem.
+Dialogue: 0,0:19:53.88,0:19:54.71,Default,,0,0,0,,Bem...
+Dialogue: 0,0:19:55.21,0:19:58.76,Default,,0,0,0,,Então, isto... Ele não vai achar estranho nem nada, vai?
+Dialogue: 0,0:20:05.14,0:20:06.72,Default,,0,0,0,,É claro que não.
+Dialogue: 0,0:20:14.65,0:20:17.02,Default,,0,0,0,,Estou de volta, professor.
+Dialogue: 0,0:20:17.27,0:20:18.19,Default,,0,0,0,,Sim.
+Dialogue: 0,0:20:18.82,0:20:21.44,Default,,0,0,0,,Parece que ela fez você andar bastante.
+Dialogue: 0,0:20:23.03,0:20:24.95,Default,,0,0,0,,Peço desculpas pela minha irmã mais nova lhe causar tantos incômodos.
+Dialogue: 0,0:20:25.57,0:20:26.95,Default,,0,0,0,,Ah, de forma alguma.
+Dialogue: 0,0:20:27.41,0:20:29.24,Default,,0,0,0,,Foi muito divertido para mim.
+Dialogue: 0,0:20:30.41,0:20:31.45,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:20:34.04,0:20:35.21,Default,,0,0,0,,Professor?
+Dialogue: 0,0:20:36.42,0:20:37.96,Default,,0,0,0,,Não, não é nada.
+Dialogue: 0,0:20:42.59,0:20:43.47,Default,,0,0,0,,Bem...
+Dialogue: 0,0:20:45.39,0:20:46.85,Default,,0,0,0,,C-Com licença...
+Dialogue: 0,0:20:47.85,0:20:49.14,Default,,0,0,0,,Espere aí!
+Dialogue: 0,0:20:52.43,0:20:53.85,Default,,0,0,0,,Algo...
+Dialogue: 0,0:20:56.10,0:20:58.40,Default,,0,0,0,,de suma importância para mim foi roubado!
+Dialogue: 0,0:21:00.73,0:21:02.74,Default,,0,0,0,,A Relíquia de um certo Espírito Heroico.
+Dialogue: 0,0:21:02.99,0:21:03.90,Default,,0,0,0,,Aquilo seria...
+Dialogue: 0,0:21:05.16,0:21:07.16,Default,,0,0,0,,Você ouviu da Reines, não ouviu?
+Dialogue: 0,0:21:08.24,0:21:13.08,Default,,0,0,0,,O Espírito Heroico com quem lutei lado a lado na Guerra do Santo Graal há dez anos...
+Dialogue: 0,0:21:16.46,0:21:18.17,Default,,0,0,0,,O manto de Iskandar.
+Dialogue: 0,0:21:19.00,0:21:23.97,Default,,0,0,0,,A chave para o senhor se reencontrar com dito espírito...
+Dialogue: 0,0:21:26.18,0:21:31.22,Default,,0,0,0,,Tudo o que restou dentro da caixa onde guardava a Relíquia foi esta carta.
+Dialogue: 0,0:21:32.60,0:21:35.19,Default,,0,0,0,,"Nós solenemente o convidamos para o nosso banquete.
+Dialogue: 0,0:21:35.56,0:21:39.52,Default,,0,0,0,,Solicitamos a honra de sua presença e contamos com o seu comparecimento sem falta.
+Dialogue: 0,0:21:39.52,0:21:41.27,Default,,0,0,0,,O Trem Coletor de Olhos Místicos,
+Dialogue: 0,0:21:42.98,0:21:44.82,Default,,0,0,0,,Rail Zeppelin."
+Dialogue: 0,0:21:45.82,0:21:47.57,Default,,0,0,0,,Rail Zeppelin?
+Dialogue: 0,0:21:48.03,0:21:48.95,Default,,0,0,0,,Sim.
+Dialogue: 0,0:21:49.41,0:21:51.74,Default,,0,0,0,,Ele reúne todo e qualquer par de Olhos Místicos por aí
+Dialogue: 0,0:21:51.99,0:21:53.62,Default,,0,0,0,,e os coloca em leilão uma vez por ano.
+Dialogue: 0,0:21:53.87,0:21:56.12,Default,,0,0,0,,Um trem repleto de seres sobrenaturais.
+Dialogue: 0,0:21:56.12,0:21:57.75,Default,,0,0,0,,Então é para lá que...
+Dialogue: 0,0:21:58.79,0:21:59.46,Default,,0,0,0,,Gray...
+Dialogue: 0,0:22:00.42,0:22:01.96,Default,,0,0,0,,Você iria ao Rail Zeppelin...
+Dialogue: 0,0:22:03.25,0:22:04.67,Default,,0,0,0,,comigo?
+Dialogue: 0,0:22:07.97,0:22:10.97,Signs,,0,0,0,,EPISÓDIO 6: Uma Garota, uma Loja de Departamentos e um Presente
