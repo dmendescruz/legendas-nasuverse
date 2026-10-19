@@ -1,0 +1,257 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E08 - The Mage-Slayer (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E08 - The Mage-Slayer (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.96,0:00:08.80,Default,,0,0,0,,Madame.
+Dialogue: 0,0:00:19.91,0:00:20.95,Default,,0,0,0,,Madame?
+Dialogue: 0,0:00:21.62,0:00:23.80,Default,,0,0,0,,Senti a presença de outro intruso.
+Dialogue: 0,0:00:23.80,0:00:26.26,Default,,0,0,0,,Exatamente na direção que estamos seguindo.
+Dialogue: 0,0:00:26.70,0:00:28.76,Default,,0,0,0,,Daremos de cara com ele se formos por esse caminho.
+Dialogue: 0,0:00:29.31,0:00:30.52,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:00:30.52,0:00:33.06,Default,,0,0,0,,Então é melhor darmos a volta pelo lado norte.
+Dialogue: 0,0:00:36.07,0:00:37.06,Default,,0,0,0,,Madame?
+Dialogue: 0,0:00:37.58,0:00:39.09,Default,,0,0,0,,Quem está vindo é...
+Dialogue: 0,0:00:40.84,0:00:42.72,Default,,0,0,0,,Kotomine Kirei.
+Dialogue: 0,0:02:17.93,0:02:19.68,Default,,0,0,0,,Kotomine Kirei?
+Dialogue: 0,0:02:21.72,0:02:22.93,Default,,0,0,0,,Maiya-san...
+Dialogue: 0,0:02:22.93,0:02:27.98,Default,,0,0,0,,Kiritsugu ordenou que você me protegesse não é?
+Dialogue: 0,0:02:27.98,0:02:28.85,Default,,0,0,0,,Sim.
+Dialogue: 0,0:02:30.32,0:02:30.98,Default,,0,0,0,,Mas...
+Dialogue: 0,0:02:30.98,0:02:32.06,Default,,0,0,0,,Mas o quê?
+Dialogue: 0,0:02:32.77,0:02:37.36,Default,,0,0,0,,Não podemos permitir que ele chegue ao Kiritsugu não importa o que tenhamos que fazer.
+Dialogue: 0,0:02:38.73,0:02:40.08,Default,,0,0,0,,Foi isso o que pensou?
+Dialogue: 0,0:02:43.56,0:02:45.87,Default,,0,0,0,,Madame você...
+Dialogue: 0,0:02:45.99,0:02:47.16,Default,,0,0,0,,Que coincidência.
+Dialogue: 0,0:02:47.74,0:02:50.88,Default,,0,0,0,,Eu estava pensando exatamente a mesma coisa.
+Dialogue: 0,0:02:51.86,0:02:53.44,Default,,0,0,0,,Kotomine Kirei.
+Dialogue: 0,0:02:53.44,0:02:57.95,Default,,0,0,0,,Ele provavelmente representa a maior ameaça para o Kiritsugu.
+Dialogue: 0,0:02:59.27,0:03:01.38,Default,,0,0,0,,Nós duas teremos que pará-lo aqui.
+Dialogue: 0,0:03:02.08,0:03:03.89,Default,,0,0,0,,Tudo bem Maiya-san?
+Dialogue: 0,0:03:05.67,0:03:10.31,Default,,0,0,0,,Espero que me desculpe por dizer isso\Nmas peço que se prepare madame.
+Dialogue: 0,0:03:10.81,0:03:11.62,Default,,0,0,0,,Sim.
+Dialogue: 0,0:03:11.93,0:03:13.97,Default,,0,0,0,,Não precisa se preocupar comigo.
+Dialogue: 0,0:03:14.35,0:03:16.52,Default,,0,0,0,,Quero simplesmente que cumpra o seu dever.
+Dialogue: 0,0:03:17.12,0:03:22.11,Default,,0,0,0,,Não aquilo que Kiritsugu lhe disse para fazer\Nmas sim o que você acredita ser necessário.
+Dialogue: 0,0:03:22.28,0:03:23.15,Default,,0,0,0,,Sim.
+Dialogue: 0,0:03:25.57,0:03:26.41,Default,,0,0,0,,Algo errado?
+Dialogue: 0,0:03:26.95,0:03:27.79,Default,,0,0,0,,Não.
+Dialogue: 0,0:03:28.59,0:03:30.53,Default,,0,0,0,,O coração humano...
+Dialogue: 0,0:03:30.99,0:03:32.54,Default,,0,0,0,,é um mistério não é?
+Dialogue: 0,0:03:43.21,0:03:46.59,Default,,0,0,0,,Está repetindo um ataque que será completamente inútil.
+Dialogue: 0,0:04:01.69,0:04:02.86,Default,,0,0,0,,Golpeie!
+Dialogue: 0,0:04:18.63,0:04:23.14,Default,,0,0,0,,Ele conseguiu penetrar a defesa\Nautônoma do Mercúrio de Volume?
+Dialogue: 0,0:04:23.95,0:04:25.22,Default,,0,0,0,,Não...
+Dialogue: 0,0:04:25.22,0:04:29.89,Default,,0,0,0,,Eu fui muito descuidado em enfrentar seus ataques insignificantes.
+Dialogue: 0,0:04:30.85,0:04:36.02,Default,,0,0,0,,Devo assumir imediatamente uma\Npostura defensiva mais rápida e eficiente.
+Dialogue: 0,0:04:37.72,0:04:40.15,Default,,0,0,0,,Ele é uma desgraça para todos os Magos.
+Dialogue: 0,0:04:40.53,0:04:42.03,Default,,0,0,0,,Aquele lixo desprezível!
+Dialogue: 0,0:04:42.44,0:04:44.87,Default,,0,0,0,,Como ousa me fazer sangrar?
+Dialogue: 0,0:04:45.32,0:04:47.22,Default,,0,0,0,,Ele pagará caro por isso!
+Dialogue: 0,0:04:52.54,0:04:55.33,Default,,0,0,0,,Ele já compreendeu o poder desse ataque
+Dialogue: 0,0:04:56.00,0:04:58.43,Default,,0,0,0,,não funcionará uma segunda vez.
+Dialogue: 0,0:04:58.83,0:05:02.51,Default,,0,0,0,,Na próxima vez ele concentrará todo seu poder mágico para se defender.
+Dialogue: 0,0:05:03.84,0:05:04.59,Default,,0,0,0,,Não.
+Dialogue: 0,0:05:05.66,0:05:07.89,Default,,0,0,0,,É exatamente isso que eu quero que ele faça.
+Dialogue: 0,0:05:33.99,0:05:35.08,Default,,0,0,0,,Uma ilusão?
+Dialogue: 0,0:05:52.30,0:05:53.96,Default,,0,0,0,,Maiya-san não faça isso!
+Dialogue: 0,0:06:21.75,0:06:22.67,Default,,0,0,0,,Madame!
+Dialogue: 0,0:06:23.16,0:06:24.17,Default,,0,0,0,,Afaste-se!
+Dialogue: 0,0:06:25.38,0:06:26.43,Default,,0,0,0,,Mulher.
+Dialogue: 0,0:06:26.43,0:06:32.39,Default,,0,0,0,,Pode ser uma surpresa mas não estou aqui para eliminá-las.
+Dialogue: 0,0:06:32.96,0:06:36.31,Default,,0,0,0,,Eu sei disso Kotomine Kirei.
+Dialogue: 0,0:06:37.51,0:06:39.68,Default,,0,0,0,,Eu sei o que está tentando fazer.
+Dialogue: 0,0:06:39.68,0:06:41.79,Default,,0,0,0,,Mas eu certamente não permitirei.
+Dialogue: 0,0:06:41.79,0:06:44.94,Default,,0,0,0,,Você nunca conseguirá alcançar Emiya Kiritsugu.
+Dialogue: 0,0:06:45.75,0:06:47.43,Default,,0,0,0,,Nós vamos impedi-lo.
+Dialogue: 0,0:06:48.28,0:06:49.32,Default,,0,0,0,,Bem aqui.
+Dialogue: 0,0:06:49.32,0:06:50.36,Default,,0,0,0,,Madame!
+Dialogue: 0,0:06:50.36,0:06:51.96,Default,,0,0,0,,Ele era um Executor!
+Dialogue: 0,0:06:51.96,0:06:53.92,Default,,0,0,0,,Um especialista em caçar Magos!
+Dialogue: 0,0:06:53.92,0:06:56.73,Default,,0,0,0,,Magias normais não funcionarão contra ele!
+Dialogue: 0,0:06:59.62,0:07:04.17,Default,,0,0,0,,Dirigir um carro não foi a única coisa que Kiritsugu me ensinou.
+Dialogue: 0,0:07:04.42,0:07:05.60,Default,,0,0,0,,Ele me ensinou a viver.
+Dialogue: 0,0:07:05.60,0:07:07.67,Default,,0,0,0,,E também como sobreviver!
+Dialogue: 0,0:07:08.30,0:07:09.83,Default,,0,0,0,,Tua forma carrega vida!
+Dialogue: 0,0:07:38.79,0:07:39.41,Default,,0,0,0,,Madame!
+Dialogue: 0,0:07:39.41,0:07:40.79,Default,,0,0,0,,Não vai funcionar!
+Dialogue: 0,0:07:53.55,0:07:54.78,Default,,0,0,0,,Maiya-san!
+Dialogue: 0,0:07:56.34,0:07:57.51,Default,,0,0,0,,Por favor!
+Dialogue: 0,0:08:09.08,0:08:10.53,Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:08:49.94,0:08:51.49,Default,,0,0,0,,Maldito...
+Dialogue: 0,0:09:02.48,0:09:07.23,Default,,0,0,0,,Ter feito tão pouco progresso até agora é um pouco frustrante.
+Dialogue: 0,0:09:07.83,0:09:09.83,Default,,0,0,0,,A culpa é daquele grimório Lancer.
+Dialogue: 0,0:09:10.50,0:09:14.72,Default,,0,0,0,,Enquanto ele segurar aquele Fantasma Nobre essa situação não mudará.
+Dialogue: 0,0:09:15.42,0:09:16.63,Default,,0,0,0,,Entendo...
+Dialogue: 0,0:09:16.63,0:09:17.72,Default,,0,0,0,,Então é isso?
+Dialogue: 0,0:09:18.34,0:09:22.50,Default,,0,0,0,,No entanto se quisermos tirar aquele livro das mãos desse maníaco de azul
+Dialogue: 0,0:09:23.01,0:09:26.98,Default,,0,0,0,,teremos que atravessar a barreira formada por estes monstros.
+Dialogue: 0,0:09:27.43,0:09:28.53,Default,,0,0,0,,Lancer.
+Dialogue: 0,0:09:28.53,0:09:31.86,Default,,0,0,0,,Está preparado para apostar\Nsua vida em um tudo ou nada?
+Dialogue: 0,0:09:32.31,0:09:37.44,Default,,0,0,0,,Não conseguir cansá-lo me incomoda mas não vai\Nadiantar ficar lutando contra esses monstros para sempre.
+Dialogue: 0,0:09:37.92,0:09:39.03,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:09:39.03,0:09:40.99,Default,,0,0,0,,Conte comigo Saber.
+Dialogue: 0,0:09:41.28,0:09:43.10,Default,,0,0,0,,Abrirei caminho para você.
+Dialogue: 0,0:09:43.10,0:09:44.97,Default,,0,0,0,,Mas só teremos uma chance.
+Dialogue: 0,0:09:45.44,0:09:48.25,Default,,0,0,0,,Lancer está preparado para correr como o vento?
+Dialogue: 0,0:09:49.40,0:09:50.83,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:09:50.83,0:09:52.00,Default,,0,0,0,,Não será problema.
+Dialogue: 0,0:09:52.21,0:09:55.46,Default,,0,0,0,,Terminaram de fazer suas últimas preces?
+Dialogue: 0,0:09:55.46,0:09:59.26,Default,,0,0,0,,Agora estremeçam e caiam em desespero!
+Dialogue: 0,0:09:59.26,0:10:04.80,Default,,0,0,0,,Mesmo sendo superiores há um limite\Nde oponentes que vocês podem enfrentar.
+Dialogue: 0,0:10:07.60,0:10:10.06,Default,,0,0,0,,Isso não é humilhante?
+Dialogue: 0,0:10:10.06,0:10:15.45,Default,,0,0,0,,Vocês morrerão sufocados por esses monstros insignificantes!
+Dialogue: 0,0:10:15.90,0:10:19.78,Default,,0,0,0,,Não pode existir maior desgraça para um herói.
+Dialogue: 0,0:10:20.60,0:10:22.70,Default,,0,0,0,,Esse seu rosto lindo...
+Dialogue: 0,0:10:22.70,0:10:27.19,Default,,0,0,0,,Contorça-o de agonia para o meu deleite Joana!
+Dialogue: 0,0:10:30.91,0:10:33.44,Default,,0,0,0,,Strike Air!
+Dialogue: 0,0:10:41.72,0:10:42.60,Default,,0,0,0,,Agora!
+Dialogue: 0,0:10:43.19,0:10:43.93,Default,,0,0,0,,Prepare-se!
+Dialogue: 0,0:10:46.81,0:10:49.17,Default,,0,0,0,,Perfure-o Gae Dearg!
+Dialogue: 0,0:11:14.21,0:11:15.13,Default,,0,0,0,,Maldito...
+Dialogue: 0,0:11:15.67,0:11:18.87,Default,,0,0,0,,Maldito maldito maldito!
+Dialogue: 0,0:11:18.87,0:11:20.88,Default,,0,0,0,,Maldito!
+Dialogue: 0,0:11:22.93,0:11:24.30,Default,,0,0,0,,O que achou disso?
+Dialogue: 0,0:11:24.30,0:11:29.68,Default,,0,0,0,,As coisas não seriam diferentes se a Saber já tivesse recuperado sua mão esquerda.
+Dialogue: 0,0:11:31.67,0:11:33.24,Default,,0,0,0,,Prepare-se para morrer.
+Dialogue: 0,0:11:34.97,0:11:36.04,Default,,0,0,0,,Aberração.
+Dialogue: 0,0:11:52.20,0:11:53.32,Default,,0,0,0,,Ridículo.
+Dialogue: 0,0:11:53.71,0:11:59.29,Default,,0,0,0,,Eu não decidi participar da Guerra do Santo Graal para me sujeitar a esse tipo de combate!
+Dialogue: 0,0:12:10.20,0:12:12.25,Default,,0,0,0,,Onde ele está?
+Dialogue: 0,0:12:19.18,0:12:20.80,Default,,0,0,0,,Te encontrei...
+Dialogue: 0,0:12:21.94,0:12:23.90,Default,,0,0,0,,Rato imundo.
+Dialogue: 0,0:12:28.49,0:12:32.79,Default,,0,0,0,,Não pense que o mesmo truque funcionará uma segunda vez.
+Dialogue: 0,0:12:33.25,0:12:34.51,Default,,0,0,0,,Escória desprezível.
+Dialogue: 0,0:12:36.33,0:12:42.44,Default,,0,0,0,,Maldito não pense que me acertou\Ndevido a alguma tática ou plano astuto seu.
+Dialogue: 0,0:12:42.44,0:12:45.80,Default,,0,0,0,,Aquilo foi só uma infeliz coincidência.
+Dialogue: 0,0:12:45.80,0:12:48.05,Default,,0,0,0,,Farei com que compreenda a\Ndiferença que existe entre nós.
+Dialogue: 0,0:12:48.22,0:12:50.43,Default,,0,0,0,,Não permitirei que morra tão facilmente.
+Dialogue: 0,0:12:50.68,0:12:53.97,Default,,0,0,0,,Usarei magia para curar seu coração e seus pulmões
+Dialogue: 0,0:12:53.97,0:12:57.39,Default,,0,0,0,,enquanto arranco cada centímetro de carne do seu corpo.
+Dialogue: 0,0:12:57.39,0:13:01.80,Default,,0,0,0,,Você morrerá afogado por sentimentos\Ncomo arrependimento agonia e desespero.
+Dialogue: 0,0:13:02.11,0:13:04.31,Default,,0,0,0,,E enquanto isso você amaldiçoará.
+Dialogue: 0,0:13:04.67,0:13:07.36,Default,,0,0,0,,Amaldiçoará a covardia daqueles que te contrataram.
+Dialogue: 0,0:13:07.57,0:13:11.56,Default,,0,0,0,,Amaldiçoará os Einzbern por\Ndesgraçarem a Guerra do Santo Graal!
+Dialogue: 0,0:13:12.53,0:13:15.41,Default,,0,0,0,,Ferva meu sangue!
+Dialogue: 0,0:13:23.34,0:13:26.14,Default,,0,0,0,,Está usando o mesmo truque novamente seu tolo?
+Dialogue: 0,0:13:36.18,0:13:37.58,Default,,0,0,0,,Está perdendo seu tempo.
+Dialogue: 0,0:13:53.69,0:13:54.80,Default,,0,0,0,,Maldito...
+Dialogue: 0,0:13:55.16,0:13:57.04,Default,,0,0,0,,Sua covardia não tem limites.
+Dialogue: 0,0:13:58.25,0:13:59.38,Default,,0,0,0,,Lancer.
+Dialogue: 0,0:14:01.56,0:14:03.06,Default,,0,0,0,,Algo errado?
+Dialogue: 0,0:14:07.09,0:14:10.06,Default,,0,0,0,,Meu mestre está correndo perigo.
+Dialogue: 0,0:14:10.90,0:14:14.94,Default,,0,0,0,,Parece que ele me enviou para cá e\Ninvadiu o castelo por conta própria.
+Dialogue: 0,0:14:18.35,0:14:21.23,Default,,0,0,0,,Isso deve ser obra do meu Mestre.
+Dialogue: 0,0:14:22.94,0:14:25.20,Default,,0,0,0,,Lancer vá em frente.
+Dialogue: 0,0:14:25.20,0:14:27.47,Default,,0,0,0,,Resgate o seu mestre.
+Dialogue: 0,0:14:29.76,0:14:32.50,Default,,0,0,0,,Rei dos Cavaleiros você tem a minha gratidão.
+Dialogue: 0,0:14:32.90,0:14:33.65,Default,,0,0,0,,Certo.
+Dialogue: 0,0:14:34.02,0:14:37.45,Default,,0,0,0,,Nós juramos acertar nossas contas como cavaleiros.
+Dialogue: 0,0:14:37.82,0:14:39.72,Default,,0,0,0,,Guardemos esse orgulho para depois.
+Dialogue: 0,0:14:46.85,0:14:51.58,Default,,0,0,0,,No fim tudo saiu conforme o plano do Kiritsugu?
+Dialogue: 0,0:14:57.56,0:15:00.79,Default,,0,0,0,,Garoto sua origem se resume em decepar e reatar.
+Dialogue: 0,0:15:00.79,0:15:02.06,Default,,0,0,0,,Em cortar e amarrar...
+Dialogue: 0,0:15:05.40,0:15:09.26,Default,,0,0,0,,É um pouco diferente de destruir e regenerar.
+Dialogue: 0,0:15:10.09,0:15:15.50,Default,,0,0,0,,Se cortar uma linha e juntá-la novamente\Na grossura será diferente onde foi dado o nó certo?
+Dialogue: 0,0:15:15.50,0:15:19.88,Default,,0,0,0,,Sendo assim isso é o que podemos\Nchamar de mudança irreversível.
+Dialogue: 0,0:15:24.12,0:15:29.38,Default,,0,0,0,,Pulverizei duas de suas costelas e coloquei\Num pouco desse pó em cada uma dessas balas.
+Dialogue: 0,0:15:29.38,0:15:33.44,Default,,0,0,0,,Sua origem se materializará em\Nqualquer coisa que for atingida por isto.
+Dialogue: 0,0:15:34.32,0:15:36.62,Default,,0,0,0,,Será particularmente poderosa contra Magos.
+Dialogue: 0,0:15:37.23,0:15:40.27,Default,,0,0,0,,Caso usem quaisquer magias contra essa bala
+Dialogue: 0,0:15:40.27,0:15:43.87,Default,,0,0,0,,essa sua origem destruirá seus Circuitos Mágicos
+Dialogue: 0,0:15:43.87,0:15:45.71,Default,,0,0,0,,reconectando-os de forma inapropriada.
+Dialogue: 0,0:15:45.71,0:15:48.34,Default,,0,0,0,,Quanto mais poderoso for o Mago
+Dialogue: 0,0:15:48.34,0:15:51.18,Default,,0,0,0,,maior será a quantidade de Circuitos Mágicos descontrolados e limitados.
+Dialogue: 0,0:15:51.61,0:15:56.67,Default,,0,0,0,,Obviamente eles não vão se recuperar seja como Mago ou como humano.
+Dialogue: 0,0:15:57.35,0:16:00.83,Default,,0,0,0,,Este é seu Código Místico: "Bala da Origem".
+Dialogue: 0,0:16:01.31,0:16:03.44,Default,,0,0,0,,São sessenta e seis delas no total.
+Dialogue: 0,0:16:04.00,0:16:05.92,Default,,0,0,0,,Use-as com sabedoria.
+Dialogue: 0,0:16:52.22,0:16:57.19,Default,,0,0,0,,Está ciente de que eu poderia facilmente perfurá-lo com a minha lança não é?
+Dialogue: 0,0:16:58.07,0:16:59.68,Default,,0,0,0,,Mestre da Saber.
+Dialogue: 0,0:17:00.79,0:17:02.43,Default,,0,0,0,,Entendo...
+Dialogue: 0,0:17:02.85,0:17:04.85,Default,,0,0,0,,Não permitirei que mate meu Mestre.
+Dialogue: 0,0:17:05.23,0:17:07.43,Default,,0,0,0,,E eu não matarei o Mestre da Saber.
+Dialogue: 0,0:17:08.12,0:17:11.95,Default,,0,0,0,,Nós não desejamos que as coisas terminem dessa forma.
+Dialogue: 0,0:17:12.40,0:17:13.82,Default,,0,0,0,,Jamais esqueça disso.
+Dialogue: 0,0:17:14.36,0:17:16.94,Default,,0,0,0,,A única razão pela qual você ainda está vivo...
+Dialogue: 0,0:17:17.39,0:17:20.40,Default,,0,0,0,,é por toda a nobreza demonstrada pelo Rei dos Cavaleiros.
+Dialogue: 0,0:17:31.13,0:17:33.04,Default,,0,0,0,,Mulher eu tenho uma pergunta.
+Dialogue: 0,0:17:33.38,0:17:37.63,Default,,0,0,0,,Ao que parece vocês duas me desafiaram...
+Dialogue: 0,0:17:38.03,0:17:41.07,Default,,0,0,0,,para protegerem Emiya Kiritsugu mas...
+Dialogue: 0,0:17:43.33,0:17:45.45,Default,,0,0,0,,Essa foi a vontade de quem?
+Dialogue: 0,0:17:47.20,0:17:52.44,Default,,0,0,0,,Como lhe faltam Feitiços de Comando você não é o Mestre dos Einzbern.
+Dialogue: 0,0:17:52.44,0:17:56.99,Default,,0,0,0,,Você mais parece uma homúnculo encarregada de proteger o recipiente do Cálice.
+Dialogue: 0,0:17:57.49,0:18:03.48,Default,,0,0,0,,Alguém como ele nunca seria estúpido o bastante para se arriscar lutando nas linhas de frente.
+Dialogue: 0,0:18:05.11,0:18:07.19,Default,,0,0,0,,Perguntarei novamente mulher.
+Dialogue: 0,0:18:07.66,0:18:11.22,Default,,0,0,0,,Sob as ordens de quem vocês duas me enfrentaram?
+Dialogue: 0,0:18:22.50,0:18:23.59,Default,,0,0,0,,Kirei-sama.
+Dialogue: 0,0:18:24.80,0:18:30.26,Default,,0,0,0,,Caster Lancer e seu Mestre já partiram dessa floresta.
+Dialogue: 0,0:18:30.70,0:18:32.78,Default,,0,0,0,,Em breve a Saber chegará aqui.
+Dialogue: 0,0:18:33.09,0:18:36.21,Default,,0,0,0,,É perigoso ficar aqui meu mestre.
+Dialogue: 0,0:18:45.32,0:18:46.75,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:18:46.75,0:18:48.38,Default,,0,0,0,,Então é vermelho?
+Dialogue: 0,0:18:59.88,0:19:07.65,Default,,0,0,0,,Essas duas mulheres me desafiaram por vontade própria e não sob as ordens de outra pessoa?
+Dialogue: 0,0:19:09.69,0:19:10.91,Default,,0,0,0,,Impossível.
+Dialogue: 0,0:19:10.91,0:19:14.20,Default,,0,0,0,,Emiya Kiritsugu é igual a mim.
+Dialogue: 0,0:19:14.20,0:19:19.44,Default,,0,0,0,,Incompreendido e desprezado por todos\Nsendo um homem vazio até o fundo da sua alma.
+Dialogue: 0,0:19:21.96,0:19:23.96,Default,,0,0,0,,Ele tem que ser assim.
+Dialogue: 0,0:19:25.91,0:19:27.08,Default,,0,0,0,,Irisviel...
+Dialogue: 0,0:19:27.86,0:19:29.26,Default,,0,0,0,,Irisviel!
+Dialogue: 0,0:19:29.26,0:19:30.89,Default,,0,0,0,,Aguente firme.
+Dialogue: 0,0:19:33.55,0:19:35.86,Default,,0,0,0,,Saber...
+Dialogue: 0,0:19:35.86,0:19:36.82,Default,,0,0,0,,Não!
+Dialogue: 0,0:19:36.82,0:19:38.43,Default,,0,0,0,,Você tem que permanecer consciente!
+Dialogue: 0,0:19:38.75,0:19:40.65,Default,,0,0,0,,Chamarei o Kiritsugu imediatamente.
+Dialogue: 0,0:19:41.01,0:19:42.69,Default,,0,0,0,,Aguente firme até lá!
+Dialogue: 0,0:19:43.14,0:19:45.16,Default,,0,0,0,,Kirei...
+Dialogue: 0,0:19:45.16,0:19:48.32,Default,,0,0,0,,Onde está o inimigo que estava aqui?
+Dialogue: 0,0:19:48.32,0:19:49.82,Default,,0,0,0,,Ele fugiu.
+Dialogue: 0,0:19:50.43,0:19:55.31,Default,,0,0,0,,Se ao menos eu tivesse chegado um pouco mais rápido isso não teria acontecido.
+Dialogue: 0,0:19:56.57,0:19:58.94,Default,,0,0,0,,E a Maiya-san?
+Dialogue: 0,0:19:58.94,0:20:02.67,Default,,0,0,0,,Ela está gravemente ferida mas vai sobreviver.
+Dialogue: 0,0:20:03.10,0:20:04.50,Default,,0,0,0,,Estou mais preocupada com você.
+Dialogue: 0,0:20:04.79,0:20:06.48,Default,,0,0,0,,Você perdeu muito sangue...
+Dialogue: 0,0:20:10.56,0:20:11.85,Default,,0,0,0,,Irisviel?
+Dialogue: 0,0:20:17.33,0:20:18.64,Default,,0,0,0,,Como você...?
+Dialogue: 0,0:20:20.12,0:20:23.19,Default,,0,0,0,,Iri você carregará a Avalon.
+Dialogue: 0,0:20:24.22,0:20:28.53,Default,,0,0,0,,Mas este Fantasma Nobre cura as feridas do seu detentor.
+Dialogue: 0,0:20:28.53,0:20:30.28,Default,,0,0,0,,Você deve ficar com ele Kiritsugu.
+Dialogue: 0,0:20:30.28,0:20:31.48,Default,,0,0,0,,Não.
+Dialogue: 0,0:20:31.97,0:20:36.15,Default,,0,0,0,,Sem a Saber por perto para supri-lo com poder mágico
+Dialogue: 0,0:20:36.66,0:20:38.78,Default,,0,0,0,,os efeitos da bainha não se manifestarão.
+Dialogue: 0,0:20:39.31,0:20:43.16,Default,,0,0,0,,Afinal será você quem acompanhará\Na Saber de agora em diante Iri.
+Dialogue: 0,0:20:43.61,0:20:45.27,Default,,0,0,0,,Será melhor se você carregá-la consigo.
+Dialogue: 0,0:20:45.76,0:20:48.38,Default,,0,0,0,,Sele-a dentro de si como uma Arma Conceitual.
+Dialogue: 0,0:20:49.51,0:20:52.48,Default,,0,0,0,,E não conte a ninguém sobre isso.
+Dialogue: 0,0:20:53.16,0:20:54.83,Default,,0,0,0,,Incluindo a própria Saber.
+Dialogue: 0,0:21:02.71,0:21:07.24,Default,,0,0,0,,A partir do momento que me tocou comecei a sentir o poder da Avalon.
+Dialogue: 0,0:21:08.19,0:21:10.44,Default,,0,0,0,,Obrigada Saber.
+Dialogue: 0,0:21:13.95,0:21:15.57,Default,,0,0,0,,Kotomine Kirei.
+Dialogue: 0,0:21:16.40,0:21:20.10,Default,,0,0,0,,Aquele Executor é perigoso assim como imaginei.
+Dialogue: 0,0:21:20.48,0:21:22.54,Default,,0,0,0,,Não ele é ainda pior.
+Dialogue: 0,0:21:23.27,0:21:27.27,Default,,0,0,0,,Tivemos sorte hoje mas não sei\No que acontecerá na próxima vez.
+Dialogue: 0,0:21:27.86,0:21:32.93,Default,,0,0,0,,A única certeza que tenho é que\Nnão posso deixá-lo chegar ao Kiritsugu.
+Dialogue: 0,0:21:34.81,0:21:35.89,Default,,0,0,0,,Mas...
+Dialogue: 0,0:21:36.31,0:21:39.85,Default,,0,0,0,,Eu não sou a única que está protegendo o Kiritsugu.
+Dialogue: 0,0:21:40.40,0:21:42.79,Default,,0,0,0,,Não é mesmo Maiya-san?
+Dialogue: 0,0:21:44.80,0:21:47.18,Default,,0,0,0,,Nós venceremos na próxima com certeza.
+Dialogue: 0,0:21:48.51,0:21:51.95,Default,,0,0,0,,Nós duas protegeremos o Kiritsugu não é?
+Dialogue: 0,0:23:27.82,0:23:31.79,Default,,0,0,0,,Pois meu Mestre está correndo um grande perigo!
+Dialogue: 0,0:23:31.79,0:23:34.32,Default,,0,0,0,,Elegância é necessária até mesmo nas batalhas.
+Dialogue: 0,0:23:34.32,0:23:36.70,Default,,0,0,0,,Não posso lhe dar meu consentimento.
+Dialogue: 0,0:23:36.70,0:23:39.05,Default,,0,0,0,,Transfira seus Feitiços de Comando para mim.
+Dialogue: 0,0:23:39.05,0:23:41.83,Default,,0,0,0,,O Lancer não é tão admirável quanto você pensa!

@@ -1,0 +1,754 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E01 - The Summoning of Heroes (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E01 - The Summoning of Heroes (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.40,0:00:15.36,Default,,0,0,0,,Kiritsugu!
+Dialogue: 0,0:00:25.29,0:00:26.64,Default,,0,0,0,,Que gracinha.
+Dialogue: 0,0:00:27.04,0:00:28.36,Default,,0,0,0,,Ela é tão linda.
+Dialogue: 0,0:00:29.21,0:00:30.56,Default,,0,0,0,,Tão pequena...
+Dialogue: 0,0:00:30.71,0:00:31.84,Default,,0,0,0,,e tão frágil.
+Dialogue: 0,0:00:33.13,0:00:34.51,Default,,0,0,0,,Veja Kiritsugu.
+Dialogue: 0,0:00:35.09,0:00:37.06,Default,,0,0,0,,Ela tem os seus olhos.
+Dialogue: 0,0:00:41.51,0:00:42.51,Default,,0,0,0,,Eu...
+Dialogue: 0,0:00:43.10,0:00:45.65,Default,,0,0,0,,Estou muito feliz por ter dado à luz uma menina tão linda.
+Dialogue: 0,0:00:51.98,0:00:52.94,Default,,0,0,0,,Iri.
+Dialogue: 0,0:00:55.27,0:00:56.24,Default,,0,0,0,,Eu...
+Dialogue: 0,0:00:57.44,0:00:59.41,Default,,0,0,0,,Você vai acabar morrendo por minha culpa.
+Dialogue: 0,0:01:06.45,0:01:07.90,Default,,0,0,0,,Eu sei disso.
+Dialogue: 0,0:01:08.41,0:01:10.36,Default,,0,0,0,,Esse é o desejo dos Einzbern.
+Dialogue: 0,0:01:10.75,0:01:12.43,Default,,0,0,0,,É a razão da minha existência.
+Dialogue: 0,0:01:13.58,0:01:17.97,Default,,0,0,0,,Eu adotei os seus ideais e desejei as mesmas coisas que você.
+Dialogue: 0,0:01:18.30,0:01:20.44,Default,,0,0,0,,É por isso que sou o que me tornei hoje.
+Dialogue: 0,0:01:21.84,0:01:24.15,Default,,0,0,0,,Você me mostrou o melhor caminho a seguir.
+Dialogue: 0,0:01:24.85,0:01:27.39,Default,,0,0,0,,Antes eu vivia como uma marionete sem opinião.
+Dialogue: 0,0:01:29.14,0:01:31.33,Default,,0,0,0,,Não precisa sentir pena de mim.
+Dialogue: 0,0:01:31.56,0:01:33.98,Default,,0,0,0,,Agora eu sou uma parte de você.
+Dialogue: 0,0:01:35.40,0:01:36.07,Default,,0,0,0,,Então...
+Dialogue: 0,0:01:36.07,0:01:36.82,Default,,0,0,0,,Eu...
+Dialogue: 0,0:01:39.53,0:01:40.44,Default,,0,0,0,,Eu...
+Dialogue: 0,0:01:41.86,0:01:43.71,Default,,0,0,0,,Não sou digno de segurar...
+Dialogue: 0,0:01:45.45,0:01:46.35,Default,,0,0,0,,a nossa filha.
+Dialogue: 0,0:01:50.29,0:01:52.56,Default,,0,0,0,,Kiritsugu não se esqueça.
+Dialogue: 0,0:01:54.13,0:01:56.72,Default,,0,0,0,,Um mundo onde ninguém precise chorar...
+Dialogue: 0,0:01:57.13,0:01:58.52,Default,,0,0,0,,É o que você deseja.
+Dialogue: 0,0:01:59.34,0:02:02.05,Default,,0,0,0,,Esse é o sonho e ideal de Emiya Kiritsugu não é?
+Dialogue: 0,0:02:03.80,0:02:07.70,Default,,0,0,0,,Após oito anos sua luta chegará ao fim.
+Dialogue: 0,0:02:09.31,0:02:11.78,Default,,0,0,0,,O nosso ideal se tornará realidade.
+Dialogue: 0,0:02:12.69,0:02:16.09,Default,,0,0,0,,O Cálice Sagrado irá salvá-lo.
+Dialogue: 0,0:02:17.82,0:02:19.40,Default,,0,0,0,,Por isso essa criança...
+Dialogue: 0,0:02:19.86,0:02:22.13,Default,,0,0,0,,Segure Illyasviel em seus braços.
+Dialogue: 0,0:02:22.82,0:02:26.16,Default,,0,0,0,,Coloque-a em seu peito com orgulho
+Dialogue: 0,0:02:26.49,0:02:28.78,Default,,0,0,0,,como qualquer pai faria.
+Dialogue: 0,0:03:04.32,0:03:05.40,Default,,0,0,0,,Feitiços de Comando?
+Dialogue: 0,0:03:05.40,0:03:07.86,Default,,0,0,0,,Este estigma místico que apareceu em sua mão direita.
+Dialogue: 0,0:03:08.41,0:03:10.85,Default,,0,0,0,,É a prova de que você foi um dos escolhidos pelo Cálice Sagrado.
+Dialogue: 0,0:03:11.29,0:03:14.66,Default,,0,0,0,,O poder de comandar um Servo foi concedido a você.
+Dialogue: 0,0:03:16.29,0:03:17.83,Default,,0,0,0,,Kotomine Kirei-kun.
+Dialogue: 0,0:03:19.17,0:03:20.96,Default,,0,0,0,,A Guerra do Santo Graal...
+Dialogue: 0,0:03:21.50,0:03:24.80,Default,,0,0,0,,A batalha pelo lendário artefato sagrado.
+Dialogue: 0,0:03:25.59,0:03:26.85,Default,,0,0,0,,Eu fui escolhido?
+Dialogue: 0,0:03:27.01,0:03:31.54,Default,,0,0,0,,Normalmente o Cálice seleciona\Nsete pessoas como Mestres de Servos
+Dialogue: 0,0:03:31.64,0:03:33.92,Default,,0,0,0,,e cada uma delas deve ser um Mago.
+Dialogue: 0,0:03:34.06,0:03:39.40,Default,,0,0,0,,Alguém como você que não possui quaisquer ligações com magia ser escolhido tão cedo...
+Dialogue: 0,0:03:39.40,0:03:41.45,Default,,0,0,0,,é extremamente raro.
+Dialogue: 0,0:03:41.82,0:03:43.37,Default,,0,0,0,,Servos...
+Dialogue: 0,0:03:43.78,0:03:45.36,Default,,0,0,0,,Heróis lendários...
+Dialogue: 0,0:03:45.36,0:03:49.20,Default,,0,0,0,,Está dizendo que eles são invocados do passado para lutar ao lado daqueles que os comandam?
+Dialogue: 0,0:03:49.20,0:03:50.06,Default,,0,0,0,,Bem...
+Dialogue: 0,0:03:50.28,0:03:53.33,Default,,0,0,0,,Sei que pode ser difícil de acreditar agora
+Dialogue: 0,0:03:53.33,0:03:57.33,Default,,0,0,0,,mas heróis que se tornaram lendas em\Neras passadas e ao redor de todo o mundo
+Dialogue: 0,0:03:57.33,0:03:59.79,Default,,0,0,0,,serão invocados para lutarem até a morte.
+Dialogue: 0,0:04:01.63,0:04:03.67,Default,,0,0,0,,Essa é a Guerra do Santo Graal.
+Dialogue: 0,0:04:03.80,0:04:08.84,Default,,0,0,0,,Obviamente há um pacto implícito entre todos os\Nparticipantes de que essa guerra deve permanecer em sigilo.
+Dialogue: 0,0:04:08.84,0:04:10.72,Default,,0,0,0,,Para garantir a obediência de todos
+Dialogue: 0,0:04:10.72,0:04:14.33,Default,,0,0,0,,nós da Santa Igreja designamos uma\Npessoa como observador neutro.
+Dialogue: 0,0:04:14.72,0:04:17.05,Default,,0,0,0,,Agir como um juiz numa guerra entre Magos...
+Dialogue: 0,0:04:17.39,0:04:20.35,Default,,0,0,0,,Alguém da nossa Igreja realmente poderia fazer tal coisa?
+Dialogue: 0,0:04:20.98,0:04:22.90,Default,,0,0,0,,Se a Associação dos Magos escolhesse alguém...
+Dialogue: 0,0:04:23.15,0:04:26.54,Default,,0,0,0,,A imparcialidade dessa pessoa\Njamais seria aceita pelos demais.
+Dialogue: 0,0:04:27.70,0:04:31.49,Default,,0,0,0,,Por essa razão assim como há sessenta anos
+Dialogue: 0,0:04:31.49,0:04:35.12,Default,,0,0,0,,contaremos com a ajuda do seu pai para que observe nossa batalha.
+Dialogue: 0,0:04:35.29,0:04:37.84,Default,,0,0,0,,Meu pai irá para a cidade de Fuyuki?
+Dialogue: 0,0:04:38.91,0:04:40.00,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:04:40.00,0:04:44.71,Default,,0,0,0,,Considerando o fato de que o filho do observador é um dos participantes nesta guerra...
+Dialogue: 0,0:04:44.71,0:04:45.97,Default,,0,0,0,,Não constituiria um problema?
+Dialogue: 0,0:04:46.17,0:04:47.26,Default,,0,0,0,,Tokiomi-kun.
+Dialogue: 0,0:04:48.26,0:04:50.56,Default,,0,0,0,,Por que não vamos direto ao ponto?
+Dialogue: 0,0:04:51.80,0:04:53.03,Default,,0,0,0,,Kirei...
+Dialogue: 0,0:04:53.03,0:04:58.13,Default,,0,0,0,,Todos os escolhidos como participantes estão cientes de tudo o que conversamos até agora.
+Dialogue: 0,0:04:58.43,0:05:04.63,Default,,0,0,0,,A razão pela qual o chamei até aqui e o apresentei ao Tohsaka Tokiomi reside em outra questão.
+Dialogue: 0,0:05:04.86,0:05:06.40,Default,,0,0,0,,Qual questão?
+Dialogue: 0,0:05:06.69,0:05:08.03,Default,,0,0,0,,Há muitos anos...
+Dialogue: 0,0:05:08.03,0:05:13.57,Default,,0,0,0,,Encontramos evidências de que o Cálice Sagrado que aparecerá na cidade de Fuyuki...
+Dialogue: 0,0:05:13.57,0:05:15.68,Default,,0,0,0,,não é o mesmo que outrora pertenceu ao Filho de Deus.
+Dialogue: 0,0:05:15.91,0:05:17.04,Default,,0,0,0,,Também acho.
+Dialogue: 0,0:05:17.37,0:05:18.45,Default,,0,0,0,,Se fosse o mesmo
+Dialogue: 0,0:05:18.45,0:05:23.00,Default,,0,0,0,,ordens especiais já teriam sido expedidas para nós\Nos membros da Congregação do Oitavo Sacramento.
+Dialogue: 0,0:05:23.00,0:05:27.61,Default,,0,0,0,,Por esta razão este Cálice Sagrado localizado na\Ncidade de Fuyuki é poderoso demais para ser ignorado.
+Dialogue: 0,0:05:27.76,0:05:30.26,Default,,0,0,0,,Ele pode conceder qualquer desejo imaginável.
+Dialogue: 0,0:05:30.26,0:05:35.01,Default,,0,0,0,,Quem sabe que tipo de catástrofe poderia recair sobre nós se ele caísse em mãos erradas?
+Dialogue: 0,0:05:35.43,0:05:36.76,Default,,0,0,0,,Nesse caso...
+Dialogue: 0,0:05:36.76,0:05:42.14,Default,,0,0,0,,Se pudermos assegurar que o Cálice Sagrado\Nem Fuyuki selecionará indivíduos dignos dele
+Dialogue: 0,0:05:42.44,0:05:45.02,Default,,0,0,0,,seria irresponsável não agirmos preventivamente.
+Dialogue: 0,0:05:45.02,0:05:48.61,Default,,0,0,0,,A família Tohsaka pode até ser um clã de Magos
+Dialogue: 0,0:05:48.61,0:05:51.56,Default,,0,0,0,,mas eles são aliados de longa data da nossa Igreja.
+Dialogue: 0,0:05:51.74,0:05:53.86,Default,,0,0,0,,Conhecemos o Tokiomi-kun muito bem.
+Dialogue: 0,0:05:53.86,0:06:00.54,Default,,0,0,0,,E ele demonstrou sua intenção quanto ao uso do Cálice de maneira perfeitamente clara.
+Dialogue: 0,0:06:00.54,0:06:02.47,Default,,0,0,0,,Alcançar a origem de todo conhecimento.
+Dialogue: 0,0:06:02.71,0:06:05.89,Default,,0,0,0,,Desde sempre essa tem sido\Na única ambição dos Tohsaka.
+Dialogue: 0,0:06:06.34,0:06:07.30,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:06:07.50,0:06:11.14,Default,,0,0,0,,Aqueles que compartilhavam conosco\Nesse mesmo ideal os Einzbern e os Matou
+Dialogue: 0,0:06:11.47,0:06:14.43,Default,,0,0,0,,parecem ter se esquecido completamente disto.
+Dialogue: 0,0:06:14.43,0:06:18.99,Default,,0,0,0,,E quanto aos demais Mestres quanto menos eles souberem melhor será.
+Dialogue: 0,0:06:19.22,0:06:24.77,Default,,0,0,0,,Não há necessidade de dizer como sonhos fúteis alimentam a cobiça deles pelo Cálice.
+Dialogue: 0,0:06:24.98,0:06:30.03,Default,,0,0,0,,Então o propósito da minha participação na próxima Guerra do Santo Graal...
+Dialogue: 0,0:06:30.03,0:06:33.45,Default,,0,0,0,,será facilitar a vitória de Tohsaka Tokiomi certo?
+Dialogue: 0,0:06:33.45,0:06:35.16,Default,,0,0,0,,Para manter as aparências
+Dialogue: 0,0:06:35.16,0:06:40.08,Default,,0,0,0,,devemos agir como inimigos em público\Nexibindo nossas ambições de conquistar o Cálice.
+Dialogue: 0,0:06:40.45,0:06:44.67,Default,,0,0,0,,No entanto em segredo estaremos trabalhando juntos.
+Dialogue: 0,0:06:44.67,0:06:47.84,Default,,0,0,0,,Para que possamos eliminar os outros cinco Mestres.
+Dialogue: 0,0:06:47.84,0:06:50.71,Default,,0,0,0,,E para que possamos assegurar nossa vitória.
+Dialogue: 0,0:06:51.42,0:06:53.10,Default,,0,0,0,,Esse é o nosso plano Kirei-kun.
+Dialogue: 0,0:06:53.47,0:06:58.51,Default,,0,0,0,,Você será transferido da Igreja para a Associação dos Magos
+Dialogue: 0,0:06:58.51,0:07:00.60,Default,,0,0,0,,onde estudará sob minha tutela.
+Dialogue: 0,0:07:00.60,0:07:03.23,Default,,0,0,0,,A ordem oficial já foi emitida.
+Dialogue: 0,0:07:03.54,0:07:06.79,Default,,0,0,0,,Você irá para o Japão estudar magia na minha casa.
+Dialogue: 0,0:07:07.15,0:07:10.22,Default,,0,0,0,,Até o início da Guerra do Santo Graal que ocorrerá daqui há três anos
+Dialogue: 0,0:07:10.44,0:07:15.49,Default,,0,0,0,,você deverá se tornar um Mago poderoso o\Nsuficiente para invocar e comandar um Servo.
+Dialogue: 0,0:07:19.78,0:07:20.87,Default,,0,0,0,,E então...
+Dialogue: 0,0:07:20.87,0:07:23.28,Default,,0,0,0,,Tem mais alguma dúvida Kirei?
+Dialogue: 0,0:07:23.70,0:07:24.87,Default,,0,0,0,,Apenas uma.
+Dialogue: 0,0:07:26.71,0:07:32.67,Default,,0,0,0,,Sob qual critério o Cálice Sagrado escolhe os Mestres?
+Dialogue: 0,0:07:35.38,0:07:41.51,Default,,0,0,0,,O Cálice procura selecionar aqueles que mais precisam de seu poder.
+Dialogue: 0,0:07:41.51,0:07:45.35,Default,,0,0,0,,Está dizendo que todos os Mestres\Ntêm uma razão para cobiçar o Cálice?
+Dialogue: 0,0:07:45.35,0:07:46.90,Default,,0,0,0,,Não necessariamente.
+Dialogue: 0,0:07:47.27,0:07:50.62,Default,,0,0,0,,No passado existiram casos onde Feitiços de Comando...
+Dialogue: 0,0:07:50.94,0:07:53.64,Default,,0,0,0,,apareceram em pessoas que\Nnormalmente não seriam escolhidas.
+Dialogue: 0,0:07:55.74,0:07:57.36,Default,,0,0,0,,Já entendi Kirei-kun.
+Dialogue: 0,0:07:57.66,0:08:01.91,Default,,0,0,0,,Você ainda não sabe o porquê dele tê-lo escolhido não é?
+Dialogue: 0,0:08:04.50,0:08:08.12,Default,,0,0,0,,Fiquei surpreso por ele ter\Naceitado com tanta facilidade.
+Dialogue: 0,0:08:08.12,0:08:12.84,Default,,0,0,0,,Se a Igreja ordenasse meu filho poderia até mesmo pular em meio às chamas.
+Dialogue: 0,0:08:13.13,0:08:15.95,Default,,0,0,0,,Para ser honesto fiquei um pouco desapontado.
+Dialogue: 0,0:08:16.30,0:08:17.80,Default,,0,0,0,,Na perspectiva dele
+Dialogue: 0,0:08:17.80,0:08:22.28,Default,,0,0,0,,ele está sendo obrigado a lutar numa guerra que não lhe diz respeito.
+Dialogue: 0,0:08:23.01,0:08:28.10,Default,,0,0,0,,Não talvez seja exatamente isso o que ele precisa.
+Dialogue: 0,0:08:28.64,0:08:32.58,Default,,0,0,0,,Faz poucos dias desde que ele perdeu sua esposa.
+Dialogue: 0,0:08:32.98,0:08:36.49,Default,,0,0,0,,Ter uma nova missão pela qual ele possa se devotar...
+Dialogue: 0,0:08:36.49,0:08:41.49,Default,,0,0,0,,talvez o ajude a superar todo esse sofrimento pelo qual está passando mais rapidamente.
+Dialogue: 0,0:08:51.92,0:08:53.05,Default,,0,0,0,,Aoi-san.
+Dialogue: 0,0:08:58.22,0:09:00.34,Default,,0,0,0,,Kariya-kun há quanto tempo.
+Dialogue: 0,0:09:00.34,0:09:02.06,Default,,0,0,0,,Voltando daquela viagem de negócios?
+Dialogue: 0,0:09:02.39,0:09:04.97,Default,,0,0,0,,Desta vez foi uma bem longa não é?
+Dialogue: 0,0:09:05.26,0:09:07.19,Default,,0,0,0,,Sim mais ou menos...
+Dialogue: 0,0:09:08.06,0:09:09.59,Default,,0,0,0,,Kariya-ojiisan!
+Dialogue: 0,0:09:11.52,0:09:13.94,Default,,0,0,0,,Kariya-ojiisan bem-vindo!
+Dialogue: 0,0:09:14.11,0:09:15.16,Default,,0,0,0,,Rin-chan.
+Dialogue: 0,0:09:16.03,0:09:18.38,Default,,0,0,0,,Trouxe mais algum presente para mim?
+Dialogue: 0,0:09:18.61,0:09:19.78,Default,,0,0,0,,Espere Rin!
+Dialogue: 0,0:09:19.78,0:09:21.34,Default,,0,0,0,,Onde estão suas boas maneiras?
+Dialogue: 0,0:09:23.41,0:09:24.23,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:09:28.41,0:09:30.23,Default,,0,0,0,,Ojii-san obrigada!
+Dialogue: 0,0:09:30.33,0:09:33.08,Default,,0,0,0,,Fico feliz que tenha gostado.
+Dialogue: 0,0:09:36.80,0:09:38.21,Default,,0,0,0,,Onde está a Sakura-chan?
+Dialogue: 0,0:09:41.59,0:09:44.27,Default,,0,0,0,,Sakura não mora mais conosco.
+Dialogue: 0,0:09:49.02,0:09:49.97,Default,,0,0,0,,Aoi-san...
+Dialogue: 0,0:09:50.56,0:09:55.86,Default,,0,0,0,,Sakura não é mais minha filha nem a irmã mais nova de Rin.
+Dialogue: 0,0:09:57.48,0:09:58.57,Default,,0,0,0,,Ela...
+Dialogue: 0,0:09:59.78,0:10:01.86,Default,,0,0,0,,Ela está morando na mansão dos Matou.
+Dialogue: 0,0:10:02.95,0:10:04.04,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:10:04.53,0:10:08.99,Default,,0,0,0,,Por que os Matou desejam tanto uma criança com sangue Mago correndo em suas veias?
+Dialogue: 0,0:10:09.87,0:10:12.75,Default,,0,0,0,,Você sabe bem o porquê.
+Dialogue: 0,0:10:15.92,0:10:19.46,Default,,0,0,0,,Os Tohsaka e os Matou têm\Nsido aliados há várias gerações.
+Dialogue: 0,0:10:19.46,0:10:22.06,Default,,0,0,0,,Os anciãos da família Tohsaka\Natenderam ao pedido dos Matou.
+Dialogue: 0,0:10:22.47,0:10:24.74,Default,,0,0,0,,Eu não estava em posição de recusar.
+Dialogue: 0,0:10:26.43,0:10:27.84,Default,,0,0,0,,E acha que isso foi certo?
+Dialogue: 0,0:10:28.39,0:10:31.43,Default,,0,0,0,,Eu já havia aceitado que isso poderia acontecer
+Dialogue: 0,0:10:31.43,0:10:34.48,Default,,0,0,0,,quando casei e entrei para a família Tohsaka
+Dialogue: 0,0:10:34.48,0:10:36.66,Default,,0,0,0,,e me tornei esposa de um Mago.
+Dialogue: 0,0:10:36.98,0:10:38.42,Default,,0,0,0,,E pretende aceitar?
+Dialogue: 0,0:10:38.65,0:10:41.44,Default,,0,0,0,,Aqueles que pertencem a famílias com sangue Mago...
+Dialogue: 0,0:10:41.44,0:10:45.74,Default,,0,0,0,,nunca poderão esperar por uma vida normal e cheia de felicidade.
+Dialogue: 0,0:10:45.74,0:10:46.71,Default,,0,0,0,,É mentira!
+Dialogue: 0,0:10:46.91,0:10:49.83,Default,,0,0,0,,Você casou com ele porque desejava tal felicidade!
+Dialogue: 0,0:10:49.83,0:10:50.72,Default,,0,0,0,,Isso é...
+Dialogue: 0,0:10:51.25,0:10:53.25,Default,,0,0,0,,uma questão entre os Tohsaka e os Matou.
+Dialogue: 0,0:10:53.71,0:10:56.50,Default,,0,0,0,,Você virou as costas para o mundo da magia.
+Dialogue: 0,0:10:57.08,0:10:58.85,Default,,0,0,0,,Isso não lhe diz mais respeito.
+Dialogue: 0,0:11:03.13,0:11:05.88,Default,,0,0,0,,Se algum dia encontrar a Sakura novamente
+Dialogue: 0,0:11:05.88,0:11:07.38,Default,,0,0,0,,seja gentil com ela.
+Dialogue: 0,0:11:08.35,0:11:12.17,Default,,0,0,0,,Vocês sempre foram muito próximos Kariya-kun.
+Dialogue: 0,0:11:15.27,0:11:19.45,Default,,0,0,0,,É muita coragem da sua parte voltar aqui seu fracassado.
+Dialogue: 0,0:11:20.90,0:11:27.40,Default,,0,0,0,,Tenho certeza absoluta de ter lhe dito para nunca mais mostrar essa sua cara desprezível diante de minha pessoa não é?
+Dialogue: 0,0:11:27.87,0:11:28.82,Default,,0,0,0,,Kariya.
+Dialogue: 0,0:11:29.12,0:11:31.66,Default,,0,0,0,,Fiquei sabendo que adotou a filha mais nova dos Tohsaka.
+Dialogue: 0,0:11:32.75,0:11:34.19,Default,,0,0,0,,O que ouviu é verdade.
+Dialogue: 0,0:11:34.71,0:11:39.89,Default,,0,0,0,,Você está tão desesperado assim para assegurar a sucessão da linhagem mágica da família Matou?
+Dialogue: 0,0:11:40.13,0:11:43.59,Default,,0,0,0,,Quem é você para dizer que estou errado filho desnaturado?
+Dialogue: 0,0:11:43.59,0:11:48.43,Default,,0,0,0,,De quem acha que é a culpa por estarmos nesse estado que nos encontramos?
+Dialogue: 0,0:11:48.89,0:11:50.05,Default,,0,0,0,,Kariya...
+Dialogue: 0,0:11:50.47,0:11:55.31,Default,,0,0,0,,Se tivesse cumprido seu papel e herdado os segredos da família Matou
+Dialogue: 0,0:11:55.31,0:11:58.06,Default,,0,0,0,,eu não teria chegado a esta situação.
+Dialogue: 0,0:11:58.06,0:12:00.31,Default,,0,0,0,,Como ousa tentar me dar lição de moral...?
+Dialogue: 0,0:12:00.31,0:12:02.69,Default,,0,0,0,,Pare de falar asneiras seu vampiro.
+Dialogue: 0,0:12:03.23,0:12:08.49,Default,,0,0,0,,Você só quer o Cálice Sagrado para que possa desejar a imortalidade.
+Dialogue: 0,0:12:10.74,0:12:14.24,Default,,0,0,0,,No próximo ano sessenta anos terão se passado desde a última batalha.
+Dialogue: 0,0:12:14.24,0:12:19.23,Default,,0,0,0,,No entanto a família Matou não tem sequer um único\Nrepresentante para lutar nessa Quarta Guerra do Santo Graal.
+Dialogue: 0,0:12:19.46,0:12:23.05,Default,,0,0,0,,No passado talvez você tivesse o que é\Npreciso para conseguir controlar um Servo
+Dialogue: 0,0:12:23.05,0:12:25.38,Default,,0,0,0,,mas seu irmão mais velho Byakuya não o tinha.
+Dialogue: 0,0:12:25.59,0:12:31.72,Default,,0,0,0,,Provavelmente não conseguiremos vencer esta guerra mas tenho um plano para a que ocorrerá daqui a sessenta e um anos.
+Dialogue: 0,0:12:32.18,0:12:37.57,Default,,0,0,0,,Tenho certeza que a garota dos Tohsaka haverá de conceber poderosos Magos.
+Dialogue: 0,0:12:37.68,0:12:41.73,Default,,0,0,0,,Isso sem falar do grande potencial que ela própria possui.
+Dialogue: 0,0:12:41.73,0:12:43.27,Default,,0,0,0,,Em outras palavras...
+Dialogue: 0,0:12:43.69,0:12:45.90,Default,,0,0,0,,Caso você consiga colocar as mãos no Cálice
+Dialogue: 0,0:12:45.90,0:12:48.61,Default,,0,0,0,,não teria qualquer utilidade em particular para Tohsaka Sakura não é?
+Dialogue: 0,0:12:49.78,0:12:52.68,Default,,0,0,0,,Onde quer chegar com toda essa conversa?
+Dialogue: 0,0:12:53.08,0:12:55.06,Default,,0,0,0,,Proponho uma troca Zouken.
+Dialogue: 0,0:12:55.66,0:12:59.59,Default,,0,0,0,,Durante essa próxima Guerra do Santo Graal\Neu conseguirei o Cálice Sagrado para os Matou.
+Dialogue: 0,0:13:00.21,0:13:03.76,Default,,0,0,0,,Em troca disso você terá que libertar a Tohsaka Sakura.
+Dialogue: 0,0:13:05.05,0:13:06.63,Default,,0,0,0,,Não diga asneiras.
+Dialogue: 0,0:13:06.88,0:13:10.68,Default,,0,0,0,,Acha que um desertor sem qualquer treinamento em apenas um ano
+Dialogue: 0,0:13:10.68,0:13:15.13,Default,,0,0,0,,conseguiria se tornar poderoso o suficiente para ser Mestre de um Servo?
+Dialogue: 0,0:13:15.64,0:13:18.88,Default,,0,0,0,,Eu sei que conhece um método que poderia tornar isso verdade não é?
+Dialogue: 0,0:13:19.18,0:13:21.85,Default,,0,0,0,,Através do controle que possui sobre os insetos.
+Dialogue: 0,0:13:24.57,0:13:25.51,Default,,0,0,0,,O quê?
+Dialogue: 0,0:13:26.19,0:13:28.53,Default,,0,0,0,,Implante os Vermes do Brasão em mim!
+Dialogue: 0,0:13:29.11,0:13:31.89,Default,,0,0,0,,Kariya por acaso tem o desejo de morrer?
+Dialogue: 0,0:13:32.07,0:13:34.82,Default,,0,0,0,,Os Matou deveriam fazer seu próprio trabalho sujo.
+Dialogue: 0,0:13:35.03,0:13:37.66,Default,,0,0,0,,Não permitirei que uma pessoa inocente de fora da família seja envolvida nisso.
+Dialogue: 0,0:13:39.00,0:13:40.00,Default,,0,0,0,,Não pode ser.
+Dialogue: 0,0:13:40.00,0:13:43.12,Default,,0,0,0,,Por acaso está preocupado comigo pai?
+Dialogue: 0,0:13:45.54,0:13:49.92,Default,,0,0,0,,Se você esperava lidar com essa situação para poupá-la antes que eu fizesse algo Kariya...
+Dialogue: 0,0:13:51.09,0:13:54.01,Default,,0,0,0,,Lamento dizer mas já é tarde demais.
+Dialogue: 0,0:13:54.01,0:13:55.05,Default,,0,0,0,,Velhote...
+Dialogue: 0,0:13:55.56,0:13:56.62,Default,,0,0,0,,Não me diga quê...
+Dialogue: 0,0:14:00.10,0:14:05.31,Default,,0,0,0,,Ela chorou e gritou bastante\Ndurante os três primeiros dias.
+Dialogue: 0,0:14:05.77,0:14:09.17,Default,,0,0,0,,Mas desde o quarto dia ela não tem dado sequer um gemido.
+Dialogue: 0,0:14:09.86,0:14:13.24,Default,,0,0,0,,A primeira coisa que fiz hoje de manhã foi jogá-la aqui embaixo
+Dialogue: 0,0:14:13.24,0:14:16.03,Default,,0,0,0,,para ver por quanto tempo ela sobreviveria.
+Dialogue: 0,0:14:16.03,0:14:20.42,Default,,0,0,0,,E mesmo após doze horas\Nela ainda parece estar respirando.
+Dialogue: 0,0:14:20.62,0:14:24.82,Default,,0,0,0,,Os Tohsaka não podem ser chamados de fracos.
+Dialogue: 0,0:14:25.00,0:14:26.19,Default,,0,0,0,,Sakura!
+Dialogue: 0,0:14:26.19,0:14:27.74,Default,,0,0,0,,O que pretende fazer?
+Dialogue: 0,0:14:28.09,0:14:34.30,Default,,0,0,0,,Agora ela é só uma pobre garota que foi\Nviolada completamente por aqueles vermes.
+Dialogue: 0,0:14:34.30,0:14:37.35,Default,,0,0,0,,Ainda assim se deseja salvá-la...
+Dialogue: 0,0:14:37.76,0:14:40.27,Default,,0,0,0,,Não tenho razões para recusar suas condições.
+Dialogue: 0,0:14:40.27,0:14:41.49,Default,,0,0,0,,Acordo feito.
+Dialogue: 0,0:14:43.19,0:14:46.69,Default,,0,0,0,,Mas lembre-se que até cumprir sua parte do trato
+Dialogue: 0,0:14:46.69,0:14:49.88,Default,,0,0,0,,eu continuarei a "discipliná-la".
+Dialogue: 0,0:14:49.98,0:14:54.60,Default,,0,0,0,,Afinal meu objetivo principal ainda é alcançar a vitória na próxima Guerra do Santo Graal.
+Dialogue: 0,0:14:54.74,0:14:59.20,Default,,0,0,0,,Por mais remota que seja a chance se você trouxer o Cálice para mim
+Dialogue: 0,0:14:59.20,0:15:03.37,Default,,0,0,0,,eu não precisaria mais usar a garota.
+Dialogue: 0,0:15:03.37,0:15:08.84,Default,,0,0,0,,Ela só precisará resistir durante um ano de treinamento.
+Dialogue: 0,0:15:09.63,0:15:12.43,Default,,0,0,0,,Espero que cumpra com sua palavra Matou Zouken.
+Dialogue: 0,0:15:12.59,0:15:16.42,Default,,0,0,0,,Deite-se ali por uma semana e\Ndeixe que eles o usem como casulo.
+Dialogue: 0,0:15:16.59,0:15:23.03,Default,,0,0,0,,Se você não ficar louco ou morrer\Nreconhecerei que está levando isso a sério.
+Dialogue: 0,0:15:31.69,0:15:33.57,Default,,0,0,0,,Finalmente chegou.
+Dialogue: 0,0:15:35.49,0:15:36.77,Default,,0,0,0,,O quê?
+Dialogue: 0,0:15:36.95,0:15:40.34,Default,,0,0,0,,Um relatório enviado pelos meus espiões em Londres.
+Dialogue: 0,0:15:41.08,0:15:45.21,Default,,0,0,0,,Aparentemente o Cálice escolheu um Mestre\Nda mais alta linhagem da Associação dos Magos.
+Dialogue: 0,0:15:45.21,0:15:47.61,Default,,0,0,0,,Alguém da Torre do Relógio.
+Dialogue: 0,0:15:48.17,0:15:48.90,Default,,0,0,0,,Quem?
+Dialogue: 0,0:15:49.13,0:15:50.37,Default,,0,0,0,,Um homem muito perigoso.
+Dialogue: 0,0:15:50.92,0:15:55.16,Default,,0,0,0,,Ele é o filho mais velho da infame família Archibald que produziu nove gerações consecutivas de Magos.
+Dialogue: 0,0:15:55.63,0:15:58.40,Default,,0,0,0,,Kayneth El-Melloi Archibald.
+Dialogue: 0,0:16:01.64,0:16:07.80,Default,,0,0,0,,No mundo da magia sua linhagem\Nsanguínea determina sua posição social.
+Dialogue: 0,0:16:08.19,0:16:12.94,Default,,0,0,0,,Isso se dá ao fato de que os segredos da magia não podem ser simplesmente aprendidos durante uma única geração.
+Dialogue: 0,0:16:12.94,0:16:17.85,Default,,0,0,0,,Os pais devem treinar durante toda a vida e repassar todos os frutos de seu aprendizado para seus descendentes.
+Dialogue: 0,0:16:18.20,0:16:22.81,Default,,0,0,0,,Por isso quanto mais antiga for uma\Nfamília de Magos mais poderosa ela será.
+Dialogue: 0,0:16:23.19,0:16:27.62,Default,,0,0,0,,Alguns de vocês devem estar se perguntando o porquê de eu estar falando de um conhecimento tão básico.
+Dialogue: 0,0:16:27.62,0:16:33.13,Default,,0,0,0,,Ontem um aluno veio até mim para me apresentar um ensaio.
+Dialogue: 0,0:16:33.96,0:16:35.01,Default,,0,0,0,,O seu título é:
+Dialogue: 0,0:16:35.01,0:16:37.52,Default,,0,0,0,,"Como deveria ser o mundo da magia no novo século."
+Dialogue: 0,0:16:37.84,0:16:42.77,Default,,0,0,0,,Este ensaio objetiva opor-se à conceituada\Nteoria que acabei de apresentar a todos vocês.
+Dialogue: 0,0:16:43.10,0:16:46.27,Default,,0,0,0,,Ele argumenta que quanto mais profundo for o conhecimento sobre as magias...
+Dialogue: 0,0:16:46.27,0:16:49.64,Default,,0,0,0,,e mais hábil for um Mago no controle de sua própria magia
+Dialogue: 0,0:16:49.64,0:16:53.30,Default,,0,0,0,,isso permitiria que tal indivíduo pudesse transpor essa barreira.
+Dialogue: 0,0:16:53.94,0:16:54.85,Default,,0,0,0,,Em outras palavras...
+Dialogue: 0,0:16:55.19,0:17:00.03,Default,,0,0,0,,Até mesmo alguém de uma linhagem mais recente seria capaz\Nde se tornar um Mago de primeira classe em determinada magia.
+Dialogue: 0,0:17:00.20,0:17:03.87,Default,,0,0,0,,Devo admitir que esse ensaio me ensinou uma coisa.
+Dialogue: 0,0:17:03.99,0:17:05.47,Default,,0,0,0,,Façam silêncio!
+Dialogue: 0,0:17:07.79,0:17:09.33,Default,,0,0,0,,Serei o mais claro possível.
+Dialogue: 0,0:17:09.33,0:17:12.95,Default,,0,0,0,,Cada palavra contida nesse ensaio não passa de pura tolice.
+Dialogue: 0,0:17:14.34,0:17:17.84,Default,,0,0,0,,A linhagem sanguínea determina\Na habilidade mágica de um Mago.
+Dialogue: 0,0:17:17.84,0:17:20.83,Default,,0,0,0,,Essa é uma verdade irrefutável.
+Dialogue: 0,0:17:22.09,0:17:24.47,Default,,0,0,0,,Waver Velvet-kun...
+Dialogue: 0,0:17:24.47,0:17:28.31,Default,,0,0,0,,Achei lamentável que um de meus alunos...
+Dialogue: 0,0:17:28.31,0:17:30.14,Default,,0,0,0,,pudesse alimentar crenças tão ilusórias.
+Dialogue: 0,0:17:30.14,0:17:31.39,Default,,0,0,0,,Professor!
+Dialogue: 0,0:17:31.39,0:17:35.61,Default,,0,0,0,,Só tentei levantar uma questão sobre a qual a\NAssociação dos Magos nunca se aprofundou muito...
+Dialogue: 0,0:17:35.61,0:17:36.98,Default,,0,0,0,,Waver!
+Dialogue: 0,0:17:36.98,0:17:43.03,Default,,0,0,0,,Se não me engano sua família ainda está\Napenas na terceira geração de Magos não é?
+Dialogue: 0,0:17:43.57,0:17:47.33,Default,,0,0,0,,Ao meu ver comparada à longa\Nhistória da Associação dos Magos
+Dialogue: 0,0:17:47.33,0:17:51.12,Default,,0,0,0,,sua família ainda não passa de um bebê chorão.
+Dialogue: 0,0:17:51.12,0:17:55.92,Default,,0,0,0,,E além do mais um bebê deve primeiramente aprender a falar antes de atrever-se a responder aos seus pais.
+Dialogue: 0,0:17:57.87,0:18:01.30,Default,,0,0,0,,Maldito idiota convencido!
+Dialogue: 0,0:18:01.30,0:18:03.51,Default,,0,0,0,,E ele ainda chama a si mesmo de professor?
+Dialogue: 0,0:18:03.51,0:18:06.18,Default,,0,0,0,,Ele simplesmente ficou com inveja da minha tese!
+Dialogue: 0,0:18:06.18,0:18:08.24,Default,,0,0,0,,Ele tem medo do meu talento!
+Dialogue: 0,0:18:08.47,0:18:11.13,Default,,0,0,0,,Foi por isso que ele quis me humilhar em público.
+Dialogue: 0,0:18:13.40,0:18:15.02,Default,,0,0,0,,Ah desculpa...
+Dialogue: 0,0:18:15.02,0:18:16.09,Default,,0,0,0,,Você se machucou?
+Dialogue: 0,0:18:16.44,0:18:17.94,Default,,0,0,0,,N-Não...
+Dialogue: 0,0:18:18.69,0:18:21.09,Default,,0,0,0,,Você não é um dos estudantes de Necromancia?
+Dialogue: 0,0:18:21.36,0:18:22.68,Default,,0,0,0,,Não deveria estar em aula?
+Dialogue: 0,0:18:22.99,0:18:24.31,Default,,0,0,0,,Ah bem...
+Dialogue: 0,0:18:25.20,0:18:28.20,Default,,0,0,0,,O professor Archibald me pediu\Npara resolver um assunto para ele.
+Dialogue: 0,0:18:28.20,0:18:30.05,Default,,0,0,0,,Por isso estou com um pouco de pressa...
+Dialogue: 0,0:18:30.62,0:18:31.58,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:18:31.58,0:18:32.54,Default,,0,0,0,,Foi bom encontrá-lo.
+Dialogue: 0,0:18:32.83,0:18:35.86,Default,,0,0,0,,Poderia entregar esse pacote ao professor Archibald?
+Dialogue: 0,0:18:37.96,0:18:39.55,Default,,0,0,0,,Esse pacote?
+Dialogue: 0,0:18:40.17,0:18:41.13,Default,,0,0,0,,Conto com você.
+Dialogue: 0,0:18:41.13,0:18:42.93,Default,,0,0,0,,Parece ser algo importante.
+Dialogue: 0,0:18:43.47,0:18:44.85,Default,,0,0,0,,Importante...?
+Dialogue: 0,0:18:45.97,0:18:47.34,Default,,0,0,0,,O remetente é da...
+Dialogue: 0,0:18:47.72,0:18:49.13,Default,,0,0,0,,Macedônia?
+Dialogue: 0,0:18:56.19,0:18:57.44,Default,,0,0,0,,Aqui está.
+Dialogue: 0,0:18:58.19,0:18:59.69,Default,,0,0,0,,O boato sobre Kayneth
+Dialogue: 0,0:18:59.69,0:19:04.61,Default,,0,0,0,,aquele que dizia sobre ele estar lutando numa guerra mágica no Oriente
+Dialogue: 0,0:19:04.86,0:19:06.42,Default,,0,0,0,,era mesmo verdade?
+Dialogue: 0,0:19:11.20,0:19:12.76,Default,,0,0,0,,A Guerra do Santo Graal...
+Dialogue: 0,0:19:13.71,0:19:17.13,Default,,0,0,0,,Há duzentos anos as famílias\Nconhecidas como "as três grandes"...
+Dialogue: 0,0:19:17.13,0:19:19.80,Default,,0,0,0,,Os Einzbern os Makiri e os Tohsaka...
+Dialogue: 0,0:19:20.25,0:19:23.51,Default,,0,0,0,,Os três cooperaram para invocar o Cálice Sagrado.
+Dialogue: 0,0:19:23.51,0:19:28.01,Default,,0,0,0,,Um artefato sagrado que possui o poder de conceder qualquer desejo ao seu detentor.
+Dialogue: 0,0:19:29.01,0:19:34.30,Default,,0,0,0,,No entanto o Cálice só pode atender um único desejo.
+Dialogue: 0,0:19:35.14,0:19:39.92,Default,,0,0,0,,A cooperação que havia entre eles acabou se transformando numa guerra brutal e sangrenta.
+Dialogue: 0,0:19:40.23,0:19:42.90,Default,,0,0,0,,Essa foi a origem das Guerras do Santo Graal.
+Dialogue: 0,0:19:43.65,0:19:49.28,Default,,0,0,0,,Desde então o Cálice Sagrado tem aparecido na cidade de Fuyuki uma vez a cada sessenta anos.
+Dialogue: 0,0:19:49.28,0:19:54.16,Default,,0,0,0,,O Cálice seleciona sete Magos considerados dignos a obtê-lo.
+Dialogue: 0,0:19:55.08,0:19:59.03,Default,,0,0,0,,Além disso permite que eles invoquem os espíritos de poderosos heróis conhecidos como Servos.
+Dialogue: 0,0:20:00.71,0:20:01.75,Default,,0,0,0,,Archer.
+Dialogue: 0,0:20:01.75,0:20:02.88,Default,,0,0,0,,Saber.
+Dialogue: 0,0:20:02.88,0:20:04.13,Default,,0,0,0,,Lancer.
+Dialogue: 0,0:20:04.13,0:20:05.09,Default,,0,0,0,,Rider.
+Dialogue: 0,0:20:05.09,0:20:06.26,Default,,0,0,0,,Assassin.
+Dialogue: 0,0:20:06.26,0:20:07.38,Default,,0,0,0,,Caster.
+Dialogue: 0,0:20:07.38,0:20:09.01,Default,,0,0,0,,Berserker.
+Dialogue: 0,0:20:09.47,0:20:13.18,Default,,0,0,0,,Deve haver apenas sete Servos\Nsendo divididos entre sete classes.
+Dialogue: 0,0:20:13.68,0:20:17.48,Default,,0,0,0,,Depois de invocados eles lutam até a morte\Npara decidir quem é verdadeiramente digno...
+Dialogue: 0,0:20:17.64,0:20:20.09,Default,,0,0,0,,de possuir o Cálice Sagrado.
+Dialogue: 0,0:20:23.90,0:20:28.18,Default,,0,0,0,,Linhagem ou influência não significam nada na Guerra do Santo Graal.
+Dialogue: 0,0:20:28.18,0:20:31.68,Default,,0,0,0,,Só é preciso ser o mais talentoso de todos.
+Dialogue: 0,0:20:32.49,0:20:35.21,Default,,0,0,0,,Sou um candidato perfeito para isso!
+Dialogue: 0,0:20:37.04,0:20:43.56,Default,,0,0,0,,Além disso é preciso possuir uma relíquia que tenha pertencido\Na um Servo para que aja como catalisador durante sua invocação.
+Dialogue: 0,0:20:44.42,0:20:45.89,Default,,0,0,0,,Uma relíquia...?
+Dialogue: 0,0:21:16.12,0:21:19.45,Default,,0,0,0,,Esse dispositivo consegue me impressionar todas as vezes.
+Dialogue: 0,0:21:19.91,0:21:21.78,Default,,0,0,0,,É um relatório enviado pela Torre do Relógio.
+Dialogue: 0,0:21:22.17,0:21:25.63,Default,,0,0,0,,Lorde El-Melloi conseguiu uma nova relíquia para realizar sua invocação.
+Dialogue: 0,0:21:26.55,0:21:29.55,Default,,0,0,0,,A participação dele está confirmada agora.
+Dialogue: 0,0:21:29.88,0:21:33.70,Default,,0,0,0,,O que me incomoda é o fato de\Nainda estarem sobrando duas vagas.
+Dialogue: 0,0:21:33.85,0:21:34.72,Default,,0,0,0,,O quê?
+Dialogue: 0,0:21:34.89,0:21:38.28,Default,,0,0,0,,Indiferente do nível de habilidade\Nsete pessoas serão escolhidas pelo Cálice.
+Dialogue: 0,0:21:38.60,0:21:43.67,Default,,0,0,0,,Geralmente os mais fracos são escolhidos por último.
+Dialogue: 0,0:21:43.67,0:21:45.27,Default,,0,0,0,,Não precisa se preocupar com eles.
+Dialogue: 0,0:21:45.94,0:21:48.48,Default,,0,0,0,,Minha maior preocupação no momento Kirei
+Dialogue: 0,0:21:48.65,0:21:51.63,Default,,0,0,0,,é que alguém tenha lhe visto entrar neste lugar.
+Dialogue: 0,0:21:51.91,0:21:53.66,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:21:53.66,0:21:57.58,Default,,0,0,0,,Nenhum dispositivo mágico perceptível ou imperceptível foi detectado ao redor da mansão.
+Dialogue: 0,0:21:57.58,0:21:59.40,Default,,0,0,0,,E também não encontramos nenhum espião.
+Dialogue: 0,0:21:59.79,0:22:00.79,Default,,0,0,0,,Por isso...
+Dialogue: 0,0:22:00.79,0:22:03.08,Default,,0,0,0,,Por isso garanto que é verdade.
+Dialogue: 0,0:22:04.50,0:22:11.33,Default,,0,0,0,,Eu sou Hassan mestre dos estratagemas e lhe asseguro que nenhum truque tolo seria capaz de escapar aos meus olhos.
+Dialogue: 0,0:22:11.76,0:22:16.65,Default,,0,0,0,,Não sinto quaisquer presenças nesses arredores Mestre.
+Dialogue: 0,0:22:17.47,0:22:20.52,Default,,0,0,0,,Por favor não se preocupem quanto a isso.
+Dialogue: 0,0:22:20.52,0:22:23.77,Default,,0,0,0,,Meu pai ficará sabendo imediatamente
+Dialogue: 0,0:22:23.77,0:22:26.27,Default,,0,0,0,,assim que outro Servo for invocado.
+Dialogue: 0,0:22:26.61,0:22:31.38,Default,,0,0,0,,Creio que os outros Magos ficarão aguardando antes de tomarem alguma iniciativa.
+Dialogue: 0,0:22:31.82,0:22:33.95,Default,,0,0,0,,Assassin já pode se retirar.
+Dialogue: 0,0:22:34.07,0:22:36.30,Default,,0,0,0,,Continue vigiando a parte de fora deste lugar.
+Dialogue: 0,0:22:36.45,0:22:37.57,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:22:39.66,0:22:41.81,Default,,0,0,0,,Mas é apenas uma questão de tempo.
+Dialogue: 0,0:22:42.54,0:22:49.21,Default,,0,0,0,,Em breve os espiões dos outros Mestres estarão cientes sobre este lugar.
+Dialogue: 0,0:22:50.23,0:22:51.17,Default,,0,0,0,,E o que é isso?
+Dialogue: 0,0:22:51.17,0:22:53.22,Default,,0,0,0,,Um assunto em particular.
+Dialogue: 0,0:22:53.68,0:22:57.87,Default,,0,0,0,,Estive reunindo informações\Na respeito do Mestre dos Einzbern.
+Dialogue: 0,0:22:58.56,0:23:01.15,Default,,0,0,0,,Nove anos já se passaram...
+Dialogue: 0,0:23:01.60,0:23:04.65,Default,,0,0,0,,Os Einzbern são conhecidos por se\Norgulharem pela pureza de seu sangue
+Dialogue: 0,0:23:04.94,0:23:08.67,Default,,0,0,0,,mas eles surpreendentemente aceitaram\Na entrada de um Mago de fora na família.
+Dialogue: 0,0:23:10.69,0:23:16.59,Default,,0,0,0,,Os Einzbern sempre se focaram no controle da magia por isso combate nunca foi o forte deles.
+Dialogue: 0,0:23:16.95,0:23:20.95,Default,,0,0,0,,Essa foi a razão pela qual eles perderam as Guerras do Santo Graal anteriores.
+Dialogue: 0,0:23:21.41,0:23:24.33,Default,,0,0,0,,Parece que finalmente perderam a paciência.
+Dialogue: 0,0:23:24.96,0:23:29.22,Default,,0,0,0,,O Mago que aceitaram na família será uma grande adição para eles.
+Dialogue: 0,0:23:32.09,0:23:33.73,Default,,0,0,0,,Emiya Kiritsugu.
+Dialogue: 0,0:23:35.30,0:23:37.87,Default,,0,0,0,,O homem conhecido como Matador de Magos.
+Dialogue: 0,0:23:43.68,0:23:47.94,Default,,0,0,0,,Após todos esses anos em busca da relíquia em Cornwall
+Dialogue: 0,0:23:47.94,0:23:49.61,Default,,0,0,0,,finalmente a encontramos.
+Dialogue: 0,0:23:49.61,0:23:51.32,Default,,0,0,0,,Usando isto como catalisador
+Dialogue: 0,0:23:51.32,0:23:54.56,Default,,0,0,0,,o espadachim que você invocar com toda certeza
+Dialogue: 0,0:23:54.56,0:23:57.36,Default,,0,0,0,,será o mais forte de todos os Servos.
+Dialogue: 0,0:23:57.70,0:23:59.09,Default,,0,0,0,,Kiritsugu.
+Dialogue: 0,0:23:59.09,0:24:04.26,Default,,0,0,0,,Os Einzbern não poderiam lhe\Noferecer presente maior que esse.
+Dialogue: 0,0:24:04.75,0:24:06.92,Default,,0,0,0,,É uma grande honra Ancião.
+Dialogue: 0,0:24:07.25,0:24:10.48,Default,,0,0,0,,Não permita que eles sobrevivam.
+Dialogue: 0,0:24:10.71,0:24:13.51,Default,,0,0,0,,Mate os outros seis Servos
+Dialogue: 0,0:24:13.51,0:24:17.44,Default,,0,0,0,,e complete a Terceira Grande Magia Heaven's Feel.
+Dialogue: 0,0:24:18.10,0:24:18.76,Default,,0,0,0,,Sim!
+Dialogue: 0,0:24:20.55,0:24:22.35,Default,,0,0,0,,Emiya Kiritsugu...?
+Dialogue: 0,0:24:22.76,0:24:25.54,Default,,0,0,0,,Eu já ouvi esse nome antes.
+Dialogue: 0,0:24:26.77,0:24:29.63,Default,,0,0,0,,A reputação dele alcançou até mesmo os ouvidos da Igreja?
+Dialogue: 0,0:24:30.56,0:24:35.26,Default,,0,0,0,,Emiya o Matador de Magos\Nfoi alguém muito infame no passado.
+Dialogue: 0,0:24:35.57,0:24:39.21,Default,,0,0,0,,Ele pode até parecer ser um Mago andarilho sem quaisquer conexões com a Associação.
+Dialogue: 0,0:24:39.70,0:24:44.41,Default,,0,0,0,,No entanto aqueles do alto escalão sequer relutaram em usar os serviços dele em benefício próprio.
+Dialogue: 0,0:24:44.41,0:24:49.01,Default,,0,0,0,,Ele seria algo equivalente aos Executores da Igreja?
+Dialogue: 0,0:24:49.42,0:24:51.29,Default,,0,0,0,,Muito pior.
+Dialogue: 0,0:24:51.29,0:24:54.71,Default,,0,0,0,,Aquele homem é conhecido\Ncomo um assassino de aluguel...
+Dialogue: 0,0:24:54.71,0:24:57.30,Default,,0,0,0,,especializado em assassinar Magos.
+Dialogue: 0,0:24:57.76,0:24:59.43,Default,,0,0,0,,Ele sabe como os Magos pensam
+Dialogue: 0,0:24:59.43,0:25:02.10,Default,,0,0,0,,e utiliza táticas absolutamente\Ninadequadas para um Mago...
+Dialogue: 0,0:25:02.10,0:25:03.95,Default,,0,0,0,,para eliminar seus alvos.
+Dialogue: 0,0:25:05.18,0:25:06.54,Default,,0,0,0,,Leia o relatório.
+Dialogue: 0,0:25:08.10,0:25:09.48,Default,,0,0,0,,Assassinato como franco atirador...
+Dialogue: 0,0:25:09.48,0:25:10.56,Default,,0,0,0,,Envenenamento...
+Dialogue: 0,0:25:10.56,0:25:13.06,Default,,0,0,0,,Detonação de bombas em via pública...
+Dialogue: 0,0:25:13.06,0:25:15.05,Default,,0,0,0,,Ele chegou ao ponto de abater um avião
+Dialogue: 0,0:25:15.05,0:25:17.70,Default,,0,0,0,,simplesmente porque seu alvo era um dos passageiros!
+Dialogue: 0,0:25:18.28,0:25:21.95,Default,,0,0,0,,Ele faz uso dessas táticas furtivas sem hesitação alguma.
+Dialogue: 0,0:25:23.20,0:25:28.07,Default,,0,0,0,,Para nós usuários de magia as leis comuns do mundo não se aplicam.
+Dialogue: 0,0:25:28.07,0:25:31.64,Default,,0,0,0,,É imprescindível que sigamos à risca\Nas leis que criamos para nós mesmos.
+Dialogue: 0,0:25:32.08,0:25:37.46,Default,,0,0,0,,No entanto esse homem é completamente desprovido de qualquer resquício de orgulho como Mago.
+Dialogue: 0,0:25:37.88,0:25:40.30,Default,,0,0,0,,Os métodos dele são imperdoáveis.
+Dialogue: 0,0:25:41.63,0:25:42.81,Default,,0,0,0,,Então...
+Dialogue: 0,0:25:43.76,0:25:46.89,Default,,0,0,0,,O que será que esse homem chamado Emiya Kiritsugu...
+Dialogue: 0,0:25:47.87,0:25:50.41,Default,,0,0,0,,almejava quando decidiu se tornar um assassino profissional?
+Dialogue: 0,0:25:50.56,0:25:52.94,Default,,0,0,0,,Presumo que tenha sido pelo dinheiro.
+Dialogue: 0,0:25:53.48,0:25:55.32,Default,,0,0,0,,Como pode ver nesse relatório
+Dialogue: 0,0:25:55.73,0:25:59.61,Default,,0,0,0,,ele foi responsável por mais do\Nque apenas assassinatos de Magos.
+Dialogue: 0,0:25:59.99,0:26:03.24,Default,,0,0,0,,Ele já apareceu em zonas de conflito ao redor de todo o mundo
+Dialogue: 0,0:26:03.24,0:26:06.23,Default,,0,0,0,,acumulando fortuna enquanto oferecia seus serviços como mercenário.
+Dialogue: 0,0:26:07.11,0:26:08.66,Default,,0,0,0,,Por ora...
+Dialogue: 0,0:26:09.20,0:26:11.91,Default,,0,0,0,,Será que poderia me emprestar esse relatório?
+Dialogue: 0,0:26:17.50,0:26:20.35,Default,,0,0,0,,Revisemos tudo que já foi levantado até o presente momento Iri.
+Dialogue: 0,0:26:21.67,0:26:26.64,Default,,0,0,0,,Até agora já tomamos conhecimento de que quatro dos sete Mestres já foram escolhidos pelo Cálice.
+Dialogue: 0,0:26:27.01,0:26:30.11,Default,,0,0,0,,Tohsaka Tokiomi chefe da família Tohsaka.
+Dialogue: 0,0:26:30.43,0:26:34.31,Default,,0,0,0,,Um poderoso Mago do atributo do Fogo\Nque se especializou em Magia de Pedras Preciosas.
+Dialogue: 0,0:26:34.31,0:26:35.78,Default,,0,0,0,,Matou Kariya.
+Dialogue: 0,0:26:37.11,0:26:41.45,Default,,0,0,0,,Após romper laços com sua família ele foi\Nchamado de volta para se tornar um Mestre?
+Dialogue: 0,0:26:41.65,0:26:43.95,Default,,0,0,0,,Aquele velhote deve estar desesperado.
+Dialogue: 0,0:26:44.16,0:26:46.32,Default,,0,0,0,,Kayneth El-Melloi Archibald.
+Dialogue: 0,0:26:46.87,0:26:49.20,Default,,0,0,0,,Possui uma grande afinidade com os atributos do Vento e da Água.
+Dialogue: 0,0:26:49.20,0:26:54.04,Default,,0,0,0,,Especialista em Necromancia Invocação e Alquimia.
+Dialogue: 0,0:26:54.04,0:26:55.04,Default,,0,0,0,,E também...
+Dialogue: 0,0:26:55.04,0:26:56.50,Default,,0,0,0,,Emiya Kiritsugu.
+Dialogue: 0,0:26:56.79,0:27:00.13,Default,,0,0,0,,A arma secreta e mais novo membro da família Einzbern...
+Dialogue: 0,0:27:00.80,0:27:03.01,Default,,0,0,0,,O homem que tanto amo.
+Dialogue: 0,0:27:05.30,0:27:06.84,Default,,0,0,0,,E o quarto é...
+Dialogue: 0,0:27:06.84,0:27:11.60,Default,,0,0,0,,Não o quinto Mestre é um agente da Igreja.
+Dialogue: 0,0:27:11.60,0:27:13.56,Default,,0,0,0,,Seu nome é Kotomine Kirei.
+Dialogue: 0,0:27:13.85,0:27:15.51,Default,,0,0,0,,Da Igreja?
+Dialogue: 0,0:27:15.77,0:27:19.53,Default,,0,0,0,,Ele é filho do juiz observador Padre Kotomine Risei.
+Dialogue: 0,0:27:20.08,0:27:22.69,Default,,0,0,0,,Aqui diz que ele estudou sob a tutela\Nde Tohsaka Tokiomi durante três anos
+Dialogue: 0,0:27:22.69,0:27:27.03,Default,,0,0,0,,mas cortou todas as relações que tinha com ele assim que seus Feitiços de Comando apareceram.
+Dialogue: 0,0:27:27.03,0:27:28.63,Default,,0,0,0,,Algo errado?
+Dialogue: 0,0:27:28.87,0:27:30.89,Default,,0,0,0,,Aqui tem todo o histórico da vida dele...
+Dialogue: 0,0:27:32.08,0:27:33.69,Default,,0,0,0,,Veja por si mesma.
+Dialogue: 0,0:27:35.17,0:27:40.71,Default,,0,0,0,,Desde a infância Kotomine Kirei tem acompanhado o seu pai Risei em suas peregrinações eclesiásticas.
+Dialogue: 0,0:27:40.71,0:27:43.66,Default,,0,0,0,,Ele se formou na Escola Teológica de São Inácio de Manresa...
+Dialogue: 0,0:27:44.09,0:27:45.76,Default,,0,0,0,,Pulou dois anos nos estudos...
+Dialogue: 0,0:27:45.76,0:27:47.34,Default,,0,0,0,,E se graduou com as melhores notas da escola?
+Dialogue: 0,0:27:47.34,0:27:49.14,Default,,0,0,0,,Parece ser um prodígio.
+Dialogue: 0,0:27:49.14,0:27:52.27,Default,,0,0,0,,Contudo ele abandonou esse caminho de conquistas
+Dialogue: 0,0:27:52.27,0:27:54.39,Default,,0,0,0,,e entrou para a Santa Igreja.
+Dialogue: 0,0:27:54.64,0:27:59.56,Default,,0,0,0,,Por que ele se rebaixou ao ponto de se juntar a uma das organizações secretas da Igreja?
+Dialogue: 0,0:27:59.56,0:28:01.57,Default,,0,0,0,,Será que não foi influência do pai dele?
+Dialogue: 0,0:28:01.77,0:28:02.61,Default,,0,0,0,,Veja.
+Dialogue: 0,0:28:02.61,0:28:06.94,Default,,0,0,0,,Aqui diz que ambos pertencem à\NCongregação do Oitavo Sacramento.
+Dialogue: 0,0:28:07.20,0:28:10.47,Default,,0,0,0,,Se fosse por isso ele deveria ter seguido esse caminho desde o começo.
+Dialogue: 0,0:28:10.87,0:28:11.74,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:28:12.24,0:28:16.57,Default,,0,0,0,,Antes de se juntar ao seu pai na Congregação ele mudou de organização três vezes.
+Dialogue: 0,0:28:16.91,0:28:19.81,Default,,0,0,0,,Ele até mesmo atuou como\Num Executor por algum tempo.
+Dialogue: 0,0:28:20.42,0:28:21.85,Default,,0,0,0,,Executor?
+Dialogue: 0,0:28:22.25,0:28:24.70,Default,,0,0,0,,Um caçador de hereges.
+Dialogue: 0,0:28:25.01,0:28:28.13,Default,,0,0,0,,Não é muito diferente do que eu era antes...
+Dialogue: 0,0:28:28.30,0:28:30.42,Default,,0,0,0,,Um Matador de Magos.
+Dialogue: 0,0:28:31.10,0:28:32.71,Default,,0,0,0,,Emiya Kiritsugu.
+Dialogue: 0,0:28:33.31,0:28:35.73,Default,,0,0,0,,Todos os assassinatos que\Npodem ter sido atribuídos a ele...
+Dialogue: 0,0:28:35.73,0:28:38.60,Default,,0,0,0,,aconteceram dentro de um\Nperíodo muito curto de tempo.
+Dialogue: 0,0:28:38.60,0:28:42.15,Default,,0,0,0,,Ele passava de uma zona de conflito para outra durante esse período.
+Dialogue: 0,0:28:42.15,0:28:46.11,Default,,0,0,0,,E todas essas vezes ele apareceu no ápice das batalhas.
+Dialogue: 0,0:28:46.53,0:28:52.16,Default,,0,0,0,,De certo modo é como se ele buscasse a própria morte obcecadamente.
+Dialogue: 0,0:28:52.16,0:28:54.70,Default,,0,0,0,,Somente alguém com uma forte tendência suicida agiria assim.
+Dialogue: 0,0:28:57.00,0:28:59.29,Default,,0,0,0,,Qual é o significado disso?
+Dialogue: 0,0:28:59.71,0:29:03.49,Default,,0,0,0,,Alquimia Necromancia Invocação Profetização Cura.
+Dialogue: 0,0:29:03.96,0:29:07.92,Default,,0,0,0,,Veja a grande variedade de magias que ele estudou.
+Dialogue: 0,0:29:08.55,0:29:10.13,Default,,0,0,0,,Por que ele faria isso?
+Dialogue: 0,0:29:10.43,0:29:13.35,Default,,0,0,0,,Ele treinava um determinado tipo de magia até estar a um passo de dominá-la completamente
+Dialogue: 0,0:29:13.35,0:29:17.30,Default,,0,0,0,,e então passava para uma nova categoria de magia sem hesitar.
+Dialogue: 0,0:29:17.43,0:29:18.20,Default,,0,0,0,,Iri...
+Dialogue: 0,0:29:18.60,0:29:22.30,Default,,0,0,0,,Era como se ele jogasse fora todo o esforço que teve.
+Dialogue: 0,0:29:23.61,0:29:24.52,Default,,0,0,0,,Iri...
+Dialogue: 0,0:29:25.57,0:29:29.40,Default,,0,0,0,,A maneira como Kotomine Kirei vive me assusta profundamente.
+Dialogue: 0,0:29:29.40,0:29:32.11,Default,,0,0,0,,É como se ele fosse incapaz\Nde agir em benefício próprio.
+Dialogue: 0,0:29:32.11,0:29:37.08,Default,,0,0,0,,Ninguém faria o que ele fez pois ponderaria se a recompensa compensaria o risco.
+Dialogue: 0,0:29:37.33,0:29:41.56,Default,,0,0,0,,Não há como ele ter agido como\Nassassino de aluguel apenas por dinheiro.
+Dialogue: 0,0:29:41.92,0:29:45.58,Default,,0,0,0,,Durante toda sua vida ele nunca teve apego por nada.
+Dialogue: 0,0:29:46.00,0:29:48.25,Default,,0,0,0,,Ele nunca acreditou em nada ou em ninguém.
+Dialogue: 0,0:29:48.76,0:29:52.82,Default,,0,0,0,,Ele não tem um desejo que queira para si.
+Dialogue: 0,0:29:53.80,0:29:55.30,Default,,0,0,0,,Isso me faz pensar...
+Dialogue: 0,0:29:55.43,0:29:56.51,Default,,0,0,0,,Então...
+Dialogue: 0,0:29:56.51,0:29:58.43,Default,,0,0,0,,O que ele procura?
+Dialogue: 0,0:29:58.43,0:30:02.31,Default,,0,0,0,,Por que ele arriscaria sua vida para obter o Cálice Sagrado?
+Dialogue: 0,0:30:02.31,0:30:07.65,Default,,0,0,0,,Mas o Cálice escolheu Kotomine Kirei como um dos Mestres.
+Dialogue: 0,0:30:07.65,0:30:08.61,Default,,0,0,0,,De fato.
+Dialogue: 0,0:30:09.03,0:30:13.58,Default,,0,0,0,,Sendo assim ele deve ter uma razão para cobiçar o Cálice.
+Dialogue: 0,0:30:14.20,0:30:17.37,Default,,0,0,0,,Eu só não faço ideia do que poderia ser.
+Dialogue: 0,0:30:17.74,0:30:20.24,Default,,0,0,0,,E é isso que me assusta.
+Dialogue: 0,0:30:22.16,0:30:24.00,Default,,0,0,0,,Kotomine Kirei.
+Dialogue: 0,0:30:24.29,0:30:26.46,Default,,0,0,0,,Emiya Kiritsugu.
+Dialogue: 0,0:30:26.71,0:30:30.59,Default,,0,0,0,,Após quase uma era de combates constantes
+Dialogue: 0,0:30:30.59,0:30:33.55,Default,,0,0,0,,ele finalmente encerrou aquele capítulo da sua vida há cerca de nove anos
+Dialogue: 0,0:30:33.55,0:30:37.23,Default,,0,0,0,,logo após se juntar aos Magos do Norte os Einzbern.
+Dialogue: 0,0:30:37.72,0:30:41.54,Default,,0,0,0,,Resumindo foi quando ele encontrou sua resposta.
+Dialogue: 0,0:30:41.98,0:30:43.87,Default,,0,0,0,,Então a questão é:
+Dialogue: 0,0:30:44.23,0:30:47.27,Default,,0,0,0,,O que ele buscava durante essas guerras?
+Dialogue: 0,0:30:49.07,0:30:51.20,Default,,0,0,0,,E o que ele encontrou?
+Dialogue: 0,0:31:01.41,0:31:04.41,Default,,0,0,0,,Quem diria que você conseguiria depois de tanto esforço?
+Dialogue: 0,0:31:04.87,0:31:07.29,Default,,0,0,0,,Se o Cálice te escolheu
+Dialogue: 0,0:31:07.29,0:31:11.42,Default,,0,0,0,,isso significa que você progrediu substancialmente como Mago.
+Dialogue: 0,0:31:11.42,0:31:14.56,Default,,0,0,0,,Respeito o seu esforço Kariya.
+Dialogue: 0,0:31:16.01,0:31:17.26,Default,,0,0,0,,No entanto...
+Dialogue: 0,0:31:17.68,0:31:20.34,Default,,0,0,0,,Você me parece péssimo.
+Dialogue: 0,0:31:20.89,0:31:24.44,Default,,0,0,0,,Ainda consegue ficar de pé com\Nsua perna esquerda nesse estado?
+Dialogue: 0,0:31:32.94,0:31:34.57,Default,,0,0,0,,Não se esforce demais.
+Dialogue: 0,0:31:34.57,0:31:37.16,Default,,0,0,0,,Se os vermes ficarem muito agitados
+Dialogue: 0,0:31:37.16,0:31:40.41,Default,,0,0,0,,eles o devorarão de dentro para fora.
+Dialogue: 0,0:31:40.58,0:31:47.42,Default,,0,0,0,,De qualquer forma na melhor das hipóteses\Nacredito que ainda tenha cerca de um mês de vida.
+Dialogue: 0,0:31:47.71,0:31:48.96,Default,,0,0,0,,É o suficiente.
+Dialogue: 0,0:31:49.21,0:31:50.59,Default,,0,0,0,,O que disse?
+Dialogue: 0,0:31:50.59,0:31:53.32,Default,,0,0,0,,Eu disse que será tempo suficiente.
+Dialogue: 0,0:31:54.10,0:31:57.34,Default,,0,0,0,,Kariya como recompensa por ter\Nsobrevivido durante um ano inteiro
+Dialogue: 0,0:31:57.34,0:32:01.27,Default,,0,0,0,,eu trouxe a relíquia de invocação perfeita para você.
+Dialogue: 0,0:32:01.85,0:32:05.28,Default,,0,0,0,,Não deixe que essa gentileza de seu velho pai seja em vão.
+Dialogue: 0,0:32:17.57,0:32:19.94,Default,,0,0,0,,Consegui meus Feitiços de Comando!
+Dialogue: 0,0:32:20.41,0:32:22.48,Default,,0,0,0,,O Cálice me escolheu!
+Dialogue: 0,0:32:22.70,0:32:25.64,Default,,0,0,0,,Ele reconheceu meu talento!
+Dialogue: 0,0:32:28.08,0:32:30.08,Default,,0,0,0,,Mas não tenho tempo para ficar comemorando.
+Dialogue: 0,0:32:30.54,0:32:33.21,Default,,0,0,0,,Preciso começar os preparativos para a invocação do meu Servo!
+Dialogue: 0,0:32:36.72,0:32:42.94,Default,,0,0,0,,A estudante da sexta série que havia desaparecido durante a noite há dois dias em Fuyuki
+Dialogue: 0,0:32:39.52,0:32:41.05,Default,,0,0,0,,Bom dia Waver.
+Dialogue: 0,0:32:41.05,0:32:43.02,Default,,0,0,0,,Bom dia Waver-chan!
+Dialogue: 0,0:32:42.94,0:32:48.95,Default,,0,0,0,,Miki Nishimoto foi encontrada morta hoje de manhã em um bosque que fica nas proximidades da cidade de Fukuyama.
+Dialogue: 0,0:32:44.68,0:32:47.89,Default,,0,0,0,,Bom dia Vovô... Vovó...
+Dialogue: 0,0:32:49.22,0:32:51.52,Default,,0,0,0,,Fuyuki está uma verdadeira bagunça.
+Dialogue: 0,0:32:51.52,0:32:53.06,Default,,0,0,0,,Sim francamente...
+Dialogue: 0,0:32:53.69,0:32:55.74,Default,,0,0,0,,A propósito Martha...
+Dialogue: 0,0:32:55.74,0:32:59.57,Default,,0,0,0,,Tive a impressão de ouvir um monte\Nde galinhas cacarejando nessa manhã.
+Dialogue: 0,0:33:00.03,0:33:01.74,Default,,0,0,0,,O que está havendo?
+Dialogue: 0,0:33:01.74,0:33:05.20,Default,,0,0,0,,Haviam três lá atrás no nosso quintal.
+Dialogue: 0,0:33:05.20,0:33:06.90,Default,,0,0,0,,No nosso quintal?
+Dialogue: 0,0:33:06.90,0:33:08.08,Default,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:33:08.08,0:33:10.84,Default,,0,0,0,,De onde será que elas vieram?
+Dialogue: 0,0:33:11.56,0:33:13.80,Default,,0,0,0,,Waver-chan gostaria de um pouco de café?
+Dialogue: 0,0:33:15.46,0:33:18.37,Default,,0,0,0,,Waver-chan! O que houve com sua mão?
+Dialogue: 0,0:33:19.59,0:33:20.36,Default,,0,0,0,,Droga!
+Dialogue: 0,0:33:20.36,0:33:21.49,Default,,0,0,0,,Essa marca!
+Dialogue: 0,0:33:21.49,0:33:22.82,Default,,0,0,0,,Uma marca?
+Dialogue: 0,0:33:22.82,0:33:25.29,Default,,0,0,0,,Essa marca não estava ontem na sua mão.
+Dialogue: 0,0:33:25.77,0:33:27.70,Default,,0,0,0,,Ah! Droga...
+Dialogue: 0,0:33:28.19,0:33:30.23,Default,,0,0,0,,Eu já imaginava que vocês iriam notar.
+Dialogue: 0,0:33:30.61,0:33:32.44,Default,,0,0,0,,O que houve Waver?
+Dialogue: 0,0:33:32.44,0:33:33.94,Default,,0,0,0,,Waver-chan?
+Dialogue: 0,0:33:33.94,0:33:35.72,Default,,0,0,0,,Não é nada de mais.
+Dialogue: 0,0:33:35.72,0:33:37.82,Default,,0,0,0,,Aqui tome um pouco de café.
+Dialogue: 0,0:33:37.82,0:33:39.74,Default,,0,0,0,,Coloquei com mais leite.
+Dialogue: 0,0:33:39.74,0:33:41.27,Default,,0,0,0,,Do jeito que o senhor gosta.
+Dialogue: 0,0:33:42.50,0:33:43.71,Default,,0,0,0,,Café.
+Dialogue: 0,0:33:50.92,0:33:52.29,Default,,0,0,0,,Mais uma vez...
+Dialogue: 0,0:33:52.29,0:33:56.84,Default,,0,0,0,,Precisarei refazer a magia que fazia com que eles pensassem que eu era seu neto que veio do exterior...
+Dialogue: 0,0:33:56.84,0:33:58.46,Default,,0,0,0,,Que chatice.
+Dialogue: 0,0:34:02.72,0:34:06.22,Default,,0,0,0,,É melhor adicionar algo a respeito das galinhas que roubei dessa vez.
+Dialogue: 0,0:34:07.37,0:34:11.44,Default,,0,0,0,,É difícil acreditar que eles conseguiram encontrar a bainha da espada lendária.
+Dialogue: 0,0:34:11.81,0:34:13.25,Default,,0,0,0,,Não há nenhum arranhão...
+Dialogue: 0,0:34:13.69,0:34:16.85,Default,,0,0,0,,Um objeto que supostamente tem mil e quinhentos anos de idade.
+Dialogue: 0,0:34:17.48,0:34:20.46,Default,,0,0,0,,A arma em si é um tipo de Armamento Conceitual.
+Dialogue: 0,0:34:20.86,0:34:24.20,Default,,0,0,0,,Ela não enferruja e não fica com a lâmina cega como aconteceria com uma espada comum.
+Dialogue: 0,0:34:24.62,0:34:26.49,Default,,0,0,0,,O simples ato de carregar essa bainha
+Dialogue: 0,0:34:26.49,0:34:29.97,Default,,0,0,0,,curará todas as feridas de seu portador e o deixará eternamente jovem.
+Dialogue: 0,0:34:29.97,0:34:31.58,Default,,0,0,0,,Assim como relatado na lenda.
+Dialogue: 0,0:34:32.00,0:34:36.38,Default,,0,0,0,,Obviamente isso só funciona quando recebe um\Nconstante fluxo de poder mágico de seu dono original.
+Dialogue: 0,0:34:36.38,0:34:40.28,Default,,0,0,0,,Em outras palavras em conjunto com o Herói
+Dialogue: 0,0:34:40.28,0:34:43.73,Default,,0,0,0,,esta espada poderia ser a\Narma suprema de um Mestre.
+Dialogue: 0,0:34:44.05,0:34:45.68,Default,,0,0,0,,Já sabia que você diria algo assim.
+Dialogue: 0,0:34:45.68,0:34:48.62,Default,,0,0,0,,Uma ferramenta é só uma ferramenta certo?
+Dialogue: 0,0:34:48.62,0:34:51.48,Default,,0,0,0,,Isso também se aplica aos Servos.
+Dialogue: 0,0:34:51.81,0:34:56.40,Default,,0,0,0,,Indiferente do quão poderosos eles tenham sido em eras passadas quando são invocados como Servos
+Dialogue: 0,0:34:56.40,0:34:59.03,Default,,0,0,0,,eles se tornam uma mera arma no arsenal de seus Mestres.
+Dialogue: 0,0:34:59.03,0:35:01.74,Default,,0,0,0,,Quem pensar de forma diferente
+Dialogue: 0,0:35:01.94,0:35:04.70,Default,,0,0,0,,certamente não sobreviverá a esta guerra.
+Dialogue: 0,0:35:05.11,0:35:11.04,Default,,0,0,0,,Justamente por essa sua postura meu bisavô decidiu que a bainha seria a relíquia perfeita para você.
+Dialogue: 0,0:35:11.33,0:35:13.21,Default,,0,0,0,,Será que foi por isso mesmo?
+Dialogue: 0,0:35:13.91,0:35:16.28,Default,,0,0,0,,Não está satisfeito com o presente do meu bisavô?
+Dialogue: 0,0:35:16.67,0:35:17.81,Default,,0,0,0,,Não seja tola.
+Dialogue: 0,0:35:18.13,0:35:20.07,Default,,0,0,0,,Acht fez um trabalho excelente.
+Dialogue: 0,0:35:20.50,0:35:23.74,Default,,0,0,0,,Estou certo de que nenhum outro Mestre\Npossui uma relíquia tão poderosa quanto essa.
+Dialogue: 0,0:35:23.80,0:35:25.84,Default,,0,0,0,,Então por que está preocupado?
+Dialogue: 0,0:35:25.84,0:35:29.26,Default,,0,0,0,,O laço entre a relíquia e o dono dela é tão forte
+Dialogue: 0,0:35:29.72,0:35:34.60,Default,,0,0,0,,que podemos ter a certeza de que invocaremos\Nexatamente o Espírito Heroico do qual estamos à procura.
+Dialogue: 0,0:35:35.48,0:35:39.11,Default,,0,0,0,,O lendário Rei dos Reis Arthur Pendragon.
+Dialogue: 0,0:35:39.57,0:35:43.49,Default,,0,0,0,,Pouco importa o quão bem nossas personalidades combinarão.
+Dialogue: 0,0:35:43.82,0:35:46.70,Default,,0,0,0,,Contudo com a Excalibur em nosso arsenal
+Dialogue: 0,0:35:46.70,0:35:50.30,Default,,0,0,0,,ela dará origem ao mais poderoso Servo possível para a classe Saber.
+Dialogue: 0,0:35:50.66,0:35:51.63,Default,,0,0,0,,Exato.
+Dialogue: 0,0:35:52.12,0:35:55.61,Default,,0,0,0,,Meu Servo será detentor de um poder\Nmuito além dos possuídos pelos outros seis.
+Dialogue: 0,0:35:56.04,0:36:01.67,Default,,0,0,0,,O problema é que devo encontrar uma\Nmaneira de fazer uso total de todo esse poder.
+Dialogue: 0,0:36:01.67,0:36:04.44,Default,,0,0,0,,Seria muito mais fácil para alguém como eu...
+Dialogue: 0,0:36:04.97,0:36:09.42,Default,,0,0,0,,controlar um Servo da classe Caster ou Assassin.
+Dialogue: 0,0:36:10.10,0:36:13.68,Default,,0,0,0,,Não adianta ficar se preocupando com coisas desse tipo antes mesmo da invocação não é?
+Dialogue: 0,0:36:14.18,0:36:17.80,Default,,0,0,0,,Não é como se não pudéssemos saber como era o Rei dos Reis quando ainda estava vivo.
+Dialogue: 0,0:36:18.15,0:36:21.52,Default,,0,0,0,,Além do mais indiferente das táticas que utilizar
+Dialogue: 0,0:36:21.52,0:36:24.57,Default,,0,0,0,,assim que ele souber quais são os seus ideais
+Dialogue: 0,0:36:24.99,0:36:26.61,Default,,0,0,0,,ele o compreenderá.
+Dialogue: 0,0:36:26.61,0:36:28.24,Default,,0,0,0,,Estou certa disso.
+Dialogue: 0,0:36:30.21,0:36:31.95,Default,,0,0,0,,Assim como eu.
+Dialogue: 0,0:36:37.21,0:36:38.04,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:36:38.50,0:36:40.03,Default,,0,0,0,,Já consegui pensar...
+Dialogue: 0,0:36:40.63,0:36:42.34,Default,,0,0,0,,Na maneira mais efetiva...
+Dialogue: 0,0:36:44.09,0:36:46.92,Default,,0,0,0,,de fazer uso do mais poderoso dos Servos.
+Dialogue: 0,0:36:54.64,0:36:56.47,Default,,0,0,0,,Boa tarde Rin.
+Dialogue: 0,0:36:58.81,0:37:00.62,Default,,0,0,0,,Boa tarde Kirei.
+Dialogue: 0,0:37:00.62,0:37:02.08,Default,,0,0,0,,Está indo a algum lugar?
+Dialogue: 0,0:37:02.08,0:37:04.57,Default,,0,0,0,,Essa mala parece estar bem pesada.
+Dialogue: 0,0:37:04.57,0:37:08.65,Default,,0,0,0,,Sim estou indo morar na casa da família Zenjou.
+Dialogue: 0,0:37:10.70,0:37:15.16,Default,,0,0,0,,E você permanecerá aqui para\Nlutar ao lado de meu pai certo?
+Dialogue: 0,0:37:15.16,0:37:18.79,Default,,0,0,0,,Foi por esta razão que vim\Npara cá estudar sob a tutela dele.
+Dialogue: 0,0:37:20.62,0:37:21.60,Default,,0,0,0,,Kirei...
+Dialogue: 0,0:37:21.75,0:37:23.66,Default,,0,0,0,,Eu realmente posso confiar em você?
+Dialogue: 0,0:37:25.04,0:37:27.97,Default,,0,0,0,,Vai proteger o meu pai até que tudo termine?
+Dialogue: 0,0:37:27.97,0:37:29.69,Default,,0,0,0,,Pode me prometer isso?
+Dialogue: 0,0:37:30.13,0:37:32.47,Default,,0,0,0,,Isso seria impossível.
+Dialogue: 0,0:37:32.49,0:37:36.95,Default,,0,0,0,,Se essa guerra fosse simples ao ponto de eu poder te prometer isso
+Dialogue: 0,0:37:36.95,0:37:40.85,Default,,0,0,0,,não precisaríamos mandar você\Ne sua mãe para longe dessa casa.
+Dialogue: 0,0:37:43.94,0:37:45.61,Default,,0,0,0,,Eu já sabia disso!
+Dialogue: 0,0:37:45.61,0:37:47.69,Default,,0,0,0,,Eu nunca vou gostar de você!
+Dialogue: 0,0:37:47.69,0:37:52.48,Default,,0,0,0,,Rin é falta de educação dizer tais coisas mesmo que esteja pensando nelas.
+Dialogue: 0,0:37:52.48,0:37:57.54,Default,,0,0,0,,Isso infelizmente acaba por refletir na sua criação e na que seu pai outrora recebeu.
+Dialogue: 0,0:37:57.54,0:37:59.41,Default,,0,0,0,,Deixe meu pai fora disso!
+Dialogue: 0,0:37:59.62,0:38:00.75,Default,,0,0,0,,Preste atenção Kirei!
+Dialogue: 0,0:38:00.75,0:38:04.92,Default,,0,0,0,,Se meu pai acabar se ferindo por descuido seu
+Dialogue: 0,0:38:04.92,0:38:07.17,Default,,0,0,0,,tenha a certeza de que irei te punir!
+Dialogue: 0,0:38:07.17,0:38:11.27,Default,,0,0,0,,Rin por que está gritando dentro de casa?
+Dialogue: 0,0:38:12.26,0:38:13.49,Default,,0,0,0,,Bem...
+Dialogue: 0,0:38:14.24,0:38:15.51,Default,,0,0,0,,Eu...
+Dialogue: 0,0:38:15.51,0:38:20.28,Default,,0,0,0,,Ela estava apenas me encorajando a dar o melhor de mim nessa guerra antes de vocês partirem.
+Dialogue: 0,0:38:21.14,0:38:22.39,Default,,0,0,0,,Deixe-me ajudá-la.
+Dialogue: 0,0:38:22.39,0:38:25.73,Default,,0,0,0,,Essa mala é pesada demais para você carregá-la.
+Dialogue: 0,0:38:25.73,0:38:26.77,Default,,0,0,0,,Não precisa.
+Dialogue: 0,0:38:26.77,0:38:28.03,Default,,0,0,0,,Posso fazer isso sozinha.
+Dialogue: 0,0:38:28.61,0:38:30.02,Default,,0,0,0,,Kotomine-san
+Dialogue: 0,0:38:30.02,0:38:32.82,Default,,0,0,0,,por favor faça o possível para proteger meu marido.
+Dialogue: 0,0:38:32.82,0:38:35.41,Default,,0,0,0,,Ajude-o a realizar o que ele tanto deseja.
+Dialogue: 0,0:38:35.91,0:38:37.49,Default,,0,0,0,,Farei tudo que estiver ao meu alcance.
+Dialogue: 0,0:38:37.49,0:38:38.66,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:38:43.00,0:38:44.29,Default,,0,0,0,,Com licença.
+Dialogue: 0,0:38:44.96,0:38:46.93,Default,,0,0,0,,Você chegou na hora certa.
+Dialogue: 0,0:38:47.25,0:38:50.92,Default,,0,0,0,,A relíquia que requisitei acabou de chegar.
+Dialogue: 0,0:38:50.92,0:38:51.80,Default,,0,0,0,,Veja.
+Dialogue: 0,0:38:53.55,0:38:54.86,Default,,0,0,0,,Isso é...?
+Dialogue: 0,0:38:55.84,0:39:01.25,Default,,0,0,0,,A troca de pele fossilizada da primeira serpente que viveu durante o início dos tempos em nosso mundo.
+Dialogue: 0,0:39:01.81,0:39:05.78,Default,,0,0,0,,Se usarmos isso como catalisador para\Ninvocar o Espírito Heroico que almejamos
+Dialogue: 0,0:39:06.02,0:39:09.96,Default,,0,0,0,,nossa vitória estará garantida.
+Dialogue: 0,0:39:16.24,0:39:17.96,Default,,0,0,0,,Olá Sakura-chan.
+Dialogue: 0,0:39:18.99,0:39:20.59,Default,,0,0,0,,Eu te assustei?
+Dialogue: 0,0:39:21.66,0:39:22.96,Default,,0,0,0,,O seu rosto...
+Dialogue: 0,0:39:22.96,0:39:24.51,Default,,0,0,0,,Sim eu sei...
+Dialogue: 0,0:39:24.92,0:39:28.63,Default,,0,0,0,,Parece que deixei os vermes consumirem meu corpo mais do que deveriam.
+Dialogue: 0,0:39:28.88,0:39:32.93,Default,,0,0,0,,Eu certamente não sou tão resistente quanto você Sakura-chan.
+Dialogue: 0,0:39:34.34,0:39:38.24,Default,,0,0,0,,Kariya-ojiisan parece até que você está se transformando em uma pessoa diferente.
+Dialogue: 0,0:39:40.93,0:39:42.89,Default,,0,0,0,,Talvez sim.
+Dialogue: 0,0:39:43.18,0:39:47.48,Default,,0,0,0,,O seu pai disse que eu não terei que descer até aquele porão dos vermes hoje à noite.
+Dialogue: 0,0:39:47.48,0:39:51.53,Default,,0,0,0,,Parece que ele precisará do lugar para uma cerimônia mais importante.
+Dialogue: 0,0:39:51.53,0:39:53.28,Default,,0,0,0,,Sim eu sei.
+Dialogue: 0,0:39:53.28,0:39:56.58,Default,,0,0,0,,Na verdade serei eu quem descerá até lá hoje à noite.
+Dialogue: 0,0:39:56.95,0:40:00.58,Default,,0,0,0,,Kariya-ojiisan você pretende ir para algum lugar longe daqui?
+Dialogue: 0,0:40:00.58,0:40:05.09,Default,,0,0,0,,Eu tenho uma importante tarefa a cumprir.
+Dialogue: 0,0:40:05.25,0:40:10.49,Default,,0,0,0,,De agora em diante provavelmente não\Nterei tanto tempo para conversar com você.
+Dialogue: 0,0:40:11.67,0:40:12.77,Default,,0,0,0,,Entendo...
+Dialogue: 0,0:40:13.96,0:40:15.51,Default,,0,0,0,,Ei! Sakura-chan?
+Dialogue: 0,0:40:15.51,0:40:20.18,Default,,0,0,0,,Quando eu cumprir essa importante tarefa\Ngostaria de ir comigo para algum lugar divertido?
+Dialogue: 0,0:40:20.18,0:40:22.51,Default,,0,0,0,,Podemos levar sua mãe e sua irmã conosco.
+Dialogue: 0,0:40:23.18,0:40:28.02,Default,,0,0,0,,Não há ninguém que eu possa\Nchamar de mamãe ou de irmã.
+Dialogue: 0,0:40:28.44,0:40:33.50,Default,,0,0,0,,Ojii-sama me disse para agir como se elas nunca tivessem existido.
+Dialogue: 0,0:40:35.15,0:40:36.40,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:40:46.66,0:40:47.83,Default,,0,0,0,,Ojii-san?
+Dialogue: 0,0:40:47.83,0:40:52.59,Default,,0,0,0,,Nesse caso convidaremos a Aoi-san e a Rin-chan que moram lá na mansão dos Tohsaka
+Dialogue: 0,0:40:52.59,0:40:58.43,Default,,0,0,0,,e nós quatro iremos para algum lugar bem longe daqui como costumávamos fazer antigamente.
+Dialogue: 0,0:40:59.64,0:41:01.30,Default,,0,0,0,,Todos juntos.
+Dialogue: 0,0:41:01.30,0:41:04.85,Default,,0,0,0,,Eu poderei vê-las novamente?
+Dialogue: 0,0:41:04.85,0:41:06.84,Default,,0,0,0,,Sim você irá reencontrá-las.
+Dialogue: 0,0:41:07.14,0:41:09.65,Default,,0,0,0,,Prometo que farei o possível para que isso aconteça.
+Dialogue: 0,0:41:14.45,0:41:15.45,Default,,0,0,0,,Então...
+Dialogue: 0,0:41:16.44,0:41:18.40,Default,,0,0,0,,Tenho que ir agora.
+Dialogue: 0,0:41:18.69,0:41:19.59,Default,,0,0,0,,Sim.
+Dialogue: 0,0:41:21.16,0:41:23.56,Default,,0,0,0,,Até mais Kariya-ojiisan.
+Dialogue: 0,0:41:27.70,0:41:29.10,Default,,0,0,0,,Até mais...
+Dialogue: 0,0:41:30.54,0:41:33.92,Default,,0,0,0,,Você aprendeu o encantamento de invocação certo?
+Dialogue: 0,0:41:34.55,0:41:35.30,Default,,0,0,0,,Sim.
+Dialogue: 0,0:41:35.30,0:41:36.34,Default,,0,0,0,,Ótimo.
+Dialogue: 0,0:41:36.34,0:41:41.33,Default,,0,0,0,,Mas quero que você adicione mais dois versos a tal encantamento.
+Dialogue: 0,0:41:41.76,0:41:43.10,Default,,0,0,0,,O que quer dizer?
+Dialogue: 0,0:41:43.10,0:41:45.60,Default,,0,0,0,,É algo bem simples.
+Dialogue: 0,0:41:45.81,0:41:49.14,Default,,0,0,0,,Kariya você tem um pouco\Nmenos de aptidão para a magia
+Dialogue: 0,0:41:49.14,0:41:53.48,Default,,0,0,0,,se comparado aos outros Mestres.
+Dialogue: 0,0:41:53.48,0:41:56.44,Default,,0,0,0,,Por causa disso as habilidades básicas de seu Servo serão reduzidas.
+Dialogue: 0,0:41:56.65,0:42:04.06,Default,,0,0,0,,Sendo assim precisaremos fazer algo durante a invocação para elevar as habilidades inatas do seu Servo.
+Dialogue: 0,0:42:04.74,0:42:08.16,Default,,0,0,0,,Kariya você adicionará versos\Nde um encantamento que fará...
+Dialogue: 0,0:42:08.16,0:42:11.75,Default,,0,0,0,,com que seu Servo tenha\Ncerta afinidade para a loucura.
+Dialogue: 0,0:42:13.67,0:42:16.61,Default,,0,0,0,,Preencha preencha preencha preencha preencha!
+Dialogue: 0,0:42:17.30,0:42:19.10,Default,,0,0,0,,Repita isso cinco vezes.
+Dialogue: 0,0:42:19.50,0:42:21.93,Default,,0,0,0,,Conforme cada qual for preenchido\Nhaverão eles de serem destruídos.
+Dialogue: 0,0:42:23.05,0:42:24.80,Default,,0,0,0,,Uma edificação de ferro e prata.
+Dialogue: 0,0:42:25.43,0:42:28.28,Default,,0,0,0,,Sobre ela repousa a Pedra Fundamental\Ne o Arquiduque dos Contratos
+Dialogue: 0,0:42:28.28,0:42:31.06,Default,,0,0,0,,e mais acima meu ancestral\No grande Mestre Schweinorg.
+Dialogue: 0,0:42:31.44,0:42:33.34,Default,,0,0,0,,Transforme-se no muro o qual repele a tormenta.
+Dialogue: 0,0:42:33.34,0:42:35.10,Default,,0,0,0,,Os quatro portões fecham-se com toda força.
+Dialogue: 0,0:42:35.10,0:42:40.10,Default,,0,0,0,,Agora arremeta-se ao exterior dessa coroa\Ne siga pela estrada tortuosa que leva ao meu reino.
+Dialogue: 0,0:42:40.61,0:42:45.56,Default,,0,0,0,,Uma cerimônia tão simples é realmente o suficiente para invocar um Espírito Heroico tão poderoso?
+Dialogue: 0,0:42:45.56,0:42:47.83,Default,,0,0,0,,Lamento desapontar as suas expectativas.
+Dialogue: 0,0:42:48.83,0:42:53.65,Default,,0,0,0,,Nessa cerimônia não é preciso que seja feito algum encantamento
+Dialogue: 0,0:42:53.65,0:42:57.32,Default,,0,0,0,,porque é o próprio Cálice que realiza a invocação.
+Dialogue: 0,0:42:57.84,0:43:02.61,Default,,0,0,0,,Como um Mestre minha função é ancorar o\NEspírito Heroico do meu Servo a este mundo
+Dialogue: 0,0:43:02.97,0:43:06.32,Default,,0,0,0,,e provê-lo do poder mágico que ele\Nnecessita para manifestar um corpo físico.
+Dialogue: 0,0:43:07.43,0:43:08.61,Default,,0,0,0,,Está tudo pronto.
+Dialogue: 0,0:43:09.47,0:43:12.52,Default,,0,0,0,,Iri coloque a bainha no altar.
+Dialogue: 0,0:43:13.19,0:43:15.48,Default,,0,0,0,,Esse é o último passo.
+Dialogue: 0,0:43:15.94,0:43:19.08,Default,,0,0,0,,Eu chamo a ti.
+Dialogue: 0,0:43:19.36,0:43:21.83,Default,,0,0,0,,Vosso corpo nascido da minha vontade.
+Dialogue: 0,0:43:21.83,0:43:23.78,Default,,0,0,0,,Meu destino repousa sobre vossa espada!
+Dialogue: 0,0:43:23.78,0:43:25.82,Default,,0,0,0,,Se vosso esmorecimento curva-se diante\Nda minha vontade e da minha justiça
+Dialogue: 0,0:43:25.82,0:43:28.16,Default,,0,0,0,,responda ao chamado do Cálice\Ndando assim o seu veredito!
+Dialogue: 0,0:43:28.33,0:43:29.81,Default,,0,0,0,,Faço esse juramento diante de ti
+Dialogue: 0,0:43:30.16,0:43:32.62,Default,,0,0,0,,tornarei-me tudo que existe de bom nesse mundo
+Dialogue: 0,0:43:33.16,0:43:37.13,Default,,0,0,0,,e erradicarei todo o mal que há nele.
+Dialogue: 0,0:43:37.25,0:43:41.88,Default,,0,0,0,,Todavia os vossos olhos haverão\Nde ser obscurecidos pelo caos.
+Dialogue: 0,0:43:41.88,0:43:44.63,Default,,0,0,0,,Tu haverás de ser enclausurado numa prisão de loucura
+Dialogue: 0,0:43:44.93,0:43:47.84,Default,,0,0,0,,e deverás segurar as vossas correntes!
+Dialogue: 0,0:43:47.84,0:43:51.31,Default,,0,0,0,,Sete Paraísos cobrindo com mantas as três almas sagradas.
+Dialogue: 0,0:43:51.31,0:43:53.02,Default,,0,0,0,,Liberte-se das suas algemas e apareça perante mim...
+Dialogue: 0,0:43:53.27,0:43:55.27,Default,,0,0,0,,Ó Guardião das Escamas!
+Dialogue: 0,0:44:26.93,0:44:28.64,Default,,0,0,0,,Nós vencemos Kirei.
+Dialogue: 0,0:44:29.09,0:44:30.56,Default,,0,0,0,,A vitória...
+Dialogue: 0,0:44:31.85,0:44:33.81,Default,,0,0,0,,será nossa!
+Dialogue: 0,0:44:40.90,0:44:42.28,Default,,0,0,0,,Você é...
+Dialogue: 0,0:44:43.43,0:44:44.84,Default,,0,0,0,,Pergunto a ti...
+Dialogue: 0,0:44:50.95,0:44:54.00,Default,,0,0,0,,Tu és o meu Mestre?
+Dialogue: 0,0:47:30.31,0:47:33.29,Default,,0,0,0,,Acredito que vocês estão\Nlutando por uma causa nobre.
+Dialogue: 0,0:47:33.29,0:47:35.30,Default,,0,0,0,,Não há lugar para dois governantes nesse mundo.
+Dialogue: 0,0:47:35.30,0:47:36.61,Default,,0,0,0,,O papai promete...
+Dialogue: 0,0:47:36.61,0:47:38.92,Default,,0,0,0,,Um infeliz como você sequer é digno de olhar para mim.
+Dialogue: 0,0:47:38.92,0:47:40.78,Default,,0,0,0,,Você é muito legal!
+Dialogue: 0,0:47:40.78,0:47:44.57,Default,,0,0,0,,Sua primeira missão será o\Nassassinato de Tohsaka Tokiomi.

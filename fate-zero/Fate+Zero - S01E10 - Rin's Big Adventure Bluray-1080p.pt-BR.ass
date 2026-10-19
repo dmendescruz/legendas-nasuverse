@@ -1,0 +1,246 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E10 - Rin's Big Adventure (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E10 - Rin's Big Adventure (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:09.36,0:01:10.07,Default,,0,0,0,,Rin.
+Dialogue: 0,0:02:59.18,0:03:02.64,Default,,0,0,0,,Só por estarem em maior número acham\Nque podem importunar as outras pessoas?
+Dialogue: 0,0:03:02.64,0:03:04.27,Default,,0,0,0,,Vocês são os piores!
+Dialogue: 0,0:03:04.27,0:03:05.60,Default,,0,0,0,,Os piores!
+Dialogue: 0,0:03:05.60,0:03:06.93,Default,,0,0,0,,O que está fazendo Tohsaka?
+Dialogue: 0,0:03:06.94,0:03:08.48,Default,,0,0,0,,Isso não é da sua conta!
+Dialogue: 0,0:03:09.53,0:03:10.48,Default,,0,0,0,,Então...
+Dialogue: 0,0:03:10.48,0:03:12.73,Default,,0,0,0,,Por que não fazem a mesma coisa comigo?
+Dialogue: 0,0:03:12.73,0:03:15.12,Default,,0,0,0,,Dessa forma será da minha conta não é?
+Dialogue: 0,0:03:17.37,0:03:18.24,Default,,0,0,0,,Ei.
+Dialogue: 0,0:03:19.49,0:03:20.61,Default,,0,0,0,,Não tem graça!
+Dialogue: 0,0:03:24.00,0:03:24.67,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:03:30.29,0:03:32.63,Default,,0,0,0,,Você usou magia demais de uma só vez.
+Dialogue: 0,0:03:33.71,0:03:35.38,Default,,0,0,0,,Mantenha sua mente calma.
+Dialogue: 0,0:03:35.89,0:03:41.14,Default,,0,0,0,,Para controlar seu poder mágico\Nprimeiro você precisa controlar sua mente.
+Dialogue: 0,0:03:46.65,0:03:51.94,Default,,0,0,0,,Se perder o controle o fluxo de magia ricocheteará de volta para o seu corpo.
+Dialogue: 0,0:03:52.78,0:03:58.44,Default,,0,0,0,,Poder demais utilizado de forma errada não machucará apenas você mas também aqueles ao seu redor.
+Dialogue: 0,0:03:59.08,0:04:01.62,Default,,0,0,0,,Faça o possível para manter o fluxo apropriado.
+Dialogue: 0,0:04:02.12,0:04:04.25,Default,,0,0,0,,Esse é o preceito da família Tohsaka.
+Dialogue: 0,0:04:05.88,0:04:09.58,Default,,0,0,0,,Significa manter o controle e a\Nelegância em todos os momentos.
+Dialogue: 0,0:04:14.09,0:04:16.96,Default,,0,0,0,,Kotone você não deve ficar calada\Nquando eles fizerem esse tipo de coisa.
+Dialogue: 0,0:04:16.96,0:04:20.60,Default,,0,0,0,,Quando eles fizerem algo errado você deve ficar brava.
+Dialogue: 0,0:04:21.31,0:04:22.89,Default,,0,0,0,,Rin-chan você é incrível.
+Dialogue: 0,0:04:22.89,0:04:24.73,Default,,0,0,0,,Você sempre fala o que pensa.
+Dialogue: 0,0:04:24.73,0:04:26.35,Default,,0,0,0,,Isso não é verdade.
+Dialogue: 0,0:04:26.35,0:04:28.94,Default,,0,0,0,,Só acho que é normal e natural...
+Dialogue: 0,0:04:30.82,0:04:31.82,Default,,0,0,0,,Sim.
+Dialogue: 0,0:04:31.82,0:04:33.07,Default,,0,0,0,,É natural.
+Dialogue: 0,0:04:41.57,0:04:42.54,Default,,0,0,0,,Estenda suas mãos.
+Dialogue: 0,0:04:47.04,0:04:49.62,Default,,0,0,0,,Papai me ensine um pouco mais!
+Dialogue: 0,0:04:50.00,0:04:52.09,Default,,0,0,0,,Eu consigo fazer algo assim?
+Dialogue: 0,0:04:52.76,0:04:53.79,Default,,0,0,0,,Sim...
+Dialogue: 0,0:04:53.79,0:04:56.38,Default,,0,0,0,,Talvez seja difícil demais para você no momento.
+Dialogue: 0,0:04:58.17,0:05:03.09,Default,,0,0,0,,Mas tenho certeza de que você eventualmente conseguirá caso se esforce todos os dias.
+Dialogue: 0,0:05:04.51,0:05:08.56,Default,,0,0,0,,Afinal você é a filha da família Tohsaka.
+Dialogue: 0,0:05:17.44,0:05:18.74,Default,,0,0,0,,Ei Rin-chan.
+Dialogue: 0,0:05:18.74,0:05:21.12,Default,,0,0,0,,Você pode me ensinar como resolver essa parte?
+Dialogue: 0,0:05:21.12,0:05:21.90,Default,,0,0,0,,Claro!
+Dialogue: 0,0:05:21.90,0:05:22.70,Default,,0,0,0,,Onde?
+Dialogue: 0,0:05:23.08,0:05:24.45,Default,,0,0,0,,Ah! Eu também!
+Dialogue: 0,0:05:24.45,0:05:25.87,Default,,0,0,0,,Eu também.
+Dialogue: 0,0:05:25.87,0:05:29.12,Default,,0,0,0,,Isso estava na página 23 do livro.
+Dialogue: 0,0:05:29.87,0:05:32.34,Default,,0,0,0,,Você só cometeu um erro de matemática aqui.
+Dialogue: 0,0:05:32.79,0:05:34.04,Default,,0,0,0,,Para essa questão...
+Dialogue: 0,0:05:34.04,0:05:36.30,Default,,0,0,0,,Veja é como esse exemplo.
+Dialogue: 0,0:05:41.10,0:05:42.09,Default,,0,0,0,,Kotone.
+Dialogue: 0,0:05:42.97,0:05:43.93,Default,,0,0,0,,Vamos sente-se.
+Dialogue: 0,0:05:43.93,0:05:45.31,Default,,0,0,0,,Eu ajudarei a todas.
+Dialogue: 0,0:05:46.18,0:05:47.02,Default,,0,0,0,,Sim!
+Dialogue: 0,0:06:05.16,0:06:08.66,Default,,0,0,0,,Como pensei terei que viver com os Zenjou?
+Dialogue: 0,0:06:09.20,0:06:14.09,Default,,0,0,0,,Quando a Guerra do Santo Graal começar\Na cidade de Fuyuki não será mais um lugar seguro.
+Dialogue: 0,0:06:15.42,0:06:19.72,Default,,0,0,0,,Eu quero ajudar o papai a ganhar a Guerra do Santo Graal.
+Dialogue: 0,0:06:19.72,0:06:23.05,Default,,0,0,0,,Rin você não deve causar problemas ao seu pai.
+Dialogue: 0,0:06:23.47,0:06:25.84,Default,,0,0,0,,Nós estamos atrapalhando?
+Dialogue: 0,0:06:26.22,0:06:27.43,Default,,0,0,0,,Não é isso.
+Dialogue: 0,0:06:27.89,0:06:32.06,Default,,0,0,0,,Dessa vez será preciso fazer preparações extras para batalhar sob perfeitas condições.
+Dialogue: 0,0:06:32.81,0:06:37.52,Default,,0,0,0,,O que inclui garantir a sua segurança e a da sua mãe.
+Dialogue: 0,0:06:37.94,0:06:41.82,Default,,0,0,0,,E para isso seria melhor que ambas deixassem a cidade de Fuyuki.
+Dialogue: 0,0:06:43.49,0:06:46.20,Default,,0,0,0,,Tenho certeza que há algo\Nque eu possa fazer para ajudar!
+Dialogue: 0,0:06:53.71,0:06:54.84,Default,,0,0,0,,Sim.
+Dialogue: 0,0:06:54.84,0:06:57.00,Default,,0,0,0,,Simplesmente ainda não descobri como.
+Dialogue: 0,0:06:57.80,0:07:00.22,Default,,0,0,0,,Nesse caso só preciso estudar por conta própria.
+Dialogue: 0,0:07:05.17,0:07:07.26,Default,,0,0,0,,N-Não consigo entender nada...
+Dialogue: 0,0:07:08.06,0:07:09.13,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:07:09.13,0:07:10.48,Default,,0,0,0,,Droga!
+Dialogue: 0,0:07:23.11,0:07:27.19,Default,,0,0,0,,Tu que abristes esta porta serás meu amigo.
+Dialogue: 0,0:07:27.49,0:07:27.62,Default,,0,0,0,,Avalon
+Dialogue: 0,0:07:27.49,0:07:28.70,Default,,0,0,0,,Eu tenho que fechar isso.
+Dialogue: 0,0:07:27.62,0:07:30.29,Default,,0,0,0,,Por esta proclamação segurai a minha mão.
+Dialogue: 0,0:07:30.29,0:07:32.87,Default,,0,0,0,,Encontrai-me em meus domínios.
+Dialogue: 0,0:07:33.67,0:07:38.92,Default,,0,0,0,,Seus braços são pequenos grandes finos ou firmes?
+Dialogue: 0,0:07:33.87,0:07:35.08,Default,,0,0,0,,Não consigo mover!
+Dialogue: 0,0:07:39.38,0:07:39.87,Default,,0,0,0,,Rin!
+Dialogue: 0,0:07:39.87,0:07:42.30,Default,,0,0,0,,Tudo é igual.
+Dialogue: 0,0:07:41.22,0:07:42.30,Default,,0,0,0,,Você está bem?
+Dialogue: 0,0:07:51.68,0:07:53.85,Default,,0,0,0,,Ainda é muito cedo para você ler esse livro.
+Dialogue: 0,0:07:54.60,0:07:59.65,Default,,0,0,0,,Algumas coisas nesse mundo\Npossuem seu próprio poder mágico.
+Dialogue: 0,0:08:06.23,0:08:08.16,Default,,0,0,0,,Isso é chamado de bússola de magia.
+Dialogue: 0,0:08:08.16,0:08:10.37,Default,,0,0,0,,Ela normalmente não aponta para lado algum.
+Dialogue: 0,0:08:10.83,0:08:13.20,Default,,0,0,0,,Mas se existir algum vestígio de magia na área...
+Dialogue: 0,0:08:14.24,0:08:17.46,Default,,0,0,0,,Rin use seu poder mágico nisso.
+Dialogue: 0,0:08:17.46,0:08:18.38,Default,,0,0,0,,Certo.
+Dialogue: 0,0:08:25.26,0:08:26.59,Default,,0,0,0,,ela vai apontar.
+Dialogue: 0,0:08:27.01,0:08:28.76,Default,,0,0,0,,E com esse livro...
+Dialogue: 0,0:08:31.22,0:08:35.89,Default,,0,0,0,,Qualquer coisa que causar uma reação como essa\Nestá além da sua habilidade por isso tome cuidado.
+Dialogue: 0,0:08:37.27,0:08:38.81,Default,,0,0,0,,Darei isso para você.
+Dialogue: 0,0:08:38.81,0:08:41.11,Default,,0,0,0,,Como um presente de aniversário adiantado.
+Dialogue: 0,0:08:42.11,0:08:45.03,Default,,0,0,0,,M-Muito obrigada papai!
+Dialogue: 0,0:08:45.03,0:08:49.99,Default,,0,0,0,,Quando a Guerra do Santo Graal terminar\Ntestaremos algumas Magias de Pedras Preciosas.
+Dialogue: 0,0:08:53.74,0:08:55.78,Default,,0,0,0,,Então estranhas ocorrências começaram a acontecer.
+Dialogue: 0,0:09:06.25,0:09:08.17,Default,,0,0,0,,Período de estudo novamente?
+Dialogue: 0,0:09:11.92,0:09:14.35,Default,,0,0,0,,As notícias da manhã também falavam sobre os sequestros.
+Dialogue: 0,0:09:13.30,0:09:17.30,Default,,0,0,0,,Na cidade de Fuyuki os súbitos desaparecimentos de crianças...
+Dialogue: 0,0:09:17.30,0:09:19.43,Default,,0,0,0,,Os professores ficaram em reunião o dia todo não é?
+Dialogue: 0,0:09:20.15,0:09:21.93,Default,,0,0,0,,Eles disseram que não teremos a quinta aula hoje!
+Dialogue: 0,0:09:21.93,0:09:22.81,Default,,0,0,0,,Isso!
+Dialogue: 0,0:09:22.81,0:09:24.32,Default,,0,0,0,,Mas eles disseram que deveríamos ficar em casa.
+Dialogue: 0,0:09:24.32,0:09:25.31,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:09:25.81,0:09:26.73,Default,,0,0,0,,Outro sequestro...
+Dialogue: 0,0:09:26.73,0:09:28.82,Default,,0,0,0,,Parece que somente crianças estão sendo sequestradas.
+Dialogue: 0,0:09:28.82,0:09:30.12,Default,,0,0,0,,Ei você ouviu?
+Dialogue: 0,0:09:34.16,0:09:36.96,Default,,0,0,0,,Disseram que o corpo não está dentro do caixão.
+Dialogue: 0,0:09:36.96,0:09:39.31,Default,,0,0,0,,Isso é... horrível não é?
+Dialogue: 0,0:09:39.50,0:09:42.41,Default,,0,0,0,,Sem dúvida alguma foi em Fuyuki certo?
+Dialogue: 0,0:09:50.47,0:09:54.39,Default,,0,0,0,,B-Bem eu sou colega de classe da Kotone-chan Tohsaka...
+Dialogue: 0,0:09:52.63,0:09:54.97,Default,,0,0,0,,A pessoa para quem você ligou não está em casa.
+Dialogue: 0,0:09:54.97,0:09:57.85,Default,,0,0,0,,Por favor deixe sua mensagem após o sinal.
+Dialogue: 0,0:10:13.87,0:10:15.24,Default,,0,0,0,,Esteja a salvo...
+Dialogue: 0,0:10:17.75,0:10:18.71,Default,,0,0,0,,Kotone!
+Dialogue: 0,0:10:29.76,0:10:32.30,Default,,0,0,0,,Fuyuki é assim de noite...?
+Dialogue: 0,0:10:37.63,0:10:39.39,Default,,0,0,0,,É completamente diferente durante o dia.
+Dialogue: 0,0:10:41.10,0:10:42.98,Default,,0,0,0,,É realmente assustadora.
+Dialogue: 0,0:10:46.73,0:10:47.78,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:10:49.24,0:10:51.07,Default,,0,0,0,,Eu nunca a vi reagir dessa forma.
+Dialogue: 0,0:10:52.57,0:10:55.83,Default,,0,0,0,,Isso significa que há vestígios de magia em todos os lugares?
+Dialogue: 0,0:10:58.45,0:11:00.16,Default,,0,0,0,,Eu preciso encontrar a Kotone!
+Dialogue: 0,0:11:43.37,0:11:45.42,Default,,0,0,0,,Passeando com uma criança a essa hora?
+Dialogue: 0,0:11:48.09,0:11:49.58,Default,,0,0,0,,O que foi isso?
+Dialogue: 0,0:12:15.66,0:12:16.49,Default,,0,0,0,,Essa não!
+Dialogue: 0,0:12:26.79,0:12:28.21,Default,,0,0,0,,Ainda bem...
+Dialogue: 0,0:12:28.21,0:12:30.25,Default,,0,0,0,,Eles me levariam para casa se me encontrassem.
+Dialogue: 0,0:12:36.97,0:12:39.76,Default,,0,0,0,,Ei continue andando.
+Dialogue: 0,0:12:48.56,0:12:49.77,Default,,0,0,0,,Dois?
+Dialogue: 0,0:12:54.98,0:12:56.66,Default,,0,0,0,,Ele pegou outra criança.
+Dialogue: 0,0:12:57.49,0:12:58.70,Default,,0,0,0,,Por quê?
+Dialogue: 0,0:13:00.49,0:13:01.53,Default,,0,0,0,,Isso não está certo.
+Dialogue: 0,0:13:01.86,0:13:03.41,Default,,0,0,0,,Por que estou me escondendo?
+Dialogue: 0,0:13:04.20,0:13:06.87,Default,,0,0,0,,Nesse ritmo não vou conseguir fazer nada!
+Dialogue: 0,0:14:23.53,0:14:25.83,Default,,0,0,0,,Não há ninguém aqui?
+Dialogue: 0,0:14:41.68,0:14:42.72,Default,,0,0,0,,E-Ei!
+Dialogue: 0,0:14:44.22,0:14:45.10,Default,,0,0,0,,Kotone?
+Dialogue: 0,0:14:45.56,0:14:47.60,Default,,0,0,0,,Kotone! Kotone!
+Dialogue: 0,0:14:48.56,0:14:50.60,Default,,0,0,0,,Eles fizeram algo com ela?
+Dialogue: 0,0:14:50.97,0:14:52.19,Default,,0,0,0,,O que devo fazer?
+Dialogue: 0,0:14:52.19,0:14:53.23,Default,,0,0,0,,Algo...
+Dialogue: 0,0:15:00.53,0:15:01.77,Default,,0,0,0,,O quê?
+Dialogue: 0,0:15:01.77,0:15:03.65,Default,,0,0,0,,Você está perdida?
+Dialogue: 0,0:15:04.24,0:15:05.04,Default,,0,0,0,,Não...
+Dialogue: 0,0:15:05.72,0:15:06.49,Default,,0,0,0,,Bem...
+Dialogue: 0,0:15:06.83,0:15:08.45,Default,,0,0,0,,Você chegou na hora certa.
+Dialogue: 0,0:15:09.87,0:15:13.29,Default,,0,0,0,,Estávamos prestes a começar uma festinha.
+Dialogue: 0,0:15:13.29,0:15:15.84,Default,,0,0,0,,Mas ainda não temos muitos convidados.
+Dialogue: 0,0:15:16.42,0:15:19.13,Default,,0,0,0,,Quer ajudar também?
+Dialogue: 0,0:15:24.80,0:15:28.47,Default,,0,0,0,,Vamos mais pessoas significa mais diversão não é?
+Dialogue: 0,0:15:30.84,0:15:31.68,Default,,0,0,0,,Não!
+Dialogue: 0,0:15:32.77,0:15:34.18,Default,,0,0,0,,O que foi isso?
+Dialogue: 0,0:15:34.94,0:15:36.40,Default,,0,0,0,,Não fuja.
+Dialogue: 0,0:15:43.82,0:15:46.61,Default,,0,0,0,,Ele está usando aquele bracelete neles?
+Dialogue: 0,0:15:57.25,0:15:58.53,Default,,0,0,0,,Doeu!
+Dialogue: 0,0:15:59.25,0:16:00.29,Default,,0,0,0,,Preciso destruí-lo!
+Dialogue: 0,0:16:09.06,0:16:10.30,Default,,0,0,0,,O quê?
+Dialogue: 0,0:16:10.30,0:16:12.18,Default,,0,0,0,,Então resolveu me ajudar?
+Dialogue: 0,0:16:38.63,0:16:40.04,Default,,0,0,0,,Ora? O que é isso?
+Dialogue: 0,0:16:41.55,0:16:43.97,Default,,0,0,0,,Você usou magia demais de uma só vez.
+Dialogue: 0,0:16:44.47,0:16:46.97,Default,,0,0,0,,Isso não é nada!
+Dialogue: 0,0:16:58.61,0:16:59.73,Default,,0,0,0,,Kotone!
+Dialogue: 0,0:17:01.94,0:17:02.73,Default,,0,0,0,,Rin-chan...
+Dialogue: 0,0:17:02.75,0:17:04.40,Default,,0,0,0,,O quê? Onde estou?
+Dialogue: 0,0:17:07.57,0:17:09.39,Default,,0,0,0,,Não há tempo para chorar!
+Dialogue: 0,0:17:09.39,0:17:10.32,Default,,0,0,0,,Fujam!
+Dialogue: 0,0:17:11.87,0:17:13.37,Default,,0,0,0,,Ei! Esperem!
+Dialogue: 0,0:17:16.92,0:17:18.17,Default,,0,0,0,,Ah...
+Dialogue: 0,0:17:18.92,0:17:21.09,Default,,0,0,0,,Será que ele vai ficar bravo?
+Dialogue: 0,0:17:26.76,0:17:27.59,Default,,0,0,0,,O quê?
+Dialogue: 0,0:17:28.18,0:17:29.59,Default,,0,0,0,,Onde está a Rin-chan?
+Dialogue: 0,0:17:32.35,0:17:33.68,Default,,0,0,0,,Ainda bem...
+Dialogue: 0,0:17:35.35,0:17:37.14,Default,,0,0,0,,Agora preciso voltar.
+Dialogue: 0,0:17:38.65,0:17:40.56,Default,,0,0,0,,Eu consegui papai.
+Dialogue: 0,0:17:43.44,0:17:44.23,Default,,0,0,0,,O quê?
+Dialogue: 0,0:17:54.20,0:17:58.79,Default,,0,0,0,,Qualquer coisa que causar uma reação como essa\Nestá além da sua habilidade por isso tome cuidado.
+Dialogue: 0,0:18:27.19,0:18:30.77,Default,,0,0,0,,Rin não acredito que você foi para Fuyuki...
+Dialogue: 0,0:18:37.95,0:18:38.91,Default,,0,0,0,,Rin!
+Dialogue: 0,0:18:41.71,0:18:42.63,Default,,0,0,0,,Rin...
+Dialogue: 0,0:18:42.63,0:18:44.33,Default,,0,0,0,,A Rin-chan está bem.
+Dialogue: 0,0:18:44.33,0:18:45.66,Default,,0,0,0,,Ela só está dormindo.
+Dialogue: 0,0:18:50.55,0:18:51.89,Default,,0,0,0,,Kariya-kun?
+Dialogue: 0,0:18:53.17,0:18:55.47,Default,,0,0,0,,O que aconteceu aqui?
+Dialogue: 0,0:18:55.97,0:18:57.68,Default,,0,0,0,,O que está fazendo aqui?
+Dialogue: 0,0:19:01.90,0:19:03.31,Default,,0,0,0,,Seu rosto...
+Dialogue: 0,0:19:04.27,0:19:07.35,Default,,0,0,0,,Essa é a magia da família Matou.
+Dialogue: 0,0:19:07.35,0:19:10.06,Default,,0,0,0,,Você oferece sua carne e sua vida é lentamente consumida.
+Dialogue: 0,0:19:10.06,0:19:12.91,Default,,0,0,0,,Esse é o preço pela nossa feitiçaria.
+Dialogue: 0,0:19:14.36,0:19:16.33,Default,,0,0,0,,Mas a Sakura-chan está bem.
+Dialogue: 0,0:19:16.33,0:19:19.57,Default,,0,0,0,,Eu definitivamente irei salvá-la antes que isso aconteça a ela.
+Dialogue: 0,0:19:20.37,0:19:23.20,Default,,0,0,0,,Zouken só deseja o Cálice.
+Dialogue: 0,0:19:23.20,0:19:28.21,Default,,0,0,0,,Ele prometeu libertar a Sakura-chan se eu entregar o Cálice a ele.
+Dialogue: 0,0:19:28.46,0:19:30.71,Default,,0,0,0,,O Cálice?
+Dialogue: 0,0:19:30.71,0:19:32.63,Default,,0,0,0,,Sim não se preocupe.
+Dialogue: 0,0:19:32.63,0:19:34.89,Default,,0,0,0,,Meu Servo é o mais forte.
+Dialogue: 0,0:19:34.89,0:19:36.71,Default,,0,0,0,,Não vou perder para ninguém.
+Dialogue: 0,0:19:37.26,0:19:41.97,Default,,0,0,0,,No momento até mesmo a esperança só causa sofrimento à Sakura-chan.
+Dialogue: 0,0:19:42.51,0:19:45.72,Default,,0,0,0,,Por isso ore por mim pelo bem dela.
+Dialogue: 0,0:19:46.06,0:19:47.32,Default,,0,0,0,,Para a minha vitória...
+Dialogue: 0,0:19:47.77,0:19:49.35,Default,,0,0,0,,e pelo futuro da Sakura-chan.
+Dialogue: 0,0:19:52.23,0:19:54.86,Default,,0,0,0,,Kariya-kun você...
+Dialogue: 0,0:19:56.78,0:20:02.74,Default,,0,0,0,,Tenho certeza que um dia poderemos\Nbrincar nesse parque como fazíamos antes.
+Dialogue: 0,0:20:03.07,0:20:06.62,Default,,0,0,0,,E a Rin-chan e a Sakura-chan voltarão a ser irmãs.
+Dialogue: 0,0:20:07.04,0:20:08.63,Default,,0,0,0,,Por isso Aoi-san.
+Dialogue: 0,0:20:09.08,0:20:11.13,Default,,0,0,0,,Você não precisa mais chorar.
+Dialogue: 0,0:20:13.38,0:20:17.30,Default,,0,0,0,,Kariya-kun você pretende morrer?
+Dialogue: 0,0:20:17.30,0:20:18.93,Default,,0,0,0,,Depois de matar Tokiomi...
+Dialogue: 0,0:20:23.14,0:20:24.56,Default,,0,0,0,,Mamãe?
+Dialogue: 0,0:20:25.15,0:20:25.93,Default,,0,0,0,,Rin!
+Dialogue: 0,0:20:26.40,0:20:28.27,Default,,0,0,0,,Eu estava tão preocupada!
+Dialogue: 0,0:20:29.36,0:20:31.72,Default,,0,0,0,,Me desculpe...
+Dialogue: 0,0:20:31.72,0:20:33.61,Default,,0,0,0,,Me desculpe!
+Dialogue: 0,0:20:33.61,0:20:35.78,Default,,0,0,0,,Me desculpe...
+Dialogue: 0,0:20:37.61,0:20:43.70,Default,,0,0,0,,Kirei-sama tem certeza que deseja deixar a esposa e a filha de Tohsaka Tokiomi assim?
+Dialogue: 0,0:20:44.37,0:20:45.83,Default,,0,0,0,,Não importa.
+Dialogue: 0,0:20:45.83,0:20:49.37,Default,,0,0,0,,Continue monitorando o Mestre do Berserker.
+Dialogue: 0,0:20:50.21,0:20:51.05,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:21:08.19,0:21:11.82,Default,,0,0,0,,Pode não ter sido muito mas eu consegui fazer alguma coisa.
+Dialogue: 0,0:21:13.35,0:21:16.09,Default,,0,0,0,,Por isso apesar de ainda não poder\Ndizer que sou independente
+Dialogue: 0,0:21:16.09,0:21:18.32,Default,,0,0,0,,acredito que já andei metade do caminho...
+Dialogue: 0,0:21:19.69,0:21:21.74,Default,,0,0,0,,Ainda tenho um longo percurso pela frente.
+Dialogue: 0,0:21:23.03,0:21:25.50,Default,,0,0,0,,Mas está bom por ora.
+Dialogue: 0,0:21:25.91,0:21:28.54,Default,,0,0,0,,Afinal ainda tenho muito tempo.
+Dialogue: 0,0:21:29.24,0:21:32.96,Default,,0,0,0,,Algum dia eu lutarei como uma maga dos Tohsaka.
+Dialogue: 0,0:21:33.33,0:21:35.67,Default,,0,0,0,,Quando esse momento chegar
+Dialogue: 0,0:21:35.67,0:21:39.44,Default,,0,0,0,,estarei sempre pronta e me esforçarei para honrar e proteger os ensinamentos do meu pai.
+Dialogue: 0,0:21:40.01,0:21:45.47,Default,,0,0,0,,Nesse momento farei o melhor que puder elegantemente.
+Dialogue: 0,0:23:26.74,0:23:29.45,Default,,0,0,0,,Um rei sem ambição é ainda pior que um fantoche!
+Dialogue: 0,0:23:29.45,0:23:31.71,Default,,0,0,0,,Quão digno é um rei que falha em proteger os mais fracos?
+Dialogue: 0,0:23:31.71,0:23:33.46,Default,,0,0,0,,Não temos nada a perder.
+Dialogue: 0,0:23:33.46,0:23:35.29,Default,,0,0,0,,Uma Koyuu Kekkai?
+Dialogue: 0,0:23:35.29,0:23:37.96,Default,,0,0,0,,Eu te matarei pessoalmente.
+Dialogue: 0,0:23:37.96,0:23:40.69,Default,,0,0,0,,Seu objetivo supostamente não deveria ser conquistar o...?

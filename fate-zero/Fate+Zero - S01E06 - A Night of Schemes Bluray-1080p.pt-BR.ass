@@ -1,0 +1,345 @@
+[Script Info]
+; Script generated for Fate/Zero - S01E06 - A Night of Schemes (2011)
+; Nasuverse PT-BR Localization Project - Synchronized Master
+Title: Fate/Zero - S01E06 - A Night of Schemes (pt-BR)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Default-Italic,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,160,160,56,1
+Style: Signs,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,3.0,1.5,8,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.58,0:00:12.87,Default,,0,0,0,,Não é?
+Dialogue: 0,0:00:16.14,0:00:18.82,Default,,0,0,0,,Você é bem hábil no volante não é?
+Dialogue: 0,0:00:20.83,0:00:22.10,Default,,0,0,0,,Não acha?
+Dialogue: 0,0:00:22.10,0:00:24.67,Default,,0,0,0,,Pode ser difícil acreditar mas eu pratico bastante.
+Dialogue: 0,0:00:26.19,0:00:29.01,Default,,0,0,0,,De todos os brinquedos que Kiritsugu trouxe para mim
+Dialogue: 0,0:00:29.01,0:00:30.84,Default,,0,0,0,,esse é o meu predileto!
+Dialogue: 0,0:00:31.42,0:00:32.87,Default,,0,0,0,,Brinquedos...?
+Dialogue: 0,0:00:36.90,0:00:40.10,Default,,0,0,0,,Eles só me deixavam dirigir\Nao redor do pátio do castelo.
+Dialogue: 0,0:00:40.10,0:00:41.87,Default,,0,0,0,,Isso é incrível!
+Dialogue: 0,0:00:43.15,0:00:46.71,Default,,0,0,0,,Será que não deveríamos ter contratado um motorista?
+Dialogue: 0,0:00:46.75,0:00:48.59,Default,,0,0,0,,Não seria chato demais...
+Dialogue: 0,0:00:48.57,0:00:50.74,Default,,0,0,0,,Digo perigoso demais!
+Dialogue: 0,0:00:50.74,0:00:53.07,Default,,0,0,0,,E se um dos inimigos nos atacasse?
+Dialogue: 0,0:00:53.57,0:00:55.64,Default,,0,0,0,,Se pensarmos por esse lado...
+Dialogue: 0,0:00:55.70,0:00:56.54,Default,,0,0,0,,Pare!
+Dialogue: 0,0:01:03.51,0:01:04.57,Default,,0,0,0,,Irisviel.
+Dialogue: 0,0:01:05.17,0:01:08.42,Default,,0,0,0,,Saia do carro e fique perto de mim.
+Dialogue: 0,0:01:08.84,0:01:11.41,Default,,0,0,0,,Essa presença é a de um Servo.
+Dialogue: 0,0:02:56.16,0:02:59.53,Default,,0,0,0,,Vim até aqui por ti minha virgem santa.
+Dialogue: 0,0:03:03.05,0:03:04.80,Default,,0,0,0,,Você o conhece?
+Dialogue: 0,0:03:04.80,0:03:06.46,Default,,0,0,0,,Nunca o vi antes.
+Dialogue: 0,0:03:07.00,0:03:08.21,Default,,0,0,0,,Como assim?
+Dialogue: 0,0:03:08.21,0:03:11.05,Default,,0,0,0,,Está dizendo que se esqueceu do meu rosto?
+Dialogue: 0,0:03:11.25,0:03:13.83,Default,,0,0,0,,Como eu poderia esquecer se\Nnunca o conheci pessoalmente?
+Dialogue: 0,0:03:14.22,0:03:15.80,Default,,0,0,0,,Está me confundindo com outra pessoa?
+Dialogue: 0,0:03:17.10,0:03:18.34,Default,,0,0,0,,Sou eu!
+Dialogue: 0,0:03:18.34,0:03:20.76,Default,,0,0,0,,Seu fiel Gilles de Rais!
+Dialogue: 0,0:03:20.76,0:03:22.87,Default,,0,0,0,,Estive orando pelo seu renascimento.
+Dialogue: 0,0:03:22.87,0:03:25.61,Default,,0,0,0,,Passei o resto dos meus dias esperando que um milagre pudesse nos reunir!
+Dialogue: 0,0:03:25.61,0:03:30.31,Default,,0,0,0,,Trilhei esse caminho até o fim dos tempos apenas para isso Joana!
+Dialogue: 0,0:03:31.31,0:03:32.30,Default,,0,0,0,,Joana?
+Dialogue: 0,0:03:32.30,0:03:34.82,Default,,0,0,0,,Não me recordo do seu nome
+Dialogue: 0,0:03:34.82,0:03:37.82,Default,,0,0,0,,e não faço ideia de quem possa ter sido essa tal de Joana.
+Dialogue: 0,0:03:38.40,0:03:39.60,Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:03:40.53,0:03:44.08,Default,,0,0,0,,Você se esqueceu da sua identidade quando ainda era uma mortal?
+Dialogue: 0,0:03:44.56,0:03:46.87,Default,,0,0,0,,Considerando que me disse o seu nome
+Dialogue: 0,0:03:47.33,0:03:51.04,Default,,0,0,0,,de acordo com o código de honra dos cavaleiros também devo dizer o meu.
+Dialogue: 0,0:03:51.56,0:03:53.28,Default,,0,0,0,,Meu nome é Arturia.
+Dialogue: 0,0:03:53.28,0:03:56.84,Default,,0,0,0,,Herdeira de Uther Pendragon e Rei da Grã-Bretanha.
+Dialogue: 0,0:03:57.37,0:04:00.59,Default,,0,0,0,,Represento a classe Saber nesta batalha.
+Dialogue: 0,0:04:01.26,0:04:02.93,Default,,0,0,0,,Como meu destino pode ser tão trágico?
+Dialogue: 0,0:04:02.93,0:04:04.72,Default,,0,0,0,,Que situação lamentável!
+Dialogue: 0,0:04:04.72,0:04:08.63,Default,,0,0,0,,Você perdeu a memória e ficou louca!
+Dialogue: 0,0:04:08.98,0:04:10.59,Default,,0,0,0,,Maldito Deus...
+Dialogue: 0,0:04:10.69,0:04:12.47,Default,,0,0,0,,Maldito sejas!
+Dialogue: 0,0:04:12.47,0:04:16.64,Default,,0,0,0,,Como pôde infligir tão cruel\Ntortura à minha linda donzela?
+Dialogue: 0,0:04:16.64,0:04:18.58,Default,,0,0,0,,Pare com isso é constrangedor!
+Dialogue: 0,0:04:18.58,0:04:20.33,Default,,0,0,0,,Desperte dessa loucura!
+Dialogue: 0,0:04:20.33,0:04:23.61,Default,,0,0,0,,Não há mais necessidade de\Nchamar a si mesma de Saber.
+Dialogue: 0,0:04:23.61,0:04:26.58,Default,,0,0,0,,A Guerra do Santo Graal já chegou ao fim.
+Dialogue: 0,0:04:26.58,0:04:31.77,Default,,0,0,0,,Eu Gilles fui escolhido pelo Cálice sem necessidade de qualquer luta!
+Dialogue: 0,0:04:31.77,0:04:33.00,Default,,0,0,0,,Como podem ver...
+Dialogue: 0,0:04:33.00,0:04:38.50,Default,,0,0,0,,Meu único desejo o renascimento da minha amada Joana d'Arc já me foi concedido!
+Dialogue: 0,0:04:48.45,0:04:52.96,Default,,0,0,0,,Se insistir em continuar ridicularizando os desejos dos outros seis Espíritos Heroicos
+Dialogue: 0,0:04:52.96,0:04:54.82,Default,,0,0,0,,serei obrigada a atacá-lo com seriedade.
+Dialogue: 0,0:04:55.23,0:04:56.29,Default,,0,0,0,,Vamos levante-se!
+Dialogue: 0,0:04:57.36,0:05:00.92,Default,,0,0,0,,O selo em seu coração é tão forte assim Joana?
+Dialogue: 0,0:05:00.92,0:05:03.01,Default,,0,0,0,,Creio que não tenho escolha.
+Dialogue: 0,0:05:03.01,0:05:05.99,Default,,0,0,0,,Já que a situação requer medidas drásticas
+Dialogue: 0,0:05:05.99,0:05:08.83,Default,,0,0,0,,precisarei me preparar antes do nosso próximo encontro.
+Dialogue: 0,0:05:09.08,0:05:11.04,Default,,0,0,0,,É um juramento Joana.
+Dialogue: 0,0:05:11.04,0:05:16.59,Default,,0,0,0,,Juro que libertarei tua alma dessa maldição que lhe fora infligida por Deus.
+Dialogue: 0,0:05:23.23,0:05:27.26,Default,,0,0,0,,É cansativo tentar discutir com alguém que não dá ouvidos ao que você diz.
+Dialogue: 0,0:05:27.60,0:05:30.26,Default,,0,0,0,,Na próxima vez vou atacá-lo antes que comece a falar.
+Dialogue: 0,0:05:30.26,0:05:32.77,Default,,0,0,0,,Pessoas como ele me enfurecem profundamente.
+Dialogue: 0,0:05:33.05,0:05:37.21,Default,,0,0,0,,No entanto considerando a minha situação acredito que tive sorte.
+Dialogue: 0,0:05:37.73,0:05:40.78,Default,,0,0,0,,Devido ao estado do meu braço esquerdo
+Dialogue: 0,0:05:40.78,0:05:42.78,Default,,0,0,0,,enfrentá-lo teria sido perigoso demais.
+Dialogue: 0,0:05:49.87,0:05:53.19,Default,,0,0,0,,Seguir a Mestre da Saber resultou numa recompensa inesperada.
+Dialogue: 0,0:05:53.19,0:05:55.86,Default,,0,0,0,,Também conseguimos encontrar o Caster.
+Dialogue: 0,0:05:55.86,0:05:58.44,Default,,0,0,0,,Obviamente também devemos segui-lo.
+Dialogue: 0,0:06:00.13,0:06:01.99,Default,,0,0,0,,Ah assim não.
+Dialogue: 0,0:06:02.13,0:06:04.04,Default,,0,0,0,,É isso o que deve fazer com o polegar.
+Dialogue: 0,0:06:08.29,0:06:09.62,Default,,0,0,0,,Legal.
+Dialogue: 0,0:06:10.43,0:06:11.83,Default,,0,0,0,,Perfeito.
+Dialogue: 0,0:06:17.80,0:06:19.57,Default,,0,0,0,,Seja bem-vindo.
+Dialogue: 0,0:06:24.15,0:06:26.09,Default,,0,0,0,,Não sem chance!
+Dialogue: 0,0:06:26.09,0:06:28.59,Default,,0,0,0,,Maldito seja Deus!
+Dialogue: 0,0:06:28.59,0:06:32.50,Default,,0,0,0,,Ele se recusa a libertar a alma da minha amada Joana!
+Dialogue: 0,0:06:32.50,0:06:36.21,Default,,0,0,0,,Essa tal Joana é aquela garota\Nque viu naquela bola de cristal?
+Dialogue: 0,0:06:37.27,0:06:40.29,Default,,0,0,0,,Não vou desistir até que ela entenda!
+Dialogue: 0,0:06:40.58,0:06:43.63,Default,,0,0,0,,A onipotência de Deus está\Nperdida e o amor Dele é vazio!
+Dialogue: 0,0:06:43.63,0:06:49.43,Default,,0,0,0,,Nenhum ato mesquinho ou crime horrível resultará na punição de Deus!
+Dialogue: 0,0:06:49.43,0:06:51.43,Default,,0,0,0,,Sim compreendo.
+Dialogue: 0,0:06:51.43,0:06:53.73,Default,,0,0,0,,De qualquer forma isso o torna ainda mais legal!
+Dialogue: 0,0:06:53.73,0:06:54.81,Default,,0,0,0,,No entanto!
+Dialogue: 0,0:06:55.19,0:06:58.49,Default,,0,0,0,,Precisamos cometer depravações e blasfêmias ainda maiores.
+Dialogue: 0,0:06:58.49,0:07:01.86,Default,,0,0,0,,Criaremos uma montanha de blasfêmias feita de sacrifícios vivos!
+Dialogue: 0,0:07:03.92,0:07:06.04,Default,,0,0,0,,Então basicamente...
+Dialogue: 0,0:07:06.04,0:07:08.45,Default,,0,0,0,,De agora em diante será quantidade ao invés de qualidade?
+Dialogue: 0,0:07:08.45,0:07:09.37,Default,,0,0,0,,Sim!
+Dialogue: 0,0:07:09.37,0:07:11.04,Default,,0,0,0,,Exatamente!
+Dialogue: 0,0:07:11.29,0:07:13.33,Default,,0,0,0,,Muito bem Ryuunosuke.
+Dialogue: 0,0:07:13.87,0:07:18.03,Default,,0,0,0,,Comecemos sacrificando as onze que estão nas celas.
+Dialogue: 0,0:07:18.03,0:07:21.55,Default,,0,0,0,,E então encontraremos mais algumas crianças para suprirem as nossas necessidades.
+Dialogue: 0,0:07:24.50,0:07:27.30,Default,,0,0,0,,Mas que desperdício não é?
+Dialogue: 0,0:07:30.78,0:07:35.56,Default,,0,0,0,,Interrompemos esse programa para trazer notícias em primeira mão.
+Dialogue: 0,0:07:36.44,0:07:41.28,Default,,0,0,0,,Uma explosão inexplicável ocorreu no distrito dos armazéns que fica na área costeira da cidade de Fuyuki.
+Dialogue: 0,0:07:41.97,0:07:44.35,Default,,0,0,0,,Seguiremos ao vivo para o local...
+Dialogue: 0,0:07:45.90,0:07:49.07,Default,,0,0,0,,Por que não eliminou a Saber essa noite?
+Dialogue: 0,0:07:49.07,0:07:50.94,Default,,0,0,0,,Você teve duas chances.
+Dialogue: 0,0:07:50.94,0:07:54.90,Default,,0,0,0,,E para piorar você me fez\Ndesperdiçar um Feitiço de Comando.
+Dialogue: 0,0:07:56.96,0:08:00.83,Default,,0,0,0,,Sua luta contra a Saber foi tão divertida assim?
+Dialogue: 0,0:08:01.04,0:08:02.31,Default,,0,0,0,,Definitivamente não.
+Dialogue: 0,0:08:05.68,0:08:08.51,Default,,0,0,0,,Juro pela minha honra como cavaleiro.
+Dialogue: 0,0:08:08.51,0:08:10.88,Default,,0,0,0,,Eu trarei a cabeça da Saber.
+Dialogue: 0,0:08:10.88,0:08:13.20,Default,,0,0,0,,Não adianta jurar isso agora!
+Dialogue: 0,0:08:13.20,0:08:14.77,Default,,0,0,0,,É óbvio que você fará isso.
+Dialogue: 0,0:08:14.77,0:08:17.89,Default,,0,0,0,,Fizemos um contrato para que você me trouxesse o Cálice!
+Dialogue: 0,0:08:18.42,0:08:23.19,Default,,0,0,0,,E agora você jura derrotar apenas a Saber?
+Dialogue: 0,0:08:23.19,0:08:24.98,Default,,0,0,0,,Parece que cometeu um grande engano.
+Dialogue: 0,0:08:25.23,0:08:29.99,Default,,0,0,0,,Não seria você quem está enganado Lorde El-Melloi?
+Dialogue: 0,0:08:32.26,0:08:33.60,Default,,0,0,0,,Sola-Ui...
+Dialogue: 0,0:08:33.60,0:08:35.56,Default,,0,0,0,,O Lancer fez bem.
+Dialogue: 0,0:08:35.56,0:08:38.46,Default,,0,0,0,,Será que você não está julgando mal a situação?
+Dialogue: 0,0:08:38.84,0:08:41.92,Default,,0,0,0,,A Saber é um Servo particularmente poderoso.
+Dialogue: 0,0:08:42.29,0:08:46.46,Default,,0,0,0,,Eu não poderia ter deixado\Nescapar a chance de derrotá-la.
+Dialogue: 0,0:08:46.97,0:08:49.88,Default,,0,0,0,,Ela recebeu uma ferida que não pode ser curada.
+Dialogue: 0,0:08:49.88,0:08:53.02,Default,,0,0,0,,Poderia deixá-la como está e ainda assim derrotá-la quando quisesse.
+Dialogue: 0,0:08:53.02,0:08:59.23,Default,,0,0,0,,Se achou a Saber tão ameaçadora assim\Npor que não foi atrás da Mestre dela?
+Dialogue: 0,0:08:59.23,0:09:01.19,Default,,0,0,0,,Você preferiu ficar observando nas sombras.
+Dialogue: 0,0:09:01.19,0:09:02.88,Default,,0,0,0,,Não há como ser mais patético que isso.
+Dialogue: 0,0:09:04.61,0:09:05.75,Default,,0,0,0,,Kayneth.
+Dialogue: 0,0:09:06.17,0:09:13.09,Default,,0,0,0,,Estou certa que você compreende a vantagem que tem sobre os outros Mestres certo?
+Dialogue: 0,0:09:13.64,0:09:19.70,Default,,0,0,0,,Você fez uma modificação especial no\Ncontrato usual feito entre Mestre e Servo.
+Dialogue: 0,0:09:20.37,0:09:25.92,Default,,0,0,0,,Enquanto você recebe os Feitiços de Comando eu atuo como um Mestre adicional e forneço o poder mágico necessário.
+Dialogue: 0,0:09:25.92,0:09:30.76,Default,,0,0,0,,As pessoas não o chamam de grande\Nprodígio da Divisão de Evocação à toa.
+Dialogue: 0,0:09:32.22,0:09:34.88,Default,,0,0,0,,Mas devemos ser muito cautelosos nesse começo.
+Dialogue: 0,0:09:34.88,0:09:36.31,Default,,0,0,0,,Ora é mesmo?
+Dialogue: 0,0:09:36.31,0:09:39.22,Default,,0,0,0,,Ainda assim você continua pressionando\No Lancer para que hajam resultados...
+Dialogue: 0,0:09:39.22,0:09:41.14,Default,,0,0,0,,Já chega.
+Dialogue: 0,0:09:42.24,0:09:45.25,Default,,0,0,0,,Se disser mais uma palavra\Nserá um insulto ao meu mestre.
+Dialogue: 0,0:09:45.99,0:09:47.55,Default,,0,0,0,,Como um cavaleiro não posso permitir isso.
+Dialogue: 0,0:09:49.52,0:09:52.21,Default,,0,0,0,,Não eu não queria que interpretasse dessa maneira...
+Dialogue: 0,0:09:52.98,0:09:55.49,Default,,0,0,0,,Desculpe fui longe demais.
+Dialogue: 0,0:10:05.50,0:10:07.10,Default,,0,0,0,,O quê? O que está havendo?
+Dialogue: 0,0:10:16.57,0:10:18.12,Default,,0,0,0,,Sim entendi.
+Dialogue: 0,0:10:19.19,0:10:21.04,Default,,0,0,0,,Foi um incêndio nos andares inferiores.
+Dialogue: 0,0:10:21.41,0:10:23.81,Default,,0,0,0,,Está claro que foi um incêndio criminoso.
+Dialogue: 0,0:10:24.18,0:10:25.31,Default,,0,0,0,,Criminoso?
+Dialogue: 0,0:10:25.31,0:10:26.73,Default,,0,0,0,,Logo hoje?
+Dialogue: 0,0:10:26.73,0:10:28.94,Default,,0,0,0,,Eles pediram que evacuássemos o edifício.
+Dialogue: 0,0:10:28.94,0:10:31.03,Default,,0,0,0,,Então é um ataque?
+Dialogue: 0,0:10:32.90,0:10:38.60,Default,,0,0,0,,A Mestre da Saber quer dispersar a\Nmaldição da lança o mais rápido possível.
+Dialogue: 0,0:10:39.33,0:10:42.46,Default,,0,0,0,,Lancer vá lá embaixo recebê-la.
+Dialogue: 0,0:10:42.46,0:10:44.62,Default,,0,0,0,,Não a deixe escapar dessa vez.
+Dialogue: 0,0:10:44.62,0:10:45.83,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:10:46.06,0:10:51.84,Default,,0,0,0,,Por que não mostramos o ateliê mágico de Kayneth El-Melloi aos nossos convidados?
+Dialogue: 0,0:10:52.38,0:10:55.84,Default,,0,0,0,,Um ateliê perfeito que ocupa um andar inteiro.
+Dialogue: 0,0:10:56.32,0:10:58.15,Default,,0,0,0,,Vinte e quatro campos de força.
+Dialogue: 0,0:10:58.15,0:10:59.56,Default,,0,0,0,,Três geradores de poder mágico.
+Dialogue: 0,0:10:59.89,0:11:03.04,Default,,0,0,0,,Dezenas de espectros e espíritos malignos vagando como cães de guarda.
+Dialogue: 0,0:11:03.04,0:11:04.54,Default,,0,0,0,,Incontáveis armadilhas.
+Dialogue: 0,0:11:04.54,0:11:07.86,Default,,0,0,0,,Partes dos corredores que levam a outros mundos.
+Dialogue: 0,0:11:10.61,0:11:15.51,Default,,0,0,0,,Meu oponente e eu poderemos usar todo o nosso arsenal mágico nessa luta.
+Dialogue: 0,0:11:16.32,0:11:18.80,Default,,0,0,0,,Essa sua afirmação de que eu sou patético...
+Dialogue: 0,0:11:18.80,0:11:21.11,Default,,0,0,0,,Em breve você vai retirar o que disse.
+Dialogue: 0,0:11:21.11,0:11:23.37,Default,,0,0,0,,Mesmo? Aguardarei ansiosamente.
+Dialogue: 0,0:11:30.45,0:11:31.89,Default,,0,0,0,,Archibald-sama!
+Dialogue: 0,0:11:32.92,0:11:35.51,Default,,0,0,0,,Kayneth El-Melloi Archibald-sama!
+Dialogue: 0,0:11:36.15,0:11:37.34,Default,,0,0,0,,Você está aqui?
+Dialogue: 0,0:11:37.34,0:11:37.76,Default,,0,0,0,,Sim.
+Dialogue: 0,0:11:39.55,0:11:40.68,Default,,0,0,0,,Sou eu.
+Dialogue: 0,0:11:40.68,0:11:41.51,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:11:43.90,0:11:49.02,Default,,0,0,0,,Eu Kayneth El-Melloi Archibald e minha querida esposa Sola-Ui já evacuamos.
+Dialogue: 0,0:11:52.51,0:11:54.36,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:11:54.36,0:11:56.03,Default,,0,0,0,,Certo agradeço pela cooperação.
+Dialogue: 0,0:11:58.11,0:11:59.82,Default,,0,0,0,,Todos os moradores já evacuaram.
+Dialogue: 0,0:11:59.82,0:12:00.57,Default,,0,0,0,,Ótimo.
+Dialogue: 0,0:12:02.70,0:12:04.04,Default,,0,0,0,,Os preparativos já estão completos.
+Dialogue: 0,0:12:04.04,0:12:04.87,Default,,0,0,0,,E você?
+Dialogue: 0,0:12:05.08,0:12:06.33,Default,,0,0,0,,Sem problemas aqui.
+Dialogue: 0,0:12:06.33,0:12:07.87,Default,,0,0,0,,Pronta a qualquer hora.
+Dialogue: 0,0:12:47.04,0:12:47.80,Default,,0,0,0,,Maiya.
+Dialogue: 0,0:12:47.91,0:12:50.67,Default,,0,0,0,,Até agora não houveram quaisquer atividades do alvo.
+Dialogue: 0,0:12:50.67,0:12:52.75,Default,,0,0,0,,Ele ainda não deixou o hotel.
+Dialogue: 0,0:12:52.75,0:12:55.99,Default,,0,0,0,,Uma queda livre de 150 metros de altura.
+Dialogue: 0,0:12:56.67,0:13:01.62,Default,,0,0,0,,Nenhum campo de defesa mágica poderia salvá-lo disso.
+Dialogue: 0,0:13:11.98,0:13:13.92,Default,,0,0,0,,Maiya saia daí.
+Dialogue: 0,0:13:21.24,0:13:25.58,Default,,0,0,0,,É um pouco difícil de acreditar\Nque um Mago chegaria tão longe...
+Dialogue: 0,0:13:25.58,0:13:28.27,Default,,0,0,0,,ao ponto de explodir um edifício inteiro.
+Dialogue: 0,0:13:28.95,0:13:34.00,Default,,0,0,0,,Não ele deve ser muito hábil em enganar Magos.
+Dialogue: 0,0:13:34.63,0:13:36.63,Default,,0,0,0,,Kotomine Kirei...
+Dialogue: 0,0:13:37.80,0:13:40.32,Default,,0,0,0,,Não me lembro de já ter te conhecido.
+Dialogue: 0,0:13:40.72,0:13:44.60,Default,,0,0,0,,Ainda assim há alguma razão para que você já me conheça?
+Dialogue: 0,0:13:44.60,0:13:47.39,Default,,0,0,0,,Nesse caso já imagino quem é você.
+Dialogue: 0,0:13:48.72,0:13:51.64,Default,,0,0,0,,Não me deixe falando sozinho mulher.
+Dialogue: 0,0:13:51.64,0:13:53.85,Default,,0,0,0,,Só precisa me responder uma coisa.
+Dialogue: 0,0:13:53.85,0:13:58.12,Default,,0,0,0,,Onde está o homem que deveria estar aqui no seu lugar?
+Dialogue: 0,0:14:07.20,0:14:09.58,Default,,0,0,0,,Sua agilidade não é nada mal.
+Dialogue: 0,0:14:09.58,0:14:12.19,Default,,0,0,0,,Você parece ser bem treinada.
+Dialogue: 0,0:14:35.73,0:14:38.52,Default,,0,0,0,,Não foi ela quem jogou isso.
+Dialogue: 0,0:14:48.74,0:14:50.20,Default,,0,0,0,,Bem não importa.
+Dialogue: 0,0:14:50.20,0:14:55.69,Default,,0,0,0,,O fato de saber que havia alguém aqui para salvar aquela garota já me deixa satisfeito.
+Dialogue: 0,0:14:58.17,0:14:59.42,Default,,0,0,0,,Kirei-sama.
+Dialogue: 0,0:14:59.42,0:15:03.63,Default,,0,0,0,,Já não avisei para não se exporem sem motivo?
+Dialogue: 0,0:15:03.63,0:15:05.09,Default,,0,0,0,,Peço que me desculpe
+Dialogue: 0,0:15:05.09,0:15:09.35,Default,,0,0,0,,mas há uma informação que você\Ndeveria saber o mais rápido possível.
+Dialogue: 0,0:15:09.35,0:15:11.87,Default,,0,0,0,,Nós acabamos de localizar o Caster.
+Dialogue: 0,0:15:14.56,0:15:17.81,Default,,0,0,0,,Depois de uma minuciosa investigação dos Assassins
+Dialogue: 0,0:15:17.81,0:15:25.24,Default,,0,0,0,,descobrimos que Caster e seu Mestre estão sequestrando\Ncrianças de Miyama e distritos vizinhos enquanto elas dormem.
+Dialogue: 0,0:15:25.24,0:15:27.74,Default,,0,0,0,,Eles sequestraram quinze até o amanhecer.
+Dialogue: 0,0:15:28.12,0:15:29.21,Default,,0,0,0,,Provavelmente
+Dialogue: 0,0:15:29.70,0:15:34.96,Default,,0,0,0,,eles são os assassinos em série com os quais todos estão preocupados.
+Dialogue: 0,0:15:35.29,0:15:41.71,Default,,0,0,0,,Eles usam magia sem qualquer hesitação e não fazem nada para esconder os vestígios do uso delas.
+Dialogue: 0,0:15:42.50,0:15:47.70,Default,,0,0,0,,Não acredito que eles estejam focados na Guerra do Santo Graal nesse momento.
+Dialogue: 0,0:15:48.18,0:15:53.24,Default,,0,0,0,,Um Servo louco e descontrolado\Ne um Mestre que não consegue pará-lo?
+Dialogue: 0,0:15:53.81,0:15:56.68,Default,,0,0,0,,Qual é o motivo deles estarem participando dessa guerra?
+Dialogue: 0,0:15:57.44,0:16:00.39,Default,,0,0,0,,Nós não podemos ignorá-los Tokiomi-kun.
+Dialogue: 0,0:16:00.65,0:16:04.99,Default,,0,0,0,,As ações deles claramente violam as\Nregras além do considerado aceitável.
+Dialogue: 0,0:16:04.99,0:16:06.15,Default,,0,0,0,,Obviamente.
+Dialogue: 0,0:16:06.15,0:16:10.20,Default,,0,0,0,,Como alguém responsável por preservar os segredos da magia não posso permitir isso.
+Dialogue: 0,0:16:11.66,0:16:15.16,Default,,0,0,0,,Teremos que eliminar o Caster e seu Mestre.
+Dialogue: 0,0:16:15.16,0:16:20.17,Default,,0,0,0,,O problema é que para derrotar um Servo é necessário a utilização de outro Servo.
+Dialogue: 0,0:16:20.17,0:16:24.21,Default,,0,0,0,,Sendo assim não podemos enviar um dos meus Assassins.
+Dialogue: 0,0:16:27.26,0:16:30.68,Default,,0,0,0,,Modificações de regras estão sob minha autoridade.
+Dialogue: 0,0:16:30.68,0:16:34.29,Default,,0,0,0,,Mobilizaremos todos os outros Mestres para derrotar o Caster.
+Dialogue: 0,0:16:39.19,0:16:40.35,Default,,0,0,0,,Archer?
+Dialogue: 0,0:16:40.35,0:16:45.03,Default,,0,0,0,,Apesar da pequena quantidade o vinho que se encontra aqui tem mais qualidade que os da adega do Tokiomi.
+Dialogue: 0,0:16:45.03,0:16:47.32,Default,,0,0,0,,Mas que aprendiz ultrajante ele tem.
+Dialogue: 0,0:16:47.32,0:16:49.01,Default,,0,0,0,,O que você quer?
+Dialogue: 0,0:16:49.49,0:16:54.37,Default,,0,0,0,,Parece que há alguma outra pessoa além de mim que possui bastante tempo livre.
+Dialogue: 0,0:16:55.79,0:16:56.87,Default,,0,0,0,,Tempo livre?
+Dialogue: 0,0:16:57.16,0:17:02.88,Default,,0,0,0,,Afinal um Mestre sob a proteção da Igreja\Nnão precisa de permissão para andar por aí.
+Dialogue: 0,0:17:03.34,0:17:04.83,Default,,0,0,0,,Do que você está falando?
+Dialogue: 0,0:17:05.25,0:17:09.63,Default,,0,0,0,,Ficou insatisfeito com seu contrato\Ndepois de todo esse tempo Gilgamesh?
+Dialogue: 0,0:17:09.80,0:17:13.81,Default,,0,0,0,,Tokiomi me convidou para este\Nmundo e mantém minha forma aqui.
+Dialogue: 0,0:17:14.22,0:17:19.22,Default,,0,0,0,,Além disso o tratamento dele foi digno da minha imponência então eu o respondi.
+Dialogue: 0,0:17:19.89,0:17:23.52,Default,,0,0,0,,Mas eu nunca pensei que ele seria tão tedioso assim.
+Dialogue: 0,0:17:23.52,0:17:26.31,Default,,0,0,0,,Está infeliz em ter Tokiomi como seu Mestre?
+Dialogue: 0,0:17:26.65,0:17:29.28,Default,,0,0,0,,Alcançar a origem de todo conhecimento?
+Dialogue: 0,0:17:29.28,0:17:32.36,Default,,0,0,0,,Esse plano não parece ter o menor sentido.
+Dialogue: 0,0:17:34.24,0:17:38.75,Default,,0,0,0,,O desejo de acessar tal origem\Né algo único para qualquer Mago.
+Dialogue: 0,0:17:39.37,0:17:42.10,Default,,0,0,0,,Alguém de fora não poderia compreender.
+Dialogue: 0,0:17:42.37,0:17:47.96,Default,,0,0,0,,Pode-se dizer que o caminho para essa origem seria um ponto de fuga para o Exterior desse Mundo.
+Dialogue: 0,0:17:48.38,0:17:51.22,Default,,0,0,0,,Para aqueles que só estão interessados no Interior desse Mundo
+Dialogue: 0,0:17:51.22,0:17:54.23,Default,,0,0,0,,só pode ser compreendido\Ncomo um "plano sem sentido".
+Dialogue: 0,0:17:54.51,0:17:55.93,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:17:56.22,0:18:01.14,Default,,0,0,0,,De fato estou satisfeito em simplesmente contemplar o meu jardim que se resume ao universo inteiro.
+Dialogue: 0,0:18:01.14,0:18:04.52,Default,,0,0,0,,Não tenho interesse em reinos além dos meus domínios.
+Dialogue: 0,0:18:04.52,0:18:07.46,Default,,0,0,0,,Esse negócio de alcançar a origem não me interessa.
+Dialogue: 0,0:18:07.46,0:18:12.25,Default,,0,0,0,,No entanto o Cálice não é um dispositivo especificamente designado para alcançar a origem.
+Dialogue: 0,0:18:12.25,0:18:20.25,Default,,0,0,0,,Ao mencionar onipotente queremos dizer que ele tem poder ilimitado para alterar até mesmo o Interior do Mundo.
+Dialogue: 0,0:18:20.25,0:18:26.42,Default,,0,0,0,,Então está dizendo que os outros Mestres têm motivos diferentes do Tokiomi para buscarem o Cálice?
+Dialogue: 0,0:18:26.42,0:18:30.96,Default,,0,0,0,,Tokiomi é um Mago exemplar\Ncompletamente correto e conservador.
+Dialogue: 0,0:18:30.96,0:18:37.54,Default,,0,0,0,,Os outros geralmente buscam benefícios ligados ao Interior do Mundo.
+Dialogue: 0,0:18:37.54,0:18:40.06,Default,,0,0,0,,Prestígio desejo poder...
+Dialogue: 0,0:18:40.06,0:18:41.68,Default,,0,0,0,,Até que não seria ruim.
+Dialogue: 0,0:18:41.68,0:18:43.85,Default,,0,0,0,,Todas essas coisas são do meu agrado.
+Dialogue: 0,0:18:44.11,0:18:49.18,Default,,0,0,0,,Por ser um rei seus interesses são um tanto quanto mundanos Gilgamesh.
+Dialogue: 0,0:18:49.36,0:18:52.65,Default,,0,0,0,,E quanto a você Kirei?
+Dialogue: 0,0:18:59.08,0:19:01.12,Default,,0,0,0,,O que deseja do Cálice?
+Dialogue: 0,0:19:01.41,0:19:02.49,Default,,0,0,0,,Eu...
+Dialogue: 0,0:19:02.87,0:19:06.25,Default,,0,0,0,,Eu não tenho qualquer desejo real.
+Dialogue: 0,0:19:06.79,0:19:08.25,Default,,0,0,0,,Isso é impossível.
+Dialogue: 0,0:19:08.67,0:19:13.88,Default,,0,0,0,,O Cálice não convoca apenas àqueles os quais considera serem dignos dele?
+Dialogue: 0,0:19:13.88,0:19:15.51,Default,,0,0,0,,Supostamente.
+Dialogue: 0,0:19:15.51,0:19:17.18,Default,,0,0,0,,Mas eu não consigo entender isso.
+Dialogue: 0,0:19:17.51,0:19:19.72,Default,,0,0,0,,Eu não tenho quaisquer desejos ou ideais.
+Dialogue: 0,0:19:19.72,0:19:22.39,Default,,0,0,0,,Então por que fui escolhido para lutar nessa guerra?
+Dialogue: 0,0:19:22.77,0:19:24.81,Default,,0,0,0,,Não tem quaisquer ideais ou desejos?
+Dialogue: 0,0:19:25.02,0:19:28.02,Default,,0,0,0,,Então por que simplesmente não deseja por prazer?
+Dialogue: 0,0:19:28.23,0:19:29.11,Default,,0,0,0,,Que tolice.
+Dialogue: 0,0:19:29.11,0:19:30.15,Default,,0,0,0,,Prazer?
+Dialogue: 0,0:19:30.73,0:19:33.96,Default,,0,0,0,,Você me pediria para cometer algo tão pecaminoso e corrupto assim?
+Dialogue: 0,0:19:34.32,0:19:35.74,Default,,0,0,0,,Pecaminoso?
+Dialogue: 0,0:19:35.74,0:19:37.25,Default,,0,0,0,,Corrupto?
+Dialogue: 0,0:19:37.25,0:19:39.30,Default,,0,0,0,,Não consigo compreender sua lógica.
+Dialogue: 0,0:19:39.30,0:19:41.67,Default,,0,0,0,,Por qual motivo prazer e pecado estariam conectados?
+Dialogue: 0,0:19:42.99,0:19:44.15,Default,,0,0,0,,Bem...
+Dialogue: 0,0:19:45.33,0:19:49.08,Default,,0,0,0,,Um prazer obtido através de meios malignos poderia ser um pecado.
+Dialogue: 0,0:19:49.08,0:19:52.12,Default,,0,0,0,,Mas o prazer também pode resultar de boas ações.
+Dialogue: 0,0:19:52.46,0:19:57.57,Default,,0,0,0,,Que tipo de filosofia poderia\Nchamar o prazer em si de pecado?
+Dialogue: 0,0:19:58.18,0:20:00.76,Default,,0,0,0,,Prazer é algo que falta em minha vida.
+Dialogue: 0,0:20:01.18,0:20:03.39,Default,,0,0,0,,Eu o almejo mas não consigo encontrá-lo.
+Dialogue: 0,0:20:04.98,0:20:06.92,Default,,0,0,0,,Kotomine Kirei.
+Dialogue: 0,0:20:08.14,0:20:10.70,Default,,0,0,0,,Repentinamente comecei a achá-lo muito interessante.
+Dialogue: 0,0:20:11.58,0:20:13.00,Default,,0,0,0,,O que você quer dizer?
+Dialogue: 0,0:20:13.86,0:20:15.63,Default,,0,0,0,,Exatamente o que acabei de dizer.
+Dialogue: 0,0:20:15.63,0:20:16.76,Default,,0,0,0,,Sente-se.
+Dialogue: 0,0:20:23.41,0:20:24.97,Default,,0,0,0,,O prazer...
+Dialogue: 0,0:20:25.45,0:20:27.59,Default,,0,0,0,,basicamente é uma das formas da alma.
+Dialogue: 0,0:20:28.21,0:20:32.90,Default,,0,0,0,,A questão não é se ele existe\Ne sim se você o conhece ou não.
+Dialogue: 0,0:20:32.90,0:20:37.25,Default,,0,0,0,,Kirei você ainda não conseguiu ver qual forma sua alma tomou.
+Dialogue: 0,0:20:37.59,0:20:41.68,Default,,0,0,0,,É basicamente isso o que está acontecendo\Nquando afirma faltar prazer em sua vida.
+Dialogue: 0,0:20:41.68,0:20:45.31,Default,,0,0,0,,Um Servo está tentando me dar uma lição de moral?
+Dialogue: 0,0:20:45.52,0:20:47.43,Default,,0,0,0,,Coloque-se em seu lugar vira-lata.
+Dialogue: 0,0:20:47.43,0:20:51.49,Default,,0,0,0,,Estas são as palavras de um rei que provou todos os prazeres e deleites que esse mundo pode proporcionar.
+Dialogue: 0,0:20:51.49,0:20:53.33,Default,,0,0,0,,Bem você deveria ouvir o que tenho a dizer.
+Dialogue: 0,0:20:55.57,0:20:59.24,Default,,0,0,0,,Kirei você tem que aprender o\Nverdadeiro significado de diversão.
+Dialogue: 0,0:20:59.64,0:21:01.40,Default,,0,0,0,,Comece olhando para o mundo lá fora.
+Dialogue: 0,0:21:01.78,0:21:02.95,Default,,0,0,0,,Já sei.
+Dialogue: 0,0:21:03.32,0:21:07.34,Default,,0,0,0,,Por que não começa se juntando a mim na minha diversão?
+Dialogue: 0,0:21:07.70,0:21:11.10,Default,,0,0,0,,Eu não tenho tempo a perder com bobagens como essa.
+Dialogue: 0,0:21:11.42,0:21:13.21,Default,,0,0,0,,Bem não precisa ser tão categórico.
+Dialogue: 0,0:21:13.21,0:21:16.64,Default,,0,0,0,,Você pode fazer o que te digo entre as tarefas passadas pelo Tokiomi.
+Dialogue: 0,0:21:17.13,0:21:18.39,Default,,0,0,0,,De qualquer forma Kirei.
+Dialogue: 0,0:21:18.92,0:21:23.17,Default,,0,0,0,,Sua tarefa é ficar observando os movimentos dos outros cinco Mestres certo?
+Dialogue: 0,0:21:23.93,0:21:25.10,Default,,0,0,0,,Exato.
+Dialogue: 0,0:21:25.10,0:21:30.55,Default,,0,0,0,,Não investigue apenas seus planos e estratégias mas também o que os motiva.
+Dialogue: 0,0:21:30.55,0:21:32.57,Default,,0,0,0,,E então passe tal informação para mim.
+Dialogue: 0,0:21:33.51,0:21:36.84,Default,,0,0,0,,Se eu pedir aos Assassins seria possível.
+Dialogue: 0,0:21:37.36,0:21:41.61,Default,,0,0,0,,No entanto Archer qual é o motivo do seu interesse súbito nisso?
+Dialogue: 0,0:21:41.61,0:21:43.07,Default,,0,0,0,,Eu já te disse.
+Dialogue: 0,0:21:43.07,0:21:44.95,Default,,0,0,0,,Aprecio ficar observando as ações humanas.
+Dialogue: 0,0:21:44.95,0:21:49.28,Default,,0,0,0,,Um ou dois deles com toda certeza\Nhaverão de ser bem interessantes.
+Dialogue: 0,0:21:49.75,0:21:52.55,Default,,0,0,0,,Ao menos bem mais interessante que o Tokiomi.
+Dialogue: 0,0:21:54.50,0:21:56.18,Default,,0,0,0,,Que seja Archer.
+Dialogue: 0,0:21:56.18,0:21:57.38,Default,,0,0,0,,Aceito sua oferta.
+Dialogue: 0,0:21:57.38,0:22:00.06,Default,,0,0,0,,Mas isso levará algum tempo.
+Dialogue: 0,0:22:00.50,0:22:01.67,Default,,0,0,0,,Sem problemas.
+Dialogue: 0,0:22:01.67,0:22:03.63,Default,,0,0,0,,Esperarei pacientemente
+Dialogue: 0,0:22:03.63,0:22:06.32,Default,,0,0,0,,enquanto degusto seus saborosos vinhos.
+Dialogue: 0,0:22:11.60,0:22:14.18,Default,,0,0,0,,A razão pela qual busco o Cálice Sagrado?
+Dialogue: 0,0:22:14.59,0:22:17.45,Default,,0,0,0,,Já me perguntei a mesma coisa inúmeras vezes.
+Dialogue: 0,0:22:18.90,0:22:21.85,Default,,0,0,0,,Definitivamente não é por "prazer".
+Dialogue: 0,0:22:28.74,0:22:29.56,Default,,0,0,0,,Mas...
+Dialogue: 0,0:22:30.66,0:22:33.35,Default,,0,0,0,,Se eu puder aprender sobre ele
+Dialogue: 0,0:22:33.87,0:22:40.06,Default,,0,0,0,,conseguirei descobrir o que tanto almejo?
+Dialogue: 0,0:22:41.80,0:22:44.66,Default,,0,0,0,,Emiya Kiritsugu...
+Dialogue: 0,0:24:19.48,0:24:21.84,Default,,0,0,0,,Farei uma alteração temporária nas regras.
+Dialogue: 0,0:24:21.84,0:24:23.63,Default,,0,0,0,,Emiya Kiritsugu acabaria com a própria vida.
+Dialogue: 0,0:24:23.63,0:24:25.78,Default,,0,0,0,,Podemos! Se fugirmos agora ainda podemos...
+Dialogue: 0,0:24:25.78,0:24:28.15,Default,,0,0,0,,A vida da Saber será tirada pela minha lança!
+Dialogue: 0,0:24:28.15,0:24:30.70,Default,,0,0,0,,Eu não penso mais em lutar contra você pelo Cálice!
+Dialogue: 0,0:24:30.70,0:24:33.64,Default,,0,0,0,,Coloque-se no seu lugar seu bastardo!

@@ -21,7 +21,7 @@ O objetivo deste acervo é oferecer arquivos de legendas que resolvam esses prob
 
 ## Conteúdo do Acervo
 
-O repositório é composto por **182 arquivos de legendas** (91 pares duplos), cobrindo integralmente as seguintes sagas:
+O repositório é composto por **232 arquivos de legendas** (116 pares duplos), cobrindo integralmente as seguintes sagas:
 
 ### 1. The Garden of Sinners (*Kara no Kyoukai* / 空の境界) — Coleção Completa (10 Títulos)
 * **Filme 1:** *Vista Panorâmica (Overlooking View / 俯瞰風景)* [2007]
@@ -67,11 +67,22 @@ O repositório é composto por **182 arquivos de legendas** (91 pares duplos), c
  
 ---
  
-### 4. Fate/Zero (2011–2012) — Quarta Guerra do Santo Graal (14 Pares Desenvolvidos)
-* **1ª Temporada:**
-  * **S01E03 — Fuyuki City (Cidade de Fuyuki):** 292 blocos de diálogos e sinais sincronizados 1:1.
-  * **S01E11 — Discussing the Grail (O Banquete dos Reis):** 334 blocos calibrados na edição estendida de Blu-ray (29m30s), com o debate sobre a natureza da realeza entre Saber, Rider e Archer.
-* **2ª Temporada (Episódios 14 a 25 — Arco Completo):**
+### 4. Fate/Zero (2011–2012) — Quarta Guerra do Santo Graal — Série Completa (25 Episódios)
+* **1ª Temporada (Episódios 01 a 13):**
+  * **S01E01 — The Summoning of Heroes (A Invocação dos Heróis):** Episódio estendido de 48 minutos (735 eventos). O nascimento de Illyasviel, o passado de Irisviel e Kiritsugu, a tragédia de Kariya no poço de vermes dos Matou, o furto da relíquia por Waver na Torre do Relógio, o pacto de Kirei Kotomine e o ritual quádruplo simultâneo de invocação dos Servos.
+  * **S01E02 — The Fake First Shot (O Falso Primeiro Disparo):** 324 eventos. Ryuunosuke invocando Caster através de assassinatos macabros e a armadilha de Assassin na Mansão Tohsaka diante de Archer.
+  * **S01E03 — Fuyuki City (Cidade de Fuyuki):** 292 eventos. A chegada de Irisviel e Saber ao Japão e as maquinações de Kiritsugu e Maiya no porto de Fuyuki.
+  * **S01E04 — Spearhead (Ponta de Lança):** 267 eventos. O embate noturno nos armazéns do porto entre Saber e Lancer (Diarmuid Ua Duibhne), a liberação de Gáe Buidhe ferindo o polegar de Artoria e o duelo tático de cavalheirismo.
+  * **S01E05 — A Wicked Beast's Roar (O Rugido de uma Fera Maligna):** 261 eventos. A aparição estrondosa de Rider na carruagem Gordius Wheel propondo aliança, o duelo de Archer contra o enlouquecido Berserker imbuído de névoa negra.
+  * **S01E06 — A Night of Schemes (Uma Noite de Conspirações):** 326 eventos. A demolição do Hyatt Hotel por Kiritsugu com explosivos C4 para eliminar Lorde Kayneth, e o resgate no estacionamento por Saber.
+  * **S01E07 — Dark Forest (Floresta Sombria):** 315 eventos. Caster sitiando a barreira da floresta dos Einzbern com horrores abissais e crianças raptadas, com Lancer intervindo ao lado de Saber.
+  * **S01E08 — The Mage-Slayer (O Assassino de Magos):** 238 eventos. A invasão do ateliê por Kayneth com o Volumen Hydrargyrum, a armadilha de Kiritsugu disparando a Bala de Origem com a Thompson Contender e o confronto subterrâneo de Kirei contra Irisviel e Maiya.
+  * **S01E09 — Master and Servant (Mestre e Servo):** 318 eventos. O resgate de Kayneth por Diarmuid, a transferência dos Selos de Comando para Sola-Ui e as pesquisas alquímicas de Waver no Rio Mion.
+  * **S01E10 — Rin's Big Adventure (A Grande Aventura de Rin):** 227 eventos. A jovem Rin Tohsaka investigando os desaparecimentos infantis em Fuyuki e localizando o covil de Ryuunosuke com uma bússola de mana.
+  * **S01E11 — Discussing the Grail (O Banquete dos Reis):** 334 eventos. A edição estendida de Blu-ray (29m30s) com o célebre debate sobre a natureza da realeza entre Saber, Rider e Archer no jardim dos Einzbern.
+  * **S01E12 — The Grail Beckons (O Graal Acena):** 353 eventos. Episódio estendido de 28 minutos com o interrogatório venomoso entre Kotomine Kirei e Gilgamesh na Igreja de Fuyuki explorando o prazer no sofrimento alheio.
+  * **S01E13 — The Forbidden Feast of Madness (O Banquete Proibido da Loucura):** 321 eventos. Caster manifestando a gigantesca besta abissal de tentáculos no Rio Mion, forçando uma trégua e investida combinada de todos os Mestres e Servos.
+* **2ª Temporada (Episódios 14 a 25 — O Clímax):**
   * **S01E14 — Bloody Battle on the Mion River:** A batalha contra o monstro abissal de Caster no Rio Mion.
   * **S01E15 — Golden Brilliance:** O clímax com a liberação da Excalibur e a quebra da lança de Diarmuid.
   * **S01E16 — The End of Honor:** O Contrato de Auto-Geas, a maldição de Lancer e o debate ideológico Kiritsugu vs Saber.
@@ -85,7 +96,7 @@ O repositório é composto por **182 arquivos de legendas** (91 pares duplos), c
   * **S01E24 — The Final Command Spell:** A ilusão do Graal, a escolha trágica de Kiritsugu e a ordem irrevogável para a destruição do Cálice.
   * **S01E25 — Fate/Zero:** O incêndio devastador de Fuyuki, o renascimento dos sobreviventes e a passagem do juramento do Herói da Justiça a Shirou Emiya.
  
-> **Total em Fate/Zero:** 14 episódios desenvolvidos sob medida em padrão duplo, somando 3.557 blocos milimetricamente alinhados aos masters de Blu-ray.
+> **Total em Fate/Zero:** 25 episódios completos em padrão duplo (.ass estilizado e .srt limpo), somando 7.242 eventos de fala, invocações e placas milimetricamente sincronizados aos masters de Blu-ray.
 
 ---
 
